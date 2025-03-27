@@ -24,14 +24,14 @@ tags:
 
 %% Keep track of who turned up. %%
 
-- [[Roleck Nevari]] 
+- [[2-Party/Strixhaven Party/Roleck Nevari]] 
 - [[Fred]] 
 
 ## Absent
 
 %% Keep track of who didn't turn up. %%
 
-- [[Roleck Nevari]] 
+- [[2-Party/Strixhaven Party/Roleck Nevari]] 
 - [[Fred]] 
 
 # Session Overview

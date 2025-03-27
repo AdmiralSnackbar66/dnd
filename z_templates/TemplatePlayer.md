@@ -21,7 +21,7 @@ PlayerKnownLanguages:
   - Common
   - Dwarvish
 ---
-
+<%* // Prompt for the title let title = await tp.system.prompt('Enter title name'); // Rename the file to the entered title await tp.file.rename(title); %> <%- title %>
 
 
 ```custom-frames

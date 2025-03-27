@@ -72,7 +72,7 @@ id: ""
 style: primary
 actions:
   - type: templaterCreateNote
-    templateFile: "z_Templates/TemplatePlayer.md"
+    templateFile: "z_Templates/TemplatePlayer1.md"
     fileName: NewPlayer
 ```
 

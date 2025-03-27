@@ -7,8 +7,18 @@ You can create a new template by:
 4. Update the Templater code. 
 
 ```
+<% await tp.file.move("/3-Mechanics/Guilds and Groups/" + tp.file.title) %>
 
-
+<%*  
+const hasTitle = !tp.file.title.startsWith("NewGroup");  
+let title;  
+if (!hasTitle) {  
+title = await tp.system.prompt("Group Name");  
+await tp.file.rename(title);  
+} else {  
+title = tp.file.title;  
+}  
+_%>
 ```
 
 In this example, the following should be changed:
