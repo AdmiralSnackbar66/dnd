@@ -1,4 +1,7 @@
 ---
+title: A Disney kind of day....
 draft: false
-title: Session 1
+tags:
+  - dnd
+date: 2025-03-28
 ---
