@@ -1,0 +1,249 @@
+{
+  "main": {
+    "id": "07e99f535dbbcbee",
+    "type": "split",
+    "children": [
+      {
+        "id": "1ae1acba5f8ecc1d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "20ec2c6ae875ae7c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-Session Journals/2000-01-01.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2000-01-01"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0302bbe7976f12b2",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "dfe55cf897d09775",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "a3d3260403ccdfd6",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "5c7af23e4a682a9b",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "2bdcd674f164d798",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      },
+      {
+        "id": "078ffefca1955377",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "All properties"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "dd62c27c3c040a83",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "ac6b6f5c07350fa5",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "1-Session Journals/2000-01-01.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "5ce3fa2793160b16",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "0-Obsidian TTRPG Tutorial/0-Obsidian TTRPG Tutorial.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "368abf2812d9df9f",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "0-Obsidian TTRPG Tutorial/0-Obsidian TTRPG Tutorial.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      },
+      {
+        "id": "e20c1090d910f22f",
+        "type": "leaf",
+        "state": {
+          "type": "initiative-tracker-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "f60aacca7c8fcf91",
+        "type": "leaf",
+        "state": {
+          "type": "DICE_ROLLER_VIEW",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "templater-obsidian:Templater": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian42-brat:BRAT": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-kanban:Create new board": false,
+      "helpmate:HelpMate": false,
+      "solo-rpg-toolkit:Solo RPG Toolkit": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "20ec2c6ae875ae7c",
+  "lastOpenFiles": [
+    "3-Mechanics/CLI/CLI.md",
+    "1-Party/Strixhaven Party/Strixhaven Party.md",
+    "1-Session Journals/2000-01-01.md",
+    "node_modules/mdast-util-mdx-jsx/license",
+    "node_modules/@shuding/opentype.js/src/features/latn/latinLigatures.js",
+    "node_modules/d3-ease/src/sin.js",
+    "node_modules/mathjax-full/js/a11y/complexity/visitor.js.map",
+    "node_modules/fast-glob/out/providers/sync.js",
+    "node_modules/rxjs/src/internal/util/EmptyError.ts",
+    "node_modules/pixi.js/lib/maths/point/ObservablePoint.d.ts",
+    "node_modules/mathjax-full/components/src/core/lib/util/Options.js",
+    "node_modules/rehype-mathjax/chtml.d.ts.map",
+    "3-Mechanics/CLI/items/potion-of-gaseous-form-xdmg.md",
+    "3-Mechanics/CLI/items/img/cube-of-summoning.webp",
+    "node_modules/mathjax-full/es5/input/tex/extensions/upgreek.js",
+    "3-Mechanics/CLI/feats/boon-of-speed-xphb.md",
+    "3-Mechanics/CLI/bestiary/dragon/token/ancient-white-dragon-xmm.webp",
+    "3-Mechanics/CLI/items/universal-solvent-xdmg.md",
+    "3-Mechanics/CLI/books/players-handbook-2024/img/169-07-058-simple-melee.webp",
+    "3-Mechanics/CLI/classes/wizard-xphb-diviner-xphb.md",
+    "3-Mechanics/CLI/bestiary/humanoid/astral-elf-warrior-bam.md",
+    "3-Mechanics/CLI/bestiary/humanoid/aarakocra-spelljammer-lox.md",
+    "3-Mechanics/CLI/adventures/lost-mine-of-phandelver/img/cragmaw-castle-player.webp",
+    "node_modules/jackspeak/LICENSE.md",
+    "3-Mechanics/CLI/items/dwarven-plate-xdmg.md",
+    "3-Mechanics/CLI/bestiary/aberration/aberrant-spirit-slaad-xphb.md",
+    "3-Mechanics/CLI/items/wand-of-lightning-bolts-xdmg.md",
+    "3-Mechanics/CLI/items/ring-of-force-resistance-xdmg.md",
+    "3-Mechanics/CLI/books/dungeon-masters-guide-2024/img/059-03-011-boreal-ball.webp",
+    "3-Mechanics/CLI/tables/fortifications-maintenance-costs-xdmg.md",
+    "3-Mechanics/CLI/books/dungeon-masters-guide-2024/img/205-11-002-modron-march.webp",
+    "3-Mechanics/CLI/bestiary/aberration/img/spectator.webp",
+    "3-Mechanics/CLI/items/luck-blade-xdmg.md",
+    "3-Mechanics/CLI/bestiary/fey/img/hobgoblin-warrior.webp",
+    "3-Mechanics/CLI/rules/variant-rules/passive-perception-xphb.md",
+    "3-Mechanics/CLI/spells/creation-xphb.md",
+    "3-Mechanics/CLI/bestiary/dragon/img/black-dragon-wyrmling.webp",
+    "3-Mechanics/CLI/bestiary/humanoid/pirate-captain-xmm.md",
+    "3-Mechanics/CLI/bestiary/beast/giant-venomous-snake-xmm.md",
+    "3-Mechanics/CLI/books/dungeon-masters-guide-2024/img/224-map-12-08-manor.webp",
+    "node_modules/wrap-ansi/readme.md",
+    "node_modules/sass-embedded-win32-x64/README.md",
+    "3-Mechanics/CLI/spells/vampiric-touch-xphb.md",
+    "3-Mechanics/CLI/bestiary/humanoid/astral-elf-star-priest-bam.md",
+    "3-Mechanics/CLI/bestiary/monstrosity/ssurran-defiler-bam.md",
+    "3-Mechanics/CLI/items/bead-of-nourishment-xdmg.md"
+  ]
+}

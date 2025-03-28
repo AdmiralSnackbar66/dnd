@@ -1,0 +1,299 @@
+{
+  "main": {
+    "id": "35dc58889efc7af6",
+    "type": "split",
+    "children": [
+      {
+        "id": "f0ff650684675516",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "067374f14ebbd78b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-Party/Strixhaven Party/Strixhaven Party.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Strixhaven Party"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ef2fa061dc384dbb",
+    "type": "split",
+    "children": [
+      {
+        "id": "776915f0f047e046",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2911de48d50d504c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f7191f1a02d83b6c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "6da38734e1b60552",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "2e6355ae312b2c82",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-DM Toolkit/DnD5e-SideScreen-2014.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DnD5e-SideScreen-2014"
+            }
+          },
+          {
+            "id": "f6ef017cc52d2e49",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-DM Toolkit/DM Board.md",
+                "mode": "preview",
+                "source": true
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "DM Board"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 395.5
+  },
+  "right": {
+    "id": "4376769ea3073bd6",
+    "type": "split",
+    "children": [
+      {
+        "id": "a8bf1496067ea875",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f57c010ed5f84d8d",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
+            }
+          },
+          {
+            "id": "875d6fa52122dec8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1-Party/Strixhaven Party/Strixhaven Party.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Strixhaven Party"
+            }
+          },
+          {
+            "id": "b2e8727bd835be9e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1-Party/Strixhaven Party/Strixhaven Party.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Strixhaven Party"
+            }
+          },
+          {
+            "id": "56f23b48ce3cf190",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "119d8bfbf27db587",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "bb5dcbb20a9a19e3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1-Party/Strixhaven Party/Strixhaven Party.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Strixhaven Party"
+            }
+          },
+          {
+            "id": "8ffe34bd87d7bf1a",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 435.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-custom-frames:Open Elvis Parsley - DND Beyond": false,
+      "command-palette:Open command palette": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "helpmate:HelpMate": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-custom-frames:Open Obsidian Forum": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "obsidian-import-json:JSON/CSV Importer": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
+      "obsidian-kanban:Create new board": false,
+      "solo-rpg-toolkit:Solo RPG Toolkit": false,
+      "obsidian42-brat:BRAT": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "067374f14ebbd78b",
+  "lastOpenFiles": [
+    "0-Scratch Notes/Random Dungeon.md",
+    "2-World/Lampoteuo/Lampoteuo City/Lampoteuo City.md",
+    "2-World/Test.md",
+    "1-Session Journals/2023-10-26.md",
+    "1-Party/Strixhaven Party/Roleck Nevari.md",
+    "1-Party/Strixhaven Party/Elvis Parsley.md",
+    "1-Party/Strixhaven Party/Strixhaven Party.md",
+    "1-Party/Strixhaven Party/Zolon Orielson.md",
+    "1-DM Toolkit/Home.md",
+    "z_Templates/TemplatePlayer.md",
+    "z_Templates/new.md",
+    "0-Scratch Notes/TEST AI/Untitled.md",
+    "0-Scratch Notes/Add Random Notes Here.md",
+    "1-DM Toolkit/DM Board.md",
+    "2-Mechanics/CLI/CLI.md",
+    "0-Scratch Notes/TEST AI",
+    "1-Session Journals/2000-01-01.md",
+    "1-Party/Example Party 1/Example Party 1.md",
+    "1-Party/Example Party 2/Example Party 2.md",
+    "1-Party/Example Party 2/Dragonfacee.md",
+    "2-Mechanics/CLI/bestiary/monstrosity/mimic-xmm.md",
+    "2-Mechanics/CLI/books/monster-manual-2025/2-monsters-a-to-z.md",
+    "content/blog/posts/A farewell to Disney... .md",
+    "content/Our Disney Adventure.md",
+    "2-Mechanics/CLI/bestiary/monstrosity/axe-beak-xmm.md",
+    "blog/posts.md",
+    "2-Mechanics/CLI/spells/mind-spike-xphb.md",
+    "2-Mechanics/CLI/bestiary/ooze/token/psychic-gray-ooze-xmm.webp",
+    "2-Mechanics/CLI/bestiary/ooze/token/ochre-jelly-xmm.webp",
+    "2-Mechanics/CLI/bestiary/ooze/token/gelatinous-cube-xmm.webp",
+    "2-Mechanics/CLI/bestiary/ooze/token/gray-ooze-xmm.webp",
+    "2-Mechanics/CLI/bestiary/ooze/token/black-pudding-xmm.webp",
+    "2-Mechanics/CLI/bestiary/ooze/token/blob-of-annihilation-xmm.webp",
+    "2-Mechanics/CLI/bestiary/ooze/img/gray-oozes.webp",
+    "2-Mechanics/CLI/bestiary/ooze/img/ochre-jelly.webp",
+    "2-Mechanics/CLI/bestiary/ooze/img/blob-of-annihilation.webp",
+    "2-Mechanics/CLI/bestiary/ooze/img/black-pudding.webp",
+    "2-Mechanics/CLI/bestiary/ooze/token",
+    "2-Mechanics/CLI/bestiary/ooze/img",
+    "2-Mechanics/CLI/bestiary/ooze",
+    "2-Mechanics/CLI/vehicles/token",
+    "2-Mechanics/CLI/vehicles/img",
+    "2-Mechanics/CLI/vehicles",
+    "2-Mechanics/CLI/traps-hazards/img",
+    "2-Mechanics/CLI/traps-hazards",
+    "2-Mechanics/CLI/bestiary/token",
+    "0-Scratch Notes/Untitled.canvas",
+    "Untitled.canvas"
+  ]
+}
