@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Mechanics/NPC's/Murgaxor Grenshel.md",
+                "file": "1-DM Toolkit/Home.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Murgaxor Grenshel"
+              "title": "Home"
             }
           }
         ]
@@ -220,9 +220,10 @@
   },
   "active": "d12a58bd72da108e",
   "lastOpenFiles": [
+    "3-Mechanics/NPC's/Extus Narr.md",
+    "3-Mechanics/NPC's/Murgaxor Grenshel.md",
     "1-DM Toolkit/Home.md",
     "2-Party/Strixhaven Party/Strixhaven Party.md",
-    "3-Mechanics/NPC's/Murgaxor Grenshel.md",
     "4-Mechanics/NPCs",
     "Untitled",
     "4-Mechanics",
@@ -264,7 +265,6 @@
     "3-Mechanics/CLI/bestiary/humanoid/pirate-captain-xmm.md",
     "3-Mechanics/CLI/bestiary/beast/giant-venomous-snake-xmm.md",
     "3-Mechanics/CLI/books/dungeon-masters-guide-2024/img/224-map-12-08-manor.webp",
-    "node_modules/wrap-ansi/readme.md",
-    "node_modules/sass-embedded-win32-x64/README.md"
+    "node_modules/wrap-ansi/readme.md"
   ]
 }
