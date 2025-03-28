@@ -8,11 +8,9 @@
   "obsidian-dice-roller",
   "obsidian-admonition",
   "obsidian-excalidraw-plugin",
-  "obsidian-import-json",
   "obsidian-style-settings",
   "obsidian42-brat",
   "obsidian-text-format",
-  "image-window",
   "aprils-automatic-timelines",
   "table-editor-obsidian",
   "obsidian-kanban",
@@ -29,5 +27,6 @@
   "obsidian-leaflet-plugin",
   "granite",
   "quickadd",
-  "buttons"
+  "various-complements",
+  "image-converter"
 ]
