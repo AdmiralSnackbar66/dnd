@@ -8,7 +8,7 @@ Alignment:
 Character-Role: 
 Location: 
 NoteIcon: npc
-Vitality: Alive
+Vitality: Deceased
 exampleProperty: z_Assets/Decks/Business Card Dungeon/Dungeon16.png
 ---
 
@@ -51,6 +51,5 @@ name: Individual
 creatures:
  - 1: Commoner
 ```
-
 
 

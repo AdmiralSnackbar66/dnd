@@ -21,6 +21,12 @@ actions:
     fileName: NewJournal
 ```
 
+```button
+name New NPC
+type command
+action QuickAdd: Template - Add NPC
+```
+
 ```meta-bind-button
 label: New NPC
 hidden: false

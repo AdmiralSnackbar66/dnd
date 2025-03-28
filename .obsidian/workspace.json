@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f0ff650684675516",
+        "id": "a5b088b3dcb83f48",
         "type": "tabs",
         "children": [
           {
-            "id": "067374f14ebbd78b",
+            "id": "09f303530cf4655c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-Party/Strixhaven Party/Strixhaven Party.md",
-                "mode": "preview",
-                "source": true
+                "file": "1-DM Toolkit/DM Board.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Strixhaven Party"
+              "title": "DM Board"
             }
           }
         ]
@@ -108,7 +108,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 395.5
+    "width": 200
   },
   "right": {
     "id": "4376769ea3073bd6",
@@ -118,49 +118,6 @@
         "id": "a8bf1496067ea875",
         "type": "tabs",
         "children": [
-          {
-            "id": "f57c010ed5f84d8d",
-            "type": "leaf",
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {},
-              "icon": "dices",
-              "title": "Dice Tray"
-            }
-          },
-          {
-            "id": "875d6fa52122dec8",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "1-Party/Strixhaven Party/Strixhaven Party.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for Strixhaven Party"
-            }
-          },
-          {
-            "id": "b2e8727bd835be9e",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "1-Party/Strixhaven Party/Strixhaven Party.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from Strixhaven Party"
-            }
-          },
           {
             "id": "56f23b48ce3cf190",
             "type": "leaf",
@@ -211,8 +168,61 @@
             "state": {
               "type": "initiative-tracker-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "cc68b9a27ffbd8dc",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
               "icon": "initiative-tracker",
               "title": "Initiative Tracker"
+            }
+          },
+          {
+            "id": "884e0c789e8392f6",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
+            }
+          },
+          {
+            "id": "0e28a10b5ce11ffd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1-DM Toolkit/DM Board.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for DM Board"
+            }
+          },
+          {
+            "id": "b7784debe6146597",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1-DM Toolkit/DM Board.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from DM Board"
             }
           }
         ]
@@ -224,56 +234,65 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-custom-frames:Open Elvis Parsley - DND Beyond": false,
+      "obsidian-import-json:JSON/CSV Importer": false,
+      "obsidian42-brat:BRAT": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-kanban:Create new board": false,
+      "helpmate:HelpMate": false,
+      "solo-rpg-toolkit:Solo RPG Toolkit": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "command-palette:Open command palette": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "helpmate:HelpMate": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-custom-frames:Open Obsidian Forum": false,
-      "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "obsidian-import-json:JSON/CSV Importer": false,
       "templater-obsidian:Templater": false,
+      "obsidian-custom-frames:Open Obsidian Forum": false,
+      "obsidian-custom-frames:Open Elvis Parsley - DND Beyond": false,
       "obsidian-5e-statblocks:Open Creature pane": false,
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
-      "obsidian-kanban:Create new board": false,
-      "solo-rpg-toolkit:Solo RPG Toolkit": false,
-      "obsidian42-brat:BRAT": false,
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "067374f14ebbd78b",
+  "active": "09f303530cf4655c",
   "lastOpenFiles": [
-    "0-Scratch Notes/Random Dungeon.md",
-    "2-World/Lampoteuo/Lampoteuo City/Lampoteuo City.md",
-    "2-World/Test.md",
-    "1-Session Journals/2023-10-26.md",
-    "1-Party/Strixhaven Party/Roleck Nevari.md",
-    "1-Party/Strixhaven Party/Elvis Parsley.md",
-    "1-Party/Strixhaven Party/Strixhaven Party.md",
-    "1-Party/Strixhaven Party/Zolon Orielson.md",
+    "1-DM Toolkit/NewJournal 1.md",
+    "1-DM Toolkit/NewJournal.md",
+    "1-DM Toolkit/NewNPC 2.md",
+    "z_Templates/TemplateNPC.md",
+    "1-DM Toolkit/DM Board.md",
     "1-DM Toolkit/Home.md",
     "z_Templates/TemplatePlayer.md",
-    "z_Templates/new.md",
-    "0-Scratch Notes/TEST AI/Untitled.md",
-    "0-Scratch Notes/Add Random Notes Here.md",
-    "1-DM Toolkit/DM Board.md",
-    "2-Mechanics/CLI/CLI.md",
-    "0-Scratch Notes/TEST AI",
-    "1-Session Journals/2000-01-01.md",
-    "1-Party/Example Party 1/Example Party 1.md",
-    "1-Party/Example Party 2/Example Party 2.md",
-    "1-Party/Example Party 2/Dragonfacee.md",
-    "2-Mechanics/CLI/bestiary/monstrosity/mimic-xmm.md",
-    "2-Mechanics/CLI/books/monster-manual-2025/2-monsters-a-to-z.md",
-    "content/blog/posts/A farewell to Disney... .md",
-    "content/Our Disney Adventure.md",
-    "2-Mechanics/CLI/bestiary/monstrosity/axe-beak-xmm.md",
-    "blog/posts.md",
-    "2-Mechanics/CLI/spells/mind-spike-xphb.md",
+    "z_Templates/TemplatePartyMember.md",
+    "z_Templates/6_Help Notes/Chart Examples (Mermaid).md",
+    "3-Mechanics/NPC's",
+    "3-Mechanics",
+    "1-DM Toolkit/NewNPC 1.md",
+    "1-DM Toolkit/NewNPC.md",
+    "z_Templates/7_World Building Templates/New Character.md",
+    "z_Templates/4_Markdown/Format Font - Orc Text.md",
+    "z_Templates/4_Markdown/Insert Banner (ITS).md",
+    "z_Templates/4_Markdown/Insert Checkbox (ITS).md",
+    "z_Templates/4_Markdown/Dataview - TTRPG Statblocks.md",
+    "2-Party/Strixhaven Party/Elvis Parsley.md",
+    "z_Templates/New Blog Post.md",
+    "content/blog/blog.md",
+    "content/blog/Today is the day... .md",
+    "content/blog/Testing private notes  ....md",
+    "content/blog/Not much to say ....md",
+    "content/blog/My first blog post.md",
+    "content/blog/Mobile blogging.. .md",
+    "content/blog/Let's fly away... .md",
+    "content/blog/Formatting blogs ....md",
+    "4-World/Strixhaven",
+    "4-World",
+    "2-Party/Strixhaven Party",
+    "2-Party",
+    "1-Party/Strixhaven Party",
+    "1-Party",
+    "content/dnd sessions",
+    "content/blog/posts",
     "2-Mechanics/CLI/bestiary/ooze/token/psychic-gray-ooze-xmm.webp",
     "2-Mechanics/CLI/bestiary/ooze/token/ochre-jelly-xmm.webp",
     "2-Mechanics/CLI/bestiary/ooze/token/gelatinous-cube-xmm.webp",
@@ -284,15 +303,6 @@
     "2-Mechanics/CLI/bestiary/ooze/img/ochre-jelly.webp",
     "2-Mechanics/CLI/bestiary/ooze/img/blob-of-annihilation.webp",
     "2-Mechanics/CLI/bestiary/ooze/img/black-pudding.webp",
-    "2-Mechanics/CLI/bestiary/ooze/token",
-    "2-Mechanics/CLI/bestiary/ooze/img",
-    "2-Mechanics/CLI/bestiary/ooze",
-    "2-Mechanics/CLI/vehicles/token",
-    "2-Mechanics/CLI/vehicles/img",
-    "2-Mechanics/CLI/vehicles",
-    "2-Mechanics/CLI/traps-hazards/img",
-    "2-Mechanics/CLI/traps-hazards",
-    "2-Mechanics/CLI/bestiary/token",
     "0-Scratch Notes/Untitled.canvas",
     "Untitled.canvas"
   ]
