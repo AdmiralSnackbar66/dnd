@@ -1,5 +1,5 @@
 ---
-title: A Disney kind of day....
+title: Session 1
 draft: false
 tags:
   - dnd
