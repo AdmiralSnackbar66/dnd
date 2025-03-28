@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a5b088b3dcb83f48",
+        "id": "af110431912a4435",
         "type": "tabs",
         "children": [
           {
-            "id": "09f303530cf4655c",
+            "id": "ea41107614142719",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-DM Toolkit/DM Board.md",
-                "mode": "source",
+                "file": "1-DM Toolkit/Home.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DM Board"
+              "title": "Home"
             }
           }
         ]
@@ -45,23 +45,6 @@
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
-            }
-          },
-          {
-            "id": "f7191f1a02d83b6c",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": true,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-search",
-              "title": "Search"
             }
           },
           {
@@ -153,13 +136,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-Party/Strixhaven Party/Strixhaven Party.md",
+                "file": "1-DM Toolkit/Home.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Strixhaven Party"
+              "title": "Outline of Home"
             }
           },
           {
@@ -224,8 +207,21 @@
               "icon": "links-going-out",
               "title": "Outgoing links from DM Board"
             }
+          },
+          {
+            "id": "e2066116cb03746e",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "1-DM Toolkit/Home.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for Home"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -238,9 +234,9 @@
       "obsidian42-brat:BRAT": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-kanban:Create new board": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "helpmate:HelpMate": false,
       "solo-rpg-toolkit:Solo RPG Toolkit": false,
-      "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "command-palette:Open command palette": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -255,14 +251,29 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "09f303530cf4655c",
+  "active": "ea41107614142719",
   "lastOpenFiles": [
+    "3-Mechanics/NPC's/Murgaxor Grenshel.md",
+    "1-DM Toolkit/Home.md",
+    "3-Mechanics/NPC's/Murgaxor Grenshel2.md",
+    "3-Mechanics/NPC's/Extus Narr.md",
+    "3-Mechanics/NPC's/ImagePlaceholder.png.md",
+    "3-Mechanics/NPC's/Boaty McBoatface.md",
+    "3-Mechanics/NPC's/Extus Narr2.md",
+    "TTRPG Statblock Examples.md",
+    "1-DM Toolkit/DM Board.md",
+    "z_Templates/TemplateJournal.md",
+    "z_Templates/3_Dataview Templates/3_Dataview Templates.md",
+    "z_Templates/session-gm.md",
+    "5-Session Journals",
+    "4-World/TTRPGs Games Index.md",
+    "1-DM Toolkit/DnD5e-SideScreen-2014.md",
+    "Boaty McBoatface.md",
+    "1-DM Toolkit/NewNPC 3.md",
     "1-DM Toolkit/NewJournal 1.md",
     "1-DM Toolkit/NewJournal.md",
     "1-DM Toolkit/NewNPC 2.md",
     "z_Templates/TemplateNPC.md",
-    "1-DM Toolkit/DM Board.md",
-    "1-DM Toolkit/Home.md",
     "z_Templates/TemplatePlayer.md",
     "z_Templates/TemplatePartyMember.md",
     "z_Templates/6_Help Notes/Chart Examples (Mermaid).md",
@@ -271,20 +282,6 @@
     "1-DM Toolkit/NewNPC 1.md",
     "1-DM Toolkit/NewNPC.md",
     "z_Templates/7_World Building Templates/New Character.md",
-    "z_Templates/4_Markdown/Format Font - Orc Text.md",
-    "z_Templates/4_Markdown/Insert Banner (ITS).md",
-    "z_Templates/4_Markdown/Insert Checkbox (ITS).md",
-    "z_Templates/4_Markdown/Dataview - TTRPG Statblocks.md",
-    "2-Party/Strixhaven Party/Elvis Parsley.md",
-    "z_Templates/New Blog Post.md",
-    "content/blog/blog.md",
-    "content/blog/Today is the day... .md",
-    "content/blog/Testing private notes  ....md",
-    "content/blog/Not much to say ....md",
-    "content/blog/My first blog post.md",
-    "content/blog/Mobile blogging.. .md",
-    "content/blog/Let's fly away... .md",
-    "content/blog/Formatting blogs ....md",
     "4-World/Strixhaven",
     "4-World",
     "2-Party/Strixhaven Party",
@@ -292,7 +289,6 @@
     "1-Party/Strixhaven Party",
     "1-Party",
     "content/dnd sessions",
-    "content/blog/posts",
     "2-Mechanics/CLI/bestiary/ooze/token/psychic-gray-ooze-xmm.webp",
     "2-Mechanics/CLI/bestiary/ooze/token/ochre-jelly-xmm.webp",
     "2-Mechanics/CLI/bestiary/ooze/token/gelatinous-cube-xmm.webp",

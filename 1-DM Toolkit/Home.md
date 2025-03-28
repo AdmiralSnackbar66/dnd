@@ -17,12 +17,14 @@ obsidianUIMode: preview
 > [![[PartyLogo.jpg\|sban htiny ctr p+t]]|](Party%201%2FExample%20Party%201)
 
 # Sessions
+
 > [!infobox]
 > # Session Journals
 > ```dataview
 TABLE WITHOUT ID link(file.name) AS "Session Date", Status, players
 from "3-Session Journals"
 where (type = "Session Journal")
+where (sessionstatus="Complete")
 SORT file.name DESC
 
 # Party Members
@@ -37,7 +39,6 @@ actions:
     templateFile: "z_Templates/TemplatePartyMember.md"
     fileName: NewPartyMember
 ```
-<br>
 
 ```dataview  
 TABLE WITHOUT ID link(file.name) AS "Character Name", Player, Class, Race, level, Role  
@@ -48,13 +49,30 @@ where (Status = "Active")
 
 # Recently Modified NPCs
 
+```meta-bind-button
+label: New NPC
+icon: ""
+style: primary
+class: ""
+cssStyle: ""
+backgroundImage: ""
+tooltip: ""
+id: ""
+hidden: false
+actions:
+  - type: command
+    command: quickadd:choice:bf10e7ec-f0f4-4fe7-96ec-889c5131754b
+
+```
+
 ```dataview  
 TABLE WITHOUT ID link(file.name) AS "NPC Name", Gender, Race, Age, Location, AssociatedGroup  
-FROM "3-Mechanics/NPCs"
+FROM "3-Mechanics/NPC's"
 WHERE (NoteIcon = "npc") 
 SORT file.mtime DESC
 LIMIT 10
 ```
+
 
 # Recently Modified Locations
 

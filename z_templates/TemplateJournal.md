@@ -1,14 +1,13 @@
 ---
 NoteIcon: journal
 aat-render-enabled: true
-fc-category:
-  - Event Category 1
+fc-category: 
 fc-display-name: 
 sessionstatus:
-  - Occured
+  - Prep
 type: Session Journal
 sessionDate: 2000-01-01
-players: 2
+players: 
 Status:
   - ⏳
 OneLiner: 1 Line Summary
@@ -20,22 +19,28 @@ tags:
 
 
 
-# Roster 
-
+## Roster 
+- 
 %% Keep track of who turned up. %%
 
-- [[2-Party/Strixhaven Party/Roleck Nevari]] 
-- [[Fred]] 
 
 ## Absent
-
+- 
 %% Keep track of who didn't turn up. %%
 
-- [[2-Party/Strixhaven Party/Roleck Nevari]] 
-- [[Fred]] 
+## Recap
+![[<% tp.user.getLastGameTitle(tp) %>#^summary]]
+
+
+# Strong Start
+
+# Scenes
+-
+# Secrets and Clues
 
 # Session Overview
 
 %% I like to keep a quick summary of sessions here. %%
 
-This is what happened! 
+
+

@@ -6,11 +6,14 @@ world: Strixhaven
 campaign: Strixhaven
 date: 2025-03-18
 description: 
-race: Bullywug
+race:
+  - Bullywug
 gender: Male
-class: Warlock
+class:
+  - Warlock
+noteicon: npc
 ---
-# [[Murgaxor Grenshel]]
+# [[Murgaxor Grenshel2]]
 
 - Murgaxor is a [bullywug](https://www.dndbeyond.com/monsters/17120-bullywug) who attended Strixhaven 200 years ago. He was a member of Witherbloom College, though there are no records of him participating in any activities or working on campus.
 - A mean-spirited, egotistical spellcaster, Murgaxor was censured repeatedly for disregarding safety protocols, hexing and cursing peers, and using harmful magic while on campus.

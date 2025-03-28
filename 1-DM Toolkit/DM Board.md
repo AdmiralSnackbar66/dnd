@@ -21,10 +21,20 @@ actions:
     fileName: NewJournal
 ```
 
-```button
-name New NPC
-type command
-action QuickAdd: Template - Add NPC
+```meta-bind-button
+label: New NPC
+icon: ""
+style: primary
+class: ""
+cssStyle: ""
+backgroundImage: ""
+tooltip: ""
+id: ""
+hidden: false
+actions:
+  - type: command
+    command: quickadd:choice:bf10e7ec-f0f4-4fe7-96ec-889c5131754b
+
 ```
 
 ```meta-bind-button
@@ -83,6 +93,8 @@ actions:
 ```
 
 `BUTTON[button_quest]` 
+
+
 
 ## Known Languages
 
