@@ -49,5 +49,5 @@ exampleProperty:
 > ```statblock
 > name: Murgaxor Grenshell
 > monster: Murgaxor Grenshell
-> columns: 2
+> columns: 1
 > ```
