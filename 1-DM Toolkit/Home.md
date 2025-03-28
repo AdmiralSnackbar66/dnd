@@ -16,18 +16,32 @@ obsidianUIMode: preview
 > **[[Link]]**
 > [![[PartyLogo.jpg\|sban htiny ctr p+t]]|](Party%201%2FExample%20Party%201)
 
-
+# Sessions
 > [!infobox]
 > # Session Journals
 > ```dataview
 TABLE WITHOUT ID link(file.name) AS "Session Date", Status, players
-from "1-Session Journals"
+from "3-Session Journals"
 where (type = "Session Journal")
 SORT file.name DESC
 
+# Party Members
+
+```meta-bind-button
+label: Add New Party Member
+hidden: false
+id: ""
+style: primary
+actions:
+  - type: templaterCreateNote
+    templateFile: "z_Templates/TemplatePartyMember.md"
+    fileName: NewPartyMember
+```
+<br>
+
 ```dataview  
 TABLE WITHOUT ID link(file.name) AS "Character Name", Player, Class, Race, level, Role  
-from "1-Party"  
+from "2-Party"  
 where (Role = "Player")  
 where (Status = "Active")  
 ```
@@ -46,7 +60,7 @@ LIMIT 10
 
 ```dataview  
 TABLE WITHOUT ID link(file.name) AS "Location Name", type, Government, Community-Size, size, population  
-FROM "2-World"
+FROM "4-World"
 WHERE (NoteIcon = "Settlement")  
 SORT file.mtime DESC
 LIMIT 10
