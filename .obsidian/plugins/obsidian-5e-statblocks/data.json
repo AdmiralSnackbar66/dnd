@@ -163,16 +163,16 @@
         ],
         "saves": [
           {
-            "dexterity": 9
+            "constitution": 8
           },
           {
-            "intelligence": 8
+            "intelligence": 9
           },
           {
-            "wisdom": 10
+            "wisdom": 5
           },
           {
-            "charisma": 11
+            "charisma": 5
           }
         ],
         "skillsaves": [
@@ -235,7 +235,7 @@
         ],
         "Bonus actions": [
           {
-            "name": null
+            "name": "Lair actions"
           }
         ],
         "desc": null
