@@ -43,6 +43,12 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Graph(),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
+    Component.RecentNotes({
+      showTags: true,
+      title: "Recently updated notes:",
+      showDate: true,
+      limit: 4,
+    })
   ],
 }
 
