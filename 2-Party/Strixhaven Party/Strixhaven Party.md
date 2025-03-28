@@ -18,7 +18,7 @@ where (Status="Active")
 <br>
 
 ```dataview
-TABLE WITHOUT ID link(file.name) AS "Character Name", Player,hp, ac, modifier, pasperc As "Passive Perception (WIS)"
+TABLE WITHOUT ID link(file.name) AS "Character Name",Player,hp, ac, modifier, pasperc As "Passive Perception (WIS)"
 from "2-Party/Strixhaven Party"
 where (Role = "Player") 
 where (Status = "Active") 
