@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "0c84cd4f11af5301",
+        "id": "d5b74c477490d4d2",
         "type": "tabs",
         "children": [
           {
-            "id": "be579eb6a24c409c",
+            "id": "4be19583175137cb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-DM Toolkit/Vault Report.md",
-                "mode": "preview",
+                "file": "Campaigns/Strixhaven/01. Adventures/Curriculum of Chaos/Curriculum of Chaos.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vault Report"
+              "title": "Curriculum of Chaos"
             }
           }
         ]
@@ -236,14 +236,23 @@
               "icon": "lucide-info",
               "title": "File properties for Home"
             }
+          },
+          {
+            "id": "4791f7489e5c02b1",
+            "type": "leaf",
+            "state": {
+              "type": "rpg-manager-options",
+              "state": {},
+              "icon": "d20",
+              "title": "RPG Manager"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 9
       }
     ],
     "direction": "horizontal",
-    "width": 435.5,
-    "collapsed": true
+    "width": 435.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -264,57 +273,58 @@
       "obsidian-custom-frames:Open Elvis Parsley - DND Beyond": false,
       "obsidian-5e-statblocks:Open Creature pane": false,
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "rpg-manager:RPG Manager": false
     }
   },
-  "active": "be579eb6a24c409c",
+  "active": "4be19583175137cb",
   "lastOpenFiles": [
+    "Campaigns/Strixhaven/02. Sessions/Session 0 - The kickoff/Session 0 - The kickoff.md",
+    "Campaigns/Strixhaven/01. Adventures/Curriculum of Chaos/Curriculum of Chaos.md",
+    "Campaigns/Strixhaven/01. Adventures/Curriculum of Chaos/Chapters/Campus Kerfuffle.md",
+    "Campaigns/Strixhaven/01. Adventures/Curriculum of Chaos/Chapters",
+    "Campaigns/Strixhaven/11. Monsters/Mimic.md",
+    "3-Mechanics/CLI/bestiary/monstrosity/mimic-xmm.md",
+    "3-Mechanics/CLI/books/monster-manual-2025/2-monsters-a-to-z.md",
     "1-DM Toolkit/Home.md",
-    "1-DM Toolkit/Journey Board.md",
-    "1-DM Toolkit/Strixhaven.md",
-    "1-DM Toolkit/Map-Strixhaven.md",
-    "1-DM Toolkit/Party 1%2FExample Party 1.md",
-    "z_Assets/Strixhaven.png",
-    "z_Assets",
-    "2-Party/Strixhaven Party/Strixhaven Party.md",
-    "3-Mechanics/Groups/The Oriq.md",
-    "4-World/Strixhaven/The Oriq.md",
-    "4-World/Strixhaven/001_20250318.md",
-    "2-Party/Strixhaven Party/Borun Erutan.md",
-    "z_Templates/TemplateJournal.md",
-    "1-DM Toolkit/DM Board.md",
-    "1-DM Toolkit/NewJournal.md",
-    "2-Party/Strixhaven Party/Elvis Parsley.md",
-    "1-DM Toolkit/Borun Erutan.md",
-    "3-Mechanics/NPC's/Jadzi.md",
-    "3-Mechanics/NPC's/Extus Narr.md",
-    "3-Mechanics/NPC's/Murgaxor Grenshel.md",
-    "TTRPG Statblock Examples.md",
-    "z_Templates/TemplatePlayer.md",
-    "1-DM Toolkit/DnD5e-SideScreen-2024.md",
-    "1-DM Toolkit/NewGroup 1.md",
-    "1-DM Toolkit/NewGroup 3.md",
-    "1-DM Toolkit/NewGroup 2.md",
-    "1-DM Toolkit/NewGroup.md",
-    "z_Templates/TemplateGroup.md",
-    "3-Mechanics/Groups",
-    "5-Session Journals",
-    "3-Mechanics/NPC's",
-    "3-Mechanics",
-    "4-World/Strixhaven",
-    "4-World",
-    "2-Party/Strixhaven Party",
-    "2-Party",
-    "1-Party/Strixhaven Party",
-    "2-Mechanics/CLI/bestiary/ooze/token/psychic-gray-ooze-xmm.webp",
-    "2-Mechanics/CLI/bestiary/ooze/token/ochre-jelly-xmm.webp",
-    "2-Mechanics/CLI/bestiary/ooze/token/gelatinous-cube-xmm.webp",
-    "2-Mechanics/CLI/bestiary/ooze/token/gray-ooze-xmm.webp",
-    "2-Mechanics/CLI/bestiary/ooze/token/black-pudding-xmm.webp",
-    "2-Mechanics/CLI/bestiary/ooze/token/blob-of-annihilation-xmm.webp",
-    "2-Mechanics/CLI/bestiary/ooze/img/gray-oozes.webp",
-    "2-Mechanics/CLI/bestiary/ooze/img/ochre-jelly.webp",
-    "2-Mechanics/CLI/bestiary/ooze/img/blob-of-annihilation.webp",
+    "3-Mechanics/CLI/backgrounds/backgrounds.md",
+    "3-Mechanics/CLI/bestiary/bestiary.md",
+    "Campaigns/Strixhaven/11. Monsters",
+    "3-Mechanics/CLI/bestiary/ooze/black-pudding-xmm.md",
+    "3-Mechanics/CLI/books/monster-manual-2025/1-how-to-use-a-monster.md",
+    "3-Mechanics/CLI/books/dungeon-masters-guide-2024/img/000-00-001-magic-game-table.webp",
+    "Campaigns/Strixhaven/Strixhaven.md",
+    "Campaigns/Strixhaven/02. Sessions/Session 0 - The kickoff",
+    "Campaigns/Strixhaven/02. Sessions",
+    "3-Mechanics/CLI/spells/img/vitriolic-sphere.webp",
+    "3-Mechanics/CLI/spells/img/vicious-mockery.webp",
+    "3-Mechanics/CLI/spells/img/water-walk.webp",
+    "3-Mechanics/CLI/spells/img/yolandes-regal-presence.webp",
+    "3-Mechanics/CLI/spells/img/witch-bolt.webp",
+    "3-Mechanics/CLI/spells/img/water-breathing.webp",
+    "3-Mechanics/CLI/spells/img/tensers-floating-disk.webp",
+    "3-Mechanics/CLI/spells/img/tree-stride.webp",
+    "3-Mechanics/CLI/spells/img/summon-undead.webp",
+    "3-Mechanics/CLI/spells/zone-of-truth-xphb.md",
+    "3-Mechanics/CLI/spells/yolandes-regal-presence-xphb.md",
+    "3-Mechanics/CLI/spells/wrathful-smite-xphb.md",
+    "3-Mechanics/CLI/spells/vicious-mockery-xphb.md",
+    "3-Mechanics/CLI/spells/word-of-recall-xphb.md",
+    "3-Mechanics/CLI/spells/witch-bolt-xphb.md",
+    "3-Mechanics/CLI/spells/word-of-radiance-xphb.md",
+    "3-Mechanics/CLI/spells/wish-xphb.md",
+    "3-Mechanics/CLI/spells/wind-wall-xphb.md",
+    "3-Mechanics/CLI/spells/wall-of-thorns-xphb.md",
+    "3-Mechanics/CLI/spells/wind-walk-xphb.md",
+    "3-Mechanics/CLI/spells/weird-xphb.md",
+    "3-Mechanics/CLI/spells/water-walk-xphb.md",
+    "3-Mechanics/CLI/spells/web-xphb.md",
+    "3-Mechanics/CLI/spells/img",
+    "3-Mechanics/CLI/spells",
+    "3-Mechanics/CLI/rules/variant-rules",
+    "3-Mechanics/CLI/rules",
+    "3-Mechanics/CLI/rewards",
+    "3-Mechanics/CLI/optional-features",
     "0-Scratch Notes/Untitled.canvas",
     "Untitled.canvas"
   ]
