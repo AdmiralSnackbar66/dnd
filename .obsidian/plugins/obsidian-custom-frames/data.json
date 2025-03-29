@@ -68,6 +68,18 @@
       "forceIframe": false,
       "customCss": "",
       "customJs": ""
+    },
+    {
+      "url": "https://www.dndbeyond.com/characters/140628566/7iWGt9",
+      "displayName": "Borun Erutan - DND Beyond",
+      "icon": "user-round",
+      "hideOnMobile": false,
+      "addRibbonIcon": false,
+      "openInCenter": false,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": "",
+      "customJs": ""
     }
   ],
   "padding": 5

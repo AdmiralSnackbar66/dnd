@@ -35,8 +35,13 @@ tags:
 # Strong Start
 
 # Scenes
--
+- [ ] 
+- [ ] 
+
 # Secrets and Clues
+
+- [ ] 
+- [ ] 
 
 # Session Overview
 

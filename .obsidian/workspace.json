@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "3e26b88efc598622",
+        "id": "0c84cd4f11af5301",
         "type": "tabs",
         "children": [
           {
-            "id": "c4ef01ab077368dd",
+            "id": "be579eb6a24c409c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-DM Toolkit/Home.md",
+                "file": "1-DM Toolkit/Vault Report.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "Vault Report"
             }
           }
         ]
@@ -267,16 +267,30 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "c4ef01ab077368dd",
+  "active": "be579eb6a24c409c",
   "lastOpenFiles": [
-    "3-Mechanics/NPC's/Jadzi.md",
     "1-DM Toolkit/Home.md",
+    "1-DM Toolkit/Journey Board.md",
+    "1-DM Toolkit/Strixhaven.md",
+    "1-DM Toolkit/Map-Strixhaven.md",
+    "1-DM Toolkit/Party 1%2FExample Party 1.md",
+    "z_Assets/Strixhaven.png",
+    "z_Assets",
+    "2-Party/Strixhaven Party/Strixhaven Party.md",
+    "3-Mechanics/Groups/The Oriq.md",
+    "4-World/Strixhaven/The Oriq.md",
+    "4-World/Strixhaven/001_20250318.md",
+    "2-Party/Strixhaven Party/Borun Erutan.md",
+    "z_Templates/TemplateJournal.md",
+    "1-DM Toolkit/DM Board.md",
+    "1-DM Toolkit/NewJournal.md",
+    "2-Party/Strixhaven Party/Elvis Parsley.md",
+    "1-DM Toolkit/Borun Erutan.md",
+    "3-Mechanics/NPC's/Jadzi.md",
     "3-Mechanics/NPC's/Extus Narr.md",
     "3-Mechanics/NPC's/Murgaxor Grenshel.md",
-    "1-DM Toolkit/DM Board.md",
     "TTRPG Statblock Examples.md",
     "z_Templates/TemplatePlayer.md",
-    "3-Mechanics/Groups/The Oriq.md",
     "1-DM Toolkit/DnD5e-SideScreen-2024.md",
     "1-DM Toolkit/NewGroup 1.md",
     "1-DM Toolkit/NewGroup 3.md",
@@ -284,19 +298,7 @@
     "1-DM Toolkit/NewGroup.md",
     "z_Templates/TemplateGroup.md",
     "3-Mechanics/Groups",
-    "3-Mechanics/NPC's/Murgaxor Grenshel2.md",
-    "3-Mechanics/NPC's/ImagePlaceholder.png.md",
-    "3-Mechanics/NPC's/Boaty McBoatface.md",
-    "3-Mechanics/NPC's/Extus Narr2.md",
-    "z_Templates/TemplateJournal.md",
-    "z_Templates/3_Dataview Templates/3_Dataview Templates.md",
-    "z_Templates/session-gm.md",
     "5-Session Journals",
-    "4-World/TTRPGs Games Index.md",
-    "1-DM Toolkit/DnD5e-SideScreen-2014.md",
-    "Boaty McBoatface.md",
-    "1-DM Toolkit/NewNPC 3.md",
-    "1-DM Toolkit/NewJournal 1.md",
     "3-Mechanics/NPC's",
     "3-Mechanics",
     "4-World/Strixhaven",
@@ -304,7 +306,6 @@
     "2-Party/Strixhaven Party",
     "2-Party",
     "1-Party/Strixhaven Party",
-    "1-Party",
     "2-Mechanics/CLI/bestiary/ooze/token/psychic-gray-ooze-xmm.webp",
     "2-Mechanics/CLI/bestiary/ooze/token/ochre-jelly-xmm.webp",
     "2-Mechanics/CLI/bestiary/ooze/token/gelatinous-cube-xmm.webp",
@@ -314,7 +315,6 @@
     "2-Mechanics/CLI/bestiary/ooze/img/gray-oozes.webp",
     "2-Mechanics/CLI/bestiary/ooze/img/ochre-jelly.webp",
     "2-Mechanics/CLI/bestiary/ooze/img/blob-of-annihilation.webp",
-    "2-Mechanics/CLI/bestiary/ooze/img/black-pudding.webp",
     "0-Scratch Notes/Untitled.canvas",
     "Untitled.canvas"
   ]

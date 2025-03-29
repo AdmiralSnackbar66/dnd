@@ -4,8 +4,8 @@ obsidianUIMode: preview
 
 
 > [!cards|4]
-> **[[Map-Faerun]]**
-> [![[Northern Faerun Map.jpg\|sban htiny ctr]]](Lampoteuo)
+> **[[Map-Strixhaven]]**
+> [![[Strixhaven.png]]](Strixhaven)
 > 
 > **[[Link]]**
 > [![[JourneyBoard.png\|sban htiny ctr]]](Journey%20Board)
