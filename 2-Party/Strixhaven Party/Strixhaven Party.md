@@ -9,6 +9,7 @@ actions:
     fileName: NewPartyMember
 ```
 <br>
+
 ```dataview
 TABLE WITHOUT ID link(file.name) AS "Character Name",Player,Class, hp, ac, modifier, pasperc As "Passive Perception (WIS)"
 from "2-Party/Strixhaven Party"

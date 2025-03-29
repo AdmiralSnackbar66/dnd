@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaigns/Strixhaven/01. Adventures/Curriculum of Chaos/Curriculum of Chaos.md",
+                "file": "z_Templates/TemplateJournal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Curriculum of Chaos"
+              "title": "TemplateJournal"
             }
           }
         ]
@@ -279,11 +279,19 @@
   },
   "active": "4be19583175137cb",
   "lastOpenFiles": [
-    "Campaigns/Strixhaven/02. Sessions/Session 0 - The kickoff/Session 0 - The kickoff.md",
+    "docs/build.md",
+    "docs/authoring content.md",
+    "2-Party/Strixhaven Party/Strixhaven Party.md",
+    "2-Party/Strixhaven Party/Elvis Parsley.md",
+    "2-Party/Strixhaven Party/Borun Erutan.md",
+    "Campaigns/Strixhaven/Strixhaven.md",
     "Campaigns/Strixhaven/01. Adventures/Curriculum of Chaos/Curriculum of Chaos.md",
+    "Campaigns/Strixhaven/11. Monsters/Mimic.md",
+    "3-Mechanics/NPC's/Extus Narr.md",
+    "3-Mechanics/NPC's/Murgaxor Grenshel.md",
+    "Campaigns/Strixhaven/02. Sessions/Session 0 - The kickoff/Session 0 - The kickoff.md",
     "Campaigns/Strixhaven/01. Adventures/Curriculum of Chaos/Chapters/Campus Kerfuffle.md",
     "Campaigns/Strixhaven/01. Adventures/Curriculum of Chaos/Chapters",
-    "Campaigns/Strixhaven/11. Monsters/Mimic.md",
     "3-Mechanics/CLI/bestiary/monstrosity/mimic-xmm.md",
     "3-Mechanics/CLI/books/monster-manual-2025/2-monsters-a-to-z.md",
     "1-DM Toolkit/Home.md",
@@ -293,7 +301,6 @@
     "3-Mechanics/CLI/bestiary/ooze/black-pudding-xmm.md",
     "3-Mechanics/CLI/books/monster-manual-2025/1-how-to-use-a-monster.md",
     "3-Mechanics/CLI/books/dungeon-masters-guide-2024/img/000-00-001-magic-game-table.webp",
-    "Campaigns/Strixhaven/Strixhaven.md",
     "Campaigns/Strixhaven/02. Sessions/Session 0 - The kickoff",
     "Campaigns/Strixhaven/02. Sessions",
     "3-Mechanics/CLI/spells/img/vitriolic-sphere.webp",
@@ -312,13 +319,6 @@
     "3-Mechanics/CLI/spells/word-of-recall-xphb.md",
     "3-Mechanics/CLI/spells/witch-bolt-xphb.md",
     "3-Mechanics/CLI/spells/word-of-radiance-xphb.md",
-    "3-Mechanics/CLI/spells/wish-xphb.md",
-    "3-Mechanics/CLI/spells/wind-wall-xphb.md",
-    "3-Mechanics/CLI/spells/wall-of-thorns-xphb.md",
-    "3-Mechanics/CLI/spells/wind-walk-xphb.md",
-    "3-Mechanics/CLI/spells/weird-xphb.md",
-    "3-Mechanics/CLI/spells/water-walk-xphb.md",
-    "3-Mechanics/CLI/spells/web-xphb.md",
     "3-Mechanics/CLI/spells/img",
     "3-Mechanics/CLI/spells",
     "3-Mechanics/CLI/rules/variant-rules",
