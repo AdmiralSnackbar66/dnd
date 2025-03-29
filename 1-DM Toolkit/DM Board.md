@@ -38,17 +38,6 @@ actions:
 ```
 
 ```meta-bind-button
-label: New NPC
-hidden: false
-id: ""
-style: primary
-actions:
-  - type: templaterCreateNote
-    templateFile: "z_Templates/TemplateNPC.md"
-    fileName: NewNPC
-```
-
-```meta-bind-button
 label: New Location
 hidden: false
 id: ""
@@ -61,13 +50,18 @@ actions:
 
 ```meta-bind-button
 label: New Guild or Group
-hidden: false
-id: ""
+icon: ""
 style: primary
+class: ""
+cssStyle: ""
+backgroundImage: ""
+tooltip: ""
+id: ""
+hidden: false
 actions:
-  - type: templaterCreateNote
-    templateFile: "z_Templates/TemplateGroup.md"
-    fileName: NewGroup
+  - type: command
+    command: quickadd:choice:a995968b-ee00-44cb-897e-ee92f5259337
+
 ```
 
 ```meta-bind-button

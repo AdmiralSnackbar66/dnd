@@ -1,8 +1,8 @@
 ---
 Tags: Category/Group
 Community-Size: Outpost
-Alignment: Chaotic Evil
-Government: Autocracy
+Alignment: 
+Government: 
 Leader:
 PrimaryHome:
 NoteIcon: group
