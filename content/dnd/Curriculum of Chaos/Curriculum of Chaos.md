@@ -1,6 +1,6 @@
 ---
 draft: false
-Title: Curriculum of Chaos
+Title: index
 ---
 This will be the main page for my upcoming Curriculum of Chaos DnD campaign. 
 
