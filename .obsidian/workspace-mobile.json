@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaigns/Curriculum of Chaos/Orientation Challenge.md",
+                "file": "Campaigns/Curriculum of Chaos/Curriculum of Chaos.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Orientation Challenge"
+              "title": "Curriculum of Chaos"
             }
           }
         ]
@@ -180,8 +180,8 @@
         "state": {
           "type": "rpg-manager-options",
           "state": {},
-          "icon": "d20",
-          "title": "RPG Manager"
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
         }
       }
     ],
@@ -205,16 +205,15 @@
       "obsidian-kanban:Create new board": false,
       "helpmate:HelpMate": false,
       "solo-rpg-toolkit:Solo RPG Toolkit": false,
-      "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "rpg-manager:RPG Manager": false
+      "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "4f7d6728ada43e65",
+  "active": "71dc96c68ab23645",
   "lastOpenFiles": [
+    "Campaigns/Curriculum of Chaos/Orientation Challenge.md",
     "Campaigns/Curriculum of Chaos/01. Adventures/Year 1/Year 1.md",
     "Campaigns/Curriculum of Chaos/Curriculum of Chaos.md",
     "Campaigns/Curriculum of Chaos/07. Clues/Orientation Clue 1.md",
-    "Campaigns/Curriculum of Chaos/Orientation Challenge.md",
     "Campaigns/Curriculum of Chaos/07. Clues/Orientation - Clue 1.md",
     "Campaigns/Curriculum of Chaos/07. Clues",
     "Campaigns/Curriculum of Chaos/Orientation Clue 1.md",
