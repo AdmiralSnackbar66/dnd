@@ -1,0 +1,19 @@
+
+```RpgManager4
+id: 
+  type: "clue"
+  campaign: "Campaigns/Curriculum of Chaos/Curriculum of Chaos.md"
+tasks: 
+  - id: "5588f291-58c4-4fc3-899f-ae107b7433ac"
+    priority: 1
+    name: "Complete Clue"
+    description: "Complete Clue Orientation Clue 5"
+    type: "creation"
+    status: "proposed"
+relationships: 
+  - type: "bidirectional"
+    path: "Campaigns/Curriculum of Chaos/01. Adventures/Campus Kerfuffle/Chapters/Orientation Challenge.md"
+```
+
+[[Campaigns/Curriculum of Chaos/Curriculum of Chaos.md|]]
+[[Campaigns/Curriculum of Chaos/01. Adventures/Campus Kerfuffle/Chapters/Orientation Challenge.md|]]

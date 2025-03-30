@@ -6,6 +6,22 @@ sessionstatus:
   - Prep
 ---
 
+```RpgManager4
+id: 
+  type: "playercharacter"
+  campaign: "Campaigns/Curriculum of Chaos/Curriculum of Chaos.md"
+tasks: 
+  - id: 
+    priority: 1
+    name: "Review the characters"
+    description: 
+    status: 
+    type: "custom"
+```
+
+
+
+
 %%
 >[!summary] About This Template
 >This template uses the [[The Eight Steps of Lazy RPG Prep]] document to lay out steps to preparing a game session. The template also includes Obsidian [comments](https://help.obsidian.md/Editing+and+formatting/Basic+formatting+syntax#Comments) to generate linked [embeds](https://help.obsidian.md/Linking+notes+and+files/Embed+files#Embed+a+note+in+another+note) from that document as helpful reminders for each step.
@@ -22,8 +38,8 @@ sessionstatus:
 >You might not even write anything down during this step, but reviewing the characters helps wire them into your mind - and ensures that the rest of your preparation fits around them.
 
 ```dataview
-TABLE WITHOUT ID link(file.name) AS "Character Name", Player, Race, Class, ac, pasperc As "Pass Perc (WIS)"
-from "2-Party"
+TABLE WITHOUT ID link(file.name) AS "Character Name", Player, Race, Class, ac, pasperc As "Pass Perc (WIS)", choice(Field1, "☑", "☐") as Present
+from "2-Party/Strixhaven Party"
 where contains(Role, "Player") 
 where contains(Status, "Active")
 ```
@@ -96,3 +112,5 @@ Tip
 %%
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+[[Campaigns/Curriculum of Chaos/Curriculum of Chaos.md|]]
+[[Campaigns/Curriculum of Chaos/02. Sessions/Session - 0/Session - 0.md|]]

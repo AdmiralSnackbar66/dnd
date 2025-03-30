@@ -1,29 +1,25 @@
 ---
 NoteIcon: player
-aliases:
-  - Zolon
 tags:
   - player
-Player: Robbie
+Player: Eddie
 Role: Player
 Class:
-  - Paladdin
+  - Bard
 Race:
-  - Dragonborn
+  - Wood-Elf
 level: 1
-hp: 10
-ac: 18
+hp: 9
+ac: 14
 modifier: 2
-pasperc: 12
+pasperc: 13
 Status: Active
 PlayerKnownLanguages:
-  - Draconic
   - Common
+  - Common Sign Language
+  - Dwarvish
+  - Elvish
 ---
-
-
-
 ```custom-frames
-frame: Zolon Orielson - DND Beyond
+frame: Elvis Parsley - DND Beyond
 ```
-

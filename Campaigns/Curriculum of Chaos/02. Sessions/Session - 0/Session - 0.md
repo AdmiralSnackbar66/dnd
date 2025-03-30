@@ -6,7 +6,7 @@ fc-display-name:
 sessionstatus:
   - Prep
 type: Session Journal
-sessionDate: 2000-01-01
+sessionDate: 2025-04-12
 players: 
 Status:
   - ⏳
@@ -16,13 +16,33 @@ timelines:
 tags:
   - journal
 ---
-### Review the Characters
 
+```RpgManager4
+id: 
+  type: "session"
+  campaign: "Campaigns/Curriculum of Chaos/Curriculum of Chaos.md"
+  parent: "Campaigns/Curriculum of Chaos/Curriculum of Chaos.md"
+  positionInParent: 1
+tasks: 
+  - id: "5661d02a-9c53-46ad-8a4a-b664227f993b"
+    priority: 1
+    name: "Complete Session"
+    description: "Complete Session Session - 0"
+    type: "creation"
+    status: "proposed"
+relationships: 
+  - type: "bidirectional"
+    path: "z_Templates/Journal Entry.md"
+```
+
+### Review the Characters
+%%
 >[!Tip] Review The Characters.
 > Before we do anything else, it helps to spend a few minutes reviewing the player characters. What are their names? What do they want? What plays into their backgrounds? What do the players of these characters enjoy at the table? 
 > 
 > You might not even write anything down during this step, but reviewing the characters helps wire them into your mind — and ensures that the rest of your preparation fits around them.
 
+%%
 ```dataview
 TABLE WITHOUT ID link(file.name) AS "Character Name",Player,Class, hp, ac, modifier, pasperc As "Passive Perception (WIS)", choice(Field1, "☑", "☐") as Present
 from "Campaigns/Curriculum of Chaos/08. Player Characters"
@@ -31,11 +51,18 @@ where (Status = "Active")
 ```
 
 ### Create a Strong Start.
-
+%%
 >[!Tip] Create a Strong Start.
 >How a game starts is likely the most important piece of preparation we can do. Setting the stage for the session determines a great deal about how the rest of the game will go. 
 >
 >When you define where a game session starts, you figure out what's going on, what the initial focus of the session is, and how you can get close to the action. When in doubt, start with a fight. 
+%%
+
+>[!info] 
+>It is dark. Your senses are numb  except for your sense of smell .  You smell burnt flesh , smoke and blood.
+>You slowly open your eyes as you all find yourselves lying on what can only be described as a battlefield. Devastation all around you. You see people in obvious pain crying out for help..but you hear nothing. You are helpless. A figure in the mid distance  standing..triumphant. Cloaked so as to hide their face . As you look at the devastation around you notice the remains of a building still burning .. A building that resembles what once appeared to be a school.
+>
+>You see someone else rise to their feet they appear to shouting in you direction. Bloodied,  they look towards you. Still unable to hear what they are saying you see them draw a wand from their belt, still screaming they point their wand towards you. A bright light fills the space around you as you finally make out what they say …. REMEMBER
 
 ### Outline Potential Scenes
 >[!Tip] Outline Potential Scenes
@@ -88,3 +115,6 @@ where (Status = "Active")
 
 
 
+
+[[Campaigns/Curriculum of Chaos/Curriculum of Chaos.md|]]
+[[z_Templates/Journal Entry.md|]]
