@@ -79,7 +79,7 @@ actions:
 
 ```dataview  
 TABLE WITHOUT ID link(file.name) AS "Character Name", Player, Class, Race, level, Role  
-from "2-Party"  
+from "Campaign"  
 where (Role = "Player")  
 where (Status = "Active")  
 ```
