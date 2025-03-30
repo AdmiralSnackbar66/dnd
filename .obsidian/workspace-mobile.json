@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "z_templates/TemplateNPC.md",
+                "file": "z_templates/Journal Entry.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "TemplateNPC"
+              "title": "Journal Entry"
             }
           }
         ]
@@ -198,8 +198,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dfe55cf897d09775",
+  "active": "d12a58bd72da108e",
   "lastOpenFiles": [
+    "z_templates/TemplateNPC.md",
     "z_templates/TemplateJournal.md",
     "z_templates/Journal Entry.md",
     "3-Mechanics/NPC's/Murgaxor Grenshel.md",
@@ -235,7 +236,6 @@
     "3-Mechanics/CLI/spells/sleet-storm-xphb.md",
     "3-Mechanics/CLI/rules/variant-rules/object-xphb.md",
     "3-Mechanics/CLI/bestiary/humanoid/astral-elf-warrior-bam.md",
-    "3-Mechanics/CLI/bestiary/humanoid/aarakocra-spelljammer-lox.md",
     "3-Mechanics/CLI/traps-hazards/img",
     "3-Mechanics/CLI/objects/img",
     "3-Mechanics/CLI/bestiary/token",

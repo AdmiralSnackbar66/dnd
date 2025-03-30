@@ -2,9 +2,10 @@
 %%
 !
 
->[!summary] About This Template This template uses the [[The Eight Steps of Lazy RPG Prep]] document to lay out steps to preparing a game session. The template also includes Obsidian [comments](https://help.obsidian.md/Editing+and+formatting/Basic+formatting+syntax#Comments) to generate linked [embeds](https://help.obsidian.md/Linking+notes+and+files/Embed+files#Embed+a+note+in+another+note) from that document as helpful reminders for each step.
+>[!summary] About This Template
+>This template uses the [[The Eight Steps of Lazy RPG Prep]] document to lay out steps to preparing a game session. The template also includes Obsidian [comments](https://help.obsidian.md/Editing+and+formatting/Basic+formatting+syntax#Comments) to generate linked [embeds](https://help.obsidian.md/Linking+notes+and+files/Embed+files#Embed+a+note+in+another+note) from that document as helpful reminders for each step.
 > 
-> > [!tip] You will only see comments in Editing view and the embeds will only render if your Default Editing Mode is set to `Live Preview` (Settings > Editor > Default editing mode).
+>[!tip] You will only see comments in Editing view and the embeds will only render if your Default Editing Mode is set to `Live Preview` (Settings > Editor > Default editing mode).
 
 %%
 
