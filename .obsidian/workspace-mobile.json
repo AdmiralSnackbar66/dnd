@@ -100,7 +100,8 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 0,
+    "pinned": true
   },
   "right": {
     "id": "dd62c27c3c040a83",
@@ -239,7 +240,7 @@
       "rpg-manager:RPG Manager": false
     }
   },
-  "active": "dfe55cf897d09775",
+  "active": "9cd4b898c72b91d8",
   "lastOpenFiles": [
     "Campaigns/Curriculum of Chaos/01. Adventures/Year 1/Year 1.md",
     "Campaigns/Curriculum of Chaos/Curriculum of Chaos.md",
