@@ -14,7 +14,21 @@ tasks:
     status: "proposed"
 data: 
   majorclues: []
+relationships: 
+  - type: "bidirectional"
+    path: "Campaigns/Curriculum of Chaos/07. Clues/Orientation Clue 2.md"
+  - type: "bidirectional"
+    path: "Campaigns/Curriculum of Chaos/07. Clues/Orientation Clue 3.md"
+  - type: "bidirectional"
+    path: "Campaigns/Curriculum of Chaos/07. Clues/Orientation Clue 4.md"
+  - type: "bidirectional"
+    path: "Campaigns/Curriculum of Chaos/07. Clues/Orientation Clue 5.md"
 ```
 
 [[Campaigns/Curriculum of Chaos/Curriculum of Chaos.md|]]
 [[Campaigns/Curriculum of Chaos/01. Adventures/Year 1/Year 1.md|]]
+[[Campaigns/Curriculum of Chaos/07. Clues/Orientation Clue 1.md|]]
+[[Campaigns/Curriculum of Chaos/07. Clues/Orientation Clue 2.md|]]
+[[Campaigns/Curriculum of Chaos/07. Clues/Orientation Clue 3.md|]]
+[[Campaigns/Curriculum of Chaos/07. Clues/Orientation Clue 4.md|]]
+[[Campaigns/Curriculum of Chaos/07. Clues/Orientation Clue 5.md|]]
