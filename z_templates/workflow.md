@@ -1,4 +1,4 @@
-# <% tp.file.title %>
+# armor-of-poison-resistance-xdmg
 
 ## Description
 

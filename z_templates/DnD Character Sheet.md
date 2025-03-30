@@ -21,7 +21,7 @@ It also makes some use of my [[Image Adjustments]] snippet, [[Center Tables]] sn
 
 ```markdown
 ---
-alias: <% tp.file.title %>
+alias: horn-of-silent-alarm-xdmg
 tags: Entity/Player-Character, Multiverse/D&D
 cssclass: hcl, table, t-c, readable
 
@@ -39,7 +39,7 @@ Adventure_Diary::
 ` dv= this.Universe`
 ` dv= this.Campaign`</i>
 
-# <% tp.file.title %>
+# horn-of-silent-alarm-xdmg
 > (Description:: )
 
 ![[|locl+hs-med]] <i>[]()</i>

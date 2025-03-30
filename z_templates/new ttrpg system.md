@@ -1,11 +1,11 @@
 %%
-date:: [[<% tp.date.now("YYYY-MM-DD") %>]]
+date:: [[2025-03-29]]
 %%
-# [[<% tp.file.title %>]]
+# [[armor-of-poison-resistance-xdmg]]
 
 [site]()
 
-<% tp.file.title %> is a [[Tabletop Roleplaying Games|TTRPG]] system 
+armor-of-poison-resistance-xdmg is a [[Tabletop Roleplaying Games|TTRPG]] system 
 
 ## System Summary
 
@@ -23,7 +23,7 @@ PC power level:: Low
 
 ### 
 
-## My impressions of <% tp.file.title %>
+## My impressions of armor-of-poison-resistance-xdmg
 
 
 
@@ -35,7 +35,7 @@ PC power level:: Low
 
 - 
 
-### My games of <% tp.file.title %>
+### My games of armor-of-poison-resistance-xdmg
 
 - 
 

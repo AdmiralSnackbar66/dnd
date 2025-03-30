@@ -1,5 +1,5 @@
 ---
-name: <% tp.file.title %>
+name: headband-of-intellect-xdmg
 size: 
 type: 
 environment: 
@@ -14,5 +14,5 @@ cr:
 tags: 
 source: ""
 ---
-# <% tp.file.title %>
+# headband-of-intellect-xdmg
 

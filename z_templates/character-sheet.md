@@ -1,5 +1,5 @@
 ---
-alias: <% tp.file.title %>
+alias: kuo-toa-xmm
 tags: Entity/Player-Character, Multiverse/D&D
 cssclass: hcl, table, t-c, readable
 
@@ -17,7 +17,7 @@ Adventure_Diary::
 ` dv= this.Universe`
 ` dv= this.Campaign`</i>
 
-# <% tp.file.title %>
+# kuo-toa-xmm
 > (Description:: )
 
 ![[|locl+hs-med]] <i>[]()</i>
