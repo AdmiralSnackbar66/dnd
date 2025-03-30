@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "59b7a6e0682ee5c7",
+        "id": "aa06d2794b4458db",
         "type": "tabs",
         "children": [
           {
-            "id": "d29fc60123d1404c",
+            "id": "5d018cdc6aca05c9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Our Disney Adventure.md",
-                "mode": "source",
+                "file": "1-DM Toolkit/Home.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Our Disney Adventure"
-            }
-          },
-          {
-            "id": "45a668b8dd328661",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/Curriculum of Chaos/Sessions/Sessions.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sessions"
+              "title": "Home"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -292,13 +277,18 @@
       "rpg-manager:RPG Manager": false
     }
   },
-  "active": "45a668b8dd328661",
+  "active": "5d018cdc6aca05c9",
   "lastOpenFiles": [
-    "content/index.md",
-    "content/Curriculum of Chaos/Sessions/Sessions.md",
     "content/Our Disney Adventure.md",
+    "content/dnd/Curriculum of Chaos/0 - Sessions/0 - Sessions.md",
+    "content/dnd/Curriculum of Chaos/Curriculum of Chaos.md",
+    "content/dnd/Curriculum of Chaos/2 - NPCs",
+    "content/dnd/Curriculum of Chaos/1 - Player Characters",
+    "content/dnd",
+    "content/blog/blog.md",
+    "content/index.md",
     "z_Templates/DnD Character Sheet.md",
-    "content/Curriculum of Chaos",
+    "content/dnd/Curriculum of Chaos",
     "z_Templates/All Alternate Themes (ITS Theme).md",
     "Campaigns/Curriculum Of Chaos/Curriculum Of Chaos.md",
     "z_Templates/TemplateJournal.md",
@@ -320,10 +310,7 @@
     "3-Mechanics/CLI/bestiary/monstrosity/mimic-xmm.md",
     "3-Mechanics/CLI/books/monster-manual-2025/2-monsters-a-to-z.md",
     "1-DM Toolkit/Home.md",
-    "3-Mechanics/CLI/backgrounds/backgrounds.md",
-    "3-Mechanics/CLI/bestiary/bestiary.md",
     "Campaigns/Strixhaven/11. Monsters",
-    "3-Mechanics/CLI/bestiary/ooze/black-pudding-xmm.md",
     "3-Mechanics/CLI/books/dungeon-masters-guide-2024/img/000-00-001-magic-game-table.webp",
     "Campaigns/Strixhaven/02. Sessions/Session 0 - The kickoff",
     "Campaigns/Strixhaven/02. Sessions",
@@ -337,9 +324,6 @@
     "3-Mechanics/CLI/spells/img/tree-stride.webp",
     "3-Mechanics/CLI/spells/img/summon-undead.webp",
     "3-Mechanics/CLI/spells/img",
-    "3-Mechanics/CLI/spells",
-    "3-Mechanics/CLI/rules/variant-rules",
-    "3-Mechanics/CLI/rules",
     "0-Scratch Notes/Untitled.canvas",
     "Untitled.canvas"
   ]
