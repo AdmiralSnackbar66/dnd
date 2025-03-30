@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Mechanics/NPC's/Murgaxor Grenshel.md",
-                "mode": "preview",
+                "file": "z_templates/Session.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Murgaxor Grenshel"
+              "title": "Session"
             }
           }
         ]
@@ -201,6 +201,8 @@
   "active": "d12a58bd72da108e",
   "lastOpenFiles": [
     "z_templates/TemplateJournal.md",
+    "z_templates/Session.md",
+    "3-Mechanics/NPC's/Murgaxor Grenshel.md",
     "3-Mechanics/CLI/tables/monsters-by-habitat-arctic-monsters-xmm.md",
     "3-Mechanics/CLI/rules/variant-rules/death-saving-throw-xphb.md",
     "3-Mechanics/CLI/items/shotgun-xdmg.md",
@@ -234,8 +236,6 @@
     "3-Mechanics/CLI/rules/variant-rules/object-xphb.md",
     "3-Mechanics/CLI/bestiary/humanoid/astral-elf-warrior-bam.md",
     "3-Mechanics/CLI/bestiary/humanoid/aarakocra-spelljammer-lox.md",
-    "3-Mechanics/CLI/items/potion-of-longevity-xdmg.md",
-    "3-Mechanics/CLI/spells/enthrall-xphb.md",
     "3-Mechanics/CLI/traps-hazards/img",
     "3-Mechanics/CLI/objects/img",
     "3-Mechanics/CLI/bestiary/token",
