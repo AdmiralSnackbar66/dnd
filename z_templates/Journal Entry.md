@@ -30,29 +30,9 @@ where contains(Status, "Active")
 
 # Create a Strong Start
 
-[](https://github.com/phd20/obsidian-ttrpg-vault/blob/main/%CE%A9_utilities/templates/session-prep.md#create-a-strong-start)
-
-%%
-
-Tip
-
-![[The Eight Steps of Lazy RPG Prep#Create a Strong Start]]
-
-%%
-
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 # Outline Potential Scenes
-
-[](https://github.com/phd20/obsidian-ttrpg-vault/blob/main/%CE%A9_utilities/templates/session-prep.md#outline-potential-scenes)
-
-%%
-
-Tip
-
-![[The Eight Steps of Lazy RPG Prep#Outline Potential Scenes]]
-
-%%
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
@@ -72,13 +52,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 # Develop Fantastic Locations
 
-[](https://github.com/phd20/obsidian-ttrpg-vault/blob/main/%CE%A9_utilities/templates/session-prep.md#develop-fantastic-locations)
-
-%%
-
-Tip
-
-![[The Eight Steps of Lazy RPG Prep#Develop Fantastic Locations]]
 
 %%
 

@@ -14,8 +14,8 @@
               "type": "markdown",
               "state": {
                 "file": "z_templates/Journal Entry.md",
-                "mode": "source",
-                "source": true
+                "mode": "preview",
+                "source": false
               },
               "icon": "lucide-file",
               "title": "Journal Entry"
