@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-DM Toolkit/Home.md",
+                "file": "Campaigns/Curriculum of Chaos/Curriculum of Chaos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "Curriculum of Chaos"
             }
           }
         ]
@@ -145,7 +145,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "1-DM Toolkit/Home.md",
+            "file": "Campaigns/Curriculum of Chaos/Curriculum of Chaos.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -239,12 +239,12 @@
       "rpg-manager:RPG Manager": false
     }
   },
-  "active": "9cd4b898c72b91d8",
+  "active": "dfe55cf897d09775",
   "lastOpenFiles": [
+    "Campaigns/Curriculum of Chaos/01. Adventures/Year 1/Year 1.md",
     "Campaigns/Curriculum of Chaos/Curriculum of Chaos.md",
     "1-DM Toolkit/Home.md",
     "Campaigns/Curriculum of Chaos/01. Adventures/Year 1/Chapters/Orientation Challenge.md",
-    "Campaigns/Curriculum of Chaos/01. Adventures/Year 1/Year 1.md",
     "Campaigns/Curriculum of Chaos/01. Adventures/Year 1/Chapters",
     "Campaigns/Curriculum of Chaos/01. Adventures/Year 1",
     "Campaigns/Curriculum of Chaos/01. Adventures",
