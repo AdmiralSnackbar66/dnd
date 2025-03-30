@@ -3,6 +3,29 @@ obsidianUIMode: preview
 ---
 
 
+
+```meta-bind-button
+label: New Campaign
+icon: ""
+style: primary
+class: ""
+cssStyle: ""
+backgroundImage: ""
+tooltip: ""
+id: ""
+hidden: false
+actions:
+  - type: command
+    command: rpg-manager:rpg-manager-create-campaign
+```
+```dataview  
+TABLE WITHOUT ID link(file.name) AS "Campaign"
+from "Campaigns"
+where type = "Campaign"
+SORT file.mtime DESC
+```
+
+
 > [!cards|4]
 > **[[Map-Strixhaven]]**
 > [![[Strixhaven.png]]](Strixhaven)
@@ -17,7 +40,21 @@ obsidianUIMode: preview
 > [![[PartyLogo.jpg\|sban htiny ctr p+t]]|](Party%201%2FExample%20Party%201)
 
 # Sessions
+```meta-bind-button
+label: New Session
+icon: ""
+style: primary
+class: ""
+cssStyle: ""
+backgroundImage: ""
+tooltip: ""
+id: ""
+hidden: false
+actions:
+  - type: command
+    command: rpg-manager:rpg-manager-create-session
 
+```
 > [!infobox]
 > # Session Journals
 > ```dataview

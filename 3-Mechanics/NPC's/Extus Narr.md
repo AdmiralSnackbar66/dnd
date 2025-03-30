@@ -52,7 +52,7 @@ The assault on Strixhaven became the perfect misdirection for Extus’s true goa
 > ```statblock
 > name: Extus Narr
 > monster: Extus Narr
-> columns: 3
+> columns: 2
 > ```
 
 
