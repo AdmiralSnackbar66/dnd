@@ -1,3 +1,6 @@
+---
+type: Campaign
+---
 
 ```RpgManager4
 id: 
