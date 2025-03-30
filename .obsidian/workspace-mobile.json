@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "z_templates/Session.md",
-                "mode": "source",
+                "file": "z_templates/TemplateNPC.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Session"
+              "title": "TemplateNPC"
             }
           }
         ]
@@ -198,10 +198,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d12a58bd72da108e",
+  "active": "dfe55cf897d09775",
   "lastOpenFiles": [
     "z_templates/TemplateJournal.md",
-    "z_templates/Session.md",
+    "z_templates/Journal Entry.md",
     "3-Mechanics/NPC's/Murgaxor Grenshel.md",
     "3-Mechanics/CLI/tables/monsters-by-habitat-arctic-monsters-xmm.md",
     "3-Mechanics/CLI/rules/variant-rules/death-saving-throw-xphb.md",
