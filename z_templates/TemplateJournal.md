@@ -17,7 +17,7 @@ tags:
   - journal
 ---
 %% Review the comments %%
-> [!NOTE] Review the characters
+> [!Tip] Review the characters
 > Contents
 
 
