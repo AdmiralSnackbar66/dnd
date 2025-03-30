@@ -1,3 +1,10 @@
+---
+sessionDate: 
+NoteIcon: journal
+sessionNum: 
+sessionstatus:
+  - Prep
+---
 
 %%
 >[!summary] About This Template
@@ -9,17 +16,17 @@
 
 # Review the Characters
 
-[](https://github.com/phd20/obsidian-ttrpg-vault/blob/main/%CE%A9_utilities/templates/session-prep.md#review-the-characters)
+>[!tip] Review the Characters
+>Before we do anything else, it helps to spend a few minutes reviewing the player characters.  What are their names? What do they want? What plays into their backgrounds? What do the players of these characters enjoy to do at the table?
+>
+>You might not even write anything down during this step, but reviewing the characters helps wire them into your mind - and ensures that the rest of your preparation fits around them.
 
-%%
-
-Tip
-
-![[The Eight Steps of Lazy RPG Prep#Review the Characters]]
-
-%%
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+```dataview
+TABLE WITHOUT ID link(file.name) AS "Character Name", Player, Race, Class, ac, pasperc As "Pass Perc (WIS)"
+from "2-Party"
+where contains(Role, "Player") 
+where contains(Status, "Active")
+```
 
 # Create a Strong Start
 
@@ -78,8 +85,6 @@ Tip
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 # Outline Important NPCs
-
-[](https://github.com/phd20/obsidian-ttrpg-vault/blob/main/%CE%A9_utilities/templates/session-prep.md#outline-important-npcs)
 
 %%
 

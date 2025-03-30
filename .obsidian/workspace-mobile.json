@@ -14,8 +14,8 @@
               "type": "markdown",
               "state": {
                 "file": "z_templates/Journal Entry.md",
-                "mode": "preview",
-                "source": false
+                "mode": "source",
+                "source": true
               },
               "icon": "lucide-file",
               "title": "Journal Entry"
@@ -100,7 +100,8 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 0,
+    "pinned": true
   },
   "right": {
     "id": "dd62c27c3c040a83",
@@ -173,14 +174,50 @@
           "icon": "lucide-file",
           "title": "Plugin no longer active"
         }
+      },
+      {
+        "id": "82c17fa2acff00b3",
+        "type": "leaf",
+        "state": {
+          "type": "initiative-tracker-view",
+          "state": {},
+          "icon": "initiative-tracker",
+          "title": "Initiative Tracker"
+        }
+      },
+      {
+        "id": "f72322a691fc565e",
+        "type": "leaf",
+        "state": {
+          "type": "DICE_ROLLER_VIEW",
+          "state": {},
+          "icon": "dices",
+          "title": "Dice Tray"
+        }
+      },
+      {
+        "id": "82abc737bf8cffb9",
+        "type": "leaf",
+        "state": {
+          "type": "advanced-tables-toolbar",
+          "state": {},
+          "icon": "spreadsheet",
+          "title": "Advanced Tables"
+        }
       }
     ],
-    "currentTab": 0
+    "currentTab": 7
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-custom-frames:Open Elvis Parsley - DND Beyond": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
+      "obsidian-custom-frames:Open Elvis Parsley - DND Beyond": false,
       "obsidian-5e-statblocks:Open Creature pane": false,
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "obsidian-excalidraw-plugin:New drawing": false,
@@ -190,19 +227,18 @@
       "helpmate:HelpMate": false,
       "solo-rpg-toolkit:Solo RPG Toolkit": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "rpg-manager:RPG Manager": false
     }
   },
   "active": "d12a58bd72da108e",
   "lastOpenFiles": [
+    "z_templates/3_Dataview Templates/3_Dataview Templates.md",
+    "z_templates/3_Dataview Templates/Dataview - Query TTRPG Statblocks.md",
+    "z_templates/3_Dataview Templates/Query Outgoing Links.md",
+    "1-DM Toolkit/DM Board.md",
+    "z_templates/Journal Entry.md",
     "z_templates/TemplateNPC.md",
     "z_templates/TemplateJournal.md",
-    "z_templates/Journal Entry.md",
     "3-Mechanics/NPC's/Murgaxor Grenshel.md",
     "3-Mechanics/CLI/tables/monsters-by-habitat-arctic-monsters-xmm.md",
     "3-Mechanics/CLI/rules/variant-rules/death-saving-throw-xphb.md",
@@ -232,10 +268,6 @@
     "3-Mechanics/CLI/lists/list-spells-optional-features-mask-of-many-faces-xphb.md",
     "3-Mechanics/CLI/bestiary/npc/nezznar-the-black-spider-lmop.md",
     "3-Mechanics/CLI/items/pistol-xphb.md",
-    "3-Mechanics/CLI/classes/wizard-xphb-diviner-xphb.md",
-    "3-Mechanics/CLI/spells/sleet-storm-xphb.md",
-    "3-Mechanics/CLI/rules/variant-rules/object-xphb.md",
-    "3-Mechanics/CLI/bestiary/humanoid/astral-elf-warrior-bam.md",
     "3-Mechanics/CLI/traps-hazards/img",
     "3-Mechanics/CLI/objects/img",
     "3-Mechanics/CLI/bestiary/token",
