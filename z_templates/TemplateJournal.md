@@ -17,10 +17,7 @@ tags:
   - journal
 ---
 %% Review the comments %%
-> [!Tip] Review the characters
-> Contents
-
-
+> [!Tip] Review the charac
 
 ## Roster 
 - 
