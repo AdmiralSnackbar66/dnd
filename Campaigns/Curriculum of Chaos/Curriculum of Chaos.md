@@ -6,12 +6,10 @@ type: Campaign
 id: 
   type: "campaign"
 tasks: 
-  - id: "25b932ad-d9fd-4616-8dbd-6f1fb02f1581"
+  - id: "49618a54-316b-4e0f-b49c-6f663649641a"
     priority: 1
     name: "Complete Campaign"
     description: "Complete Campaign Curriculum of Chaos"
     type: "creation"
     status: "proposed"
-data: 
-  _type: ""
 ```
