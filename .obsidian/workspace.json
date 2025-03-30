@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "aa06d2794b4458db",
+        "id": "a5224cb1f4d1967c",
         "type": "tabs",
         "children": [
           {
-            "id": "5d018cdc6aca05c9",
+            "id": "77bf602bcadf6ccf",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -277,8 +277,11 @@
       "rpg-manager:RPG Manager": false
     }
   },
-  "active": "5d018cdc6aca05c9",
+  "active": "77bf602bcadf6ccf",
   "lastOpenFiles": [
+    "content/dnd/dnd.md",
+    "content/index.md",
+    "1-DM Toolkit/Home.md",
     "content/Our Disney Adventure.md",
     "content/dnd/Curriculum of Chaos/0 - Sessions/0 - Sessions.md",
     "content/dnd/Curriculum of Chaos/Curriculum of Chaos.md",
@@ -286,7 +289,6 @@
     "content/dnd/Curriculum of Chaos/1 - Player Characters",
     "content/dnd",
     "content/blog/blog.md",
-    "content/index.md",
     "z_Templates/DnD Character Sheet.md",
     "content/dnd/Curriculum of Chaos",
     "z_Templates/All Alternate Themes (ITS Theme).md",
@@ -309,7 +311,6 @@
     "Campaigns/Strixhaven/01. Adventures/Curriculum of Chaos/Chapters",
     "3-Mechanics/CLI/bestiary/monstrosity/mimic-xmm.md",
     "3-Mechanics/CLI/books/monster-manual-2025/2-monsters-a-to-z.md",
-    "1-DM Toolkit/Home.md",
     "Campaigns/Strixhaven/11. Monsters",
     "3-Mechanics/CLI/books/dungeon-masters-guide-2024/img/000-00-001-magic-game-table.webp",
     "Campaigns/Strixhaven/02. Sessions/Session 0 - The kickoff",
