@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-DM Toolkit/Home.md",
+                "file": "Campaigns/Curriculum of Chaos/01. Adventures/Year 1/Year 1.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "Year 1"
             }
           }
         ]
@@ -146,7 +146,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "1-DM Toolkit/Home.md",
+            "file": "Campaigns/Curriculum of Chaos/01. Adventures/Year 1/Year 1.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -204,10 +204,19 @@
           "icon": "spreadsheet",
           "title": "Advanced Tables"
         }
+      },
+      {
+        "id": "d177828cd07db104",
+        "type": "leaf",
+        "state": {
+          "type": "fantasy-statblocks-creature-pane",
+          "state": {},
+          "icon": "skull",
+          "title": "Combatant"
+        }
       }
     ],
-    "currentTab": 2,
-    "pinned": true
+    "currentTab": 8
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -231,12 +240,16 @@
       "rpg-manager:RPG Manager": false
     }
   },
-  "active": "dfe55cf897d09775",
+  "active": "29e9114f57210595",
   "lastOpenFiles": [
-    "Campaigns/Curriculum of Chaos/01. Adventures/Year 1/Chapters/Campus Kerfuffle.md",
-    "Campaigns/Curriculum of Chaos/01. Adventures/Year 1/Year 1.md",
     "Campaigns/Curriculum of Chaos/Curriculum of Chaos.md",
+    "Campaigns/Curriculum of Chaos/01. Adventures/Year 1/Year 1.md",
+    "Campaigns/Curriculum of Chaos/01. Adventures/Year 1",
+    "Campaigns/Curriculum of Chaos/01. Adventures",
     "1-DM Toolkit/Home.md",
+    "Campaigns/Curriculum of Chaos",
+    "Campaigns",
+    "Campaigns/Curriculum of Chaos/01. Adventures/Year 1/Chapters/Campus Kerfuffle.md",
     "z_templates/Journal Entry.md",
     "content/dnd/Curriculum of Chaos/0 - Sessions/0 - Sessions.md",
     "content/dnd/Curriculum of Chaos/0 - Sessions",
@@ -251,10 +264,6 @@
     "content/dnd/index.md",
     "content/dnd",
     "Campaigns/Curriculum of Chaos/01. Adventures/Year 1/Chapters",
-    "Campaigns/Curriculum of Chaos/01. Adventures/Year 1",
-    "Campaigns/Curriculum of Chaos/01. Adventures",
-    "Campaigns/Curriculum of Chaos",
-    "Campaigns",
     "z_templates/3_Dataview Templates/3_Dataview Templates.md",
     "z_templates/3_Dataview Templates/Dataview - Query TTRPG Statblocks.md",
     "z_templates/3_Dataview Templates/Query Outgoing Links.md",
@@ -271,7 +280,6 @@
     "3-Mechanics/CLI/items/img/cube-of-summoning.webp",
     "3-Mechanics/CLI/adventures/light-of-xaryxis/img/045-map-12-03-cathedral-of-light-player.webp",
     "3-Mechanics/CLI/bestiary/dragon/token/black-dragon-wyrmling-xmm.webp",
-    "3-Mechanics/CLI/bestiary/beast/raven-xmm.md",
     "3-Mechanics/CLI/bestiary/npc/token/hastain-lox.webp",
     "3-Mechanics/CLI/bestiary/monstrosity/token/bulette-xmm.webp",
     "3-Mechanics/CLI/bestiary/celestial/token/giant-eagle-xmm.webp",
