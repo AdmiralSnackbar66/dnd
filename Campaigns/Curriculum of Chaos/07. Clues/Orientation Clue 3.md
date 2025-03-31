@@ -691,4 +691,11 @@ relationships:
 
 
 
+
+
+
+
+
+
 [[Campaigns/Curriculum of Chaos/Curriculum of Chaos.md|]]
+[[Campaigns/Curriculum of Chaos/Orientation Challenge.md|]]
