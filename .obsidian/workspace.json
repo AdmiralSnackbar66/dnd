@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8a77294a6dbd4448",
+        "id": "36701158de06ff83",
         "type": "tabs",
         "children": [
           {
-            "id": "f51c68b1158876b9",
+            "id": "776fb3bc1ca10e76",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,8 +20,25 @@
               "icon": "lucide-file",
               "title": "Home"
             }
+          },
+          {
+            "id": "cb0b97a4f46cbad9",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "1-DM Toolkit/DnD5e-DM Screen-2014.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": []
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "DnD5e-DM Screen-2014"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -198,7 +215,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-DM Toolkit/DM Board.md",
+                "file": "1-DM Toolkit/DnD5e-DM Screen-2014.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,7 +225,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for DM Board"
+              "title": "Backlinks for DnD5e-DM Screen-2014"
             }
           },
           {
@@ -217,42 +234,21 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-DM Toolkit/DM Board.md",
+                "file": "1-DM Toolkit/DnD5e-DM Screen-2014.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from DM Board"
-            }
-          },
-          {
-            "id": "e2066116cb03746e",
-            "type": "leaf",
-            "state": {
-              "type": "file-properties",
-              "state": {
-                "file": "1-DM Toolkit/Home.md"
-              },
-              "icon": "lucide-info",
-              "title": "File properties for Home"
-            }
-          },
-          {
-            "id": "9a33b87b92dbffe8",
-            "type": "leaf",
-            "state": {
-              "type": "rpg-manager-options",
-              "state": {},
-              "icon": "d20",
-              "title": "RPG Manager"
+              "title": "Outgoing links from DnD5e-DM Screen-2014"
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 435.5
+    "width": 435.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -274,57 +270,58 @@
       "obsidian-5e-statblocks:Open Creature pane": false,
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "rpg-manager:RPG Manager": false
+      "rpg-manager:RPG Manager": false,
+      "obsidian-import-json:JSON/CSV Importer": false
     }
   },
-  "active": "f51c68b1158876b9",
+  "active": "2911de48d50d504c",
   "lastOpenFiles": [
-    "Campaigns/Curriculum of Chaos/Curriculum of Chaos.md",
-    "1-DM Toolkit/Home.md",
-    "1-DM Toolkit/Strixhaven.md",
-    "Campaigns/Curriculum of Chaos/01. Adventures/Year 1/Chapters/Campus Kerfuffle.md",
-    "Campaigns/Curriculum of Chaos/01. Adventures/Year 1/Year 1.md",
-    "Campaigns/Curriculum of Chaos/01. Adventures/Year 1/Chapters",
-    "Campaigns/Curriculum of Chaos/01. Adventures/Year 1",
-    "Campaigns/Curriculum of Chaos/01. Adventures",
-    "Campaigns/Curriculum of Chaos",
-    "z_Templates/3_Dataview Templates/Query Outgoing Links.md",
-    "0-Scratch Notes/Orientation Clue 1.md",
-    "2-Party/Strixhaven Party/Strixhaven Party.md",
-    "2-Party/Strixhaven Party/Elvis Parsley.md",
-    "2-Party/Strixhaven Party/Elvis Parsley 1.md",
-    "3-Mechanics/NPC's/Extus Narr.md",
-    "Campaigns/Curriculum of Chaos/02. Sessions/Session -1.md",
-    "3-Mechanics/NPC's/Murgaxor Grenshel.md",
-    "3-Mechanics/NPC's/Jadzi.md",
-    "Campaigns/Curriculum of Chaos/03. Non Player Characters/test.md",
-    "Campaigns/Curriculum of Chaos/03. Non Player Characters",
-    "Campaigns/Curriculum of Chaos/01. Adventures/Campus Kerfuffle/Chapters/Orientation Challenge.md",
-    "Campaigns/Curriculum of Chaos/02. Sessions/Session - 0/Session - 0.md",
-    "Campaigns/Curriculum of Chaos/02. Sessions/Session -1/Session -1.md",
-    "Campaigns/Curriculum of Chaos/02. Sessions/Session -1",
-    "Campaigns/Curriculum of Chaos/02. Sessions/Session - 0/Scenes/Orientation.md",
-    "Campaigns/Curriculum of Chaos/02. Sessions/Session - 0/Scenes/Biblioplex.md",
-    "Campaigns/Curriculum of Chaos/02. Sessions/Session - 0/Scenes/Dorm Room.md",
-    "Campaigns/Curriculum of Chaos/02. Sessions/Session - 0/Scenes",
-    "z_Templates/Journal Entry.md",
-    "Campaigns/Curriculum of Chaos/02. Sessions/Session - 0",
-    "Campaigns/Curriculum of Chaos/02. Sessions",
-    "Campaigns/Curriculum of Chaos/02. Sessions/Session 0/Session 0.md",
-    "2-Party/Strixhaven Party/Zolon Orielson.md",
-    "Campaigns/Curriculum of Chaos/02. Sessions/Session 0",
-    "z_Templates/TemplateJournal.md",
-    "2-Party/Strixhaven Party/Borun Erutan.md",
-    "3-Mechanics/CLI/books/dungeon-masters-guide-2024/img/000-00-001-magic-game-table.webp",
-    "3-Mechanics/CLI/spells/img/vitriolic-sphere.webp",
-    "3-Mechanics/CLI/spells/img/vicious-mockery.webp",
-    "3-Mechanics/CLI/spells/img/water-walk.webp",
-    "3-Mechanics/CLI/spells/img/yolandes-regal-presence.webp",
-    "3-Mechanics/CLI/spells/img/witch-bolt.webp",
-    "3-Mechanics/CLI/spells/img/water-breathing.webp",
-    "3-Mechanics/CLI/spells/img/tensers-floating-disk.webp",
-    "3-Mechanics/CLI/spells/img/tree-stride.webp",
-    "3-Mechanics/CLI/spells/img/summon-undead.webp",
+    "z_Example Notes/z_Example Notes.md",
+    "z_Example Notes/Realm Design Form.md",
+    "z_Example Notes",
+    "2-World/Lampoteuo/Lampoteuo City/Noble District/Lucky Grain Inn/Lucky Grain Inn.md",
+    "2-World/Lampoteuo/Lampoteuo City/Noble District/Lucky Grain Inn",
+    "2-World/Lampoteuo/The Wound/The Wound.md",
+    "2-World/Lampoteuo/Lampoteuo City/Noble District",
+    "2-World/Lampoteuo/Creepers Cave/Creepers Cave.md",
+    "2-World/Lampoteuo/Lampoteuo City/Lampoteuo City.md",
+    "2-World/Lampoteuo/The Wound",
+    "2-World/Lampoteuo/Lampoteuo.md",
+    "2-World/Lampoteuo/Lampoteuo City",
+    "2-World/Lampoteuo/Creepers Cave",
+    "2-World/Lampoteuo",
+    "2-World/Arcavios/Strixhaven University/Strixhaven University.md",
+    "2-World/Arcavios/Strixhaven University",
+    "2-World/Arcavios/Arcavios.md",
+    "2-World/Arcavios",
+    "2-World/Test.md",
+    "2-World/Ruins of The Twilight Palace.md",
+    "2-World/New Home Town.md",
+    "2-World/Logger's Camp.md",
+    "2-World",
+    "3-Mechanics - Copy/CLI/bestiary/celestial/sphinx-of-lore-xmm.md",
+    "3-Mechanics - Copy/CLI/bestiary/celestial/unicorn-xmm.md",
+    "3-Mechanics - Copy/CLI/bestiary/celestial/starlight-apparition-bam.md",
+    "3-Mechanics - Copy/CLI/bestiary/celestial/sphinx-of-wonder-xmm.md",
+    "3-Mechanics - Copy/CLI/bestiary/celestial/sphinx-of-secrets-xmm.md",
+    "3-Mechanics - Copy/CLI/bestiary/celestial/sphinx-of-valor-xmm.md",
+    "3-Mechanics - Copy/CLI/bestiary/celestial/reigar-bam.md",
+    "3-Mechanics - Copy/CLI/bestiary/celestial/solar-xmm.md",
+    "3-Mechanics - Copy/CLI/bestiary/celestial/planetar-xmm.md",
+    "3-Mechanics - Copy/CLI/bestiary/celestial/pegasus-xmm.md",
+    "3-Mechanics - Copy/CLI/bestiary/celestial/mercane-bam.md",
+    "3-Mechanics - Copy/CLI/bestiary/celestial/kindori-bam.md",
+    "3-Mechanics - Copy/CLI/bestiary/celestial/guardian-naga-xmm.md",
+    "3-Mechanics - Copy/CLI/bestiary/beast/token/wolf-xmm.webp",
+    "3-Mechanics - Copy/CLI/bestiary/beast/token/warhorse-xmm.webp",
+    "3-Mechanics - Copy/CLI/bestiary/beast/token/venomous-snake-xmm.webp",
+    "3-Mechanics - Copy/CLI/bestiary/beast/token/vulture-xmm.webp",
+    "3-Mechanics - Copy/CLI/bestiary/beast/token/weasel-xmm.webp",
+    "3-Mechanics - Copy/CLI/bestiary/beast/token/tyrannosaurus-rex-xmm.webp",
+    "3-Mechanics - Copy/CLI/bestiary/beast/token/triceratops-xmm.webp",
+    "3-Mechanics - Copy/CLI/bestiary/beast/token/tiger-xmm.webp",
+    "3-Mechanics - Copy/CLI/bestiary/beast/token/swarm-of-venomous-snakes-xmm.webp",
+    "3-Mechanics - Copy/CLI/bestiary/beast/token/swarm-of-ravens-xmm.webp",
     "0-Scratch Notes/Untitled.canvas",
     "Untitled.canvas"
   ]

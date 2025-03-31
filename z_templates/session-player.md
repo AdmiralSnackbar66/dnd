@@ -35,3 +35,6 @@ art: ""
 
 ## Log
 
+### Summary
+
+This is where the summary of the adventure gets saved
