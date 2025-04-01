@@ -4,41 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "36701158de06ff83",
+        "id": "7564859131a07589",
         "type": "tabs",
         "children": [
           {
-            "id": "776fb3bc1ca10e76",
+            "id": "41e3420b583d5771",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "1-DM Toolkit/Home.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Home"
             }
-          },
-          {
-            "id": "cb0b97a4f46cbad9",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "1-DM Toolkit/DnD5e-DM Screen-2014.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": []
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "DnD5e-DM Screen-2014"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -241,9 +224,19 @@
               "icon": "links-going-out",
               "title": "Outgoing links from DnD5e-DM Screen-2014"
             }
+          },
+          {
+            "id": "35c25dc94c9be1f1",
+            "type": "leaf",
+            "state": {
+              "type": "rpg-manager-options",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -270,12 +263,34 @@
       "obsidian-5e-statblocks:Open Creature pane": false,
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "rpg-manager:RPG Manager": false,
-      "obsidian-import-json:JSON/CSV Importer": false
+      "obsidian-import-json:JSON/CSV Importer": false,
+      "rpg-manager:RPG Manager": false
     }
   },
-  "active": "2911de48d50d504c",
+  "active": "41e3420b583d5771",
   "lastOpenFiles": [
+    "Campaigns/Curriculum of Chaos/Curriculum of Chaos.md",
+    "Campaigns/Curriculum of Chaos/08. Player Characters/Elvis Parsley.md",
+    "1-DM Toolkit/Home.md",
+    "3-Mechanics/NPC's/Extus Narr.md",
+    "Campaigns/Curriculum of Chaos/03. Non Player Characters/Elvis Parsley.md",
+    "Campaigns/Curriculum of Chaos/03. Non Player Characters",
+    "Campaigns/Curriculum of Chaos/03. Non Player Characters/Extus Narr.md",
+    "3-Mechanics/NPC's",
+    "1-DM Toolkit/Elvis Parsley.md",
+    "1-Party/Strixhaven Party/Strixhaven Party.md",
+    "Campaigns/Curriculum of Chaos/02. Sessions/Session 0 - Welcome to Strixhaven/Session 0 - Welcome to Strixhaven.md",
+    "1-DM Toolkit/DM Board.md",
+    "Session 0 - Welcome to Strixhaven.md",
+    "Campaigns/Curriculum of Chaos/08. Player Characters",
+    "Campaigns/Curriculum of Chaos/02. Sessions/Session 0 - Welcome to Strixhaven",
+    "Campaigns/Curriculum of Chaos/02. Sessions",
+    "Campaigns/Curriculum of Chaos",
+    "Campaigns",
+    "1-DM Toolkit/Strixhaven.md",
+    "1-DM Toolkit/NewJournal.md",
+    "2-World/Arcavios/Arcavios.md",
+    "1-DM Toolkit/DnD5e-DM Screen-2014.md",
     "z_Example Notes/z_Example Notes.md",
     "z_Example Notes/Realm Design Form.md",
     "z_Example Notes",
@@ -285,33 +300,11 @@
     "2-World/Lampoteuo/Lampoteuo City/Noble District",
     "2-World/Lampoteuo/Creepers Cave/Creepers Cave.md",
     "2-World/Lampoteuo/Lampoteuo City/Lampoteuo City.md",
-    "2-World/Lampoteuo/The Wound",
     "2-World/Lampoteuo/Lampoteuo.md",
-    "2-World/Lampoteuo/Lampoteuo City",
-    "2-World/Lampoteuo/Creepers Cave",
-    "2-World/Lampoteuo",
     "2-World/Arcavios/Strixhaven University/Strixhaven University.md",
-    "2-World/Arcavios/Strixhaven University",
-    "2-World/Arcavios/Arcavios.md",
-    "2-World/Arcavios",
     "2-World/Test.md",
     "2-World/Ruins of The Twilight Palace.md",
     "2-World/New Home Town.md",
-    "2-World/Logger's Camp.md",
-    "2-World",
-    "3-Mechanics - Copy/CLI/bestiary/celestial/sphinx-of-lore-xmm.md",
-    "3-Mechanics - Copy/CLI/bestiary/celestial/unicorn-xmm.md",
-    "3-Mechanics - Copy/CLI/bestiary/celestial/starlight-apparition-bam.md",
-    "3-Mechanics - Copy/CLI/bestiary/celestial/sphinx-of-wonder-xmm.md",
-    "3-Mechanics - Copy/CLI/bestiary/celestial/sphinx-of-secrets-xmm.md",
-    "3-Mechanics - Copy/CLI/bestiary/celestial/sphinx-of-valor-xmm.md",
-    "3-Mechanics - Copy/CLI/bestiary/celestial/reigar-bam.md",
-    "3-Mechanics - Copy/CLI/bestiary/celestial/solar-xmm.md",
-    "3-Mechanics - Copy/CLI/bestiary/celestial/planetar-xmm.md",
-    "3-Mechanics - Copy/CLI/bestiary/celestial/pegasus-xmm.md",
-    "3-Mechanics - Copy/CLI/bestiary/celestial/mercane-bam.md",
-    "3-Mechanics - Copy/CLI/bestiary/celestial/kindori-bam.md",
-    "3-Mechanics - Copy/CLI/bestiary/celestial/guardian-naga-xmm.md",
     "3-Mechanics - Copy/CLI/bestiary/beast/token/wolf-xmm.webp",
     "3-Mechanics - Copy/CLI/bestiary/beast/token/warhorse-xmm.webp",
     "3-Mechanics - Copy/CLI/bestiary/beast/token/venomous-snake-xmm.webp",

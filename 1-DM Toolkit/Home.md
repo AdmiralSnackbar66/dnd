@@ -1,9 +1,6 @@
 ---
 obsidianUIMode: preview
 ---
-
-
-
 ```meta-bind-button
 label: New Campaign
 icon: ""
@@ -17,27 +14,16 @@ hidden: false
 actions:
   - type: command
     command: rpg-manager:rpg-manager-create-campaign
+
 ```
+
 ```dataview  
-TABLE WITHOUT ID link(file.name) AS "Campaign"
+TABLE WITHOUT ID link(file.name) AS "Current Campaign"
 from "Campaigns"
-where type = "Campaign"
+where (noteicon = "Campaign")
+where (status = "Active")
 SORT file.mtime DESC
 ```
-
-
-> [!cards|4]
-> **[[Map-Strixhaven]]**
-> [![[Strixhaven.png]]](Strixhaven)
-> 
-> **[[Link]]**
-> [![[JourneyBoard.png\|sban htiny ctr]]](Journey%20Board)
->
-> **[[Link]]**
-> [![[AdventureIcon.png\|sban htiny ctr]]](Lampoteuo)
-> 
-> **[[Link]]**
-> [![[PartyLogo.jpg\|sban htiny ctr p+t]]|](Party%201%2FExample%20Party%201)
 
 # Sessions
 ```meta-bind-button
@@ -58,10 +44,11 @@ actions:
 > [!infobox]
 > # Session Journals
 > ```dataview
-TABLE WITHOUT ID link(file.name) AS "Session Date", Status, players
-from "3-Session Journals"
-where (type = "Session Journal")
-where (sessionstatus="Complete")
+TABLE WITHOUT ID link(file.name) AS "Session Date",sessionstatus as "Status" 
+  ,sessionDate as "Date"
+from "Campaigns"
+where (noteicon = "journal")
+where (campaignstatus="Active")
 SORT file.name DESC
 
 # Party Members
@@ -77,11 +64,12 @@ actions:
     fileName: NewPartyMember
 ```
 
+
 ```dataview  
-TABLE WITHOUT ID link(file.name) AS "Character Name", Player, Class, Race, level, Role  
-from "Campaign"  
-where (Role = "Player")  
-where (Status = "Active")  
+TABLE WITHOUT ID link(file.name) AS "Name", Race, Class, ac, hp, pasperc
+FROM "Campaigns/Curriculum of Chaos/08. Player Characters"
+WHERE (NoteIcon = "player") 
+SORT file.mtime DESC
 ```
 
 # Recently Modified NPCs
@@ -98,16 +86,15 @@ id: ""
 hidden: false
 actions:
   - type: command
-    command: quickadd:choice:bf10e7ec-f0f4-4fe7-96ec-889c5131754b
+    command: rpg-manager:rpg-manager-create-nonplayercharacter
 
 ```
 
 ```dataview  
-TABLE WITHOUT ID link(file.name) AS "NPC Name", Gender, Race, Age, Location, AssociatedGroup  
-FROM "3-Mechanics/NPC's"
-WHERE (NoteIcon = "npc") 
+TABLE WITHOUT ID link(file.name) AS "NPC Name", Race, Class, Location, AssociatedGroup  
+FROM "Campaigns/Curriculum of Chaos/03. Non Player Characters"
+WHERE (NoteIcon = "npc")
 SORT file.mtime DESC
-LIMIT 10
 ```
 
 
