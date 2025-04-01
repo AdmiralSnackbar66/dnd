@@ -1,29 +1,24 @@
 {
   "main": {
-    "id": "003a0ea6123246dc",
+    "id": "8bf8bf5dc58228d4",
     "type": "split",
     "children": [
       {
-        "id": "e5cfecdbb0c9fca8",
+        "id": "b207b94056f6aeb5",
         "type": "tabs",
         "children": [
           {
-            "id": "dd6f8b957d179dc1",
-        "id": "d42b13ceeabeeae5",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "0be8a7c068cf3098",
+            "id": "9057b4168e775cad",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaigns/Curriculum of Chaos/Curriculum of Chaos.md",
+                "file": "Campaigns/Curriculum of Chaos/Orientation Challenge.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Curriculum of Chaos"
+              "title": "Orientation Challenge"
             }
           }
         ]
@@ -32,11 +27,11 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "9b9a53c4a977a082",
+    "id": "3585a0aa9f19102c",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "23bf089cc282ce71",
+        "id": "44ffd25d5f269fae",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -49,7 +44,7 @@
         }
       },
       {
-        "id": "f368033ba1d125d9",
+        "id": "8aef8207ea7c0a9d",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -66,7 +61,7 @@
         }
       },
       {
-        "id": "4ebc5d43224df26c",
+        "id": "721fd65bde0bd283",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -81,7 +76,7 @@
         }
       },
       {
-        "id": "101f013706b2ce63",
+        "id": "068969ca6085f9ad",
         "type": "leaf",
         "state": {
           "type": "all-properties",
@@ -95,7 +90,7 @@
         }
       },
       {
-        "id": "ba32f5f224b2cdda",
+        "id": "5fb8be10ccdfb551",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -108,16 +103,16 @@
     "currentTab": 0
   },
   "right": {
-    "id": "6ced29d0bcbf968c",
+    "id": "b52e9479f5f1490a",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "bb5e8af34c301881",
+        "id": "f63a4d037f4ee9bd",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Campaigns/Curriculum of Chaos/Curriculum of Chaos.md",
+            "file": "Campaigns/Curriculum of Chaos/Orientation Challenge.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -131,12 +126,12 @@
         }
       },
       {
-        "id": "5a61f598688e4ce5",
+        "id": "e976980d55646c07",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Campaigns/Curriculum of Chaos/Curriculum of Chaos.md",
+            "file": "Campaigns/Curriculum of Chaos/Orientation Challenge.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -145,12 +140,12 @@
         }
       },
       {
-        "id": "dee1fc831bd83ad9",
+        "id": "d058889b6e0c7b86",
         "type": "leaf",
         "state": {
           "type": "outline",
           "state": {
-            "file": "Campaigns/Curriculum of Chaos/Curriculum of Chaos.md",
+            "file": "Campaigns/Curriculum of Chaos/Orientation Challenge.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -160,7 +155,7 @@
         }
       },
       {
-        "id": "8e7e87c0e5c7b089",
+        "id": "2c6292ba74af06df",
         "type": "leaf",
         "state": {
           "type": "initiative-tracker-view",
@@ -170,7 +165,7 @@
         }
       },
       {
-        "id": "51b899ed4b34cd0b",
+        "id": "8ba6b963727e8ad0",
         "type": "leaf",
         "state": {
           "type": "DICE_ROLLER_VIEW",
@@ -178,29 +173,6 @@
           "icon": "dices",
           "title": "Dice Tray"
         }
-      },
-      {
-        "id": "3b2a868967628797",
-        "type": "leaf",
-        "state": {
-          "type": "rpg-manager-options",
-          "state": {},
-          "icon": "d20",
-          "title": "RPG Manager"
-        }
-      },
-      {
-        "id": "f5fdd6314809b4e4",
-        "type": "leaf",
-        "state": {
-          "type": "MAIN_VIEW",
-          "state": {},
-          "icon": "srt-ribbon",
-          "title": "Solo RPG Toolkit"
-        }
-      }
-    ],
-    "currentTab": 6
       }
     ],
     "currentTab": 0
@@ -227,27 +199,10 @@
       "rpg-manager:RPG Manager": false
     }
   },
-  "active": "f5fdd6314809b4e4",
+  "active": "9057b4168e775cad",
   "lastOpenFiles": [
     "Campaigns/Curriculum of Chaos/01. Adventures/Year 1/Year 1.md",
     "Campaigns/Curriculum of Chaos/Curriculum of Chaos.md",
-    "Campaigns/Curriculum of Chaos/02. Sessions/Session 0 - Welcome to Strixhaven/Session 0 - Welcome to Strixhaven.md",
-    "Campaigns/Curriculum of Chaos/02. Sessions/Session 0 -  Welcome to Strixhaven/Session 0 -  Welcome to Strixhaven.md",
-    "Campaigns/Curriculum of Chaos/Orientation Challenge.md",
-    "Campaigns/Curriculum of Chaos/02. Sessions/Session 0 - Welcome to Strixhaven",
-    "1-DM Toolkit/Home.md",
-    "Campaigns/Curriculum of Chaos/02. Sessions/Session 0 -  Welcome to Strixhaven/Session 0 -  Welcome to Strixhaven.md.txt",
-    "Campaigns/Curriculum of Chaos/02. Sessions/Session 0 -  Welcome to Strixhaven/Scenes/Strixhaven dorm room.md",
-    "Campaigns/Curriculum of Chaos/02. Sessions/Session 0 -  Welcome to Strixhaven/Scenes/Strixhaven dorm roo m.md",
-    "Campaigns/Curriculum of Chaos/02. Sessions/Session 0 -  Welcome to Strixhaven/Scenes/Hall of Oracles.md",
-    "Campaigns/Curriculum of Chaos/02. Sessions/Session 0 -  Welcome to Strixhaven/Scenes",
-    "Campaigns/Curriculum of Chaos/02. Sessions/Session 0 -  Welcome to Strixhaven",
-    "Campaigns/Curriculum of Chaos/02. Sessions",
-    "Campaigns/Curriculum of Chaos/07. Clues/Orientation Clue 1.md",
-    "Campaigns/Curriculum of Chaos/07. Clues/Orientation - Clue 1.md",
-    "Campaigns/Curriculum of Chaos/07. Clues",
-    "Campaigns/Curriculum of Chaos/Orientation Clue 1.md"
+    "1-DM Toolkit/Home.md"
   ]
-  "active": "0be8a7c068cf3098",
-  "lastOpenFiles": []
 }
