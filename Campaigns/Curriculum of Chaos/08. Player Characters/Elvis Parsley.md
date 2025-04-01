@@ -17,9 +17,8 @@ Status: Active
 PlayerKnownLanguages:
   - Common
   - Common Sign Language
-  - Dwarvish
   - Elvish
-custom-frame: Elvis Parsley - DND Beyond
+  - Dwarvish
 ---
 ```custom-frames
 frame: Elvis Parsley - DND Beyond

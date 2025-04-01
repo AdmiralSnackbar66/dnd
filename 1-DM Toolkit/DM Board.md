@@ -11,14 +11,83 @@ where contains(Status, "Active")
 ```
 
 ```meta-bind-button
-label: New Journal Entry
-hidden: false
-id: ""
+label: New Campaign
+icon: ""
 style: primary
+class: ""
+cssStyle: ""
+backgroundImage: ""
+tooltip: ""
+id: ""
+hidden: false
 actions:
-  - type: templaterCreateNote
-    templateFile: "z_Templates/TemplateJournal.md"
-    fileName: NewJournal
+  - type: command
+    command: rpg-manager:rpg-manager-create-campaign
+
+```
+
+```meta-bind-button
+label: New Player Character
+icon: ""
+style: primary
+class: ""
+cssStyle: ""
+backgroundImage: ""
+tooltip: ""
+id: ""
+hidden: false
+actions:
+  - type: command
+    command: rpg-manager:rpg-manager-create-playercharacter
+
+```
+
+```meta-bind-button
+label: New NPC
+icon: ""
+style: primary
+class: ""
+cssStyle: ""
+backgroundImage: ""
+tooltip: ""
+id: ""
+hidden: false
+actions:
+  - type: command
+    command: rpg-manager:rpg-manager-create-nonplayercharacter
+
+```
+
+```meta-bind-button
+label: New RPG Session
+icon: ""
+style: primary
+class: ""
+cssStyle: ""
+backgroundImage: ""
+tooltip: ""
+id: ""
+hidden: false
+actions:
+  - type: command
+    command: rpg-manager:rpg-manager-create-session
+
+```
+
+```meta-bind-button
+label: New Session Journal
+icon: ""
+style: primary
+class: ""
+cssStyle: ""
+backgroundImage: ""
+tooltip: ""
+id: ""
+hidden: false
+actions:
+  - type: command
+    command: quickadd:choice:367b111a-1632-41fe-a4a7-480fa09ff0a3
+
 ```
 
 ```meta-bind-button

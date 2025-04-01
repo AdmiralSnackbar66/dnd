@@ -1,12 +1,13 @@
 ---
-type: Campaign
+noteIcon: Campaign
+Status: Active
 ---
 
 ```RpgManager4
 id: 
   type: "campaign"
 tasks: 
-  - id: "49618a54-316b-4e0f-b49c-6f663649641a"
+  - id: "0ae14ca7-d641-48fa-a38b-f4adf276a4ec"
     priority: 1
     name: "Complete Campaign"
     description: "Complete Campaign Curriculum of Chaos"

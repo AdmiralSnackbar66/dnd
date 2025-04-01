@@ -28,6 +28,10 @@
   "quickadd",
   "various-complements",
   "image-converter",
-  "rpg-manager",
-  "granite"
+  "granite",
+  "note-refactor-obsidian",
+  "share-note",
+  "obsidian-import-json",
+  "image-window",
+  "rpg-manager"
 ]
