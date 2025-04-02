@@ -17,6 +17,8 @@ actions:
 
 ```
 
+
+
 ```dataview  
 TABLE WITHOUT ID link(file.name) AS "Current Campaign"
 from "Campaigns"
