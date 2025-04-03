@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "09428fea74871bbd",
+        "id": "ef71f5bdbb87cb44",
         "type": "tabs",
         "children": [
           {
-            "id": "5bb4c6508c846a96",
+            "id": "9029d7f7f001b6b3",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -267,11 +267,18 @@
       "rpg-manager:RPG Manager": false
     }
   },
-  "active": "5bb4c6508c846a96",
+  "active": "9029d7f7f001b6b3",
   "lastOpenFiles": [
     "ttrpgs/TTRPGs Games Index.md",
+    "ttrpgs/PlayerCharacters/Zolon Orielson.md",
+    "ttrpgs/PlayerCharacters/Roleck Nevari.md",
+    "z_Templates/session-gm.md",
+    "ttrpgs/Campaigns/Strixhaven/001_20250403.md",
     "ttrpgs/Campaigns/Strixhaven/Strixhaven.md",
     "ttrpgs/Campaigns/Strixhaven",
+    "ttrpgs/Campaigns/Strixhaven/Sessions/001_20250403.md",
+    "ttrpgs/Campaigns/Strixhaven/Sessions",
+    "Sessions",
     "z_Templates/world.md",
     "ttrpgs/Non Player Characters/Extus Narr.md",
     "ttrpgs/Non Player Characters/Murgaxor Grenshel.md",
@@ -292,18 +299,12 @@
     "2-World/Strixhaven/Strixhaven.md",
     "2-World/Strixhaven",
     "z_Templates/New Session.md",
-    "z_Templates/session-gm.md",
     "z_Templates/Journal Entry.md",
     "z_Templates/TTRPG frontmatter.md",
     "z_Templates/New Session 1.md",
     "ttrpgs/Campaigns/Strixhaven/Elvis Parsley1.md",
     "ttrpgs",
-    "scripts/getThisWorld.js",
-    "scripts/getThisGameNum.js",
     "Excalidraw/Drawing 2025-04-01 14.57.05.excalidraw.md",
-    "Campaigns/Curriculum of Chaos/Orientation Challenge.md",
-    "Campaigns/Curriculum of Chaos/07. Clues/Orientation Clue 5.md",
-    "Campaigns/Curriculum of Chaos/07. Clues/Orientation Clue 4.md",
     "z_Assets/Untitled.canvas",
     "z_Assets/Strixhaven.png",
     "3-Mechanics - Copy/CLI/bestiary/beast/token/wolf-xmm.webp",
