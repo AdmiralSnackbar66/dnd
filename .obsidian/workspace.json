@@ -4,25 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "36799e0e497ff8b8",
+        "id": "09428fea74871bbd",
         "type": "tabs",
         "children": [
           {
-            "id": "2db534b88c0f3dc3",
+            "id": "5bb4c6508c846a96",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ttrpgs/TTRPGs Games Index.md",
-                "mode": "source",
+                "file": "ttrpgs/Campaigns/Strixhaven/Strixhaven.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TTRPGs Games Index"
+              "title": "Strixhaven"
             }
           }
-        ],
-        "stacked": true
+        ]
       }
     ],
     "direction": "vertical"
@@ -268,46 +267,45 @@
       "rpg-manager:RPG Manager": false
     }
   },
-  "active": "2db534b88c0f3dc3",
+  "active": "5bb4c6508c846a96",
   "lastOpenFiles": [
-    "2-Campaign/Strixhaven/Strixhaven.md",
     "ttrpgs/TTRPGs Games Index.md",
+    "ttrpgs/Campaigns/Strixhaven/Strixhaven.md",
+    "ttrpgs/Campaigns/Strixhaven",
+    "z_Templates/world.md",
+    "ttrpgs/Non Player Characters/Extus Narr.md",
+    "ttrpgs/Non Player Characters/Murgaxor Grenshel.md",
+    "ttrpgs/Non Player Characters/Jadzi.md",
+    "ttrpgs/Non Player Characters/Elvis Parsley.md",
+    "z_Templates/new ttrpg system.md",
+    "z_Templates/TemplatePartyMember.md",
+    "ttrpgs/PlayerCharacters/Borun Erutan.md",
+    "1-DM Toolkit/Home.md",
+    "ttrpgs/PlayerCharacters/Elvis Parsley.md",
+    "1-Party/Strixhaven Party/Strixhaven Party.md",
+    "ttrpgs/PlayerCharacters",
+    "ttrpgs/Player Characters",
+    "ttrpgs/Campaigns",
+    "2-Campaign/Strixhaven/Strixhaven.md",
     "2-Campaign/Strixhaven",
     "2-Campaigns",
     "2-World/Strixhaven/Strixhaven.md",
     "2-World/Strixhaven",
-    "1-DM Toolkit/Home.md",
-    "z_Templates/world.md",
     "z_Templates/New Session.md",
     "z_Templates/session-gm.md",
     "z_Templates/Journal Entry.md",
     "z_Templates/TTRPG frontmatter.md",
     "z_Templates/New Session 1.md",
-    "z_Templates/new ttrpg system.md",
-    "ttrpgs/Strixhaven/Elvis Parsley1.md",
-    "ttrpgs/Strixhaven",
+    "ttrpgs/Campaigns/Strixhaven/Elvis Parsley1.md",
     "ttrpgs",
     "scripts/getThisWorld.js",
     "scripts/getThisGameNum.js",
-    "scripts/getThisGameFilename.js",
-    "scripts/getThisGameFilename - Copy.js",
-    "scripts/getThisDate.js",
     "Excalidraw/Drawing 2025-04-01 14.57.05.excalidraw.md",
     "Campaigns/Curriculum of Chaos/Orientation Challenge.md",
     "Campaigns/Curriculum of Chaos/07. Clues/Orientation Clue 5.md",
     "Campaigns/Curriculum of Chaos/07. Clues/Orientation Clue 4.md",
-    "Campaigns/Curriculum of Chaos/07. Clues/Orientation Clue 3.md",
-    "1-DM Toolkit/NewPartyMember.md",
-    "Campaigns/Curriculum of Chaos/08. Player Characters/Elvis Parsley.md",
-    "z_Templates/PlayerCharacter.md",
-    "z_Templates/3_Dataview Templates/3_Dataview Templates.md",
-    "z_Assets/Drawing 2025-04-01 14.51.56.excalidraw.md",
     "z_Assets/Untitled.canvas",
-    "z_Assets/Drawing 2025-04-01 14.49.12.excalidraw.md",
     "z_Assets/Strixhaven.png",
-    "z_Assets/Drawing 2025-04-01 14.33.39.excalidraw.md",
-    "Campaigns/Curriculum of Chaos/Curriculum of Chaos.md",
-    "3-Mechanics/NPC's/Extus Narr.md",
     "3-Mechanics - Copy/CLI/bestiary/beast/token/wolf-xmm.webp",
     "3-Mechanics - Copy/CLI/bestiary/beast/token/warhorse-xmm.webp",
     "3-Mechanics - Copy/CLI/bestiary/beast/token/venomous-snake-xmm.webp",

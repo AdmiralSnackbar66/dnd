@@ -10,14 +10,16 @@ type: world
 
 ## Player Characters
 
--
+```dataview
+table player as "Player" from "ttrpgs/Strixhaven"
+where contains(type,"player")
+
+```
+
 
 ## Sessions
 
 *Put your cursor where the session link should be. Then, from the Command Palette (CMD/CTRL+P), select either QuickAdd: Macro - Add session-player or QuickAdd: Macro - Add session-gm*.
-
-
-
 
 ```dataview
 table summary as "Summary" from "ttrpgs/Strixhaven"

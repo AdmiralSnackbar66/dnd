@@ -4,18 +4,16 @@ tags:
   - player
 Player: 
 Role: Player
-Class:
-  - 
-Race:
-  - 
+Class: 
+Race: 
 level: 
 hp: 
 ac: 
 modifier: 
 pasperc: 
 Status: Active
-PlayerKnownLanguages:
-  - 
+PlayerKnownLanguages: 
+campaign:
 ---
 ```
 

@@ -11,7 +11,7 @@ Character-Role:
 Location: Strixhaven
 NoteIcon: npc
 Vitality: Alive
-exampleProperty:
+campaign: Strixhaven
 ---
 
 

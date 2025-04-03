@@ -1,12 +1,12 @@
 ---
-world: <% tp.user.getThisWorld(tp) %>
-campaign: <% tp.file.folder(false) %>
+world: Strixhaven
+campaign: Strixhaven
 status: active
 role: GM
 system: 
 type: world
 ---
-# The World of <% tp.file.folder(false) %>
+# The World of Strixhaven
 
 ## Player Characters
 
@@ -15,7 +15,7 @@ type: world
 TABLE WITHOUT ID link(file.name) AS "Name", Race, Class, ac, hp, pasperc
 FROM "ttrpgs"
 WHERE (NoteIcon = "player") 
-WHERE (campaign = "<%tp.file.title %>")
+WHERE (campaign = "Strixhaven")
 SORT file.mtime DESC
 ```
 
@@ -38,7 +38,7 @@ actions:
 ```
 
 ```dataview
-table summary as "Summary" from "ttrpgs/<% tp.file.folder(false) %>"
+table summary as "Summary" from "ttrpgs/Strixhaven"
 where contains(type,"session")
 SORT sessionNum ASC
 ```
@@ -69,7 +69,7 @@ actions:
 TABLE WITHOUT ID link(file.name) AS "Name", Race, Class
 FROM "ttrpgs"
 WHERE (NoteIcon = "npc") 
-WHERE (campaign = "<%tp.file.title%>")
+WHERE (campaign = "Strixhaven")
 SORT file.mtime DESC
 ```
 
@@ -92,12 +92,12 @@ actions:
 ```dataview
 TABLE description as "Description" from "ttrpgs"
 WHERE contains(lower(type),"faction")
-WHERE (campaign = "<%tp.file.title%>")
+WHERE (campaign = "Strixhaven")
 ```
 
 ## Custom rules
 
 - [[Character options]]
-- [[ttrpgs/<% tp.file.folder(false) %>/House Rules|House Rules]]
+- [[ttrpgs/Strixhaven/House Rules|House Rules]]
 
 ## [[Safety Tools]]
