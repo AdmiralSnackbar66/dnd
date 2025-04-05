@@ -1,4 +1,4 @@
-function getThisWorld (tp) {
+	function getThisWorld (tp) {
     const thisFolder = tp.file.folder(false)
     if (thisFolder == "Name of folder"){
         return "Name of world";

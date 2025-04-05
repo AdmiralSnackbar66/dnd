@@ -3,7 +3,7 @@ world: Strixhaven
 campaign: Strixhaven
 status: active
 role: GM
-system: 
+system: 5e
 type: world
 ---
 # The World of Strixhaven
@@ -21,6 +21,7 @@ SORT file.mtime DESC
 
 
 ## Sessions
+
 ```meta-bind-button
 label: New Session
 icon: ""
@@ -38,7 +39,7 @@ actions:
 ```
 
 ```dataview
-table summary as "Summary" from "ttrpgs/Strixhaven"
+table summary as "Summary" from "ttrpgs/Campaigns/Strixhaven"
 where contains(type,"session")
 SORT sessionNum ASC
 ```
@@ -94,6 +95,18 @@ TABLE description as "Description" from "ttrpgs"
 WHERE contains(lower(type),"faction")
 WHERE (campaign = "Strixhaven")
 ```
+## Locations
+
+
+```dataview  
+TABLE WITHOUT ID link(file.name) AS "Location"
+FROM "ttrpgs/Campaigns/Strixhaven/Locations"
+WHERE (NoteIcon = "location") 
+WHERE (campaign = "Strixhaven")
+SORT file.mtime DESC
+```
+
+
 
 ## Custom rules
 

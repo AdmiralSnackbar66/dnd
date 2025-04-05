@@ -4,21 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "ef71f5bdbb87cb44",
+        "id": "7bb7e411fb896a57",
         "type": "tabs",
         "children": [
           {
-            "id": "9029d7f7f001b6b3",
+            "id": "5903cca139946d71",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ttrpgs/Campaigns/Strixhaven/Strixhaven.md",
+                "file": "ttrpgs/Non Player Characters/Ellina Tanglewood.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ellina Tanglewood"
+            }
+          }
+        ]
+      },
+      {
+        "id": "d8a5c0aaf744578f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6dfc9505e7987c55",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ttrpgs/Campaigns/Strixhaven/Session Scripts/Session 0 - Welcome to Strixhaven.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Strixhaven"
+              "title": "Session 0 - Welcome to Strixhaven"
             }
           }
         ]
@@ -267,14 +287,33 @@
       "rpg-manager:RPG Manager": false
     }
   },
-  "active": "9029d7f7f001b6b3",
+  "active": "5903cca139946d71",
   "lastOpenFiles": [
+    "ttrpgs/Campaigns/Strixhaven/Session Scripts/Session 0 - Welcome to Strixhaven.md",
+    "ttrpgs/Campaigns/Strixhaven/001_20250404.md",
+    "ttrpgs/Campaigns/Strixhaven/Strixhaven.md",
+    "ttrpgs/Non Player Characters/Ellina Tanglewood.md",
+    "ttrpgs/Campaigns/Strixhaven/Locations/Firejolt Cafe.md",
+    "z_Assets/Biblioplex.png",
+    "z_Assets/Firejolt Cafe.png",
+    "ttrpgs/Campaigns/Strixhaven/Locations/Biblioplex.md",
+    "ttrpgs/Campaigns/Strixhaven/Locations/Hall of Oracles.md",
     "ttrpgs/TTRPGs Games Index.md",
+    "ttrpgs/Campaigns/Strixhaven/Locations",
+    "ttrpgs/Campaigns/Strixhaven/Session Scripts",
+    "Session Scripts/Session 0 - Welcome to Strixhaven.md",
+    "Session Scripts",
+    "0-Scratch Notes/Obsidian ideas.md",
+    "z_Templates/session-gm.md",
+    "z_Templates/session-player.md",
+    "ttrpgs/Campaigns/Campaigns/Strixhaven/001_20250404.md",
+    "ttrpgs/Campaigns/Campaigns/Strixhaven",
+    "ttrpgs/Campaigns/Campaigns",
+    "ttrpgs/Campaigns/Campaigns/Strixhaven/001_20250405.md",
+    "z_Templates/New Session.md",
     "ttrpgs/PlayerCharacters/Zolon Orielson.md",
     "ttrpgs/PlayerCharacters/Roleck Nevari.md",
-    "z_Templates/session-gm.md",
     "ttrpgs/Campaigns/Strixhaven/001_20250403.md",
-    "ttrpgs/Campaigns/Strixhaven/Strixhaven.md",
     "ttrpgs/Campaigns/Strixhaven",
     "ttrpgs/Campaigns/Strixhaven/Sessions/001_20250403.md",
     "ttrpgs/Campaigns/Strixhaven/Sessions",
@@ -286,25 +325,8 @@
     "ttrpgs/Non Player Characters/Elvis Parsley.md",
     "z_Templates/new ttrpg system.md",
     "z_Templates/TemplatePartyMember.md",
-    "ttrpgs/PlayerCharacters/Borun Erutan.md",
-    "1-DM Toolkit/Home.md",
-    "ttrpgs/PlayerCharacters/Elvis Parsley.md",
-    "1-Party/Strixhaven Party/Strixhaven Party.md",
     "ttrpgs/PlayerCharacters",
     "ttrpgs/Player Characters",
-    "ttrpgs/Campaigns",
-    "2-Campaign/Strixhaven/Strixhaven.md",
-    "2-Campaign/Strixhaven",
-    "2-Campaigns",
-    "2-World/Strixhaven/Strixhaven.md",
-    "2-World/Strixhaven",
-    "z_Templates/New Session.md",
-    "z_Templates/Journal Entry.md",
-    "z_Templates/TTRPG frontmatter.md",
-    "z_Templates/New Session 1.md",
-    "ttrpgs/Campaigns/Strixhaven/Elvis Parsley1.md",
-    "ttrpgs",
-    "Excalidraw/Drawing 2025-04-01 14.57.05.excalidraw.md",
     "z_Assets/Untitled.canvas",
     "z_Assets/Strixhaven.png",
     "3-Mechanics - Copy/CLI/bestiary/beast/token/wolf-xmm.webp",
@@ -314,8 +336,6 @@
     "3-Mechanics - Copy/CLI/bestiary/beast/token/weasel-xmm.webp",
     "3-Mechanics - Copy/CLI/bestiary/beast/token/tyrannosaurus-rex-xmm.webp",
     "3-Mechanics - Copy/CLI/bestiary/beast/token/triceratops-xmm.webp",
-    "3-Mechanics - Copy/CLI/bestiary/beast/token/tiger-xmm.webp",
-    "3-Mechanics - Copy/CLI/bestiary/beast/token/swarm-of-venomous-snakes-xmm.webp",
     "0-Scratch Notes/Untitled.canvas",
     "Untitled.canvas"
   ]

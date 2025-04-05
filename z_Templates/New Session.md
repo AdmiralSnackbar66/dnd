@@ -14,6 +14,7 @@ sessionNum: <%tp.user.getThisGameNum%>
 >[!tldr]  [[<% tp.file.title %>]]
 >^summary
 
+## Housekeeping
 ## Recap
 ![[<%tp.user.getLastGameTitle(tp)%>#^summary]]
 
@@ -25,11 +26,51 @@ sessionNum: <%tp.user.getThisGameNum%>
 >You might not even write anything down during this step, but reviewing the characters helps wire them into your mind - and ensures that the rest of your preparation fits around them.
 %%
  ```dataview
-TABLE WITHOUT ID link(file.name) AS "Character Name", Player, Race, Class, ac, pasperc As "Pass Perc (WIS)", choice(Field1, "☑", "☐") as Present
-from "2-Party/Strixhaven Party"
+TABLE WITHOUT ID link(file.name) AS "Character Name", Player, Race, Class, ac, pasperc As "Pass Perc (WIS)"
+from "ttrpgs"
 where contains(Role, "Player") 
-where contains(Status, "Active")
+where contains(campaign, "<%tp.file.folder(false)%>")
 ```
 
 ## Strong Start
+
+
+
+## Scenes
+
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+
+## Secrets and Clues
+
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+
+
+
+## Fantastic locations
+
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+
+
+
+## NPC's
+
+## Potential Monsters
+
+## Potential Treasure
+
+## Log
+
+
 
