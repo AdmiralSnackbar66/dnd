@@ -2,7 +2,7 @@
 NoteIcon: player
 tags:
   - player
-Player: 
+Player: Deakin
 Role: Player
 Class:
   - Sorcerer

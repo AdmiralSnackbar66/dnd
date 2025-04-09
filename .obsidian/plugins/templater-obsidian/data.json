@@ -1,6 +1,6 @@
 {
   "command_timeout": 5,
-  "templates_folder": "z_Templates",
+  "templates_folder": "z_templates",
   "templates_pairs": [
     [
       "",
@@ -13,7 +13,16 @@
   "shell_path": "",
   "user_scripts_folder": "scripts",
   "enable_folder_templates": true,
-  "folder_templates": [],
+  "folder_templates": [
+    {
+      "folder": "ttrpgs/Non Player Characters",
+      "template": "z_templates/New NPC.md"
+    },
+    {
+      "folder": "content/blog",
+      "template": "z_templates/New Blog Post.md"
+    }
+  ],
   "enable_file_templates": false,
   "file_templates": [
     {

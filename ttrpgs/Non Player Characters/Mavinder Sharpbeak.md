@@ -1,26 +1,25 @@
 ---
-AssociatedGroup: 
+AssociatedGroup: Silverquill
 Gender: Female
 Race:
-  - Elf
+  - Owlin
 Age: 
 Class:
-  - Mage
-Alignment: Chaotic Good
+  - Bard
+Alignment: 
 Character-Role: 
 Location: 
 NoteIcon: npc
-Vitality: Alive
-exampleProperty: 
 campaign: Strixhaven
 ---
 
+Untitled
 
 
 > [!infobox]
 > # `=this.file.name`
-> ![[ImagePlaceholder.png|cover hsmall]]
-> [[ImagePlaceholder.png|Show To Players]]
+> ![[z_Assets/Misc/ImagePlaceholder.png|cover hsmall]]
+> [[z_Assets/Misc/ImagePlaceholder.png|Show To Players]]
 > ###### Basic Information
 > Type |  Stat |
 > ---|---|
@@ -40,12 +39,13 @@ campaign: Strixhaven
 # `=this.file.name`
 ## Profile
 
+
 **<Add description here, extend it with AI Text Generator using Ctrl J>**
 
 > [!info] Statblock
 > ```statblock
-> name: Ellina Tanglewood
-> monster: 
+> name: Individual
+> monster: Commoner
 > columns: 1
 > ```
 
@@ -54,6 +54,3 @@ name: Individual
 creatures:
  - 1: Commoner
 ```
-
-
-

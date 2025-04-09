@@ -1,14 +1,39 @@
-
-> [!readaloud] Read to players
-> You suddenly awake in what appears to be a student common room.  Just a nightmare you think.... must be first day nerves.
-> A young Owlin is frantically trying to get everyone's attention.
->
->>> If I can just have everyones attention . Can all new students follow me to the [[Biblioplex]].  The next batch of orientation is about to start.  Come quickly please lets not dilly dally.
+>[!readaloud]
+> An excited gnome woman ducks through the throng of students in the foyer over to a fresh group mustering at the entrance.
 > 
->  They lead you out towards a huge room, filled with majestic marble archways, tomes seemingly stacked for miles, and the infectious energy of hundreds of young adults.  This is the famous Strixhaven [[Biblioplex]], the grand library at the heart of Strixhaven University. The sights, sounds, and sparks of magic in the air are wondrous.
->  Your acceptance letter stated that you would receive further instructions on the new-student orientation in the Biblioplex’s [[Biblioplex#B11. Hall of Oracles]]
->  
-> The hall sits at the centre of the Biblioplex’s first floor, and you can already see students gathering there.
+>>
+>>> First-years , first years can I have your attention.  My name is Rosimyffenbip Wuzfeddlims. But you can call me Rosie. What are your names, and what's your story?"
+
+>[!note] This is the point the players can introduce their characters
+>
+
+> [!readaloud]
+> >> This way! I'll show you to the Hall!"
+> 
+> She leads the group deeper into the Biblioplex. In an open chamber at the library's center, a large pulsing ball of light floats high in the air; a miniature blue sun dripping streams of sunlight that pool in an elevated basin. After a quick wink to the group, Rosie heads off to a line of tables leaving you in the charge of one of the faculty counselors. The sharp-looking owlin holds up a wing to silence chatter. 
+> 
+>>> I am [[ttrpgs/Non Player Characters/Mavinda Sharpbeak]], Professor of Radiance and a guidance counselor for first-year students. I would like to welcome you all to Strixhaven University. It is our mission here at Strixhaven to guide and inspire a new generation of students to embrace magical study and disseminate their knowledge to people throughout the worlds. Strixhaven was founded seven hundred years ago by 5 ancient dragons.   They were  Lorehold, Prismari, Quandrix, Silverquill, Witherbloom.  My department, Silverquill,  focuses on mastering the spoken and written word your tenure here will last four years, assuming your grades, behavior, and durability are satisfactory. While here you must attend class, study for exams, and pass your exams."
+
+
+
+
+> [!note] This is the point the players can introduce their characters
+
+> [!readaloud]
+>  Rosie turns to you and says
+> >>This way! I'll show you to the Hall! 
+> 
+> She leads you deeper into the Biblioplex. In an open chamber at the library's center, a large pulsing ball of light floats high in the air; a miniature blue sun dripping streams of sunlight that pool in an elevated basin. After a quick wink to the group, Rosie heads off to a line of tables leaving you in the charge of one of the faculty counselors.
+>
+>A sharp-looking owlin holds up a wing to silence chatter. 
+>>>Greeting students. I am Mavinda Sharpbeak, Professor of Radiance and  guidance counselor for first-year students. I would like to officially welcome you all to Strixhaven University.  It is our mission here at Strixhaven to guide and inspire a new generation of students to embrace magical study and disseminate their knowledge to people throughout the worlds. Now this university was founded some 700  years ago by ancient dragons. Can anyone guess how many founders there were .... and there names?
+
+> [! note] The school was founded by 5 ancient dragons.  Lorehold, Prismari, Quandrix, Silverquill and Witherbloom
+
+>[!readaloud]
+>
+>>> The university was founded by 5 ancient dragons, Lorehold, Prismari, Quandrix, Silverquill and Witherbloom.  Which are where the 5 departments of Strixhaven originated.  My department is Silverquill and our focus is on mastering the spoken and written word.   Your tenure here will last for five years, assuming your grades, behaviour and durability are satisfactory.  Whilkst you remain here it is expected that you attend class, study for your exams and of course pass those exams.
+>>> 
 
 
 
