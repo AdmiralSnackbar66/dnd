@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ttrpgs/Campaigns/Strixhaven/Session Scripts/Session 0 - Welcome to Strixhaven.md",
+                "file": "ttrpgs/Campaigns/Strixhaven/Session Scripts/Mavinda Sharpbeak.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 0 - Welcome to Strixhaven"
+              "title": "Mavinda Sharpbeak"
             }
           }
         ]
@@ -220,6 +220,8 @@
   },
   "active": "a3fe6191aa70388b",
   "lastOpenFiles": [
+    "ttrpgs/Campaigns/Strixhaven/Session Scripts/Session 0 - Welcome to Strixhaven.md",
+    "ttrpgs/Campaigns/Strixhaven/Session Scripts/Mavinda Sharpbeak.md",
     "ttrpgs/Campaigns/Strixhaven/001_20250404.md",
     "ttrpgs/Campaigns/Strixhaven/Strixhaven.md",
     "ttrpgs/TTRPGs Games Index.md",
@@ -247,12 +249,10 @@
     "2. Mechanics/Non-Player Characters/TTRPGs Games Index.md",
     "2. Mechanics/Non-Player Characters",
     "2. Mechanics",
-    "ttrpgs/Campaigns/Strixhaven/Session Scripts/Session 0 - Welcome to Strixhaven.md",
     "ttrpgs/Campaigns/Strixhaven/Session Scripts/Untitled.md",
     "ttrpgs/Campaigns/Strixhaven/Locations/Biblioplex.md",
     "ttrpgs/PlayerCharacters/Roleck Nevari.md",
     "z_templates/TemplateJournal.md",
-    "New Session.md",
     "Excalidraw"
   ]
 }
