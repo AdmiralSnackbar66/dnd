@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "2a5946e76e950a86",
+        "id": "26a167de8af04f9b",
         "type": "tabs",
         "children": [
           {
-            "id": "c16016e620519586",
+            "id": "a3fe6191aa70388b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "ttrpgs/TTRPGs Games Index.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -37,7 +37,7 @@
           "type": "file-explorer",
           "state": {
             "sortOrder": "alphabetical",
-            "autoReveal": false
+            "autoReveal": true
           },
           "icon": "lucide-folder-closed",
           "title": "Files"
@@ -49,7 +49,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "connsole",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -100,7 +100,8 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 0,
+    "pinned": true
   },
   "right": {
     "id": "b52e9479f5f1490a",
@@ -112,8 +113,8 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Campaigns/Curriculum of Chaos/Orientation Challenge.md",
-            "collapseAll": false,
+            "file": "ttrpgs/TTRPGs Games Index.md",
+            "collapseAll": true,
             "extraContext": false,
             "sortOrder": "alphabetical",
             "showSearch": false,
@@ -175,7 +176,8 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 0,
+    "pinned": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,11 +200,27 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "44ffd25d5f269fae",
+  "active": "a3fe6191aa70388b",
   "lastOpenFiles": [
     "ttrpgs/Non Player Characters/Mavinder Sharpbeak.md",
-    "z_templates/7_World Building Templates/New Character.md",
     "ttrpgs/TTRPGs Games Index.md",
+    "ttrpgs/Campaigns/Strixhaven/Strixhaven.md",
+    "ttrpgs/Non Player Characters/Untitled.md",
+    "z_templates/New NPC Template.md",
+    "ttrpgs/Untitled 1.md",
+    "z_templates/Untitled.md",
+    "z_templates/TemplateNPC_WB.md",
+    "z_templates/TemplateNPC_Wizard.md",
+    "z_templates/TemplateNPC.md",
+    "z_templates/NPC_Template.md",
+    "ttrpgs/Untitled 2.md",
+    "ttrpgs/Untitled 3.md",
+    "0-Needs Sorting",
+    "z_templates/Unconfirmed 564370.crdownload",
+    "z_templates/Unconfirmed 928197.crdownload",
+    "z_templates/Godmaker_NPCs.md",
+    "z_templates/Unconfirmed 250101.crdownload",
+    "z_templates/7_World Building Templates/New Character.md",
     "z_templates/New NPC.md",
     "2. Mechanics/Non-Player Characters/Untitled.md",
     "ttrpgs/Non Player Characters/Ellina Tanglewood.md",
@@ -214,18 +232,9 @@
     "ttrpgs/Campaigns/Strixhaven/Session Scripts/Untitled.md",
     "ttrpgs/Campaigns/Strixhaven/Locations/Biblioplex.md",
     "ttrpgs/Campaigns/Strixhaven/001_20250404.md",
-    "ttrpgs/Campaigns/Strixhaven/Strixhaven.md",
     "ttrpgs/PlayerCharacters/Roleck Nevari.md",
     "z_templates/TemplateJournal.md",
     "New Session.md",
-    "z_templates/session-gm.md",
-    "z_templates/TemplateNPC.md",
-    "CODE_OF_CONDUCT.md",
-    "1-DM Toolkit/Home.md",
-    "Excalidraw/Drawing 2025-04-01 14.57.05.excalidraw.md",
-    "Excalidraw",
-    "Campaigns/Curriculum of Chaos/Orientation Challenge.md",
-    "Campaigns/Curriculum of Chaos/01. Adventures/Year 1/Year 1.md",
-    "Campaigns/Curriculum of Chaos/Curriculum of Chaos.md"
+    "Excalidraw"
   ]
 }

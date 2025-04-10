@@ -9,5 +9,6 @@
   "alwaysUpdateLinks": true,
   "defaultViewMode": "preview",
   "foldHeading": true,
-  "foldIndent": true
+  "foldIndent": true,
+  "showLineNumber": true
 }

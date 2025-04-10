@@ -14,5 +14,13 @@
       ],
       "key": "Numpad9"
     }
+  ],
+  "obsidian-meta-bind-plugin:open-button-builder": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "B"
+    }
   ]
 }

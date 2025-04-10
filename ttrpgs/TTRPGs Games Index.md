@@ -86,6 +86,7 @@ actions:
     command: quickadd:choice:bf10e7ec-f0f4-4fe7-96ec-889c5131754b
 ```
 
+
 ```dataview  
 TABLE WITHOUT ID link(file.name) AS "Name", campaign, Race, Class, ac, hp, pasperc
 FROM "ttrpgs"
