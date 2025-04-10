@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ttrpgs/TTRPGs Games Index.md",
+                "file": "ttrpgs/Campaigns/Strixhaven/Session Scripts/Session 0 - Welcome to Strixhaven.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TTRPGs Games Index"
+              "title": "Session 0 - Welcome to Strixhaven"
             }
           }
         ]
@@ -208,14 +208,22 @@
       "templater-obsidian:Templater": false,
       "obsidian-custom-frames:Open Elvis Parsley - DND Beyond": false,
       "obsidian-5e-statblocks:Open Creature pane": false,
-      "initiative-tracker:Initiative Tracker Encounter Builder": false
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian42-brat:BRAT": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-kanban:Create new board": false,
+      "helpmate:HelpMate": false,
+      "solo-rpg-toolkit:Solo RPG Toolkit": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
   "active": "a3fe6191aa70388b",
   "lastOpenFiles": [
-    "ttrpgs/Non Player Characters/Mavinder Sharpbeak.md",
-    "ttrpgs/TTRPGs Games Index.md",
+    "ttrpgs/Campaigns/Strixhaven/001_20250404.md",
     "ttrpgs/Campaigns/Strixhaven/Strixhaven.md",
+    "ttrpgs/TTRPGs Games Index.md",
+    "ttrpgs/Non Player Characters/Mavinder Sharpbeak.md",
     "ttrpgs/Non Player Characters/Untitled.md",
     "z_templates/New NPC Template.md",
     "ttrpgs/Untitled 1.md",
@@ -242,7 +250,6 @@
     "ttrpgs/Campaigns/Strixhaven/Session Scripts/Session 0 - Welcome to Strixhaven.md",
     "ttrpgs/Campaigns/Strixhaven/Session Scripts/Untitled.md",
     "ttrpgs/Campaigns/Strixhaven/Locations/Biblioplex.md",
-    "ttrpgs/Campaigns/Strixhaven/001_20250404.md",
     "ttrpgs/PlayerCharacters/Roleck Nevari.md",
     "z_templates/TemplateJournal.md",
     "New Session.md",
