@@ -22,7 +22,7 @@
 - [E] Example
 - [A] Answer
 - [r] Reward
-- [c] Choice 
+- [x] Choice 
 
 
 

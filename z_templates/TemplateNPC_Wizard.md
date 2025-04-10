@@ -19,11 +19,9 @@ const dv = this.DataviewAPI;
 const path = tp.file.folder(true);
 const folderNote = tp.file.folder(false);
 const page = dv.page(folderNote); 
-if ((folderNote == "0-Needs Sorting") || (page.noteIcon && page.noteIcon == "people")) {
-	await tp.file.rename(title)
-} else {
-	await tp.file.move(path + "ttrpgs/Non Player Characters/" + title)
-}
+
+await tp.file.move(path + "ttrpgs/Non Player Characters/" + title)
+
 const fullSetup = await tp.system.suggester(["Yes", "No"], ["Yes", "No"], false, "Full Setup?")
 if (fullSetup == "Yes")
 {
@@ -37,13 +35,6 @@ if (fullSetup == "Yes")
 			    counter += 1;
 		    }
 	    }
-	    catch(err){counter = 1;}
-		const pronouns = await tp.system.prompt("Pronouns");
-		const description = await tp.system.prompt("One Sentence Description", "", false, true);
-		let species = ""; 
-		try {
-			const allSpecies = dv.pages().where(p => p.cssclasses && p.cssclasses.includes("json5e-race") && p.file.name != "TemplateSpecies")
-			species = await tp.system.suggester(v => v.file.aliases[0], allSpecies, true, "Species");
 		}
 		catch(err){}
 		const role = await tp.system.prompt("Role", "", false, true);

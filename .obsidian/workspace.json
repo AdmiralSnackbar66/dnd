@@ -4,41 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "7bb7e411fb896a57",
+        "id": "579e1bf37e0741a1",
         "type": "tabs",
         "children": [
           {
-            "id": "5903cca139946d71",
+            "id": "e27e6a340d088dc8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ttrpgs/Non Player Characters/Ellina Tanglewood.md",
+                "file": "z_templates/TemplateNPC_Wizard.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ellina Tanglewood"
-            }
-          }
-        ]
-      },
-      {
-        "id": "d8a5c0aaf744578f",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "6dfc9505e7987c55",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ttrpgs/Campaigns/Strixhaven/Session Scripts/Session 0 - Welcome to Strixhaven.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Session 0 - Welcome to Strixhaven"
+              "title": "TemplateNPC_Wizard"
             }
           }
         ]
@@ -94,7 +74,6 @@
           {
             "id": "f6ef017cc52d2e49",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -102,7 +81,6 @@
                 "mode": "preview",
                 "source": true
               },
-              "pinned": true,
               "icon": "lucide-file",
               "title": "DM Board"
             }
@@ -173,13 +151,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-DM Toolkit/Home.md",
+                "file": "z_templates/TemplateNPC_Wizard.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Home"
+              "title": "Outline of TemplateNPC_Wizard"
             }
           },
           {
@@ -284,49 +262,50 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-import-json:JSON/CSV Importer": false,
-      "rpg-manager:RPG Manager": false
+      "rpg-manager:RPG Manager": false,
+      "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "5903cca139946d71",
+  "active": "e27e6a340d088dc8",
   "lastOpenFiles": [
+    "ttrpgs/TTRPGs Games Index.md",
+    "ttrpgs/Non Player Characters/New NPC.md",
     "ttrpgs/Campaigns/Strixhaven/Session Scripts/Session 0 - Welcome to Strixhaven.md",
+    "z_templates/TemplateNPC_Wizard.md",
+    "ttrpgs/Non Player Characters/Untitled.md",
     "ttrpgs/Campaigns/Strixhaven/001_20250404.md",
+    "1-DM Toolkit/DM Board.md",
+    "0-Needs Sorting/Rosimyffenbip Wuzfeddlims.md",
+    "ttrpgs/Non Player Characters/Untitled 1.md",
+    "0-Needs Sorting/Untitled.md",
+    "z_templates/monster.md",
+    "ttrpgs/Untitled.md",
+    "1-DM Toolkit/Untitled.md",
+    "1-DM Toolkit/Home.md",
     "ttrpgs/Campaigns/Strixhaven/Strixhaven.md",
-    "ttrpgs/Non Player Characters/Ellina Tanglewood.md",
-    "ttrpgs/Campaigns/Strixhaven/Locations/Firejolt Cafe.md",
+    "z_templates/4_Markdown/Insert Checkbox (ITS).md",
+    "z_templates/4_Markdown/Dataview - TTRPG Statblocks.md",
+    "z_templates/4_Markdown/Format Font - Orc Text.md",
+    "z_templates/4_Markdown/Insert Banner (ITS).md",
+    "z_templates/4_Markdown/Insert Map (Simplified Template).md",
+    "2025-04-04.md",
+    "z_templates/4_Markdown/Embed Website (iframe).md",
+    "z_templates/4_Markdown/Call Out Boxes/Call Out - Right Section.md",
+    "z_templates/4_Markdown/Call Out Boxes/Call Out - Read Aloud.md",
+    "z_templates/4_Markdown/Call Out Boxes/Call Out - Message.md",
+    "z_templates/4_Markdown/Call Out Boxes/Call Out - Magic Item.md",
+    "0-Needs Sorting",
     "z_Assets/Biblioplex.png",
     "z_Assets/Firejolt Cafe.png",
-    "ttrpgs/Campaigns/Strixhaven/Locations/Biblioplex.md",
-    "ttrpgs/Campaigns/Strixhaven/Locations/Hall of Oracles.md",
-    "ttrpgs/TTRPGs Games Index.md",
     "ttrpgs/Campaigns/Strixhaven/Locations",
     "ttrpgs/Campaigns/Strixhaven/Session Scripts",
-    "Session Scripts/Session 0 - Welcome to Strixhaven.md",
     "Session Scripts",
-    "0-Scratch Notes/Obsidian ideas.md",
-    "z_Templates/session-gm.md",
-    "z_Templates/session-player.md",
-    "ttrpgs/Campaigns/Campaigns/Strixhaven/001_20250404.md",
     "ttrpgs/Campaigns/Campaigns/Strixhaven",
     "ttrpgs/Campaigns/Campaigns",
-    "ttrpgs/Campaigns/Campaigns/Strixhaven/001_20250405.md",
-    "z_Templates/New Session.md",
-    "ttrpgs/PlayerCharacters/Zolon Orielson.md",
-    "ttrpgs/PlayerCharacters/Roleck Nevari.md",
-    "ttrpgs/Campaigns/Strixhaven/001_20250403.md",
     "ttrpgs/Campaigns/Strixhaven",
-    "ttrpgs/Campaigns/Strixhaven/Sessions/001_20250403.md",
     "ttrpgs/Campaigns/Strixhaven/Sessions",
     "Sessions",
-    "z_Templates/world.md",
-    "ttrpgs/Non Player Characters/Extus Narr.md",
-    "ttrpgs/Non Player Characters/Murgaxor Grenshel.md",
-    "ttrpgs/Non Player Characters/Jadzi.md",
-    "ttrpgs/Non Player Characters/Elvis Parsley.md",
-    "z_Templates/new ttrpg system.md",
-    "z_Templates/TemplatePartyMember.md",
     "ttrpgs/PlayerCharacters",
-    "ttrpgs/Player Characters",
     "z_Assets/Untitled.canvas",
     "z_Assets/Strixhaven.png",
     "3-Mechanics - Copy/CLI/bestiary/beast/token/wolf-xmm.webp",
