@@ -3,7 +3,7 @@
 >
 >An excited gnome woman ducks through the throng of students in the foyer over to a fresh group mustering at the entrance.
 
->[!cite] First-years , first years can I have your attention.  My name is [[ttrpgs/Non Player Characters/New NPC]]. But you can call me Rosie. What are your names, and what's your story? 
+>[!cite] First-years , first years can I have your attention.  My name is [[ttrpgs/Non Player Characters/But you can call me Rosie. What are your names, and what's your story? 
 
 This is the point the players can introduce their characters
 
