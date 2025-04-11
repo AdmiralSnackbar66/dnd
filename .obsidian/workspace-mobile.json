@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ttrpgs/TTRPGs Games Index.md",
-                "mode": "preview",
+                "file": "0-Needs Sorting/Untitled.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TTRPGs Games Index"
+              "title": "Untitled"
             }
           }
         ]
@@ -112,7 +112,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "ttrpgs/TTRPGs Games Index.md",
+            "file": "0-Needs Sorting/Untitled.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "ttrpgs/TTRPGs Games Index.md",
+            "file": "0-Needs Sorting/Untitled.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -145,7 +145,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "ttrpgs/TTRPGs Games Index.md",
+            "file": "0-Needs Sorting/Untitled.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -200,8 +200,10 @@
   },
   "active": "4c64f6896dfc8b8a",
   "lastOpenFiles": [
-    "ttrpgs/Non Player Characters/Untitled 1.md",
     "ttrpgs/TTRPGs Games Index.md",
+    "0-Needs Sorting/Untitled.md",
+    "ttrpgs/Untitled.md",
+    "ttrpgs/Non Player Characters/Untitled 1.md",
     "0-Needs Sorting/Movinder Sharpbeak.md"
   ]
 }
