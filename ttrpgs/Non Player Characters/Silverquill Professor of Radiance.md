@@ -1,7 +1,7 @@
 ---
 name: Silverquill Professor of Radiance
-size: Mediem
-type: 
+size: Medium
+type: Monster
 environment: 
 hp: 
 ac: 
