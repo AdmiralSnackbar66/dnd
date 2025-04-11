@@ -3,8 +3,8 @@ name: Silverquill Professor of Radiance
 size: Medium
 type: Monster
 environment: 
-hp: 
-ac: 
+hp: 97
+ac: 12
 initiative: 
 alignment: 
 legendary: 
