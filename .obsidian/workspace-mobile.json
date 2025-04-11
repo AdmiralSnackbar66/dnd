@@ -1,26 +1,24 @@
 {
   "main": {
-    "id": "4fe4d0bc0fd4f3a3",
+    "id": "8bf8bf5dc58228d4",
     "type": "split",
     "children": [
       {
-        "id": "8db46979f7029f45",
+        "id": "b1e901915aa444c9",
         "type": "tabs",
         "children": [
           {
-            "id": "163b3b08f85ebd62",
+            "id": "828399eefb647362",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ttrpgs/Campaigns/Strixhaven/Session Scripts/Session 0 - Welcome to Strixhaven.md",
-                "file": "ttrpgs/Non Player Characters/Silverquill Professor of Radiance.md",
+                "file": "ttrpgs/Campaigns/Strixhaven/Session Scripts/Mavinder Sharpbeak.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 0 - Welcome to Strixhaven"
-              "title": "Silverquill Professor of Radiance"
+              "title": "Mavinder Sharpbeak"
             }
           }
         ]
@@ -29,29 +27,29 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "279d616dc885736c",
+    "id": "3585a0aa9f19102c",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "8a229b025396d714",
+        "id": "44ffd25d5f269fae",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
           "state": {
             "sortOrder": "alphabetical",
-            "autoReveal": false
+            "autoReveal": true
           },
           "icon": "lucide-folder-closed",
           "title": "Files"
         }
       },
       {
-        "id": "24a85d86c18e776b",
+        "id": "8aef8207ea7c0a9d",
         "type": "leaf",
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "connsole",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -63,7 +61,7 @@
         }
       },
       {
-        "id": "5a5a7428c40153aa",
+        "id": "721fd65bde0bd283",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -78,7 +76,7 @@
         }
       },
       {
-        "id": "a12885583f0dba9d",
+        "id": "068969ca6085f9ad",
         "type": "leaf",
         "state": {
           "type": "all-properties",
@@ -92,7 +90,7 @@
         }
       },
       {
-        "id": "57d9be0975337c23",
+        "id": "5fb8be10ccdfb551",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -105,17 +103,17 @@
     "currentTab": 0
   },
   "right": {
-    "id": "d6c766f0591cad8c",
+    "id": "b52e9479f5f1490a",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "d41d78efaf2ee406",
+        "id": "f63a4d037f4ee9bd",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "ttrpgs/Non Player Characters/Silverquill Professor of Radiance.md",
-            "collapseAll": false,
+            "file": "ttrpgs/Campaigns/Strixhaven/Session Scripts/Mavinder Sharpbeak.md",
+            "collapseAll": true,
             "extraContext": false,
             "sortOrder": "alphabetical",
             "showSearch": false,
@@ -128,12 +126,12 @@
         }
       },
       {
-        "id": "ef4377668e94465e",
+        "id": "e976980d55646c07",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "ttrpgs/Non Player Characters/Silverquill Professor of Radiance.md",
+            "file": "Campaigns/Curriculum of Chaos/Orientation Challenge.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -142,12 +140,12 @@
         }
       },
       {
-        "id": "fa29164eaa8da25e",
+        "id": "d058889b6e0c7b86",
         "type": "leaf",
         "state": {
           "type": "outline",
           "state": {
-            "file": "ttrpgs/Non Player Characters/Silverquill Professor of Radiance.md",
+            "file": "Campaigns/Curriculum of Chaos/Orientation Challenge.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -157,7 +155,47 @@
         }
       },
       {
-        "id": "6f07b90b5d9600ba",
+        "id": "2c6292ba74af06df",
+        "type": "leaf",
+        "state": {
+          "type": "initiative-tracker-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "8ba6b963727e8ad0",
+        "type": "leaf",
+        "state": {
+          "type": "DICE_ROLLER_VIEW",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "c1b234aab3e4c5c4",
+        "type": "leaf",
+        "state": {
+          "type": "initiative-tracker-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "3ddbdc4809041c21",
+        "type": "leaf",
+        "state": {
+          "type": "DICE_ROLLER_VIEW",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "f8061b9a5f8ae368",
         "type": "leaf",
         "state": {
           "type": "initiative-tracker-view",
@@ -188,7 +226,6 @@
       },
       {
         "id": "5f26fe4484bf8602",
-        "id": "d69cf508d88804c0",
         "type": "leaf",
         "state": {
           "type": "DICE_ROLLER_VIEW",
@@ -202,12 +239,12 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "workspaces:Manage workspace layouts": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "command-palette:Open command palette": false,
-      "workspaces:Manage workspace layouts": false,
       "templater-obsidian:Templater": false,
       "obsidian-custom-frames:Open Elvis Parsley - DND Beyond": false,
       "obsidian-5e-statblocks:Open Creature pane": false,
@@ -221,13 +258,18 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "163b3b08f85ebd62",
+  "active": "828399eefb647362",
   "lastOpenFiles": [
+    "ttrpgs/Campaigns/Strixhaven/Session Scripts/Mavinda Sharpbeak.md",
+    "ttrpgs/Campaigns/Strixhaven/Session Scripts/Mavinder Sharpbeak.md",
+    "ttrpgs/Campaigns/Strixhaven/Session Scripts/Session 0 - Welcome to Strixhaven.md",
     "ttrpgs/Campaigns/Strixhaven/001_20250404.md",
     "ttrpgs/Campaigns/Strixhaven/Strixhaven.md",
     "ttrpgs/TTRPGs Games Index.md",
-    "ttrpgs/Campaigns/Strixhaven/Session Scripts/Mavinda Sharpbeak.md",
-    "ttrpgs/Campaigns/Strixhaven/Session Scripts/Session 0 - Welcome to Strixhaven.md",
+    "ttrpgs/Campaigns/Strixhaven/Session Scripts/first year uniform.md",
+    "0-Needs Sorting/Untitled.md",
+    "ttrpgs/Non Player Characters/TTRPGs Games Index.md",
+    "ttrpgs/Non Player Characters/Silverquill Professor of Radiance.md",
     "ttrpgs/Non Player Characters/Mavinder Sharpbeak.md",
     "ttrpgs/Non Player Characters/Untitled.md",
     "z_templates/New NPC Template.md",
@@ -245,14 +287,12 @@
     "z_templates/Godmaker_NPCs.md",
     "z_templates/Unconfirmed 250101.crdownload",
     "z_templates/7_World Building Templates/New Character.md",
-    "ttrpgs/Non Player Characters/TTRPGs Games Index.md",
-    "ttrpgs/Non Player Characters/Silverquill Professor of Radiance.md",
-    "z_templates/monster.md",
-    "0-Needs Sorting/Untitled.md",
     "z_templates/New NPC.md",
-    "ttrpgs/Untitled.md",
-    "0-Needs Sorting/Untitled 1.md",
-    "0-Needs Sorting/Untitled 2.md",
-    "0-Needs Sorting/Movinder Sharpbeak.md"
+    "2. Mechanics/Non-Player Characters/Untitled.md",
+    "ttrpgs/Non Player Characters/Ellina Tanglewood.md",
+    "ttrpgs/Unconfirmed 57856.crdownload",
+    "2. Mechanics/Non-Player Characters",
+    "2. Mechanics",
+    "Excalidraw"
   ]
 }
