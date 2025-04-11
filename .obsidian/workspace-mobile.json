@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ttrpgs/TTRPGs Games Index.md",
-                "mode": "preview",
-                "source": false
+                "file": "ttrpgs/Campaigns/Strixhaven/Session Scripts/Session 0 - Welcome to Strixhaven.md",
+                "mode": "source",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "TTRPGs Games Index"
+              "title": "Session 0 - Welcome to Strixhaven"
             }
           }
         ]
@@ -200,12 +200,32 @@
         "state": {
           "type": "initiative-tracker-view",
           "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "2ee15ddc33ed394c",
+        "type": "leaf",
+        "state": {
+          "type": "DICE_ROLLER_VIEW",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "5f0164564f9131aa",
+        "type": "leaf",
+        "state": {
+          "type": "initiative-tracker-view",
+          "state": {},
           "icon": "initiative-tracker",
           "title": "Initiative Tracker"
         }
       },
       {
-        "id": "2ee15ddc33ed394c",
+        "id": "5f26fe4484bf8602",
         "type": "leaf",
         "state": {
           "type": "DICE_ROLLER_VIEW",
@@ -240,11 +260,11 @@
   },
   "active": "17fe5cfbc62f073c",
   "lastOpenFiles": [
-    "ttrpgs/Campaigns/Strixhaven/Session Scripts/Mavinda Sharpbeak.md",
-    "ttrpgs/Campaigns/Strixhaven/Session Scripts/Session 0 - Welcome to Strixhaven.md",
     "ttrpgs/Campaigns/Strixhaven/001_20250404.md",
     "ttrpgs/Campaigns/Strixhaven/Strixhaven.md",
     "ttrpgs/TTRPGs Games Index.md",
+    "ttrpgs/Campaigns/Strixhaven/Session Scripts/Mavinda Sharpbeak.md",
+    "ttrpgs/Campaigns/Strixhaven/Session Scripts/Session 0 - Welcome to Strixhaven.md",
     "ttrpgs/Non Player Characters/Mavinder Sharpbeak.md",
     "ttrpgs/Non Player Characters/Untitled.md",
     "z_templates/New NPC Template.md",
