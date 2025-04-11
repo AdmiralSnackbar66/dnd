@@ -6,13 +6,14 @@ environment:
 hp: 97
 ac: 12
 initiative: 
-alignment: 
+alignment: Neutral good
 legendary: 
 lair: 
 unique: 
-cr: 
+cr: "7"
 tags: 
 source: ""
 ---
 # headband-of-intellect-xdmg
 
+`statblock
