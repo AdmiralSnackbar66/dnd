@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-Needs Sorting/Untitled.md",
-                "mode": "source",
+                "file": "ttrpgs/Non Player Characters/TTRPGs Games Index.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "TTRPGs Games Index"
             }
           }
         ]
@@ -112,7 +112,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "0-Needs Sorting/Untitled.md",
+            "file": "ttrpgs/Non Player Characters/TTRPGs Games Index.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "0-Needs Sorting/Untitled.md",
+            "file": "ttrpgs/Non Player Characters/TTRPGs Games Index.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -145,7 +145,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "0-Needs Sorting/Untitled.md",
+            "file": "ttrpgs/Non Player Characters/TTRPGs Games Index.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -200,8 +200,8 @@
   },
   "active": "163b3b08f85ebd62",
   "lastOpenFiles": [
-    "ttrpgs/Non Player Characters/TTRPGs Games Index.md",
     "0-Needs Sorting/Untitled.md",
+    "ttrpgs/Non Player Characters/TTRPGs Games Index.md",
     "z_templates/New NPC.md",
     "ttrpgs/Untitled.md",
     "0-Needs Sorting/Untitled 1.md",
