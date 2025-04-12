@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ttrpgs/Campaigns/Strixhaven/Session Scripts/Session 0 - Welcome to Strixhaven.md",
-                "mode": "source",
+                "file": "ttrpgs/Campaigns/Strixhaven/Locations/Biblioplex.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Session 0 - Welcome to Strixhaven"
+              "title": "Biblioplex"
             }
           }
         ]
@@ -200,6 +200,7 @@
   },
   "active": "163b3b08f85ebd62",
   "lastOpenFiles": [
+    "ttrpgs/Campaigns/Strixhaven/Session Scripts/Session 0 - Welcome to Strixhaven.md",
     "ttrpgs/Campaigns/Strixhaven/001_20250404.md",
     "ttrpgs/Campaigns/Strixhaven/Strixhaven.md",
     "ttrpgs/Non Player Characters/Silverquill Professor of Radiance.md",

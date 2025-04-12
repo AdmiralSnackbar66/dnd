@@ -24,7 +24,7 @@
 > | Light            | Can create a huge and mobile ball of light                                   |
 
 
->>>[!cite] In front of the [[Biblioplex]] is a small cafe, and across from it is [[Biblioplex#B5. Student Store]].  You can buy apparel including hats, scarves, tunics, robes and gloves.  After we finish the tour you will need to stop by the shop to purchase your [[first year uniform]].  You will all be expected to wear your uniform for all classes and field trips.  Just go and see [[Groff]] in the shop when we have finished and he will be happy to provide anny kit you need, including your uniforms once you have completed your orientation.
+>>>[!cite] In front of the [[Biblioplex]] is a small cafe, and across from it is [[Biblioplex#B5. Student Store|the Student Store]].  You can buy apparel including hats, scarves, tunics, robes and gloves.  After we finish the tour you will need to stop by the shop to purchase your [[first year uniform]].  You will all be expected to wear your uniform for all classes and field trips.  Just go and see [[Groff]] in the shop when we have finished and he will be happy to provide anny kit you need, including your uniforms once you have completed your orientation.
 
 
 
