@@ -100,12 +100,14 @@ backgroundImage: ""
 tooltip: ""
 id: ""
 hidden: false
+style: primary
 actions:
-  - type: command
-    command: quickadd:choice:bf10e7ec-f0f4-4fe7-96ec-889c5131754b
-
+  - type: templaterCreateNote
+    templateFile: "z_templates/NPCWizard.md"
+    fileName: NewNPC
 ```
 
+```
 ```meta-bind-button
 label: New Location
 hidden: false

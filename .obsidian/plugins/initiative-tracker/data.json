@@ -98,30 +98,9 @@
   "playerMarker": "default",
   "monsterMarker": "default",
   "state": {
-    "creatures": [
-      {
-        "name": "Mimic (XMM)",
-        "initiative": 6,
-        "static": false,
-        "modifier": 1,
-        "hp": 58,
-        "currentMaxHP": 58,
-        "cr": "2",
-        "ac": 12,
-        "currentAC": 12,
-        "id": "ID_3bdafa5b9aba",
-        "currentHP": 58,
-        "tempHP": 0,
-        "status": [],
-        "enabled": true,
-        "active": true,
-        "hidden": false,
-        "friendly": false,
-        "hit_dice": "9d8 + 18"
-      }
-    ],
+    "creatures": [],
     "state": false,
-    "name": null,
+    "name": "Ellina Tanglewood",
     "round": 1,
     "logFile": "",
     "rollHP": false

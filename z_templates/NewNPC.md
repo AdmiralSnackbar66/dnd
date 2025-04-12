@@ -7,15 +7,17 @@ Class:
 Alignment: 
 Character-Role: 
 Location: 
-AssociatedGroup: 
 NoteIcon: npc
+hp: 
+ac: 
+pasperc:
 ---
 
 <% tp.file.title %>
 <% await tp.file.move("ttrpgs/Non Player Characters/" + tp.file.title) %>
 
 <%*
-const hasTitle = !tp.file.title.startsWith("NewNPC");
+const hasTitle = !tp.file.title.startsWith("NewNPC Template");
 let title;
 if (!hasTitle) {
     title = await tp.system.prompt("Enter NPC Name");

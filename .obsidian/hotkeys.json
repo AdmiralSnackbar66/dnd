@@ -22,5 +22,13 @@
       ],
       "key": "B"
     }
+  ],
+  "buttons:button-maker": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "B"
+    }
   ]
 }

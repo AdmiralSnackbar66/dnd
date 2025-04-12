@@ -12,14 +12,17 @@ Location: Unknown
 NoteIcon: npc
 Vitality: Alive
 campaign: Strixhaven
+ac: 16
+hp: 128
+pasperc: 11
 ---
 
 
 
 > [!infobox]
 > # `=this.file.name`
-> ![[ImagePlaceholder.png|cover hsmall]]
-> [[ImagePlaceholder.png|Show To Players]]
+> ![[MurgaxorGrenshell.webp|150]]
+> [[MurgaxorGrenshell.webp|Show To Players]]
 > ###### Basic Information
 > Type |  Stat |
 > ---|---|

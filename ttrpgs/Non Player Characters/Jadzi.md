@@ -12,14 +12,17 @@ Location: Strixhaven
 NoteIcon: npc
 Vitality: Alive
 campaign: Strixhaven
+ac: "12"
+hp: "150"
+pasperc: 20
 ---
 
 
 
 > [!infobox]
 > # `=this.file.name`
-> ![[ImagePlaceholder.png|cover hsmall]]
-> [[ImagePlaceholder.png|Show To Players]]
+>![[Jadzi.webp|200]]
+> [[Jadzi.webp|Show To Players]]
 > ###### Basic Information
 > Type |  Stat |
 > ---|---|

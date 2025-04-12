@@ -5,22 +5,21 @@ Race:
   - Elf
 Age: 
 Class:
-  - Mage
+  - Wizard
 Alignment: Chaotic Good
 Character-Role: 
-Location: 
+Location: Strixhaven
 NoteIcon: npc
-Vitality: Alive
-exampleProperty: 
+hp: "81"
+ac: "15"
+pasperc: 14
 campaign: Strixhaven
 ---
 
-
-
 > [!infobox]
 > # `=this.file.name`
-> ![[ImagePlaceholder.png|cover hsmall]]
-> [[ImagePlaceholder.png|Show To Players]]
+>![[EllinaTanglewood.webp|150]]
+> [[EllinaTanglewood.webp|Show To Players]]
 > ###### Basic Information
 > Type |  Stat |
 > ---|---|
@@ -40,20 +39,20 @@ campaign: Strixhaven
 # `=this.file.name`
 ## Profile
 
-**<Add description here, extend it with AI Text Generator using Ctrl J>**
+[[Ellina Tanglewood]] is the perpetually stressed and chaotic elf manager and chief barista of the [[Firejolt Cafe]] at Strixhaven University. The inventor of the signature drink, the [[Firejolt Latte]], it is said that no one has ever seen Ellina stand still for more than a second.
 
+## Stats
 > [!info] Statblock
 > ```statblock
 > name: Ellina Tanglewood
-> monster: 
-> columns: 1
+> monster: Mage (XMM)
+> columns: 2
 > ```
 
+## Encounter Table
+
 ```encounter-table
-name: Individual
+name: Ellina Tanglewood
 creatures:
- - 1: Commoner
+ - 1: Mage (XMM)
 ```
-
-
-

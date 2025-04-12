@@ -12,14 +12,17 @@ Location: Unknown
 NoteIcon: npc
 Vitality: Alive
 campaign: Strixhaven
+ac: "17"
+hp: "173"
+pasperc: 14
 ---
 
 
 
 > [!infobox]
 > # `=this.file.name`
-> ![[ImagePlaceholder.png|cover hsmall]]
-> [[ImagePlaceholder.png|Show To Players]]
+> ![[ExtusNarr.webp|300]]
+> [[ExtusNarr.webp|Show To Players]]
 > ###### Basic Information
 > Type |  Stat |
 > ---|---|
