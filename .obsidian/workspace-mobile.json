@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ttrpgs/Non Player Characters/Silverquill Professor of Radiance.md",
+                "file": "ttrpgs/Campaigns/Strixhaven/Session Scripts/Session 0 - Welcome to Strixhaven.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Silverquill Professor of Radiance"
+              "title": "Session 0 - Welcome to Strixhaven"
             }
           }
         ]
@@ -200,11 +200,13 @@
   },
   "active": "163b3b08f85ebd62",
   "lastOpenFiles": [
+    "ttrpgs/Campaigns/Strixhaven/001_20250404.md",
+    "ttrpgs/Campaigns/Strixhaven/Strixhaven.md",
+    "ttrpgs/Non Player Characters/Silverquill Professor of Radiance.md",
     "ttrpgs/Campaigns/Strixhaven/Session Scripts/Mavinder Sharpbeak.md",
     "ttrpgs/Campaigns/Strixhaven/Session Scripts/first year uniform.md",
     "ttrpgs/TTRPGs Games Index.md",
     "ttrpgs/Non Player Characters/TTRPGs Games Index.md",
-    "ttrpgs/Non Player Characters/Silverquill Professor of Radiance.md",
     "z_templates/monster.md",
     "0-Needs Sorting/Untitled.md",
     "z_templates/New NPC.md",
