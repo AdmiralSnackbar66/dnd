@@ -4,8 +4,9 @@ Gender: Female
 Race:
   - Gnome
 Age: 
-Class: 
-Alignment: 
+Class:
+  - Warlock
+Alignment: Chaotic Good
 Character-Role: 
 Location: Strixhaven
 NoteIcon: npc

@@ -242,129 +242,6 @@
       }
     ],
     [
-      "Jadzi the Oracle of Strixhaven",
-      {
-        "name": "Jadzi the Oracle of Strixhaven",
-        "size": "Medium",
-        "type": "Humanoid",
-        "subtype": "Human",
-        "Race": "Human",
-        "Class": "Wizard",
-        "ac": "12 (15 with mage armour)",
-        "hp": 150,
-        "speed": 30,
-        "stats": [
-          12,
-          15,
-          16,
-          21,
-          20,
-          18
-        ],
-        "saves": [
-          {
-            "constitution": 8
-          },
-          {
-            "intelligence": 10
-          },
-          {
-            "wisdom": 10
-          },
-          {
-            "charisma": 9
-          }
-        ],
-        "skillsaves": [
-          {
-            "Arcana": 15
-          },
-          {
-            "Insight": 15
-          },
-          {
-            "Investigation": 15
-          },
-          {
-            "Nature": 10
-          },
-          {
-            "Perception": 10
-          }
-        ],
-        "damage_vulnerabilities": null,
-        "damage_resistances": null,
-        "damage_immunities": null,
-        "condition_immunities": [
-          "Charmed",
-          "Frightened"
-        ],
-        "senses": [
-          "passive perception 20"
-        ],
-        "languages": [
-          "All"
-        ],
-        "cr": 15,
-        "traits": [
-          {
-            "name": "Legendary Resistance (3/Day)",
-            "desc": "If the Oracle fails a saving throw, she can choose to succeed instead."
-          }
-        ],
-        "actions": [
-          {
-            "name": "Multiattack",
-            "desc": "The Oracle makes two Magic Flare attacks. She can also use Paradoxy, if available."
-          },
-          {
-            "name": "Magic Flare",
-            "desc": "Melee or Ranged Spell Attack DC 22 | +10 to hit, reach 5 ft. or range 60 ft., one target. Hit:_ 24 (3d12 + 5) force damage."
-          },
-          {
-            "name": "Paradoxy (Recharge 4–6)",
-            "desc": "Momentary warps in reality appear at three different points the Oracle can see within 120 feet of her. Each creature in a 20-foot-radius sphere centered on each point must make a DC 18 Strength saving throw. On a failed save, a creature takes 33 (6d10) force damage and is pulled up to 15 feet in a straight line toward the center of the sphere. On a successful save, the creature takes half as much damage and isn’t pulled. A creature caught in the area of multiple warps is affected by only one, which the Oracle chooses."
-          },
-          {
-            "name": "Teleport",
-            "desc": "The Oracle teleports, along with any equipment she is wearing or carrying, to an unoccupied space she can see within 60 feet of herself."
-          }
-        ],
-        "spells": [
-          "The Oracle casts one of the following spells, requiring no material components and using Intelligence as the spellcasting ability (spell save DC 18)",
-          {
-            "Cantrips (at-will)": "detect magic"
-          },
-          {
-            "2/day each": "dispel magic, mage armour, remove curse, sending"
-          },
-          {
-            "1/day each": "power word stun, scrying (as an action),wall of force"
-          }
-        ],
-        "legendary_actions": [
-          {
-            "name": null,
-            "desc": "The Oracle can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. The Oracle regains spent legendary actions at the start of her turn."
-          },
-          {
-            "name": "Vector Shift",
-            "desc": "The Oracle teleports one creature she can see within 60 feet of herself, along with any equipment it is wearing or carrying, to an unoccupied space within 30 feet of herself. An unwilling target must succeed on a DC 18 Charisma saving throw to avoid the effect"
-          },
-          {
-            "name": "Spellcasting (Costs 2 actions)",
-            "desc": "The Oracle uses spellcasting"
-          },
-          {
-            "name": "Vortex Jaunt",
-            "desc": "The Oracle uses teleport , and immediately after she disappears, each creature within 30 feet of the space she left must succeed on a DC 18 Constitution saving throw or take 16 (3d10) force damage"
-          }
-        ],
-        "source": "Homebrew",
-        "layout": "Basic 5e Layout"
-      }
-    ],
-    [
       "Mimic (XMM)",
       {
         "name": "Mimic (XMM)",
@@ -516,6 +393,88 @@
       }
     ],
     [
+      "Cogwork Archivist",
+      {
+        "name": "Cogwork Archivist",
+        "size": "Large",
+        "type": "Construct",
+        "alignment": "Lawful Neutral",
+        "ac": "17 (natural armour)",
+        "hp": "90 (12d10 + 24)",
+        "speed": 40,
+        "stats": [
+          18,
+          10,
+          15,
+          17,
+          11,
+          6
+        ],
+        "skillsaves": [
+          {
+            "Arcana": 5
+          },
+          {
+            "History": 5
+          },
+          {
+            "Nature": 5
+          },
+          {
+            "Religion": 5
+          },
+          {
+            "Perception": 2
+          }
+        ],
+        "damage_immunities": [
+          "poison"
+        ],
+        "condition_immunities": [
+          "charmed",
+          "Exhaustion",
+          "Frightened",
+          "Petrified",
+          "Poisoned"
+        ],
+        "senses": [
+          "darkvision 60ft",
+          "Passive perception 12"
+        ],
+        "languages": [
+          "All"
+        ],
+        "cr": 4,
+        "traits": [
+          {
+            "name": "Magic Resistance",
+            "desc": "The archivist has advantage on saving throws against spells and other magical effects."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Multiattack",
+            "desc": "The archivist makes two Grasping Limb attacks"
+          },
+          {
+            "name": "Grasping Limb",
+            "desc": "_Melee Weapon Attack:_ +6 to hit, reach 15 ft., one target. _Hit:_ 13 (2d8 + 4) bludgeoning damage, and the target is grappled  (escape DC 14). The archivist can have no more than two targets grappled at a time."
+          }
+        ],
+        "spells": [
+          "The archivist casts one of the following spells, requiring no material components and using Intelligence as the spellcasting ability",
+          {
+            "At will": "<STATBLOCK-WIKI-LINK>dancing-lights-xphb|Dancing Lights<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>prestidigitation-xphb|Prestidigitation<STATBLOCK-WIKI-LINK>"
+          },
+          {
+            "2/day": "<STATBLOCK-WIKI-LINK>silence-xphb|Silence<STATBLOCK-WIKI-LINK>"
+          }
+        ],
+        "source": "Homebrew",
+        "layout": "Basic 5e Layout"
+      }
+    ],
+    [
       "Lorehold Apprentice",
       {
         "name": "Lorehold Apprentice",
@@ -523,6 +482,7 @@
         "ac": "12 (15 with mage armour)",
         "size": "Small",
         "alignment": "Chaotic Good",
+        "class": "Warlock",
         "languages": "Common, Gnomish, Undercommon",
         "stats": [
           10,
@@ -584,6 +544,129 @@
           }
         ],
         "source": "Homebrew"
+      }
+    ],
+    [
+      "The Oracle of Strixhaven",
+      {
+        "name": "The Oracle of Strixhaven",
+        "size": "Medium",
+        "type": "Humanoid",
+        "subtype": "Human",
+        "Race": "Human",
+        "Class": "Wizard",
+        "ac": "12 (15 with mage armour)",
+        "hp": 150,
+        "speed": 30,
+        "stats": [
+          12,
+          15,
+          16,
+          21,
+          20,
+          18
+        ],
+        "saves": [
+          {
+            "constitution": 8
+          },
+          {
+            "intelligence": 10
+          },
+          {
+            "wisdom": 10
+          },
+          {
+            "charisma": 9
+          }
+        ],
+        "skillsaves": [
+          {
+            "Arcana": 15
+          },
+          {
+            "Insight": 15
+          },
+          {
+            "Investigation": 15
+          },
+          {
+            "Nature": 10
+          },
+          {
+            "Perception": 10
+          }
+        ],
+        "damage_vulnerabilities": null,
+        "damage_resistances": null,
+        "damage_immunities": null,
+        "condition_immunities": [
+          "Charmed",
+          "Frightened"
+        ],
+        "senses": [
+          "passive perception 20"
+        ],
+        "languages": [
+          "All"
+        ],
+        "cr": 15,
+        "traits": [
+          {
+            "name": "Legendary Resistance (3/Day)",
+            "desc": "If the Oracle fails a saving throw, she can choose to succeed instead."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Multiattack",
+            "desc": "The Oracle makes two Magic Flare attacks. She can also use Paradoxy, if available."
+          },
+          {
+            "name": "Magic Flare",
+            "desc": "Melee or Ranged Spell Attack DC 22 | +10 to hit, reach 5 ft. or range 60 ft., one target. Hit:_ 24 (3d12 + 5) force damage."
+          },
+          {
+            "name": "Paradoxy (Recharge 4–6)",
+            "desc": "Momentary warps in reality appear at three different points the Oracle can see within 120 feet of her. Each creature in a 20-foot-radius sphere centered on each point must make a DC 18 Strength saving throw. On a failed save, a creature takes 33 (6d10) force damage and is pulled up to 15 feet in a straight line toward the center of the sphere. On a successful save, the creature takes half as much damage and isn’t pulled. A creature caught in the area of multiple warps is affected by only one, which the Oracle chooses."
+          },
+          {
+            "name": "Teleport",
+            "desc": "The Oracle teleports, along with any equipment she is wearing or carrying, to an unoccupied space she can see within 60 feet of herself."
+          }
+        ],
+        "spells": [
+          "The Oracle casts one of the following spells, requiring no material components and using Intelligence as the spellcasting ability (spell save DC 18)",
+          {
+            "Cantrips (at-will)": "detect magic"
+          },
+          {
+            "2/day each": "dispel magic, mage armour, remove curse, sending"
+          },
+          {
+            "1/day each": "power word stun, scrying (as an action),wall of force"
+          }
+        ],
+        "legendary_actions": [
+          {
+            "name": null,
+            "desc": "The Oracle can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. The Oracle regains spent legendary actions at the start of her turn."
+          },
+          {
+            "name": "Vector Shift",
+            "desc": "The Oracle teleports one creature she can see within 60 feet of herself, along with any equipment it is wearing or carrying, to an unoccupied space within 30 feet of herself. An unwilling target must succeed on a DC 18 Charisma saving throw to avoid the effect"
+          },
+          {
+            "name": "Spellcasting (Costs 2 actions)",
+            "desc": "The Oracle uses spellcasting"
+          },
+          {
+            "name": "Vortex Jaunt",
+            "desc": "The Oracle uses teleport , and immediately after she disappears, each creature within 30 feet of the space she left must succeed on a DC 18 Constitution saving throw or take 16 (3d10) force damage"
+          }
+        ],
+        "source": "Homebrew",
+        "layout": "Basic 5e Layout"
       }
     ]
   ],

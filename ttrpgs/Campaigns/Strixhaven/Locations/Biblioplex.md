@@ -28,11 +28,11 @@ their rigorous class schedules
 
 #### B1. Main Entrance
 
-Enchanted marble steps lead up 5 feet to a small plaza at the Biblioplex’s entrance. The double door’s vertical handles are each carved in the likeness of a robed scholar. During the day, the doors stand open. At night, the doors are closed, locked, and sealed with an [arcane lock](https://www.dndbeyond.com/spells/2003-arcane-lock) spell. A successful DC 25 Dexterity check using thieves’ tools opens the lock (DC 35 while the [arcane lock](https://www.dndbeyond.com/spells/2003-arcane-lock) is in effect). Only the Biblioplex’s reference librarians and certain faculty members know the [arcane lock](https://www.dndbeyond.com/spells/2003-arcane-lock)’s password.
+Enchanted marble steps lead up 5 feet to a small plaza at the Biblioplex’s entrance. The double door’s vertical handles are each carved in the likeness of a robed scholar. During the day, the doors stand open. At night, the doors are closed, locked, and sealed with an [[arcane-lock-xphb|Arcane Lock]] spell. A successful DC 25 Dexterity check using thieves’ tools opens the lock (DC 35 while the [[arcane-lock-xphb|Arcane Lock]] is in effect). Only the Biblioplex’s reference librarians and certain faculty members know the [[arcane-lock-xphb|Arcane Lock]]’s password.
 
 #### B2. Biblioplex Lounge
 
-Luxurious couches and sturdy tables furnish this spacious area. Students, employees, and staff members often use this lounge to relax between shifts in the student store ([area B5](https://www.dndbeyond.com/sources/dnd/sacoc/campus-kerfuffle#B5StudentStore "area B5")), the Biblioplex café ([area B6](https://www.dndbeyond.com/sources/dnd/sacoc/campus-kerfuffle#B6BiblioplexCafe "area B6")), or elsewhere in the library. Each table holds piles of magazines, newsletters, flyers, and nonmagical scrolls from around campus. A character who examines these materials finds recruitment flyers from 1d3 Extracurriculars. They also find “Help Wanted” ads for the Jobs at the Biblioplex. [Extracurriculars](https://www.dndbeyond.com/sources/sacoc/school-is-in-session#Extracurriculars "Extracurriculars") and [Jobs](https://www.dndbeyond.com/sources/sacoc/school-is-in-session#Jobs "Jobs") are detailed earlier in the chapter.
+Luxurious couches and sturdy tables furnish this spacious area. Students, employees, and staff members often use this lounge to relax between shifts in the [[Biblioplex#B5. Student Store|student store]],  [[Biblioplex#B6. Biblioplex Café|Biblioplex café]], or elsewhere in the library. Each table holds piles of magazines, newsletters, flyers, and nonmagical scrolls from around campus. A character who examines these materials finds recruitment flyers from 1d3 Extracurriculars. They also find “Help Wanted” ads for the Jobs at the Biblioplex. [Extracurriculars](https://www.dndbeyond.com/sources/sacoc/school-is-in-session#Extracurriculars "Extracurriculars") and [Jobs](https://www.dndbeyond.com/sources/sacoc/school-is-in-session#Jobs "Jobs") are detailed earlier in the chapter.
 
 #### B3. Student Café Seating
 
@@ -44,7 +44,7 @@ Three faculty-appointed reference librarians work at each of these circular desk
 
 #### B5. Student Store
 
-This small shop is stocked with books, equipment, and gear useful as academic supplies. The store’s manager is Groff Lundquist (neutral good human [commoner](https://www.dndbeyond.com/monsters/16829-commoner)), a friendly Strixhaven staff member known for his ability to fashionably mix and match items of university apparel. Students can buy hats, scarves, tunics, robes, gloves, and other apparel embroidered with the Strixhaven star or with the sigil of any of Strixhaven’s colleges. Costs range from 5 cp to 5 gp or more, at your discretion.
+This small shop is stocked with books, equipment, and gear useful as academic supplies. The store’s manager is [[ttrpgs/Non Player Characters/Groff Lundquist|Groff Lundquist]] (neutral good human [[commoner-xmm|Commoner]], a friendly Strixhaven staff member known for his ability to fashionably mix and match items of university apparel. Students can buy hats, scarves, tunics, robes, gloves, and other apparel embroidered with the Strixhaven star or with the sigil of any of Strixhaven’s colleges. Costs range from 5 cp to 5 gp or more, at your discretion.
 
 Once a character chooses a college at the start of second year, they receive a set of college robes, a knit hat, a scarf, a tunic, and gloves free of charge. (This set normally costs 5 gp.)
 
@@ -54,19 +54,20 @@ In addition to nonmagical gear and clothing, the store also contains the magic i
 
 One wall of this area is covered with a mural made from a living tree’s roots, which move occasionally and make the entire place feel alive. The ceiling is covered in painted leaves, which change colors depending on the season thanks to a permanent illusion effect. The magic also prompts painted squirrels to run up and down the mural’s roots, and painted birds to chirp among the leaves.
 
-Up to ten students are typically present here during the day. Ordinarily, three more students work here, but during orientation, the café’s manager, Aisla Fitzbottom (chaotic good gnome [commoner](https://www.dndbeyond.com/monsters/16829-commoner)), is working alone. She is charmingly perky and has a mind like a steel trap when it comes to recognizing students. However, her organizational skills are somewhat lackadaisical.
+Up to ten students are typically present here during the day. Ordinarily, three more students work here, but during orientation, the café’s manager, [[Aisla Fitzbottom]] ,is working alone. She is charmingly perky and has a mind like a steel trap when it comes to recognizing students. However, her organizational skills are somewhat lackadaisical.
 
 The café always serves coffee and tea, which costs 1 cp per cup. The sandwich of the day varies. Roll below to determine which sandwich is available on any given day in the café.
 
-[](https://www.dndbeyond.com/sources/dnd/sacoc/campus-kerfuffle#CafSandwichOfTheDay)Café Sandwich of the Day
-|d6|Sandwich|
-|---|---|
-|1|Grilled halloumi with morels on wheat|
-|2|Toasted cockatrice gizzards on rye|
-|3|Open-faced radish chips, deep-fried with dijon|
-|4|Crunchy frog legs on toast|
-|5|Rainbow carrots and watercress chestnuts on white|
-|6|Dragonbreath peppers and salami on a bagel|
+| dice: 1d6 | Sandwich                                          |
+| --------- | ------------------------------------------------- |
+| 1         | Grilled halloumi with morels on wheat             |
+| 2         | Toasted cockatrice gizzards on rye                |
+| 3         | Open-faced radish chips, deep-fried with dijon    |
+| 4         | Crunchy frog legs on toast                        |
+| 5         | Rainbow carrots and watercress chestnuts on white |
+| 6         | Dragonbreath peppers and salami on a bagel        |
+^Sandwich
+
 
 #### B7. Lecture Hall
 
@@ -102,7 +103,9 @@ The “[Orientation Challenge](https://www.dndbeyond.com/sources/dnd/sacoc/campu
 
 #### B12. Student and Alumni Art Gallery
 
-This crisp-looking room features white walls and columns that stretch from floor to ceiling. Displayed on or within these are art pieces representative of various media. Students from Prismari College typically tend this space, and three [Prismari pledgemages](https://www.dndbeyond.com/monsters/2160319-prismari-pledgemage) (see [chapter 7](https://www.dndbeyond.com/sources/sacoc/friends-and-foes#PrismariPledgemage "chapter 7")) can be found here most days, either cleaning the gallery or studying the techniques used in the displayed pieces. A storage area at the back holds supplies and artwork waiting to go on display.
+This crisp-looking room features white walls and columns that stretch from floor to ceiling. Displayed on or within these are art pieces representative of various media. Students from Prismari College typically tend this space, and three [[]]
+
+Pl[Prismari pledgemages](https://www.dndbeyond.com/monsters/2160319-prismari-pledgemage) (see [chapter 7](https://www.dndbeyond.com/sources/sacoc/friends-and-foes#PrismariPledgemage "chapter 7")) can be found here most days, either cleaning the gallery or studying the techniques used in the displayed pieces. A storage area at the back holds supplies and artwork waiting to go on display.
 
 The Distinguished Society of Fine Artists often meets and holds discussions here. If the characters explore this area before or after orientation, Cadoras Damellawar (chaotic good elf [first-year student](https://www.dndbeyond.com/monsters/2160303-first-year-student); see the “[Fellow Students](https://www.dndbeyond.com/sources/sacoc/relationships#CadorasDamellawar "Fellow Students")” section) is here recruiting first-year students to the society.
 

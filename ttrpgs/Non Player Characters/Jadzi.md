@@ -49,6 +49,6 @@ The current Oracle is an elderly human named Jadzi. A graduate of Quandrix Colle
 > [!info] Statblock
 > ```statblock
 > name: Jadzi
-> monster: Jadzi the Oracle of Strixhaven
+> monster: The Oracle of Strixhaven
 > columns: 3
 > ```

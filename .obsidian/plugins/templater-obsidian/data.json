@@ -16,7 +16,7 @@
   "folder_templates": [
     {
       "folder": "ttrpgs/Non Player Characters",
-      "template": "z_templates/NPCWizard.md"
+      "template": "z_templates/NewNPC.md"
     },
     {
       "folder": "content/blog",
