@@ -7,12 +7,13 @@ tags:
 aliases: 
 SourceType: Magic Item
 NoteIcon: magicitem
-BookSource:
+BookSource: 
+campaign:
 ---
+<% await tp.file.move("ttrpgs/Items/" + tp.file.title) %>
 
 
-
-# Item Name
+# <%tp.file.title %>
 *Melee Weapon, uncommon (requires attunement by a druid or ranger)*  
 
 - **Damage**: 1d4 S

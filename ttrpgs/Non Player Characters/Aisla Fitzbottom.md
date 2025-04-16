@@ -13,6 +13,8 @@ NoteIcon: npc
 hp: "6"
 ac: "10"
 pasperc: 10
+aliases:
+  - Aisla
 ---
 
 > [!infobox]

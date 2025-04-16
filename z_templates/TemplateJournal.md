@@ -37,6 +37,8 @@ where (Status = "Active")
 >
 >When you define where a game session starts, you figure out what's going on, what the initial focus of the session is, and how you can get close to the action. When in doubt, start with a fight. 
 
+
+
 ### Outline Potential Scenes
 >[!Tip] Outline Potential Scenes
 >With a strong start in hand, we can then outline a short list of potential scenes that might unfold. This step exists mostly to make you feel as though you have a handle on the game before you start. 
@@ -45,6 +47,9 @@ where (Status = "Active")
 >
 >Usually, it's enough to come up with only a few words per scene, and to expect one or two scenes per hour of play. At other times, you might skip this step completely if you don't think you need it.
 
+
+
+
 ### Define Secrets and Clues
 
 >[!Tip] Define Secrets and Clues
@@ -52,6 +57,9 @@ where (Status = "Active")
 >The next step is second only in importance to the strong start, and is one of the most powerful tools available to GMs. Secrets and clues are single short sentences that describe a clue, a piece of the story, or a piece of the world that the characters can discover during the game. 
 >
 >You don't know exactly _how_ the characters will discover these clues. As such, you'll want to **keep these secrets and clues abstract from their place of discovery** so that you can drop them into the game wherever it makes sense. This lets the game flow freely, while still allowing you to reveal important pieces of the story at any point where the characters might discover them. During this step, you might write down ten such secrets or clues.
+
+
+
 
 ### Develop Fantastic Locations
 
@@ -75,11 +83,20 @@ where (Status = "Active")
 >
 >Additionally, understanding the loose relationship between monster challenge rating and character level can help you understand how a battle might go. Most of the time, you can just list a number of monsters and improvise encounters based on what's happening in the adventure. For boss battles, you might have to do more work. See [Lazy Combat Encounter Building](https://slyflourish.com/lazy_gm_resource_document.html#lazycombatencounterbuilding) for more information.
 
+
+
 ### Select Magic Item Rewards
 
 >[!tip] Select Magic Rewards.
 >
 >Players love magic items, and it's worthwhile to spend time preparing items they'll find interesting. This step also helps to directly impact the characters — by dropping an interesting part of the story literally into their hands. You can use a mixture of techniques to reward magic items, from selecting items randomly to selecting specific items based on the themes of the characters and the desires of the players. Magic items are also a great mechanism for delivering secrets and clues.
+
+### Log 
+
+
+
+
+
 
 
 ### Summary

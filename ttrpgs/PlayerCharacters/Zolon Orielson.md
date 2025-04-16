@@ -18,6 +18,8 @@ PlayerKnownLanguages:
   - Common
   - Draconic
 campaign: Strixhaven
+aliases:
+  - Zolon
 ---
 ```custom-frames
 frame: Zolon Orielson - DND Beyond

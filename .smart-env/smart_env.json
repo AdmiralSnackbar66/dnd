@@ -24,7 +24,8 @@
   },
   "smart_notices": {
     "muted": {
-      "done_initial_scan": true
+      "done_initial_scan": true,
+      "new_version_available": true
     }
   },
   "excluded_headings": "",

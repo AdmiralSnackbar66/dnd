@@ -11,6 +11,8 @@ NoteIcon: npc
 hp: 
 ac: 
 pasperc:
+aliases:
+campaign:
 ---
 
 <% tp.file.title %>

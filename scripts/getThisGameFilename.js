@@ -2,7 +2,7 @@ module.exports = (params) => {
     console.log(params);
     let thisCampaign = params.app.workspace.getActiveFile().parent.path.slice(7);
     let numOfGames = app.plugins.plugins.dataview.api
-        .pages(`"ttrpgs/Campaigns/${thisCampaign}"`)
+        .pages(`"ttrpgs/Campaigns/${thisCampaign}/Sessions"`)
         .where(page => {
             if (page.type === 'session') {
                 if (page.campaign === thisCampaign) {

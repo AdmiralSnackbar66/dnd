@@ -1,7 +1,7 @@
 {
   "accentColor": "",
   "cssTheme": "ITS Theme",
-  "theme": "moonstone",
+  "theme": "system",
   "enabledCssSnippets": [
     "S - Encoded Fonts",
     "S - Encoded Icons",
@@ -10,7 +10,8 @@
     "dnd5e-compendium",
     "dnd5e-float-images",
     "dnd5e-only-admonitions",
-    "FantasyFonts"
+    "FantasyFonts",
+    "Student"
   ],
   "baseFontSize": 15
 }

@@ -19,6 +19,8 @@ PlayerKnownLanguages:
   - Common Sign Language
   - Infernal
 campaign: Strixhaven
+aliases:
+  - Roleck
 ---
 ```custom-frames
 frame: Roleck Nevari - DND Beyond

@@ -20,6 +20,8 @@ PlayerKnownLanguages:
   - Elvish
   - Dwarvish
 campaign: Strixhaven
+aliases:
+  - Elvis
 ---
 ```custom-frames
 frame: Elvis Parsley - DND Beyond

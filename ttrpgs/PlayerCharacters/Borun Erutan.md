@@ -20,6 +20,8 @@ PlayerKnownLanguages:
   - Druidic
   - Elvish
 campaign: Strixhaven
+aliases:
+  - Borun
 ---
 ```custom-frames
 frame: Borun Erutan - DND Beyond

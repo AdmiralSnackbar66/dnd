@@ -668,6 +668,309 @@
         "source": "Homebrew",
         "layout": "Basic 5e Layout"
       }
+    ],
+    [
+      "Prismari Pledgemage",
+      {
+        "name": "Prismari Pledgemage",
+        "size": "Medium",
+        "type": "Humanoid",
+        "class": "Sorcerer",
+        "ac": "12 (15 with <STATBLOCK-WIKI-LINK>mage-armor-xphb|Mage Armor<STATBLOCK-WIKI-LINK>)",
+        "hp": "66 (12d8 + 12)",
+        "speed": "35ft",
+        "stats": [
+          10,
+          15,
+          13,
+          12,
+          14,
+          17
+        ],
+        "saves": [
+          {
+            "Dexterity": 4
+          },
+          {
+            "Charisma": 5
+          }
+        ],
+        "skillsaves": [
+          {
+            "Acrobatics": 4
+          },
+          {
+            "Athletics": 4
+          },
+          {
+            "Performance": 7
+          }
+        ],
+        "senses": [
+          "passive Perception 12"
+        ],
+        "languages": [
+          "Common plus any two languages"
+        ],
+        "cr": 4,
+        "traits": [
+          {
+            "name": "Evasion",
+            "desc": "If the pledgemage is subjected to an effect that allows it to make a Dexterity saving throw to take only half damage, the pledgemage instead takes no damage if it succeeds on the saving throw and only half damage if it fails, provided it isn’t incapacitated."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Multiattack",
+            "desc": "The pledgemage makes two Elemental Strike attacks."
+          },
+          {
+            "name": "Elemental Strike",
+            "desc": "_Melee or Ranged Spell Attack:_ +5 to hit, reach 5 ft. or range 60 ft., one target. _Hit:_ 12 (3d6 + 2) fire or cold damage (the pledgemage’s choice)."
+          },
+          {
+            "name": "Showstopper (1/Day)",
+            "desc": "The pledgemage shines with elemental magic, targeting one creature it can see within 60 feet of itself. The target must make a DC 13 Wisdom saving throw. On a failed save, the target takes 28 (8d6) fire or cold damage (the pledgemage’s choice) and is stunned until the start of the pledgemage’s next turn. On a successful save, the target takes half as much damage and isn’t stunned"
+          }
+        ],
+        "spells": [
+          "The pledgemage casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 13)",
+          {
+            "At will": "<STATBLOCK-WIKI-LINK>minor-illusion-xphb|Minor Illusion<STATBLOCK-WIKI-LINK>"
+          },
+          {
+            "2/day each": "<STATBLOCK-WIKI-LINK>gust-of-wind-xphb|Gust of Wind<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>silent-image-xphb|Silent Image<STATBLOCK-WIKI-LINK>"
+          },
+          {
+            "1/day each": "<STATBLOCK-WIKI-LINK>mage-armor-xphb|Mage Armor<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>water-walk-xphb|Water Walk<STATBLOCK-WIKI-LINK>"
+          }
+        ],
+        "bonus_actions": [
+          {
+            "name": "Surge of Artistry (Recharge 4-6)",
+            "desc": "The pledgemage moves up to its speed, surrounding itself with elemental magic as it moves. Until the end of its turn, the pledgemage can move through the space of other creatures. The first time the pledgemage enters a creature’s space on a turn, that creature must succeed on a DC 13 Dexterity saving throw or be knocked prone. If the pledgemage ends its turn in another creature’s space, the pledgemage takes 5 (1d10) force damage and is pushed into the nearest unoccupied space."
+          }
+        ],
+        "source": "Homebrew",
+        "layout": "Basic 5e Layout"
+      }
+    ],
+    [
+      "Witherbloom Pledgemage",
+      {
+        "name": "Witherbloom Pledgemage",
+        "size": "Medium",
+        "type": "Humanoid",
+        "subtype": "Druid",
+        "alignment": "Any Alignment",
+        "ac": "12 (15 with mage armour)",
+        "hp": "68 (12d8 + 12)",
+        "speed": "30ft",
+        "stats": [
+          10,
+          15,
+          13,
+          14,
+          17,
+          11
+        ],
+        "saves": [
+          {
+            "Constitution": 3
+          },
+          {
+            "Wisdom": 5
+          }
+        ],
+        "skillsaves": [
+          {
+            "Medicine": 5
+          },
+          {
+            "Nature": 6
+          },
+          "Perception 7"
+        ],
+        "damage_immunities": "poison",
+        "condition_immunities": "poisoned",
+        "senses": "passive Perception 17",
+        "languages": [
+          "Common plus any two languages"
+        ],
+        "cr": 4,
+        "traits": [
+          {
+            "name": "Regeneration",
+            "desc": "As long as the pledgemage has at least 1 hit point remaining, the pledgemage regains 5 hit points at the start of its turn."
+          },
+          {
+            "name": "Verdant Talisman",
+            "desc": "At the end of a 10-minute ritual, the pledgemage can touch one willing creature (including itself) and bestow upon it a small talisman imbued with vitality magic. Upon receiving the talisman, the creature gains 10 temporary hit points, and it can add 1d6 to its initiative rolls while it wears the talisman. These benefits last for 1 hour or until the pledgemage conducts another ritual to bestow another talisman. When the benefits expire, the talisman crumbles to dust."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Briar Vine",
+            "desc": "Melee Spell Attack: +5 to hit, reach 15 ft., one target. Hit: 8 (1d10 + 3) piercing damage plus 18 (4d8) poison damage. If the target is a Large or smaller creature, the apprentice can pull it up to 10 feet closer to itself."
+          }
+        ],
+        "spells": [
+          "The pledgemage casts one of the following spells, requiring no material components and using Wisdom as the spellcasting ability",
+          {
+            "At Will": "<STATBLOCK-WIKI-LINK>druidcraft-xphb|Druidcraft<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>spare-the-dying-xphb|Spare the Dying<STATBLOCK-WIKI-LINK>"
+          },
+          {
+            "1/day each": "<STATBLOCK-WIKI-LINK>death-ward-xphb|Death Ward<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>pass-without-trace-xphb|Pass without Trace<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>speak-with-plants-xphb|Speak with Plants<STATBLOCK-WIKI-LINK>"
+          }
+        ],
+        "bonus_actions": [
+          {
+            "name": "Vociferous Form (1/Day).",
+            "desc": "The pledgemage transforms into an avatar of plants and shadow. While in this form, the pledgemage adds its Wisdom modifier to its AC if it isn’t wearing armor or wielding a shield, and it has advantage on attack rolls against any creature missing hit points. This form lasts for 1 minute or until the pledgemage is reduced to 0 hit points."
+          }
+        ],
+        "reactions": [
+          {
+            "name": "Wither Burst",
+            "desc": "When the pledgemage sees a creature within 30 feet of itself drop to 0 hit points, the pledgemage channels the expended life essence and targets another creature it can see within 30 feet of itself. The target must succeed on a DC 13 Constitution saving throw or become <STATBLOCK-WIKI-LINK>conditions#Poisoned|poisoned<STATBLOCK-WIKI-LINK> for 1 minute. While <STATBLOCK-WIKI-LINK>conditions#Poisoned|poisoned<STATBLOCK-WIKI-LINK>in this way, the target takes 3 (1d6) poison damage at the start of each of its turns. The target can repeat the save at the end of each of its turns, ending the effect on itself on a success."
+          }
+        ],
+        "source": "Homebrew",
+        "layout": "Basic 5e Layout"
+      }
+    ],
+    [
+      "First-Year Student",
+      {
+        "name": "First-Year Student",
+        "size": "Medium or Small",
+        "type": "Humanoid",
+        "subtype": "Wizard",
+        "alignment": "Any Alignment",
+        "ac": 11,
+        "hp": "33 (6d8 + 6)",
+        "speed": "30ft",
+        "stats": [
+          8,
+          12,
+          13,
+          12,
+          10,
+          11
+        ],
+        "senses": "passsive Perception 10",
+        "languages": [
+          "Common plus any two languages"
+        ],
+        "cr": "1/2",
+        "traits": [
+          {
+            "name": "Excited to Be Here",
+            "desc": "The student has advantage on initiative rolls."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Magic Flare",
+            "desc": "_Melee or Ranged Spell Attack_ +3 to hit, reach 5 ft. or range 60 ft., one target. _Hit_ 7 (1d12 + 1) force damage"
+          }
+        ],
+        "spells": [
+          "The student casts one of the following spells, using intelligence as the spellcasting ability (spell save DC11).",
+          {
+            "At will": "<STATBLOCK-WIKI-LINK>mage-hand-xphb|Mage Hand<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>prestidigitation-xphb|Prestidigitation<STATBLOCK-WIKI-LINK>"
+          },
+          {
+            "1/day": "<STATBLOCK-WIKI-LINK>detect-magic-xphb|Detect Magic<STATBLOCK-WIKI-LINK>"
+          }
+        ],
+        "reactions": [
+          {
+            "name": "Beginner’s Luck (2/day)",
+            "desc": "When the student fails a saving throw, it can reroll the d20. It must use the new roll"
+          }
+        ],
+        "source": "Homebrew",
+        "layout": "Basic 5e Layout"
+      }
+    ],
+    [
+      "Witherbloom Apprentice",
+      {
+        "name": "Witherbloom Apprentice",
+        "size": "Medium or small",
+        "type": "Humanoid",
+        "subtype": "Druid",
+        "alignment": "Any Alignment",
+        "ac": "13 (leather armour)",
+        "hp": "44 (8d8 + 8)",
+        "speed": "30ft",
+        "stats": [
+          10,
+          14,
+          13,
+          12,
+          15,
+          11
+        ],
+        "saves": [
+          {
+            "Constitution": 3
+          },
+          {
+            "Wisdom": 4
+          }
+        ],
+        "skillsaves": [
+          {
+            "Medicine": 4
+          },
+          {
+            "Nature": 5
+          },
+          "Perception 6"
+        ],
+        "senses": [
+          "passive Perception 16"
+        ],
+        "languages": [
+          "Common plus any two languages"
+        ],
+        "cr": 2,
+        "traits": [
+          {
+            "name": "Regeneration",
+            "desc": "The apprentice regains 5 hit points at the start of its turn if it has at least 1 hit point"
+          },
+          {
+            "name": "Verdant Talisman",
+            "desc": "At the end of a 10-minute ritual, the apprentice can touch one willing creature (including itself) and bestow upon it a small talisman imbued with magic. Upon receiving the talisman, the creature gains 10 temporary hit points, and it can add 1d6 to its initiative rolls while it wears the talisman. These benefits last for 1 hour or until the apprentice conducts another ritual to bestow another talisman. When the benefits expire, the talisman crumbles to dust."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Briar Vine",
+            "desc": "_Melee Spell Attack:_ +4 to hit, reach 15 ft., one target. _Hit:_ 7 (1d10 + 2) piercing damage plus 9 (2d8) poison damage. If the target is a Large or smaller creature, the apprentice can pull it up to 10 feet closer to itself."
+          }
+        ],
+        "spells": [
+          "The apprentice casts one of the following spells, requiring no material components and using Wisdom as the spellcasting ability",
+          {
+            "At will": "<STATBLOCK-WIKI-LINK>druidcraft-xphb|Druidcraft<STATBLOCK-WIKI-LINK>,<STATBLOCK-WIKI-LINK>spare-the-dying-xphb|Spare the Dying<STATBLOCK-WIKI-LINK>"
+          },
+          {
+            "1/day each": "<STATBLOCK-WIKI-LINK>pass-without-trace-xphb|Pass without Trace<STATBLOCK-WIKI-LINK>"
+          }
+        ],
+        "reactions": [
+          {
+            "name": "Wither Burst",
+            "desc": "When the apprentice sees a creature within 30 feet of itself drop to 0 hit points, the apprentice channels the expended life essence and targets another creature it can see within 30 feet of itself. The target must succeed on a DC 12 Constitution saving throw or become <STATBLOCK-WIKI-LINK>conditions#Poisoned|poisoned<STATBLOCK-WIKI-LINK> for 1 minute. While <STATBLOCK-WIKI-LINK>conditions#Poisoned|poisoned<STATBLOCK-WIKI-LINK> in this way, the target takes 3 (1d6) poison damage at the start of each of its turns. The target can repeat the save at the end of each of its turns, ending the effect on itself on a success."
+          }
+        ],
+        "source": "Homebrew",
+        "layout": "Basic 5e Layout"
+      }
     ]
   ],
   "defaultLayouts": {

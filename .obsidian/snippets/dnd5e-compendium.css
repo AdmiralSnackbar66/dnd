@@ -20,6 +20,10 @@ body {
   --admonition-skill-text: 157,101,83;
 }
 
+.callout[data-callout=student] {
+  --callout-colour: var(--admonition-scene);
+}
+
 .callout[data-callout=charm] {
   --callout-color: var(--admonition-charm);
   --callout-title-color: rgb(var(--admonition-charm-text));

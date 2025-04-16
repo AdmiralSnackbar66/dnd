@@ -5,8 +5,9 @@ status: active
 role: GM
 system: 5e
 type: world
+banner: "![[Strixhaven.png]]"
+banner_y: 0.16
 ---
-
 # The World of [[Strixhaven]]
 
 ## Player Characters
@@ -20,7 +21,7 @@ SORT file.mtime DESC
 ```
 
 ## Sessions
-
+_Put your cursor where the session link should be. Then, from the Command Palette (CMD/CTRL+P), select either QuickAdd: Macro - Add session-player or QuickAdd: Macro - Add session-gm_.
 ```dataview  
 TABLE date,status, summary
 FROM "ttrpgs"
@@ -33,34 +34,13 @@ SORT file.mtime DESC
 
 *Write down some facts about this campaign or the world that the characters find themselves in.*
 
-## NPC's
-
-```dataview  
-TABLE WITHOUT ID link(file.name) AS "Name", Race, Class
-FROM "ttrpgs"
-WHERE (NoteIcon = "npc") 
-WHERE (campaign = "Strixhaven")
-SORT file.mtime DESC
-```
 
 ## Factions
-
 ```dataview
 TABLE description as "Description" from "ttrpgs"
 WHERE contains(lower(type),"faction")
 WHERE (campaign = "Strixhaven")
 ```
-
-## Locations
-
-```dataview  
-TABLE WITHOUT ID link(file.name) AS "Location"
-FROM "ttrpgs/Campaigns/Strixhaven/Locations"
-WHERE (NoteIcon = "location") 
-WHERE (campaign = "Strixhaven")
-SORT file.mtime DESC
-```
-
 
 ## Custom rules
 

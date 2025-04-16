@@ -14,6 +14,10 @@ campaign: Strixhaven
 AC: 12
 hp: 118
 pasperc: "11"
+aliases:
+  - Professor Sharpbeak
+  - Mavinder
+  - Sharpbeak
 ---
 
 

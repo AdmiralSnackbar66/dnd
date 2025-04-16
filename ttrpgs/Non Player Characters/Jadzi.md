@@ -15,6 +15,9 @@ campaign: Strixhaven
 ac: "12"
 hp: "150"
 pasperc: 20
+aliases:
+  - Jadzi
+  - The Oracle
 ---
 
 

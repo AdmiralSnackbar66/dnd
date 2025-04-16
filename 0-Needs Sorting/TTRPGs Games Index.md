@@ -1,13 +1,19 @@
 ---
-aliases:
-  - games
-banner_y: 0.86
+aliases: games
 banner: "![[games-banner.png]]"
+banner_y: 0.86
 ---
-# [[TTRPGs Games Index]]
+# [[0-Needs Sorting/TTRPGs Games Index]]
 
 ## List of current campaigns
 
+
+```button
+name Add New World
+type command
+action QuickAdd: Template - Add TTRPG world
+```
+^button-btnAddNewWorld
 
 ```dataviewjs
 let totalGames;
@@ -31,36 +37,3 @@ dv.table(["Campaign","System","Sessions", "Role","Status"],dv.pages('"ttrpgs"')
   .map(b => [dv.fileLink(b.file.path,false,[b.campaign]),b.system,getNumOfGames(b.campaign),b.role,b.status]))
 ```
 
-## List of  Player Characters
-
-```dataview  
-TABLE WITHOUT ID link(file.name) AS "Name", campaign, Race, Class, ac, hp, pasperc
-FROM "ttrpgs"
-WHERE (NoteIcon = "player") 
-SORT file.mtime DESC
-```
-
-## List of Non Player Characters
-
-```meta-bind-button
-label: Add NPC
-icon: ""
-style: primary
-class: ""
-cssStyle: ""
-backgroundImage: ""
-tooltip: ""
-id: ""
-hidden: false
-actions:
-  - type: command
-    command: quickadd:choice:bd9c1196-2f8e-490e-938e-e6ec765e13d6
-
-```
-
-```dataview  
-TABLE WITHOUT ID link(file.name) AS "Name", campaign, Race, Class, ac, hp, pasperc
-FROM "ttrpgs"
-WHERE (NoteIcon = "npc") 
-SORT file.mtime DESC
-```

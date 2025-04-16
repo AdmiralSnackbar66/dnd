@@ -20,16 +20,18 @@ NoteIcon: Journal
 ### **Clue 2.**
 >[!readaloud] Alumni commission works when they retire, seeking promising mages to inspire.
 
+
 >[!tip] This clue refers to the  [[Biblioplex#B12. Student and Alumni Art Gallery|Student and Alumni Art Gallery]]
 >
-When the characters wander through the gallery, they see a portrait of several older alumni wearing Prismari College robes. If a character examines the portrait, they find a plaque that reads: “At Strixhaven we were all inspired.” Below the plaque is a small lever. If a character uses an action to pull the lever, a box pops out of the wall containing a [[ttrpgs/Items/Strixhaven Pennant|Strixhaven pennant]] ( `dice: [[Strixhaven Pennant#^pennant]]`).  Once it dispenses the pennants, the box disappears back into the wall and doesn’t work for the characters again.
+When the characters wander through the gallery, they see a portrait of several older alumni wearing Prismari College robes. If a character examines the portrait, they find a plaque that reads: “At Strixhaven we were all inspired.” Below the plaque is a small lever. If a character uses an action to pull the lever, a box pops out of the wall containing a [[Strixhaven Pennant|Strixhaven pennant]] ( `dice: [[Strixhaven Pennant#^pennant]]`).  Once it dispenses the pennants, the box disappears back into the wall and doesn’t work for the characters again.
+
 
 ### **Clue 3.** 
 >[!readaloud] Each group deserves a free treat for their investment. Serve up this list and enjoy your refreshment.
 
 >[!tip] This clue refers to the [[Biblioplex#B6. Biblioplex Café|Biblioplex Cafe]]
 >
-When the characters enter the café, they see several students enjoying drinks and snacks. [[ttrpgs/Non Player Characters/Aisla Fitzbottom|Aisla Fitzbottom]] , the café manager, is a Strixhaven staff member and the only worker behind the counter at present. 
+When the characters enter the café, they see several students enjoying drinks and snacks. [[Aisla Fitzbottom|Aisla Fitzbottom]] , the café manager, is a Strixhaven staff member and the only worker behind the counter at present. 
 >>>[!cite] "Here for the scavenger hunt I'll bet! Come in and have a seat while I get you some refreshments. Tea? Coffee? Anyone hungry? The café's speciality of the day is... `dice: [[Biblioplex#^Sandwich]]`. It’s on the house.
 >
 
@@ -37,7 +39,7 @@ When the characters enter the café, they see several students enjoying drinks a
 >[!readaloud] These leafy beds aren’t always what they seem. Give them a pat and see what you glean.
 
 >[!tip]  This clue refers to  [[Biblioplex#B9. Book Garden|the book gardens]]
->When the characters enter a book garden, they see a lush arboretum. A successful DC 10 Intelligence (Investigation check) reveals that three of the shrubs are not ordinary greenery, but are instead [[awakened-shrub-xmm|Awakened Shrub]], each with a glistening crown of leaves. If a character uses an action to pat the shrubs on these leaves, the branches part to reveal a [[ttrpgs/Items/Strixhaven Mascot|Strixhaven mascot]] (`dice: [[Strixhaven Mascot#^mascot]]`). This magic works only once per character.
+>When the characters enter a book garden, they see a lush arboretum. A successful DC 10 Intelligence (Investigation check) reveals that three of the shrubs are not ordinary greenery, but are instead [[awakened-shrub-xmm|Awakened Shrub]], each with a glistening crown of leaves. If a character uses an action to pat the shrubs on these leaves, the branches part to reveal a [[Cuddly Strixhaven Mascot|Strixhaven mascot]] (`dice: [[Cuddly Strixhaven Mascot#^mascot]]`). This magic works only once per character.
 
 ### **Clue 5.** 
 >[!readaloud] Some stars are ancient, enduring, and bright. But others—maybe you!—are born on opening night.
@@ -45,3 +47,4 @@ When the characters enter the café, they see several students enjoying drinks a
 >[!tip] This clue refers to [[Biblioplex#B13. Amphitheater|Ampitheater]]
 >When the characters reach the amphitheater, they see an impressively lavish stage, with the curtains drawn back as if to reveal performers on the opening night of a major production. If a character recites, sings, hums, belches, or otherwise emits any line or tune while standing on the stage, bright floodlights snap on around the stage’s perimeter—a number of lights equal to the number of characters in the group. Approaching any of the lights reveals a recess in which lies a [[hooded-lantern-xphb|Hooded Lantern]] filled with oil.
 
+[[Register for Classes]]

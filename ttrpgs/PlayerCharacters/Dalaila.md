@@ -17,6 +17,8 @@ Status: Active
 PlayerKnownLanguages:
   - Common
 campaign: Strixhaven
+aliases:
+  - Daliaila
 ---
 ```custom-frames
 frame: Dalaila - DND Beyond
