@@ -33,18 +33,17 @@ Xyla teaches students about common symbols and notations used by mages from all 
 
 #### Keep It Secret, Keep it Safe: Protecting Things Behind Locked Doors
 **Associated Skills:** [[skills#Arcan|Arcana]], [[skills#Deceptio|Deception]], [[##Intimidation|Intimidation]]
-This course its taught by [[Professor Fain]], [[Silverquill Professor of Shadow]]
-Fain not only knows how to get ahold of certain things but also maintains a vast knowledge on keeping those precious things safe. Fain keeps a distance from most students so as to not let down his guard or draw suspicion. But he might come to favour individuals who are repeat customers or who display sneaky or sketchy tendencies. Students who pass this class learn the [[arcane-lock-xphb|Arcane Lock]] spell. Fain looks favorably on students who attempt to cheat on exams and the DC for cheating should be lowered for those exams.
+This course its taught by [[02-life-at-strixhaven#Fain, the Broker|Professor Fain, Silverquills Professor of Shadow ]]
+Fain not only knows how to get hold of certain things but also maintains a vast knowledge on keeping those precious things safe. Fain keeps a distance from most students so as to not let down his guard or draw suspicion. But he might come to favour individuals who are repeat customers or who display sneaky or sketchy tendencies. Students who pass this class learn the [[arcane-lock-xphb|Arcane Lock]] spell. Fain looks favourably on students who attempt to cheat on exams and the DC for cheating should be lowered for those exams.
 
 
 ### Lorehold Courses
 
 #### Digging Up the Past: Introduction to Archaeomancy (Required for Lorehold)
 **Associated Skills**: [[skills#Insight|Insight]], [[skills#History|History]][[skills#Religion|Religion]]
-As an introductory course to the college this class is taught by Lorehold's deans, [[Augusta Tullus]] and [[Plargg]]. 
+As an introductory course to the college this class is taught by [[02-life-at-strixhaven#Lorehold College|Lorehold]]'s deans, [[02-life-at-strixhaven#Augusta Tullus, Dean of Order|Augusta Tullus]] and [[02-life-at-strixhaven#Plargg, Dean of Chaos|Plargg]].
 The deans might alternate days, weeks, or even split the class in two per the DM's discretion but a few things should be stressed to players. This course contains a large number of students, it is lecture-based with no time for questions and answers, and it is very confusing due to the dichotomous nature of the deans.
-In this course students will learn what Lorehold is all about through an exploration of various methods of record-keeping and exploration tactics. As an introductory course students
-gain no rewards, merely an understanding of what their future coursework might entail.
+In this course students will learn what Lorehold is all about through an exploration of various methods of record-keeping and exploration tactics. As an introductory course students gain no rewards, merely an understanding of what their future coursework might entail.
 
 #### Hindsight: Examining and Identifying Historical Arcane Artifacts
 **Associated Rolls:** [[skills#History|History]], [[skills#Investigation|Investigation]], Various Tools
