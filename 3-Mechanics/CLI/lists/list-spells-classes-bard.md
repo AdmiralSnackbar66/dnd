@@ -43,6 +43,7 @@ aliases: ["Bard Spells"]
 - [Illusory Script](3-Mechanics/CLI/spells/illusory-script-xphb.md "XPHB")
 - [Longstrider](3-Mechanics/CLI/spells/longstrider-xphb.md "XPHB")
 - [Silent Image](3-Mechanics/CLI/spells/silent-image-xphb.md "XPHB")
+- [Silvery Barbs](3-Mechanics/CLI/spells/silvery-barbs-scc.md "SCC")
 - [Sleep](3-Mechanics/CLI/spells/sleep-xphb.md "XPHB")
 - [Speak with Animals](3-Mechanics/CLI/spells/speak-with-animals-xphb.md "XPHB")
 - [Tasha's Hideous Laughter](3-Mechanics/CLI/spells/tashas-hideous-laughter-xphb.md "XPHB")
@@ -54,6 +55,7 @@ aliases: ["Bard Spells"]
 - [Aid](3-Mechanics/CLI/spells/aid-xphb.md "XPHB")
 - [Animal Messenger](3-Mechanics/CLI/spells/animal-messenger-xphb.md "XPHB")
 - [Blindness/Deafness](3-Mechanics/CLI/spells/blindness-deafness-xphb.md "XPHB")
+- [Borrowed Knowledge](3-Mechanics/CLI/spells/borrowed-knowledge-scc.md "SCC")
 - [Calm Emotions](3-Mechanics/CLI/spells/calm-emotions-xphb.md "XPHB")
 - [Cloud of Daggers](3-Mechanics/CLI/spells/cloud-of-daggers-xphb.md "XPHB")
 - [Crown of Madness](3-Mechanics/CLI/spells/crown-of-madness-xphb.md "XPHB")
@@ -64,12 +66,14 @@ aliases: ["Bard Spells"]
 - [Heat Metal](3-Mechanics/CLI/spells/heat-metal-xphb.md "XPHB")
 - [Hold Person](3-Mechanics/CLI/spells/hold-person-xphb.md "XPHB")
 - [Invisibility](3-Mechanics/CLI/spells/invisibility-xphb.md "XPHB")
+- [Kinetic Jaunt](3-Mechanics/CLI/spells/kinetic-jaunt-scc.md "SCC")
 - [Knock](3-Mechanics/CLI/spells/knock-xphb.md "XPHB")
 - [Lesser Restoration](3-Mechanics/CLI/spells/lesser-restoration-xphb.md "XPHB")
 - [Locate Animals or Plants](3-Mechanics/CLI/spells/locate-animals-or-plants-xphb.md "XPHB")
 - [Locate Object](3-Mechanics/CLI/spells/locate-object-xphb.md "XPHB")
 - [Magic Mouth](3-Mechanics/CLI/spells/magic-mouth-xphb.md "XPHB")
 - [Mirror Image](3-Mechanics/CLI/spells/mirror-image-xphb.md "XPHB")
+- [Nathair's Mischief](3-Mechanics/CLI/spells/nathairs-mischief-ftd.md "FTD")
 - [Phantasmal Force](3-Mechanics/CLI/spells/phantasmal-force-xphb.md "XPHB")
 - [See Invisibility](3-Mechanics/CLI/spells/see-invisibility-xphb.md "XPHB")
 - [Shatter](3-Mechanics/CLI/spells/shatter-xphb.md "XPHB")
@@ -111,6 +115,7 @@ aliases: ["Bard Spells"]
 - [Locate Creature](3-Mechanics/CLI/spells/locate-creature-xphb.md "XPHB")
 - [Phantasmal Killer](3-Mechanics/CLI/spells/phantasmal-killer-xphb.md "XPHB")
 - [Polymorph](3-Mechanics/CLI/spells/polymorph-xphb.md "XPHB")
+- [Raulothim's Psychic Lance](3-Mechanics/CLI/spells/raulothims-psychic-lance-ftd.md "FTD")
 
 ## 5th Level
 

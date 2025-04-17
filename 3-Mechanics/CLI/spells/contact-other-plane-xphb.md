@@ -7,6 +7,7 @@ tags:
 - ttrpg-cli/spell/class/warlock
 - ttrpg-cli/spell/class/wizard
 - ttrpg-cli/spell/level/5th-level
+- ttrpg-cli/spell/reward/echo-of-dragonsight
 - ttrpg-cli/spell/ritual
 - ttrpg-cli/spell/school/divination
 - ttrpg-cli/spell/subclass/diviner

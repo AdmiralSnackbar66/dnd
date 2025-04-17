@@ -63,6 +63,7 @@ aliases: ["Abjuration Spells"]
 - [Antilife Shell](3-Mechanics/CLI/spells/antilife-shell-xphb.md "XPHB")
 - [Circle of Power](3-Mechanics/CLI/spells/circle-of-power-xphb.md "XPHB")
 - [Dispel Evil and Good](3-Mechanics/CLI/spells/dispel-evil-and-good-xphb.md "XPHB")
+- [Freedom of the Winds](3-Mechanics/CLI/spells/freedom-of-the-winds-tdcsr.md "TDCSR")
 - [Greater Restoration](3-Mechanics/CLI/spells/greater-restoration-xphb.md "XPHB")
 - [Hallow](3-Mechanics/CLI/spells/hallow-xphb.md "XPHB")
 - [Mass Cure Wounds](3-Mechanics/CLI/spells/mass-cure-wounds-xphb.md "XPHB")
@@ -71,6 +72,7 @@ aliases: ["Abjuration Spells"]
 ## 6th Level
 
 - [Contingency](3-Mechanics/CLI/spells/contingency-xphb.md "XPHB")
+- [Fizban's Platinum Shield](3-Mechanics/CLI/spells/fizbans-platinum-shield-ftd.md "FTD")
 - [Forbiddance](3-Mechanics/CLI/spells/forbiddance-xphb.md "XPHB")
 - [Globe of Invulnerability](3-Mechanics/CLI/spells/globe-of-invulnerability-xphb.md "XPHB")
 - [Guards and Wards](3-Mechanics/CLI/spells/guards-and-wards-xphb.md "XPHB")

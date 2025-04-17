@@ -33,6 +33,7 @@ aliases: ["Conjuration Spells"]
 - [Flaming Sphere](3-Mechanics/CLI/spells/flaming-sphere-xphb.md "XPHB")
 - [Misty Step](3-Mechanics/CLI/spells/misty-step-xphb.md "XPHB")
 - [Summon Beast](3-Mechanics/CLI/spells/summon-beast-xphb.md "XPHB")
+- [Vortex Warp](3-Mechanics/CLI/spells/vortex-warp-scc.md "SCC")
 - [Web](3-Mechanics/CLI/spells/web-xphb.md "XPHB")
 
 ## 3rd Level
@@ -41,6 +42,7 @@ aliases: ["Conjuration Spells"]
 - [Conjure Animals](3-Mechanics/CLI/spells/conjure-animals-xphb.md "XPHB")
 - [Conjure Barrage](3-Mechanics/CLI/spells/conjure-barrage-xphb.md "XPHB")
 - [Create Food and Water](3-Mechanics/CLI/spells/create-food-and-water-xphb.md "XPHB")
+- [Freedom of the Waves](3-Mechanics/CLI/spells/freedom-of-the-waves-tdcsr.md "TDCSR")
 - [Hunger of Hadar](3-Mechanics/CLI/spells/hunger-of-hadar-xphb.md "XPHB")
 - [Sleet Storm](3-Mechanics/CLI/spells/sleet-storm-xphb.md "XPHB")
 - [Spirit Guardians](3-Mechanics/CLI/spells/spirit-guardians-xphb.md "XPHB")
@@ -53,6 +55,7 @@ aliases: ["Conjuration Spells"]
 - [Conjure Woodland Beings](3-Mechanics/CLI/spells/conjure-woodland-beings-xphb.md "XPHB")
 - [Dimension Door](3-Mechanics/CLI/spells/dimension-door-xphb.md "XPHB")
 - [Evard's Black Tentacles](3-Mechanics/CLI/spells/evards-black-tentacles-xphb.md "XPHB")
+- [Find Greater Steed](3-Mechanics/CLI/spells/find-greater-steed-xge.md "XGE")
 - [Giant Insect](3-Mechanics/CLI/spells/giant-insect-xphb.md "XPHB")
 - [Grasping Vine](3-Mechanics/CLI/spells/grasping-vine-xphb.md "XPHB")
 - [Guardian of Faith](3-Mechanics/CLI/spells/guardian-of-faith-xphb.md "XPHB")

@@ -85,6 +85,7 @@ aliases: ["Spells for Magic Initiate"]
 - [Shield](3-Mechanics/CLI/spells/shield-xphb.md "XPHB") 
 - [Shield of Faith](3-Mechanics/CLI/spells/shield-of-faith-xphb.md "XPHB") 
 - [Silent Image](3-Mechanics/CLI/spells/silent-image-xphb.md "XPHB") 
+- [Silvery Barbs](3-Mechanics/CLI/spells/silvery-barbs-scc.md "SCC") 
 - [Sleep](3-Mechanics/CLI/spells/sleep-xphb.md "XPHB") 
 - [Speak with Animals](3-Mechanics/CLI/spells/speak-with-animals-xphb.md "XPHB") 
 - [Tasha's Hideous Laughter](3-Mechanics/CLI/spells/tashas-hideous-laughter-xphb.md "XPHB") 

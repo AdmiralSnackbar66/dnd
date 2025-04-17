@@ -5,6 +5,7 @@ cssclasses: json5e-note
 # Index of Races
 
 - [Aasimar](./aasimar-xphb.md)
+- [Dragonborn (Gem)](./dragonborn-gem-ftd.md)
 - [Dragonborn](./dragonborn-xphb.md)
 - [Dwarf](./dwarf-xphb.md)
 - [Elf](./elf-xphb.md)
@@ -13,4 +14,5 @@ cssclasses: json5e-note
 - [Halfling](./halfling-xphb.md)
 - [Human](./human-xphb.md)
 - [Orc](./orc-xphb.md)
+- [Owlin](./owlin-scc.md)
 - [Tiefling](./tiefling-xphb.md)

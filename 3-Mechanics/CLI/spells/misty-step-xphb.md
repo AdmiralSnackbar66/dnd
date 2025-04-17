@@ -18,6 +18,7 @@ tags:
 - ttrpg-cli/spell/subclass/eldritch-knight
 - ttrpg-cli/spell/subclass/fey-wanderer
 - ttrpg-cli/spell/subclass/oath-of-the-ancients
+- ttrpg-cli/spell/subclass/oath-of-the-open-sea
 - ttrpg-cli/spell/subclass/oath-of-vengeance
 classes:
 - Bard
@@ -26,6 +27,7 @@ classes:
 - Fighter (Eldritch Knight)
 - Paladin (Oath of Vengeance)
 - Paladin (Oath of the Ancients)
+- Paladin (Oath of the Open Sea)
 - Ranger (Fey Wanderer)
 - Rogue (Arcane Trickster)
 - Sorcerer
@@ -45,6 +47,6 @@ aliases: ["Misty Step"]
 
 Briefly surrounded by silvery mist, you teleport up to 30 feet to an unoccupied space you can see.
 
-**Classes**: [Bard (College of Lore)](3-Mechanics/CLI/lists/list-spells-classes-bard-xphb-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Paladin (Oath of the Ancients)](3-Mechanics/CLI/lists/list-spells-classes-paladin-xphb-oath-of-the-ancients-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](3-Mechanics/CLI/lists/list-spells-classes-wizard.md); [Ranger (Fey Wanderer)](3-Mechanics/CLI/lists/list-spells-classes-ranger-xphb-fey-wanderer-xphb.md "subclass=XPHB;class=XPHB"); [Druid (Circle of the Land)](3-Mechanics/CLI/lists/list-spells-classes-druid-xphb-circle-of-the-land-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Rogue (Arcane Trickster)](3-Mechanics/CLI/lists/list-spells-classes-rogue-xphb-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Fighter (Eldritch Knight)](3-Mechanics/CLI/lists/list-spells-classes-fighter-xphb-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Warlock (Archfey Patron)](3-Mechanics/CLI/lists/list-spells-classes-warlock-xphb-archfey-patron-xphb.md "subclass=XPHB;class=XPHB"); [Paladin (Oath of Vengeance)](3-Mechanics/CLI/lists/list-spells-classes-paladin-xphb-oath-of-vengeance-xphb.md "subclass=XPHB;class=XPHB"); [Warlock](3-Mechanics/CLI/lists/list-spells-classes-warlock.md)
+**Classes**: [Bard (College of Lore)](3-Mechanics/CLI/lists/list-spells-classes-bard-xphb-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Paladin (Oath of the Ancients)](3-Mechanics/CLI/lists/list-spells-classes-paladin-xphb-oath-of-the-ancients-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](3-Mechanics/CLI/lists/list-spells-classes-wizard.md); [Ranger (Fey Wanderer)](3-Mechanics/CLI/lists/list-spells-classes-ranger-xphb-fey-wanderer-xphb.md "subclass=XPHB;class=XPHB"); [Paladin (Oath of the Open Sea)](3-Mechanics/CLI/lists/list-spells-classes-paladin-xphb-oath-of-the-open-sea-tdcsr.md "subclass=TDCSR;class=XPHB"); [Druid (Circle of the Land)](3-Mechanics/CLI/lists/list-spells-classes-druid-xphb-circle-of-the-land-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Rogue (Arcane Trickster)](3-Mechanics/CLI/lists/list-spells-classes-rogue-xphb-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Fighter (Eldritch Knight)](3-Mechanics/CLI/lists/list-spells-classes-fighter-xphb-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Warlock (Archfey Patron)](3-Mechanics/CLI/lists/list-spells-classes-warlock-xphb-archfey-patron-xphb.md "subclass=XPHB;class=XPHB"); [Paladin (Oath of Vengeance)](3-Mechanics/CLI/lists/list-spells-classes-paladin-xphb-oath-of-vengeance-xphb.md "subclass=XPHB;class=XPHB"); [Warlock](3-Mechanics/CLI/lists/list-spells-classes-warlock.md)
 
 *Source: Player's Handbook (2024) p. 299. Available in the Free Rules (2024)*

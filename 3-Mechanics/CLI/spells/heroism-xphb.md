@@ -6,6 +6,7 @@ tags:
 - ttrpg-cli/spell/class/bard
 - ttrpg-cli/spell/class/paladin
 - ttrpg-cli/spell/feat/fey-touched
+- ttrpg-cli/spell/feat/strixhaven-initiate
 - ttrpg-cli/spell/level/1st-level
 - ttrpg-cli/spell/school/enchantment
 - ttrpg-cli/spell/subclass/oath-of-glory

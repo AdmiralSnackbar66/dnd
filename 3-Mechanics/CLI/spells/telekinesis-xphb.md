@@ -11,11 +11,13 @@ tags:
 - ttrpg-cli/spell/subclass/aberrant-sorcery
 - ttrpg-cli/spell/subclass/great-old-one-patron
 - ttrpg-cli/spell/subclass/psi-warrior
+- ttrpg-cli/spell/subclass/runechild
 classes:
 - Bard
 - Fighter (Psi Warrior)
 - Sorcerer
 - Sorcerer (Aberrant Sorcery)
+- Sorcerer (Runechild)
 - Warlock (Great Old One Patron)
 - Wizard
 aliases: ["Telekinesis"]
@@ -45,6 +47,6 @@ You can exert fine control on objects with your telekinetic grip, such as manipu
 
 ## Summary
 
-**Classes**: [Sorcerer (Aberrant Sorcery)](3-Mechanics/CLI/lists/list-spells-classes-sorcerer-xphb-aberrant-sorcery-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Bard](3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Warlock (Great Old One Patron)](3-Mechanics/CLI/lists/list-spells-classes-warlock-xphb-great-old-one-patron-xphb.md "subclass=XPHB;class=XPHB"); [Fighter (Psi Warrior)](3-Mechanics/CLI/lists/list-spells-classes-fighter-xphb-psi-warrior-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Sorcerer (Aberrant Sorcery)](3-Mechanics/CLI/lists/list-spells-classes-sorcerer-xphb-aberrant-sorcery-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Bard](3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Warlock (Great Old One Patron)](3-Mechanics/CLI/lists/list-spells-classes-warlock-xphb-great-old-one-patron-xphb.md "subclass=XPHB;class=XPHB"); [Fighter (Psi Warrior)](3-Mechanics/CLI/lists/list-spells-classes-fighter-xphb-psi-warrior-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer (Runechild)](3-Mechanics/CLI/lists/list-spells-classes-sorcerer-xphb-runechild-tdcsr.md "subclass=TDCSR;class=XPHB"); [Wizard](3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
 *Source: Player's Handbook (2024) p. 331. Available in the Free Rules (2024)*

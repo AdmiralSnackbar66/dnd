@@ -2,6 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
+- ttrpg-cli/compendium/src/5e/tdcsr
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/compendium/src/5e/xphb
 aliases: ["Item Types"]
@@ -37,6 +38,9 @@ If you have proficiency with a tool, add your [Proficiency Bonus](3-Mechanics/CL
 
 ## Heavy Armor
 _Source: Player's Handbook (2024) p. 219. Available in the Free Rules (2024)_
+
+## Illegal Drug
+_Source: Tal'Dorei Campaign Setting Reborn p. 85_
 
 ## Instrument
 _Source: Player's Handbook (2024) p. 221. Available in the Free Rules (2024)_

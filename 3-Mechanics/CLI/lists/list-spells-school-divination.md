@@ -26,6 +26,7 @@ aliases: ["Divination Spells"]
 
 - [Augury](3-Mechanics/CLI/spells/augury-xphb.md "XPHB")
 - [Beast Sense](3-Mechanics/CLI/spells/beast-sense-xphb.md "XPHB")
+- [Borrowed Knowledge](3-Mechanics/CLI/spells/borrowed-knowledge-scc.md "SCC")
 - [Detect Thoughts](3-Mechanics/CLI/spells/detect-thoughts-xphb.md "XPHB")
 - [Find Traps](3-Mechanics/CLI/spells/find-traps-xphb.md "XPHB")
 - [Locate Animals or Plants](3-Mechanics/CLI/spells/locate-animals-or-plants-xphb.md "XPHB")

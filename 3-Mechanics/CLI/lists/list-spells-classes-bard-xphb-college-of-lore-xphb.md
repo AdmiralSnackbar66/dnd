@@ -85,6 +85,7 @@ aliases: ["Spells for College of Lore"]
 - [Shield](3-Mechanics/CLI/spells/shield-xphb.md "XPHB") at class level 6
 - [Shield of Faith](3-Mechanics/CLI/spells/shield-of-faith-xphb.md "XPHB") at class level 6
 - [Silent Image](3-Mechanics/CLI/spells/silent-image-xphb.md "XPHB") at class level 6
+- [Silvery Barbs](3-Mechanics/CLI/spells/silvery-barbs-scc.md "SCC") at class level 6
 - [Sleep](3-Mechanics/CLI/spells/sleep-xphb.md "XPHB") at class level 6
 - [Speak with Animals](3-Mechanics/CLI/spells/speak-with-animals-xphb.md "XPHB") at class level 6
 - [Tasha's Hideous Laughter](3-Mechanics/CLI/spells/tashas-hideous-laughter-xphb.md "XPHB") at class level 6
@@ -105,6 +106,7 @@ aliases: ["Spells for College of Lore"]
 - [Beast Sense](3-Mechanics/CLI/spells/beast-sense-xphb.md "XPHB") at class level 6
 - [Blindness/Deafness](3-Mechanics/CLI/spells/blindness-deafness-xphb.md "XPHB") at class level 6
 - [Blur](3-Mechanics/CLI/spells/blur-xphb.md "XPHB") at class level 6
+- [Borrowed Knowledge](3-Mechanics/CLI/spells/borrowed-knowledge-scc.md "SCC") at class level 6
 - [Calm Emotions](3-Mechanics/CLI/spells/calm-emotions-xphb.md "XPHB") at class level 6
 - [Cloud of Daggers](3-Mechanics/CLI/spells/cloud-of-daggers-xphb.md "XPHB") at class level 6
 - [Continual Flame](3-Mechanics/CLI/spells/continual-flame-xphb.md "XPHB") at class level 6
@@ -123,6 +125,7 @@ aliases: ["Spells for College of Lore"]
 - [Heat Metal](3-Mechanics/CLI/spells/heat-metal-xphb.md "XPHB") at class level 6
 - [Hold Person](3-Mechanics/CLI/spells/hold-person-xphb.md "XPHB") at class level 6
 - [Invisibility](3-Mechanics/CLI/spells/invisibility-xphb.md "XPHB") at class level 6
+- [Kinetic Jaunt](3-Mechanics/CLI/spells/kinetic-jaunt-scc.md "SCC") at class level 6
 - [Knock](3-Mechanics/CLI/spells/knock-xphb.md "XPHB") at class level 6
 - [Lesser Restoration](3-Mechanics/CLI/spells/lesser-restoration-xphb.md "XPHB") at class level 6
 - [Levitate](3-Mechanics/CLI/spells/levitate-xphb.md "XPHB") at class level 6
@@ -135,12 +138,14 @@ aliases: ["Spells for College of Lore"]
 - [Mirror Image](3-Mechanics/CLI/spells/mirror-image-xphb.md "XPHB") at class level 6
 - [Misty Step](3-Mechanics/CLI/spells/misty-step-xphb.md "XPHB") at class level 6
 - [Moonbeam](3-Mechanics/CLI/spells/moonbeam-xphb.md "XPHB") at class level 6
+- [Nathair's Mischief](3-Mechanics/CLI/spells/nathairs-mischief-ftd.md "FTD") at class level 6
 - [Nystul's Magic Aura](3-Mechanics/CLI/spells/nystuls-magic-aura-xphb.md "XPHB") at class level 6
 - [Pass without Trace](3-Mechanics/CLI/spells/pass-without-trace-xphb.md "XPHB") at class level 6
 - [Phantasmal Force](3-Mechanics/CLI/spells/phantasmal-force-xphb.md "XPHB") at class level 6
 - [Prayer of Healing](3-Mechanics/CLI/spells/prayer-of-healing-xphb.md "XPHB") at class level 6
 - [Protection from Poison](3-Mechanics/CLI/spells/protection-from-poison-xphb.md "XPHB") at class level 6
 - [Ray of Enfeeblement](3-Mechanics/CLI/spells/ray-of-enfeeblement-xphb.md "XPHB") at class level 6
+- [Rime's Binding Ice](3-Mechanics/CLI/spells/rimes-binding-ice-ftd.md "FTD") at class level 6
 - [Rope Trick](3-Mechanics/CLI/spells/rope-trick-xphb.md "XPHB") at class level 6
 - [Scorching Ray](3-Mechanics/CLI/spells/scorching-ray-xphb.md "XPHB") at class level 6
 - [See Invisibility](3-Mechanics/CLI/spells/see-invisibility-xphb.md "XPHB") at class level 6
@@ -151,13 +156,16 @@ aliases: ["Spells for College of Lore"]
 - [Spiritual Weapon](3-Mechanics/CLI/spells/spiritual-weapon-xphb.md "XPHB") at class level 6
 - [Suggestion](3-Mechanics/CLI/spells/suggestion-xphb.md "XPHB") at class level 6
 - [Summon Beast](3-Mechanics/CLI/spells/summon-beast-xphb.md "XPHB") at class level 6
+- [Vortex Warp](3-Mechanics/CLI/spells/vortex-warp-scc.md "SCC") at class level 6
 - [Warding Bond](3-Mechanics/CLI/spells/warding-bond-xphb.md "XPHB") at class level 6
 - [Web](3-Mechanics/CLI/spells/web-xphb.md "XPHB") at class level 6
+- [Wither and Bloom](3-Mechanics/CLI/spells/wither-and-bloom-scc.md "SCC") at class level 6
 - [Zone of Truth](3-Mechanics/CLI/spells/zone-of-truth-xphb.md "XPHB") at class level 6
 
 ## 3rd Level
 
 - [Animate Dead](3-Mechanics/CLI/spells/animate-dead-xphb.md "XPHB") at class level 6
+- [Ashardalon's Stride](3-Mechanics/CLI/spells/ashardalons-stride-ftd.md "FTD") at class level 6
 - [Aura of Vitality](3-Mechanics/CLI/spells/aura-of-vitality-xphb.md "XPHB") at class level 6
 - [Beacon of Hope](3-Mechanics/CLI/spells/beacon-of-hope-xphb.md "XPHB") at class level 6
 - [Bestow Curse](3-Mechanics/CLI/spells/bestow-curse-xphb.md "XPHB") at class level 6
@@ -174,6 +182,7 @@ aliases: ["Spells for College of Lore"]
 - [Feign Death](3-Mechanics/CLI/spells/feign-death-xphb.md "XPHB") at class level 6
 - [Fireball](3-Mechanics/CLI/spells/fireball-xphb.md "XPHB") at class level 6
 - [Fly](3-Mechanics/CLI/spells/fly-xphb.md "XPHB") at class level 6
+- [Freedom of the Waves](3-Mechanics/CLI/spells/freedom-of-the-waves-tdcsr.md "TDCSR") at class level 6
 - [Gaseous Form](3-Mechanics/CLI/spells/gaseous-form-xphb.md "XPHB") at class level 6
 - [Glyph of Warding](3-Mechanics/CLI/spells/glyph-of-warding-xphb.md "XPHB") at class level 6
 - [Haste](3-Mechanics/CLI/spells/haste-xphb.md "XPHB") at class level 6

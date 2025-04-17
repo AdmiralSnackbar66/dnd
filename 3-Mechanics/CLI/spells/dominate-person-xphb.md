@@ -3,15 +3,18 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
+- ttrpg-cli/spell/background/silverquill-student
 - ttrpg-cli/spell/class/bard
 - ttrpg-cli/spell/class/sorcerer
 - ttrpg-cli/spell/class/wizard
 - ttrpg-cli/spell/level/5th-level
 - ttrpg-cli/spell/school/enchantment
 - ttrpg-cli/spell/subclass/archfey-patron
+- ttrpg-cli/spell/subclass/blood-domain
 - ttrpg-cli/spell/subclass/trickery-domain
 classes:
 - Bard
+- Cleric (Blood Domain)
 - Cleric (Trickery Domain)
 - Sorcerer
 - Warlock (Archfey Patron)
@@ -35,6 +38,6 @@ You can command the target to take a [Reaction](3-Mechanics/CLI/rules/variant-ru
 
 **Using a Higher-Level Spell Slot.** Your [Concentration](3-Mechanics/CLI/rules/conditions.md#Concentration) can last longer with a spell slot of level 6 (up to 10 minutes), 7 (up to 1 hour), or 8+ (up to 8 hours).
 
-**Classes**: [Sorcerer](3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Bard](3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Warlock (Archfey Patron)](3-Mechanics/CLI/lists/list-spells-classes-warlock-xphb-archfey-patron-xphb.md "subclass=XPHB;class=XPHB"); [Cleric (Trickery Domain)](3-Mechanics/CLI/lists/list-spells-classes-cleric-xphb-trickery-domain-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Sorcerer](3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Bard](3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Warlock (Archfey Patron)](3-Mechanics/CLI/lists/list-spells-classes-warlock-xphb-archfey-patron-xphb.md "subclass=XPHB;class=XPHB"); [Cleric (Trickery Domain)](3-Mechanics/CLI/lists/list-spells-classes-cleric-xphb-trickery-domain-xphb.md "subclass=XPHB;class=XPHB"); [Cleric (Blood Domain)](3-Mechanics/CLI/lists/list-spells-classes-cleric-xphb-blood-domain-tdcsr.md "subclass=TDCSR;class=XPHB"); [Wizard](3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
 *Source: Player's Handbook (2024) p. 266. Available in the Free Rules (2024)*

@@ -3,6 +3,7 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
+- ttrpg-cli/spell/background/witherbloom-student
 - ttrpg-cli/spell/class/bard
 - ttrpg-cli/spell/class/cleric
 - ttrpg-cli/spell/class/druid
@@ -13,6 +14,7 @@ tags:
 - ttrpg-cli/spell/subclass/celestial-patron
 - ttrpg-cli/spell/subclass/clockwork-sorcery
 - ttrpg-cli/spell/subclass/life-domain
+- ttrpg-cli/spell/subclass/runechild
 classes:
 - Bard
 - Cleric
@@ -21,6 +23,7 @@ classes:
 - Paladin
 - Ranger
 - Sorcerer (Clockwork Sorcery)
+- Sorcerer (Runechild)
 - Warlock (Celestial Patron)
 aliases: ["Greater Restoration"]
 ---
@@ -41,6 +44,6 @@ You touch a creature and magically remove one of the following effects from it:
 - Any reduction to one of the target's ability scores  
 - Any reduction to the target's [Hit Point](3-Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) maximum  
 
-**Classes**: [Warlock (Celestial Patron)](3-Mechanics/CLI/lists/list-spells-classes-warlock-xphb-celestial-patron-xphb.md "subclass=XPHB;class=XPHB"); [Cleric](3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Bard](3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Ranger](3-Mechanics/CLI/lists/list-spells-classes-ranger.md); [Paladin](3-Mechanics/CLI/lists/list-spells-classes-paladin.md); [Druid](3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Sorcerer (Clockwork Sorcery)](3-Mechanics/CLI/lists/list-spells-classes-sorcerer-xphb-clockwork-sorcery-xphb.md "subclass=XPHB;class=XPHB"); [Cleric (Life Domain)](3-Mechanics/CLI/lists/list-spells-classes-cleric-xphb-life-domain-xphb.md "subclass=XPHB;class=XPHB")
+**Classes**: [Warlock (Celestial Patron)](3-Mechanics/CLI/lists/list-spells-classes-warlock-xphb-celestial-patron-xphb.md "subclass=XPHB;class=XPHB"); [Cleric](3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Bard](3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Ranger](3-Mechanics/CLI/lists/list-spells-classes-ranger.md); [Paladin](3-Mechanics/CLI/lists/list-spells-classes-paladin.md); [Druid](3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Sorcerer (Runechild)](3-Mechanics/CLI/lists/list-spells-classes-sorcerer-xphb-runechild-tdcsr.md "subclass=TDCSR;class=XPHB"); [Sorcerer (Clockwork Sorcery)](3-Mechanics/CLI/lists/list-spells-classes-sorcerer-xphb-clockwork-sorcery-xphb.md "subclass=XPHB;class=XPHB"); [Cleric (Life Domain)](3-Mechanics/CLI/lists/list-spells-classes-cleric-xphb-life-domain-xphb.md "subclass=XPHB;class=XPHB")
 
 *Source: Player's Handbook (2024) p. 281. Available in the Free Rules (2024)*

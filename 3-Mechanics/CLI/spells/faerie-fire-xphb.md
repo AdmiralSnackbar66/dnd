@@ -6,16 +6,19 @@ tags:
 - ttrpg-cli/spell/class/bard
 - ttrpg-cli/spell/class/druid
 - ttrpg-cli/spell/feat/magic-initiate
+- ttrpg-cli/spell/feat/strixhaven-initiate
 - ttrpg-cli/spell/level/1st-level
 - ttrpg-cli/spell/race/elf
 - ttrpg-cli/spell/school/evocation
 - ttrpg-cli/spell/subclass/archfey-patron
 - ttrpg-cli/spell/subclass/college-of-lore
 - ttrpg-cli/spell/subclass/light-domain
+- ttrpg-cli/spell/subclass/moon-domain
 classes:
 - Bard
 - Bard (College of Lore)
 - Cleric (Light Domain)
+- Cleric (Moon Domain)
 - Druid
 - Warlock (Archfey Patron)
 aliases: ["Faerie Fire"]
@@ -33,6 +36,6 @@ Objects in a 20-foot Cube within range are outlined in blue, green, or violet li
 
 [Attack](3-Mechanics/CLI/rules/actions.md#Attack) rolls against an affected creature or object have [Advantage](3-Mechanics/CLI/rules/variant-rules/advantage-xphb.md) if the attacker can see it.
 
-**Classes**: [Bard (College of Lore)](3-Mechanics/CLI/lists/list-spells-classes-bard-xphb-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Warlock (Archfey Patron)](3-Mechanics/CLI/lists/list-spells-classes-warlock-xphb-archfey-patron-xphb.md "subclass=XPHB;class=XPHB"); [Druid](3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Cleric (Light Domain)](3-Mechanics/CLI/lists/list-spells-classes-cleric-xphb-light-domain-xphb.md "subclass=XPHB;class=XPHB")
+**Classes**: [Bard (College of Lore)](3-Mechanics/CLI/lists/list-spells-classes-bard-xphb-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Warlock (Archfey Patron)](3-Mechanics/CLI/lists/list-spells-classes-warlock-xphb-archfey-patron-xphb.md "subclass=XPHB;class=XPHB"); [Druid](3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Cleric (Moon Domain)](3-Mechanics/CLI/lists/list-spells-classes-cleric-xphb-moon-domain-tdcsr.md "subclass=TDCSR;class=XPHB"); [Cleric (Light Domain)](3-Mechanics/CLI/lists/list-spells-classes-cleric-xphb-light-domain-xphb.md "subclass=XPHB;class=XPHB")
 
 *Source: Player's Handbook (2024) p. 271. Available in the Free Rules (2024)*

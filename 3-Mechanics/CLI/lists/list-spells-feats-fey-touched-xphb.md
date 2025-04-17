@@ -24,6 +24,7 @@ aliases: ["Spells for Fey-Touched"]
 - [Hex](3-Mechanics/CLI/spells/hex-xphb.md "XPHB") 
 - [Hunter's Mark](3-Mechanics/CLI/spells/hunters-mark-xphb.md "XPHB") 
 - [Identify](3-Mechanics/CLI/spells/identify-xphb.md "XPHB") 
+- [Silvery Barbs](3-Mechanics/CLI/spells/silvery-barbs-scc.md "SCC") 
 - [Sleep](3-Mechanics/CLI/spells/sleep-xphb.md "XPHB") 
 - [Speak with Animals](3-Mechanics/CLI/spells/speak-with-animals-xphb.md "XPHB") 
 - [Tasha's Hideous Laughter](3-Mechanics/CLI/spells/tashas-hideous-laughter-xphb.md "XPHB") 

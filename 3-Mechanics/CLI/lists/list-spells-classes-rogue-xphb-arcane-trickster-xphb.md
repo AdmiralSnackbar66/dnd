@@ -57,6 +57,7 @@ aliases: ["Spells for Arcane Trickster"]
 - [Ray of Sickness](3-Mechanics/CLI/spells/ray-of-sickness-xphb.md "XPHB") at class level 3
 - [Shield](3-Mechanics/CLI/spells/shield-xphb.md "XPHB") at class level 3
 - [Silent Image](3-Mechanics/CLI/spells/silent-image-xphb.md "XPHB") at class level 3
+- [Silvery Barbs](3-Mechanics/CLI/spells/silvery-barbs-scc.md "SCC") at class level 3
 - [Sleep](3-Mechanics/CLI/spells/sleep-xphb.md "XPHB") at class level 3
 - [Tasha's Hideous Laughter](3-Mechanics/CLI/spells/tashas-hideous-laughter-xphb.md "XPHB") at class level 3
 - [Tenser's Floating Disk](3-Mechanics/CLI/spells/tensers-floating-disk-xphb.md "XPHB") at class level 3
@@ -72,6 +73,7 @@ aliases: ["Spells for Arcane Trickster"]
 - [Augury](3-Mechanics/CLI/spells/augury-xphb.md "XPHB") at class level 3
 - [Blindness/Deafness](3-Mechanics/CLI/spells/blindness-deafness-xphb.md "XPHB") at class level 3
 - [Blur](3-Mechanics/CLI/spells/blur-xphb.md "XPHB") at class level 3
+- [Borrowed Knowledge](3-Mechanics/CLI/spells/borrowed-knowledge-scc.md "SCC") at class level 3
 - [Cloud of Daggers](3-Mechanics/CLI/spells/cloud-of-daggers-xphb.md "XPHB") at class level 3
 - [Continual Flame](3-Mechanics/CLI/spells/continual-flame-xphb.md "XPHB") at class level 3
 - [Crown of Madness](3-Mechanics/CLI/spells/crown-of-madness-xphb.md "XPHB") at class level 3
@@ -86,6 +88,7 @@ aliases: ["Spells for Arcane Trickster"]
 - [Gust of Wind](3-Mechanics/CLI/spells/gust-of-wind-xphb.md "XPHB") at class level 3
 - [Hold Person](3-Mechanics/CLI/spells/hold-person-xphb.md "XPHB") at class level 3
 - [Invisibility](3-Mechanics/CLI/spells/invisibility-xphb.md "XPHB") at class level 3
+- [Kinetic Jaunt](3-Mechanics/CLI/spells/kinetic-jaunt-scc.md "SCC") at class level 3
 - [Knock](3-Mechanics/CLI/spells/knock-xphb.md "XPHB") at class level 3
 - [Levitate](3-Mechanics/CLI/spells/levitate-xphb.md "XPHB") at class level 3
 - [Locate Object](3-Mechanics/CLI/spells/locate-object-xphb.md "XPHB") at class level 3
@@ -95,20 +98,25 @@ aliases: ["Spells for Arcane Trickster"]
 - [Mind Spike](3-Mechanics/CLI/spells/mind-spike-xphb.md "XPHB") at class level 3
 - [Mirror Image](3-Mechanics/CLI/spells/mirror-image-xphb.md "XPHB") at class level 3
 - [Misty Step](3-Mechanics/CLI/spells/misty-step-xphb.md "XPHB") at class level 3
+- [Nathair's Mischief](3-Mechanics/CLI/spells/nathairs-mischief-ftd.md "FTD") at class level 3
 - [Nystul's Magic Aura](3-Mechanics/CLI/spells/nystuls-magic-aura-xphb.md "XPHB") at class level 3
 - [Phantasmal Force](3-Mechanics/CLI/spells/phantasmal-force-xphb.md "XPHB") at class level 3
 - [Ray of Enfeeblement](3-Mechanics/CLI/spells/ray-of-enfeeblement-xphb.md "XPHB") at class level 3
+- [Rime's Binding Ice](3-Mechanics/CLI/spells/rimes-binding-ice-ftd.md "FTD") at class level 3
 - [Rope Trick](3-Mechanics/CLI/spells/rope-trick-xphb.md "XPHB") at class level 3
 - [Scorching Ray](3-Mechanics/CLI/spells/scorching-ray-xphb.md "XPHB") at class level 3
 - [See Invisibility](3-Mechanics/CLI/spells/see-invisibility-xphb.md "XPHB") at class level 3
 - [Shatter](3-Mechanics/CLI/spells/shatter-xphb.md "XPHB") at class level 3
 - [Spider Climb](3-Mechanics/CLI/spells/spider-climb-xphb.md "XPHB") at class level 3
 - [Suggestion](3-Mechanics/CLI/spells/suggestion-xphb.md "XPHB") at class level 3
+- [Vortex Warp](3-Mechanics/CLI/spells/vortex-warp-scc.md "SCC") at class level 3
 - [Web](3-Mechanics/CLI/spells/web-xphb.md "XPHB") at class level 3
+- [Wither and Bloom](3-Mechanics/CLI/spells/wither-and-bloom-scc.md "SCC") at class level 3
 
 ## 3rd Level
 
 - [Animate Dead](3-Mechanics/CLI/spells/animate-dead-xphb.md "XPHB") at class level 3
+- [Ashardalon's Stride](3-Mechanics/CLI/spells/ashardalons-stride-ftd.md "FTD") at class level 3
 - [Bestow Curse](3-Mechanics/CLI/spells/bestow-curse-xphb.md "XPHB") at class level 3
 - [Blink](3-Mechanics/CLI/spells/blink-xphb.md "XPHB") at class level 3
 - [Clairvoyance](3-Mechanics/CLI/spells/clairvoyance-xphb.md "XPHB") at class level 3
@@ -165,6 +173,7 @@ aliases: ["Spells for Arcane Trickster"]
 - [Otiluke's Resilient Sphere](3-Mechanics/CLI/spells/otilukes-resilient-sphere-xphb.md "XPHB") at class level 3
 - [Phantasmal Killer](3-Mechanics/CLI/spells/phantasmal-killer-xphb.md "XPHB") at class level 3
 - [Polymorph](3-Mechanics/CLI/spells/polymorph-xphb.md "XPHB") at class level 3
+- [Raulothim's Psychic Lance](3-Mechanics/CLI/spells/raulothims-psychic-lance-ftd.md "FTD") at class level 3
 - [Stone Shape](3-Mechanics/CLI/spells/stone-shape-xphb.md "XPHB") at class level 3
 - [Stoneskin](3-Mechanics/CLI/spells/stoneskin-xphb.md "XPHB") at class level 3
 - [Summon Aberration](3-Mechanics/CLI/spells/summon-aberration-xphb.md "XPHB") at class level 3

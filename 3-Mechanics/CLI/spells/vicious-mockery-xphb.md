@@ -4,6 +4,7 @@ cssclasses: json5e-spell
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/spell/class/bard
+- ttrpg-cli/spell/feat/strixhaven-initiate
 - ttrpg-cli/spell/level/cantrip
 - ttrpg-cli/spell/optfeature/pact-of-the-tome
 - ttrpg-cli/spell/school/enchantment

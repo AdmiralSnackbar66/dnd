@@ -47,11 +47,13 @@ aliases: ["Ranger Spells"]
 
 ## 3rd Level
 
+- [Ashardalon's Stride](3-Mechanics/CLI/spells/ashardalons-stride-ftd.md "FTD")
 - [Conjure Animals](3-Mechanics/CLI/spells/conjure-animals-xphb.md "XPHB")
 - [Conjure Barrage](3-Mechanics/CLI/spells/conjure-barrage-xphb.md "XPHB")
 - [Daylight](3-Mechanics/CLI/spells/daylight-xphb.md "XPHB")
 - [Dispel Magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md "XPHB")
 - [Elemental Weapon](3-Mechanics/CLI/spells/elemental-weapon-xphb.md "XPHB")
+- [Freedom of the Waves](3-Mechanics/CLI/spells/freedom-of-the-waves-tdcsr.md "TDCSR")
 - [Lightning Arrow](3-Mechanics/CLI/spells/lightning-arrow-xphb.md "XPHB")
 - [Meld into Stone](3-Mechanics/CLI/spells/meld-into-stone-xphb.md "XPHB")
 - [Nondetection](3-Mechanics/CLI/spells/nondetection-xphb.md "XPHB")
@@ -78,6 +80,7 @@ aliases: ["Ranger Spells"]
 
 - [Commune with Nature](3-Mechanics/CLI/spells/commune-with-nature-xphb.md "XPHB")
 - [Conjure Volley](3-Mechanics/CLI/spells/conjure-volley-xphb.md "XPHB")
+- [Freedom of the Winds](3-Mechanics/CLI/spells/freedom-of-the-winds-tdcsr.md "TDCSR")
 - [Greater Restoration](3-Mechanics/CLI/spells/greater-restoration-xphb.md "XPHB")
 - [Steel Wind Strike](3-Mechanics/CLI/spells/steel-wind-strike-xphb.md "XPHB")
 - [Swift Quiver](3-Mechanics/CLI/spells/swift-quiver-xphb.md "XPHB")

@@ -9,6 +9,7 @@ cssclasses: json5e-note
 - [Cloud Giant](./cloud-giant-xmm.md)
 - [Cyclops Oracle](./cyclops-oracle-xmm.md)
 - [Cyclops Sentry](./cyclops-sentry-xmm.md)
+- [Cyclops Stormcaller](./cyclops-stormcaller-tdcsr.md)
 - [Ettin](./ettin-xmm.md)
 - [Fire Giant](./fire-giant-xmm.md)
 - [Fomorian](./fomorian-xmm.md)

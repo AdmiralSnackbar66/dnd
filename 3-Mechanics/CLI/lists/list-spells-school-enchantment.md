@@ -24,6 +24,7 @@ aliases: ["Enchantment Spells"]
 - [Dissonant Whispers](3-Mechanics/CLI/spells/dissonant-whispers-xphb.md "XPHB")
 - [Heroism](3-Mechanics/CLI/spells/heroism-xphb.md "XPHB")
 - [Hex](3-Mechanics/CLI/spells/hex-xphb.md "XPHB")
+- [Silvery Barbs](3-Mechanics/CLI/spells/silvery-barbs-scc.md "SCC")
 - [Sleep](3-Mechanics/CLI/spells/sleep-xphb.md "XPHB")
 - [Tasha's Hideous Laughter](3-Mechanics/CLI/spells/tashas-hideous-laughter-xphb.md "XPHB")
 
@@ -43,6 +44,7 @@ aliases: ["Enchantment Spells"]
 - [Compulsion](3-Mechanics/CLI/spells/compulsion-xphb.md "XPHB")
 - [Confusion](3-Mechanics/CLI/spells/confusion-xphb.md "XPHB")
 - [Dominate Beast](3-Mechanics/CLI/spells/dominate-beast-xphb.md "XPHB")
+- [Raulothim's Psychic Lance](3-Mechanics/CLI/spells/raulothims-psychic-lance-ftd.md "FTD")
 - [Staggering Smite](3-Mechanics/CLI/spells/staggering-smite-xphb.md "XPHB")
 
 ## 5th Level

@@ -3,6 +3,8 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
+- ttrpg-cli/spell/background/prismari-student
+- ttrpg-cli/spell/background/quandrix-student
 - ttrpg-cli/spell/class/bard
 - ttrpg-cli/spell/class/cleric
 - ttrpg-cli/spell/class/druid
@@ -13,6 +15,8 @@ tags:
 - ttrpg-cli/spell/subclass/clockwork-sorcery
 - ttrpg-cli/spell/subclass/oath-of-devotion
 - ttrpg-cli/spell/subclass/oath-of-glory
+- ttrpg-cli/spell/subclass/oath-of-the-open-sea
+- ttrpg-cli/spell/subclass/runechild
 - ttrpg-cli/spell/subclass/war-domain
 classes:
 - Bard
@@ -22,8 +26,10 @@ classes:
 - Druid (Circle of the Land)
 - Paladin (Oath of Devotion)
 - Paladin (Oath of Glory)
+- Paladin (Oath of the Open Sea)
 - Ranger
 - Sorcerer (Clockwork Sorcery)
+- Sorcerer (Runechild)
 aliases: ["Freedom of Movement"]
 ---
 # Freedom of Movement
@@ -41,6 +47,6 @@ In addition, the target can spend 5 feet of movement to automatically escape fro
 
 **Using a Higher-Level Spell Slot.** You can target one additional creature for each spell slot level above 4.
 
-**Classes**: [Druid (Circle of the Land)](3-Mechanics/CLI/lists/list-spells-classes-druid-xphb-circle-of-the-land-xphb.md "subclass=XPHB;class=XPHB"); [Cleric](3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Bard](3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Ranger](3-Mechanics/CLI/lists/list-spells-classes-ranger.md); [Druid](3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Paladin (Oath of Devotion)](3-Mechanics/CLI/lists/list-spells-classes-paladin-xphb-oath-of-devotion-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer (Clockwork Sorcery)](3-Mechanics/CLI/lists/list-spells-classes-sorcerer-xphb-clockwork-sorcery-xphb.md "subclass=XPHB;class=XPHB"); [Paladin (Oath of Glory)](3-Mechanics/CLI/lists/list-spells-classes-paladin-xphb-oath-of-glory-xphb.md "subclass=XPHB;class=XPHB"); [Cleric (War Domain)](3-Mechanics/CLI/lists/list-spells-classes-cleric-xphb-war-domain-xphb.md "subclass=XPHB;class=XPHB")
+**Classes**: [Cleric](3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Bard](3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Sorcerer (Clockwork Sorcery)](3-Mechanics/CLI/lists/list-spells-classes-sorcerer-xphb-clockwork-sorcery-xphb.md "subclass=XPHB;class=XPHB"); [Paladin (Oath of Glory)](3-Mechanics/CLI/lists/list-spells-classes-paladin-xphb-oath-of-glory-xphb.md "subclass=XPHB;class=XPHB"); [Paladin (Oath of the Open Sea)](3-Mechanics/CLI/lists/list-spells-classes-paladin-xphb-oath-of-the-open-sea-tdcsr.md "subclass=TDCSR;class=XPHB"); [Cleric (War Domain)](3-Mechanics/CLI/lists/list-spells-classes-cleric-xphb-war-domain-xphb.md "subclass=XPHB;class=XPHB"); [Druid (Circle of the Land)](3-Mechanics/CLI/lists/list-spells-classes-druid-xphb-circle-of-the-land-xphb.md "subclass=XPHB;class=XPHB"); [Ranger](3-Mechanics/CLI/lists/list-spells-classes-ranger.md); [Druid](3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Sorcerer (Runechild)](3-Mechanics/CLI/lists/list-spells-classes-sorcerer-xphb-runechild-tdcsr.md "subclass=TDCSR;class=XPHB"); [Paladin (Oath of Devotion)](3-Mechanics/CLI/lists/list-spells-classes-paladin-xphb-oath-of-devotion-xphb.md "subclass=XPHB;class=XPHB")
 
 *Source: Player's Handbook (2024) p. 277. Available in the Free Rules (2024)*

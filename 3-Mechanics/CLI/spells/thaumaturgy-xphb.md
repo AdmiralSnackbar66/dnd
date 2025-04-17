@@ -6,14 +6,17 @@ tags:
 - ttrpg-cli/spell/class/cleric
 - ttrpg-cli/spell/feat/blessed-warrior
 - ttrpg-cli/spell/feat/magic-initiate
+- ttrpg-cli/spell/feat/strixhaven-initiate
 - ttrpg-cli/spell/level/cantrip
 - ttrpg-cli/spell/optfeature/pact-of-the-tome
 - ttrpg-cli/spell/race/tiefling
 - ttrpg-cli/spell/school/transmutation
 - ttrpg-cli/spell/subclass/college-of-lore
+- ttrpg-cli/spell/subclass/drakewarden
 classes:
 - Bard (College of Lore)
 - Cleric
+- Ranger (Drakewarden)
 aliases: ["Thaumaturgy"]
 ---
 # Thaumaturgy
@@ -53,6 +56,6 @@ You cause harmless tremors in the ground for 1 minute.
 
 ## Summary
 
-**Classes**: [Cleric](3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Bard (College of Lore)](3-Mechanics/CLI/lists/list-spells-classes-bard-xphb-college-of-lore-xphb.md "subclass=XPHB;class=XPHB")
+**Classes**: [Cleric](3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Bard (College of Lore)](3-Mechanics/CLI/lists/list-spells-classes-bard-xphb-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Ranger (Drakewarden)](3-Mechanics/CLI/lists/list-spells-classes-ranger-xphb-drakewarden-ftd.md "subclass=FTD;class=XPHB")
 
 *Source: Player's Handbook (2024) p. 333. Available in the Free Rules (2024)*

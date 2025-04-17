@@ -20,6 +20,7 @@ aliases: ["Spells for Diviner"]
 ## 2nd Level
 
 - [Augury](3-Mechanics/CLI/spells/augury-xphb.md "XPHB") at class level 7
+- [Borrowed Knowledge](3-Mechanics/CLI/spells/borrowed-knowledge-scc.md "SCC") at class level 7
 - [Detect Thoughts](3-Mechanics/CLI/spells/detect-thoughts-xphb.md "XPHB") at class level 7
 - [Locate Object](3-Mechanics/CLI/spells/locate-object-xphb.md "XPHB") at class level 7
 - [Mind Spike](3-Mechanics/CLI/spells/mind-spike-xphb.md "XPHB") at class level 7

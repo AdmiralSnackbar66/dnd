@@ -9,10 +9,12 @@ tags:
 - ttrpg-cli/spell/school/evocation
 - ttrpg-cli/spell/subclass/circle-of-the-moon
 - ttrpg-cli/spell/subclass/college-of-lore
+- ttrpg-cli/spell/subclass/moon-domain
 - ttrpg-cli/spell/subclass/oath-of-the-ancients
 classes:
 - Bard
 - Bard (College of Lore)
+- Cleric (Moon Domain)
 - Druid
 - Druid (Circle of the Moon)
 - Paladin (Oath of the Ancients)
@@ -33,6 +35,6 @@ When the Cylinder appears, each creature in it makes a Constitution saving throw
 
 **Using a Higher-Level Spell Slot.** The damage increases by `1d10` for each spell slot level above 2.
 
-**Classes**: [Bard (College of Lore)](3-Mechanics/CLI/lists/list-spells-classes-bard-xphb-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Druid](3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Paladin (Oath of the Ancients)](3-Mechanics/CLI/lists/list-spells-classes-paladin-xphb-oath-of-the-ancients-xphb.md "subclass=XPHB;class=XPHB"); [Druid (Circle of the Moon)](3-Mechanics/CLI/lists/list-spells-classes-druid-xphb-circle-of-the-moon-xphb.md "subclass=XPHB;class=XPHB")
+**Classes**: [Bard (College of Lore)](3-Mechanics/CLI/lists/list-spells-classes-bard-xphb-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Druid](3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Paladin (Oath of the Ancients)](3-Mechanics/CLI/lists/list-spells-classes-paladin-xphb-oath-of-the-ancients-xphb.md "subclass=XPHB;class=XPHB"); [Cleric (Moon Domain)](3-Mechanics/CLI/lists/list-spells-classes-cleric-xphb-moon-domain-tdcsr.md "subclass=TDCSR;class=XPHB"); [Druid (Circle of the Moon)](3-Mechanics/CLI/lists/list-spells-classes-druid-xphb-circle-of-the-moon-xphb.md "subclass=XPHB;class=XPHB")
 
 *Source: Player's Handbook (2024) p. 300. Available in the Free Rules (2024)*

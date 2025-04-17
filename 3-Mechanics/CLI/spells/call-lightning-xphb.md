@@ -8,10 +8,12 @@ tags:
 - ttrpg-cli/spell/level/3rd-level
 - ttrpg-cli/spell/school/conjuration
 - ttrpg-cli/spell/subclass/college-of-lore
+- ttrpg-cli/spell/subclass/oath-of-the-open-sea
 classes:
 - Bard
 - Bard (College of Lore)
 - Druid
+- Paladin (Oath of the Open Sea)
 aliases: ["Call Lightning"]
 ---
 # Call Lightning
@@ -33,6 +35,6 @@ If you're outdoors in a storm when you cast this spell, the spell gives you cont
 
 **Using a Higher-Level Spell Slot.** The damage increases by `1d10` for each spell slot level above 3.
 
-**Classes**: [Bard (College of Lore)](3-Mechanics/CLI/lists/list-spells-classes-bard-xphb-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Druid](3-Mechanics/CLI/lists/list-spells-classes-druid.md)
+**Classes**: [Bard (College of Lore)](3-Mechanics/CLI/lists/list-spells-classes-bard-xphb-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Druid](3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Paladin (Oath of the Open Sea)](3-Mechanics/CLI/lists/list-spells-classes-paladin-xphb-oath-of-the-open-sea-tdcsr.md "subclass=TDCSR;class=XPHB")
 
 *Source: Player's Handbook (2024) p. 248. Available in the Free Rules (2024)*

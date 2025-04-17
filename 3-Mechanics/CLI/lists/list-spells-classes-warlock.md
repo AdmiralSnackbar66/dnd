@@ -42,6 +42,7 @@ aliases: ["Warlock Spells"]
 
 ## 2nd Level
 
+- [Borrowed Knowledge](3-Mechanics/CLI/spells/borrowed-knowledge-scc.md "SCC")
 - [Cloud of Daggers](3-Mechanics/CLI/spells/cloud-of-daggers-xphb.md "XPHB")
 - [Crown of Madness](3-Mechanics/CLI/spells/crown-of-madness-xphb.md "XPHB")
 - [Darkness](3-Mechanics/CLI/spells/darkness-xphb.md "XPHB")
@@ -80,6 +81,7 @@ aliases: ["Warlock Spells"]
 - [Charm Monster](3-Mechanics/CLI/spells/charm-monster-xphb.md "XPHB")
 - [Dimension Door](3-Mechanics/CLI/spells/dimension-door-xphb.md "XPHB")
 - [Hallucinatory Terrain](3-Mechanics/CLI/spells/hallucinatory-terrain-xphb.md "XPHB")
+- [Raulothim's Psychic Lance](3-Mechanics/CLI/spells/raulothims-psychic-lance-ftd.md "FTD")
 - [Summon Aberration](3-Mechanics/CLI/spells/summon-aberration-xphb.md "XPHB")
 
 ## 5th Level

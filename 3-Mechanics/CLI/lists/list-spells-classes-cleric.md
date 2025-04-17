@@ -42,6 +42,7 @@ aliases: ["Cleric Spells"]
 - [Aid](3-Mechanics/CLI/spells/aid-xphb.md "XPHB")
 - [Augury](3-Mechanics/CLI/spells/augury-xphb.md "XPHB")
 - [Blindness/Deafness](3-Mechanics/CLI/spells/blindness-deafness-xphb.md "XPHB")
+- [Borrowed Knowledge](3-Mechanics/CLI/spells/borrowed-knowledge-scc.md "SCC")
 - [Calm Emotions](3-Mechanics/CLI/spells/calm-emotions-xphb.md "XPHB")
 - [Continual Flame](3-Mechanics/CLI/spells/continual-flame-xphb.md "XPHB")
 - [Enhance Ability](3-Mechanics/CLI/spells/enhance-ability-xphb.md "XPHB")

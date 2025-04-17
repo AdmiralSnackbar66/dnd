@@ -69,6 +69,7 @@ aliases: ["Druid Spells"]
 - [Protection from Poison](3-Mechanics/CLI/spells/protection-from-poison-xphb.md "XPHB")
 - [Spike Growth](3-Mechanics/CLI/spells/spike-growth-xphb.md "XPHB")
 - [Summon Beast](3-Mechanics/CLI/spells/summon-beast-xphb.md "XPHB")
+- [Wither and Bloom](3-Mechanics/CLI/spells/wither-and-bloom-scc.md "SCC")
 
 ## 3rd Level
 
@@ -79,6 +80,7 @@ aliases: ["Druid Spells"]
 - [Dispel Magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md "XPHB")
 - [Elemental Weapon](3-Mechanics/CLI/spells/elemental-weapon-xphb.md "XPHB")
 - [Feign Death](3-Mechanics/CLI/spells/feign-death-xphb.md "XPHB")
+- [Freedom of the Waves](3-Mechanics/CLI/spells/freedom-of-the-waves-tdcsr.md "TDCSR")
 - [Meld into Stone](3-Mechanics/CLI/spells/meld-into-stone-xphb.md "XPHB")
 - [Plant Growth](3-Mechanics/CLI/spells/plant-growth-xphb.md "XPHB")
 - [Protection from Energy](3-Mechanics/CLI/spells/protection-from-energy-xphb.md "XPHB")
@@ -122,6 +124,7 @@ aliases: ["Druid Spells"]
 - [Cone of Cold](3-Mechanics/CLI/spells/cone-of-cold-xphb.md "XPHB")
 - [Conjure Elemental](3-Mechanics/CLI/spells/conjure-elemental-xphb.md "XPHB")
 - [Contagion](3-Mechanics/CLI/spells/contagion-xphb.md "XPHB")
+- [Freedom of the Winds](3-Mechanics/CLI/spells/freedom-of-the-winds-tdcsr.md "TDCSR")
 - [Geas](3-Mechanics/CLI/spells/geas-xphb.md "XPHB")
 - [Greater Restoration](3-Mechanics/CLI/spells/greater-restoration-xphb.md "XPHB")
 - [Insect Plague](3-Mechanics/CLI/spells/insect-plague-xphb.md "XPHB")
@@ -148,6 +151,7 @@ aliases: ["Druid Spells"]
 
 ## 7th Level
 
+- [Draconic Transformation](3-Mechanics/CLI/spells/draconic-transformation-ftd.md "FTD")
 - [Fire Storm](3-Mechanics/CLI/spells/fire-storm-xphb.md "XPHB")
 - [Mirage Arcane](3-Mechanics/CLI/spells/mirage-arcane-xphb.md "XPHB")
 - [Plane Shift](3-Mechanics/CLI/spells/plane-shift-xphb.md "XPHB")

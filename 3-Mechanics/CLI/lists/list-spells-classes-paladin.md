@@ -59,6 +59,7 @@ aliases: ["Paladin Spells"]
 - [Aura of Purity](3-Mechanics/CLI/spells/aura-of-purity-xphb.md "XPHB")
 - [Banishment](3-Mechanics/CLI/spells/banishment-xphb.md "XPHB")
 - [Death Ward](3-Mechanics/CLI/spells/death-ward-xphb.md "XPHB")
+- [Find Greater Steed](3-Mechanics/CLI/spells/find-greater-steed-xge.md "XGE")
 - [Locate Creature](3-Mechanics/CLI/spells/locate-creature-xphb.md "XPHB")
 - [Staggering Smite](3-Mechanics/CLI/spells/staggering-smite-xphb.md "XPHB")
 

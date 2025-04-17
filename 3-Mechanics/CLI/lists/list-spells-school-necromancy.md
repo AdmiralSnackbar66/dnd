@@ -25,6 +25,7 @@ aliases: ["Necromancy Spells"]
 
 - [Gentle Repose](3-Mechanics/CLI/spells/gentle-repose-xphb.md "XPHB")
 - [Ray of Enfeeblement](3-Mechanics/CLI/spells/ray-of-enfeeblement-xphb.md "XPHB")
+- [Wither and Bloom](3-Mechanics/CLI/spells/wither-and-bloom-scc.md "SCC")
 
 ## 3rd Level
 
