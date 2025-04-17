@@ -48,23 +48,19 @@ gain no rewards, merely an understanding of what their future coursework might e
 
 #### Hindsight: Examining and Identifying Historical Arcane Artifacts
 **Associated Rolls:** [[skills#History|History]], [[skills#Investigation|Investigation]], Various Tools
-Students might be initially confused about the location of this class as it is one of the few that doesn't take place in a lecture hall or classroom. Instead this class takes place in the
-workshop of [[Osgir, the Reconstructor]], a [[Lorehold professor of order]]. These classes can be frequently interrupted by messengers or students bringing him new finds. Osgir
-welcomes the interruptions as it gives him a new artifact to show his students. Osgir's love for artifacts of all kinds is plainly apparent and he has historically been moved to give
-extra credit to students who bring him new artifacts.Students who pass Osgir's class are rewarded with the [[identify-xphb|Identify]] spell.
+Students might be initially confused about the location of this class as it is one of the few that doesn't take place in a lecture hall or classroom. Instead this class takes place in the workshop of [[Osgir, the Reconstructor]], a  [[lorehold-professor-of-order-scc|Lorehold Professor of Order]]. These classes can be frequently interrupted by messengers or students bringing him new finds. Osgir welcomes the interruptions as it gives him a new artifact to show his students. Osgir's love for artifacts of all kinds is plainly apparent and he has historically been moved to give extra credit to students who bring him new artifacts.Students who pass Osgir's class are rewarded with the [[identify-xphb|Identify]] spell.
 
 #### Everything Old is New Again: Methods of Archaeological Preservation
-Associated Skills: Deception, History, Investigation
-One of the only courses taught by [[Losheel]], a female Loxodon and Lorehold professor of chaos. Students in this class more often than not are greeted in class by a golem who
-uses a historical artifact to display Losheel's likeness which then goes into a pre-recorded lesson. The golems tend to be made from ancient parts and can get stuck quite easily, allowing students who participate and pass the class to easily learn the [[heat-metal-xphb|Heat Metal]] spell as they attempt to repair the automatons.
+**Associated Skills:** [[skills#Deception|Deception]], [[skills#History|History]], [[skills#Investigatio|Investigation]]
+One of the only courses taught by [[Losheel]], a female Loxodon and [[lorehold-professor-of-chaos-scc|Lorehold Professor of Chaos]]. Students in this class more often than not are greeted in class by a golem who uses a historical artifact to display Losheel's likeness which then goes into a pre-recorded lesson. The golems tend to be made from ancient parts and can get stuck quite easily, allowing students who participate and pass the class to easily learn the [[heat-metal-xphb|Heat Metal]] spell as they attempt to repair the automatons.
 
 #### Falling Into Ruin: Guidelines on Successful Exploration of HistoricalSites
- Associated Skills: Athletics, History, Sleight of Hand
-This class is taught by the dashingly handsome [[Marrick Deepfinder]], a male halfling and a Lorehold professor of chaos. 
+ **Associated Skills:** [[skills#Athletic|Athletics]], [[skills#History|History]], [[skills#Sleight of Han|Sleight of Hand]]
+This class is taught by the dashingly handsome [[Marrick Deepfinder]], a male halfling and a [[lorehold-professor-of-chaos-scc|Lorehold Professor of Chaos]]
 In his introductory class Marrick teaches students to be dumb enough to head into ruins but smart enough to know when to get out and any who pass learn how to cast [[expeditious-retreat-xphb|Expeditious Retreat]].
 
 #### Write That Down!: Basics of Complete Historical Recordkeeping
-Associated Skills: History, Investigation, Perception
-[[Riri Brighteye]], a female Owlin and [[Lorehold professor of order]], teaches students in this introductory class that relevance is in the eye of the reader and as such the only
+**Associated Skills:** [[skills#History|History]], [[skills#Investigation|Investigation]], [[skills#Perception|Perception]]
+[[Riri Brighteye]], a female Owlin and [[lorehold-professor-of-order-scc|Lorehold Professor of Order]], teaches students in this introductory class that relevance is in the eye of the reader and as such the only
  homework she assigns is to maintain a thorough diary everysingle day. She stresses not to include private details in the diaries as she reads them at the end of term but to otherwise include even the most mundane notes so that historians can choose their own relevant information from the many long pages. While this initial course leans more towards the principle of Chaos it serves as the foundation for her more advanced courses that examine details of ancient civilizations that are often overlooked. The reward for passing this class is
-the  [[Borrowed Knowledge]] spell.
+the  [[borrowed-knowledge-scc|Borrowed Knowledge]]] spell.

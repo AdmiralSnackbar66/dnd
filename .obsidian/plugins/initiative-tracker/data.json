@@ -98,9 +98,31 @@
   "playerMarker": "default",
   "monsterMarker": "default",
   "state": {
-    "creatures": [],
+    "creatures": [
+      {
+        "name": "Mimic",
+        "initiative": 3,
+        "static": false,
+        "modifier": 1,
+        "hp": 58,
+        "currentMaxHP": 58,
+        "cr": "2",
+        "ac": 12,
+        "currentAC": 12,
+        "id": "ID_7a2bf9d81a28",
+        "currentHP": 58,
+        "tempHP": 0,
+        "status": [],
+        "enabled": true,
+        "active": false,
+        "hidden": false,
+        "friendly": false,
+        "hit_dice": "9d8 + 17",
+        "rollHP": false
+      }
+    ],
     "state": false,
-    "name": "Ellina Tanglewood",
+    "name": null,
     "round": 1,
     "logFile": "",
     "rollHP": false

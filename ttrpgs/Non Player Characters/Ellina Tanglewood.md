@@ -41,7 +41,7 @@ aliases:
 # `=this.file.name`
 ## Profile
 
-[[Ellina Tanglewood]] is the perpetually stressed and chaotic elf manager and chief barista of the [[Firejolt Café]] at Strixhaven University. The inventor of the signature drink, the [[Firejolt Latte]], it is said that no one has ever seen Ellina stand still for more than a second.
+[[Ellina Tanglewood]] is the perpetually stressed and chaotic elf manager and chief barista of the [[Firejolt Café DELETE ME]] at Strixhaven University. The inventor of the signature drink, the [[Firejolt Latte]], it is said that no one has ever seen Ellina stand still for more than a second.
 
 ## Stats
 > [!info] Statblock

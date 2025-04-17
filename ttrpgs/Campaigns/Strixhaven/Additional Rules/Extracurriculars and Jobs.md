@@ -7,7 +7,6 @@ At any point during the book’s adventures, a character can gain the benefit of
 Characters can gain the benefit from a new Extracurricular only by joining it at the start of an academic year, which corresponds to the beginning of a new adventure. Typically, joining an Extracurricular in between academic years isn’t eventful. Players should note the changes on their tracking sheet.
 
 ### Extracurricular Benefits
-__STUDENTS FIND MANY MAGICAL WAYS  TO CELEBRATE THEIR ACHIEVEMENTS__
 While a student participates in an Extracurricular, they gain a Student Die and a Relationship Point, as explained below.
 
 #### Student Dice
@@ -24,7 +23,6 @@ Student characters can join any of the following Extracurriculars.
 #### Dead Languages Society
 
 **Skills:**  [[skills#Athletics|Athletics]],[[skills#History|History]]
-
 **Member:** [[Drazhomir Yarnask]], [[Quentillius Antiphiun Melentor III|Quentillius A. Melentor III]]
 
 These linguistics lovers take advantage of Strixhaven’s deep repository of tomes written in ancient and near-extinct languages, teaching themselves these tongues and often translating their favorite works.
@@ -32,7 +30,6 @@ These linguistics lovers take advantage of Strixhaven’s deep repository of tom
 #### Distinguished Society of Fine Artists
 
 **Skills:** [[skills#Performance|Performance]] or [[skills#Sleight of Hand|Sleight of Hand]]
-
 **Member:** [[Cadoras Damellawar]], [[Nora Ann Wu]]
 
 These painters, sculptors, printmakers, and mosaic artists gather to create fine works and to discuss the latest techniques and trends in the world of art.
@@ -40,7 +37,6 @@ These painters, sculptors, printmakers, and mosaic artists gather to create fine
 #### Dragonchess Club
 
 **Skills:** [[skills#Deception|Deception]], [[skills#Investigation|Investigation]]
-
 **Member:** [[Bhedum “Rampart” Sooviij]], [[Tilana Kapule]]
 
 These experts in the game of dragonchess discuss the latest in strategy, compete against one another, and test out homemade variations of game rules.
@@ -153,7 +149,6 @@ While a student has a Job, they earn a wage and a Relationship Point, as explain
 
 A student who works a Job gains 5 gp at the start of each week that they hold the Job. If a student quits during the academic year, they stop earning this money at the end of the week in which they quit.
 
-__STRIXHAVEN STUDENT EMPLOYEES WORK  BESIDE STAFF MEMBERS TO FILL THE  MANY JOBS AVAILABLE ON CAMPUS__
 
 #### Relationship Point
 
@@ -163,56 +158,47 @@ While a character works a Job, they gain a positive or negative Relationship Poi
 
 Student characters can find work at the places below. A number of possible positions are noted for each place, along with NPC coworkers.
 
-#### [[Biblioplex]]
+#### [[to be deleted]]
 
 **Jobs:** Book clerk, book shelver, café worker, cleanup crew member, garden tender, store worker
-
 **Coworker:** [[Drazhomir Yarnask]]
 
 #### Bow’s End Tavern
 
 **Jobs:** Assistant manager, cleanup crew member, cook, host, server
-
 **Coworker:** [[Javenesh Stoutclaw]]
 
 #### Campus Grounds
 
 **Jobs:** Graffiti eraser, lawn manicurist, litter retriever, sidewalk sweeper, statuary repairer, trash collector
-
 **Coworker:** [[Shuvadri Glintmantle]]
 
 #### Campus Magic Labs
 
 **Jobs:** Cleanup crew member, specimen preparer, volunteer lab partner
-
 **Coworker:** [[Urzmaktok Grojsh]]
 
 #### Dormitories
 
 **Jobs:** Cleanup crew member, events assistant, front-desk worker, resident assistant
-
 **Coworker:** [[Nora Ann Wu]]
 
-#### [[Firejolt Café]]
+#### [[Firejolt Café DELETE ME]]
 
 **Jobs:** Barista, cashier, cleanup crew member, server
-
 **Coworker:** [[Mina Lee]]
 
 #### Intramural Fields
 
 **Jobs:** Cleanup crew member, crowd manager, equipment assistant, groundskeeper, referee
-
 **Coworker:** [[Rosimyffenbip Wuzfeddlims]]
 
 #### Strixhaven Performing Arts Society
 
 **Jobs:** Cleanup crew member, general assistant, refreshments expert, stagehand, ticket taker, usher
-
 **Coworker:** [[Larine Arneza]]
 
 #### Strixhaven Stadium
 
 **Jobs:** Cleanup crew member, entertainment assistant, equipment assistant, groundskeeper, refreshments expert, ticket taker, usher
-
 **Coworker:** [[Aurora Luna Wynterstarr]], [[Greta Gorunn]]

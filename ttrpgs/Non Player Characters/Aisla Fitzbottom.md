@@ -40,7 +40,7 @@ aliases:
 # `=this.file.name`
 ## Profile
 
-[[Biblioplex#B6. Biblioplex Café|Biblioplex Cafe]] manager 
+[[to be deleted#B6. Biblioplex Café|Biblioplex Cafe]] manager 
 
 
 

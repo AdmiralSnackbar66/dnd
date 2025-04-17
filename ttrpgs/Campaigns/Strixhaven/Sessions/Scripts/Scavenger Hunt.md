@@ -6,22 +6,22 @@ NoteIcon: Journal
 # [[Scavenger Hunt]]
 
 >[!readaloud]
->>>[!cite] The rules are simple, each clue on this list will lead you to a different location in the [[Biblioplex]]. Simply travel to the area each clue references and perform the action the clue suggests. Time is of the essence. You have only until the end of the day to finish your hunt.  Solve as many clues as you can, because at each location, you may win a prize! Now then, off you go!”
+>>>[!cite] The rules are simple, each clue on this list will lead you to a different location in the [[to be deleted]]. Simply travel to the area each clue references and perform the action the clue suggests. Time is of the essence. You have only until the end of the day to finish your hunt.  Solve as many clues as you can, because at each location, you may win a prize! Now then, off you go!”
 
 ## Clues
->[!tip] Each clue can be unraveled either by deduction, or with a successful DC 10 Intelligence (Investigation). A decoded clue points the characters toward one of the areas of the [[Biblioplex]] as well as the action they must take to receive a prize in that area.
+>[!tip] Each clue can be unraveled either by deduction, or with a successful DC 10 Intelligence (Investigation). A decoded clue points the characters toward one of the areas of the [[to be deleted]] as well as the action they must take to receive a prize in that area.
 
 ### **Clue 1.** 
 >[!readaloud] You’ll forget all about any trouble or plight when you step forward and are ensnarled in light.
 
->[!tip] This clue refers the characters to the room they start the orientation in  the [[Biblioplex#B11. Hall of Oracles|Hall of Oracles]] . 
+>[!tip] This clue refers the characters to the room they start the orientation in  the [[to be deleted#B11. Hall of Oracles|Hall of Oracles]] . 
 >If a character touches the pooled energy below the snarl, they momentarily lose track of their body, overwhelmed by the snarl’s magical power. The character automatically disengages from the snarl and discovers that they are holding a [[potion-of-healing-xdmg|Potion of Healing]]
 
 ### **Clue 2.**
 >[!readaloud] Alumni commission works when they retire, seeking promising mages to inspire.
 
 
->[!tip] This clue refers to the  [[Biblioplex#B12. Student and Alumni Art Gallery|Student and Alumni Art Gallery]]
+>[!tip] This clue refers to the  [[to be deleted#B12. Student and Alumni Art Gallery|Student and Alumni Art Gallery]]
 >
 When the characters wander through the gallery, they see a portrait of several older alumni wearing Prismari College robes. If a character examines the portrait, they find a plaque that reads: “At Strixhaven we were all inspired.” Below the plaque is a small lever. If a character uses an action to pull the lever, a box pops out of the wall containing a [[Strixhaven Pennant|Strixhaven pennant]] ( `dice: [[Strixhaven Pennant#^pennant]]`).  Once it dispenses the pennants, the box disappears back into the wall and doesn’t work for the characters again.
 
@@ -29,7 +29,7 @@ When the characters wander through the gallery, they see a portrait of several o
 ### **Clue 3.** 
 >[!readaloud] Each group deserves a free treat for their investment. Serve up this list and enjoy your refreshment.
 
->[!tip] This clue refers to the [[Biblioplex#B6. Biblioplex Café|Biblioplex Cafe]]
+>[!tip] This clue refers to the [[to be deleted#B6. Biblioplex Café|Biblioplex Cafe]]
 >
 When the characters enter the café, they see several students enjoying drinks and snacks. [[Aisla Fitzbottom|Aisla Fitzbottom]] , the café manager, is a Strixhaven staff member and the only worker behind the counter at present. 
 >>>[!cite] "Here for the scavenger hunt I'll bet! Come in and have a seat while I get you some refreshments. Tea? Coffee? Anyone hungry? The café's speciality of the day is... `dice: [[Biblioplex#^Sandwich]]`. It’s on the house.
@@ -38,13 +38,13 @@ When the characters enter the café, they see several students enjoying drinks a
 ### **Clue 4.** 
 >[!readaloud] These leafy beds aren’t always what they seem. Give them a pat and see what you glean.
 
->[!tip]  This clue refers to  [[Biblioplex#B9. Book Garden|the book gardens]]
+>[!tip]  This clue refers to  [[to be deleted#B9. Book Garden|the book gardens]]
 >When the characters enter a book garden, they see a lush arboretum. A successful DC 10 Intelligence (Investigation check) reveals that three of the shrubs are not ordinary greenery, but are instead [[awakened-shrub-xmm|Awakened Shrub]], each with a glistening crown of leaves. If a character uses an action to pat the shrubs on these leaves, the branches part to reveal a [[Cuddly Strixhaven Mascot|Strixhaven mascot]] (`dice: [[Cuddly Strixhaven Mascot#^mascot]]`). This magic works only once per character.
 
 ### **Clue 5.** 
 >[!readaloud] Some stars are ancient, enduring, and bright. But others—maybe you!—are born on opening night.
 
->[!tip] This clue refers to [[Biblioplex#B13. Amphitheater|Ampitheater]]
+>[!tip] This clue refers to [[to be deleted#B13. Amphitheater|Ampitheater]]
 >When the characters reach the amphitheater, they see an impressively lavish stage, with the curtains drawn back as if to reveal performers on the opening night of a major production. If a character recites, sings, hums, belches, or otherwise emits any line or tune while standing on the stage, bright floodlights snap on around the stage’s perimeter—a number of lights equal to the number of characters in the group. Approaching any of the lights reveals a recess in which lies a [[hooded-lantern-xphb|Hooded Lantern]] filled with oil.
 
 [[Register for Classes]]

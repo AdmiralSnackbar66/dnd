@@ -4,21 +4,21 @@ campaign: Strixhaven
 ---
 
 
-[[Biblioplex]] library acts as a hub for learning and gathering for students across [[Strixhaven]]. 
+[[to be deleted]] library acts as a hub for learning and gathering for students across [[Strixhaven]]. 
 
 #### Biblioplex Features
 
-[[Biblioplex]] has the following features:
+[[to be deleted]] has the following features:
 
-**Ceilings.** The ceilings throughout the first floor of  [[Biblioplex]] are 50 feet high. The second- and third-floor ceilings are 30 feet high.
+**Ceilings.** The ceilings throughout the first floor of  [[to be deleted]] are 50 feet high. The second- and third-floor ceilings are 30 feet high.
 
 Many students employ deep concentration  
 techniques to help them tackle  
 their rigorous class schedules
 
-**Magic Stairs.** As in all [[Strixhaven]] buildings, the stairs and steps leading into and within  [[Biblioplex]] are enchanted to move and reshape for full accessibility. 
+**Magic Stairs.** As in all [[Strixhaven]] buildings, the stairs and steps leading into and within  [[to be deleted]] are enchanted to move and reshape for full accessibility. 
 
-**Transport Circles.** A runic circle is painted on the floor near each staircase in  [[Biblioplex]], as well as at the top and bottom of the steps leading to the main entrance 
+**Transport Circles.** A runic circle is painted on the floor near each staircase in  [[to be deleted]], as well as at the top and bottom of the steps leading to the main entrance 
 . These circles are permanent, customized teleportation circles. When a user moves onto a circle and mentally focuses on the floor to which they wish to travel, they are transported to the destination floor, arriving at that floor’s runic circle for that staircase. (Students are all aware that entering the second floor is forbidden without permission from a faculty member.) The circle at the bottom of the front steps transports users to the circle at the top of the steps and vice versa.
 
 **Students and Professors.** Students of all years and colleges can be found in the Biblioplex, as can professors from all the colleges. 
@@ -30,10 +30,10 @@ their rigorous class schedules
 Enchanted marble steps lead up 5 feet to a small plaza at the Biblioplex’s entrance. The double door’s vertical handles are each carved in the likeness of a robed scholar. During the day, the doors stand open. At night, the doors are closed, locked, and sealed with an [[arcane-lock-xphb|Arcane Lock]] spell. A successful DC 25 Dexterity check using thieves’ tools opens the lock (DC 35 while the [[arcane-lock-xphb|Arcane Lock]] is in effect). Only the Biblioplex’s reference librarians and certain faculty members know the [[arcane-lock-xphb|Arcane Lock]]’s password.
 
 #### B2. Biblioplex Lounge
-Luxurious couches and sturdy tables furnish this spacious area. Students, employees, and staff members often use this lounge to relax between shifts in the [[Biblioplex#B5. Student Store|student store]],  [[Biblioplex#B6. Biblioplex Café|Biblioplex café]], or elsewhere in the library. Each table holds piles of magazines, newsletters, flyers, and nonmagical scrolls from around campus. A character who examines these materials finds recruitment flyers from 1d3 Extracurriculars. They also find “Help Wanted” ads for the Jobs at the Biblioplex. [[Extracurriculars and Jobs#Extracurriculars|Extracurriculars]]  and [[Extracurriculars and Jobs#Jobs|Jobs]]
+Luxurious couches and sturdy tables furnish this spacious area. Students, employees, and staff members often use this lounge to relax between shifts in the [[to be deleted#B5. Student Store|student store]],  [[to be deleted#B6. Biblioplex Café|Biblioplex café]], or elsewhere in the library. Each table holds piles of magazines, newsletters, flyers, and nonmagical scrolls from around campus. A character who examines these materials finds recruitment flyers from 1d3 Extracurriculars. They also find “Help Wanted” ads for the Jobs at the Biblioplex. [[Extracurriculars and Jobs#Extracurriculars|Extracurriculars]]  and [[Extracurriculars and Jobs#Jobs|Jobs]]
 
 #### B3. Student Café Seating
-This area typically holds `dice:6d6` students, all of them studying, eating, chatting, or even sleeping. Many enjoy food and drinks from the [[Biblioplex#B6. Biblioplex Café|café]]
+This area typically holds `dice:6d6` students, all of them studying, eating, chatting, or even sleeping. Many enjoy food and drinks from the [[to be deleted#B6. Biblioplex Café|café]]
 
 #### B4. Information Desk
 Three faculty-appointed reference librarians work at each of these circular desks (use any of the professor stat blocks found in [chapter 7](https://www.dndbeyond.com/sources/sacoc/friends-and-foes/ "chapter 7") if needed). All are expert scholars and powerful mages. They can provide helpful instructions for where to find any public location or collection in the Biblioplex.
@@ -148,3 +148,4 @@ This rest area is designed to help stressed-out senior students unwind. Large ta
 This area on the library’s third floor holds copies of most of the mundane, widely available written works in the multiverse. The books are inscrutably cataloged, so it’s almost impossible to find anything without requesting information from a reference librarian ([[#B4. Information Desk]]).  Characters who look for information without obtaining help discover what they’re looking for only with a successful DC 20 Wisdom ([[skills#Perception|Perception]])
 
 At the center of this area stands a statue depicting a mighty, benevolent dragon. The magical statue reads aloud the contents of most books placed in front of it if a character makes that request verbally or mentally. (The magic of the statue can assess text such as verbal curses that present a danger if read aloud, and the statue ignores requests to read such text.)
+
