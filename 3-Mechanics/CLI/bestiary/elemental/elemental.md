@@ -11,6 +11,7 @@ cssclasses: json5e-note
 - [Art Elemental Mascot](./art-elemental-mascot-scc.md)
 - [Azer Pyromancer](./azer-pyromancer-xmm.md)
 - [Azer Sentinel](./azer-sentinel-xmm.md)
+- [Chwinga](./chwinga-cm.md)
 - [Cinderslag Elemental](./cinderslag-elemental-tdcsr.md)
 - [Cold Snap Spirit](./cold-snap-spirit-tdcsr.md)
 - [Dao](./dao-xmm.md)

@@ -2,6 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
+- ttrpg-cli/compendium/src/5e/cm
 - ttrpg-cli/compendium/src/5e/xdmg
 aliases: ["Diseases"]
 ---
@@ -18,6 +19,19 @@ Cheaply made potions and elixirs are sometimes tainted by Cackle Fever, which af
 **Fighting the Contagion.** At the end of each Long Rest, an infected creature makes a DC 13 Constitution saving throw. After the creature succeeds on three of these saves, the contagion ends on it, and the creature is immune to Cackle Fever for 1 year.
 
 **Spreading the Contagion.** Any Humanoid (other than a gnome) that starts its turn within a 10-foot [Emanation](3-Mechanics/CLI/rules/variant-rules/emanation-area-of-effect-xphb.md) originating from a creature infected with Cackle Fever must succeed on a DC 10 Constitution saving throw or also become infected with the contagion. On a successful save, the Humanoid can't catch the contagion from that particular infected creature for the next 24 hours.
+
+## Saprophytic Plague
+_Source: Candlekeep Mysteries p. 253_
+
+Xanthoria's research into lichdom and her creation of a living phylactery led to the emergence of the plague spreading across the Sword Coast. Any beast or humanoid that comes within 10 feet of a creature infected by the saprophytic plague must succeed on a DC 20 Constitution saving throw or become infected as well. On a successful save, a creature is immune to the plague for 24 hours, and any creature that is immune to disease succeeds on the save automatically.
+
+After a failed save, a creature experiences the first symptoms—body aches, nausea, slurred speech, and uncontrollable drooling—`1d4` hours later and gains 1 level of [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion). Every 24 hours thereafter, the creature automatically gains another level of [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion). Any creature killed by the saprophytic plague transforms into a lifeless magenta ooze.
+
+A creature infected by the saprophytic plague for at least 24 hours behaves like a zombie and seems barely aware of its surroundings, as fungal growths sprout from its head, body, and limbs. It feels an overriding urge to be around groups of uninfected creatures so that it can spread the contagion. This is the time when infected humanoids begin speaking the word "Xanthoria" over and over, with no understanding of what the word means. This behavior is the result of a mycelial network of spores that forms a tenuous connection between Xanthoria and humanoids that become infected by the plague.
+
+Foodstuffs that are exposed to the plague's spores decay or go sour within `2d12` hours, leaving behind a lurid magenta mass of oozing fungi. Eating infected food requires a saving throw as above.
+
+Any magic that cures a disease can rid a creature of the saprophytic plague. Casting [purify food and drink](3-Mechanics/CLI/spells/purify-food-and-drink-xphb.md) destroys the infection in foodstuffs.
 
 ## Sewer Plague
 _Source: Dungeon Master's Guide (2024) p. 61_

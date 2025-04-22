@@ -21,6 +21,7 @@ cssclasses: json5e-note
 - [Flumph](./flumph-xmm.md)
 - [Gaj](./gaj-bam.md)
 - [Gibbering Mouther](./gibbering-mouther-xmm.md)
+- [Gingwatzim](./gingwatzim-cm.md)
 - [Githyanki Dracomancer](./githyanki-dracomancer-xmm.md)
 - [Githyanki Knight](./githyanki-knight-xmm.md)
 - [Githyanki Warrior](./githyanki-warrior-xmm.md)

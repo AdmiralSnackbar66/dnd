@@ -59,6 +59,7 @@ cssclasses: json5e-note
 - [Crystal Greatwyrm](./crystal-greatwyrm-ftd.md)
 - [Deep Dragon Wyrmling](./deep-dragon-wyrmling-ftd.md)
 - [Draconic Spirit](./draconic-spirit-xphb.md)
+- [Dragon Tortoise](./dragon-tortoise-cm.md)
 - [Dragon Turtle Wyrmling](./dragon-turtle-wyrmling-ftd.md)
 - [Dragon Turtle](./dragon-turtle-xmm.md)
 - [Dragonnel](./dragonnel-ftd.md)
