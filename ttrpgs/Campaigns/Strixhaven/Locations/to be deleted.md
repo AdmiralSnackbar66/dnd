@@ -88,7 +88,7 @@ These open study areas feature simple wooden tables and chairs. During the day, 
 
 If the characters pass by the western study area before orientation, members of the Live-Action Roleplaying Guild are pulling costumes and props from a half dozen old trunks. The guild is preparing for an event later on the Biblioplex’s lawn: a game they call Beholders versus Behirs.
 
-[[Rosimyffenbip Wuzfeddlims]] is directing students as they cobble together beholder and behir costumes, as well as visual effects made from sheets, blankets, wooden frames, tin plates, and illusion magic. (This preparation erupts into chaos during [[That Trunk Has Teeth!]]
+[[Rosimyffenbip Wuzfeddlims]] is directing students as they cobble together beholder and behir costumes, as well as visual effects made from sheets, blankets, wooden frames, tin plates, and illusion magic. (This preparation erupts into chaos during [[3. That Trunk Has Teeth!]]
 
 #### B9. Book Garden
 

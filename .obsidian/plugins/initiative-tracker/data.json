@@ -101,7 +101,7 @@
     "creatures": [
       {
         "name": "Mimic",
-        "initiative": 3,
+        "initiative": 7,
         "static": false,
         "modifier": 1,
         "hp": 58,
@@ -109,7 +109,7 @@
         "cr": "2",
         "ac": 12,
         "currentAC": 12,
-        "id": "ID_7a2bf9d81a28",
+        "id": "ID_ab682ab96b68",
         "currentHP": 58,
         "tempHP": 0,
         "status": [],
@@ -117,8 +117,7 @@
         "active": false,
         "hidden": false,
         "friendly": false,
-        "hit_dice": "9d8 + 17",
-        "rollHP": false
+        "hit_dice": "9d8 + 17"
       }
     ],
     "state": false,
