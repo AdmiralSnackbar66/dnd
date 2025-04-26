@@ -1,3 +1,2 @@
-# The [[to be deleted]]
-
-![[1-campus-kerfuffle#Biblioplex Locations]]
+ ![[02-life-at-strixhaven#The Biblioplex]]
+ ![[1-campus-kerfuffle#Biblioplex Locations]]

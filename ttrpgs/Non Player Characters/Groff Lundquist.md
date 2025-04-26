@@ -1,30 +1,24 @@
 ---
 AssociatedGroup: 
-Gender: Male
-Race:
-  - Human
+Gender: 
+Race: 
 Age: 
-Class:
-  - Commoner
-Alignment: Neutral Good
+Class: 
+Alignment: 
 Character-Role: 
-Location: Strixhaven
+Location: 
+AssociatedGroup: 
 NoteIcon: npc
-hp: "7"
-ac: "10"
-pasperc: 10
-aliases:
-  - Groff
-campaign: Strixhaven
 ---
+
 
 Groff Lundquist
 
 
 > [!infobox]
 > # `=this.file.name`
-> ![[Groff Lundquist.png|200]]
-> [[Groff Lundquist.png|Show To Players]]
+> ![[z_Assets/Misc/ImagePlaceholder.png|cover hsmall]]
+> [[z_Assets/Misc/ImagePlaceholder.png|Show To Players]]
 > ###### Basic Information
 > Type |  Stat |
 > ---|---|
@@ -45,17 +39,16 @@ Groff Lundquist
 ## Profile
 
 
-**<Add description here, extend it with AI Text Generator using Ctrl J>**
 
 > [!info] Statblock
 > ```statblock
-> name: Geoff Lundquist
+> name: Individual
 > monster: Commoner
 > columns: 1
 > ```
 
 ```encounter-table
-name: Groff Lundquist
+name: Individual
 creatures:
  - 1: Commoner
 ```

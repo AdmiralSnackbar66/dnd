@@ -20,6 +20,10 @@ campaign: Strixhaven
 aliases:
   - Daliaila
 ---
+## DnD Beyond
 ```custom-frames
 frame: Dalaila - DND Beyond
 ```
+
+## Character Sheet
+![[Dalaila.pdf]]

@@ -23,6 +23,10 @@ campaign: Strixhaven
 aliases:
   - Borun
 ---
+## DnD Beyond
 ```custom-frames
 frame: Borun Erutan - DND Beyond
 ```
+
+## Character Sheet
+![[Borun Erutan.pdf]]

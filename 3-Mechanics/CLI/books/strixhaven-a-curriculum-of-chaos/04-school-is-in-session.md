@@ -131,112 +131,112 @@ Student characters can join any of the following Extracurriculars.
 #### Dead Languages Society
 
 - **Skills.** [Athletics](3-Mechanics/CLI/rules/skills.md#Athletics), [History](3-Mechanics/CLI/rules/skills.md#History)  
-- **Member.** Drazhomir Yarnask, Quentillius A. Melentor III  
+- **Member.** [[#Drazhomir Yarnask]], [[#Quentillius Antiphiun Melentor III]]  
 
 These linguistics lovers take advantage of Strixhaven's deep repository of tomes written in ancient and near-extinct languages, teaching themselves these tongues and often translating their favorite works.
 
 #### Distinguished Society of Fine Artists
 
 - **Skills.** [Performance](3-Mechanics/CLI/rules/skills.md#Performance) or [Sleight of Hand](3-Mechanics/CLI/rules/skills.md#Sleight%20of%20Hand)  
-- **Member.** Cadoras Damellawar, Nora Ann Wu  
+- **Member.** [[#Cadoras Damellawar]], [[#Nora Ann Wu]]  
 
 These painters, sculptors, printmakers, and mosaic artists gather to create fine works and to discuss the latest techniques and trends in the world of art.
 
 #### Dragonchess Club
 
 - **Skills.** [Deception](3-Mechanics/CLI/rules/skills.md#Deception), [Investigation](3-Mechanics/CLI/rules/skills.md#Investigation)  
-- **Member.** Bhedum "Rampart" Sooviij, Tilana Kapule  
+- **Member.** [[#Bhedum "Rampart" Sooviij]], [[#Tilana Kapule]]  
 
 These experts in the game of dragonchess discuss the latest in strategy, compete against one another, and test out homemade variations of game rules.
 
 #### Dragonsguard Historical Society
 
 - **Skills.** [Arcana](3-Mechanics/CLI/rules/skills.md#Arcana), [History](3-Mechanics/CLI/rules/skills.md#History)  
-- **Member.** Bhedum "Rampart" Sooviij  
+- **Member.** [[#Bhedum "Rampart" Sooviij]]
 
 These historians are fascinated by all time periods, and they regularly meet to discuss, debate, and deep dive into members' favorite topics.
 
 #### Fantastical Horticulture Club
 
 - **Skills.** [Nature](3-Mechanics/CLI/rules/skills.md#Nature), [Survival](3-Mechanics/CLI/rules/skills.md#Survival)  
-- **Member.** Urzmaktok Grojsh  
+- **Member.** [[#Urzmaktok Grojsh]] 
 
 These green-thumbed experts love mixing magic and gardening to create new strains of vegetation, many of which they cultivate on campus.
 
 #### Future Entrepreneurs of Strixhaven
 
 - **Skills.** [Insight](3-Mechanics/CLI/rules/skills.md#Insight), [Persuasion](3-Mechanics/CLI/rules/skills.md#Persuasion)  
-- **Member.** Grayson Wildemere  
+- **Member.** [[#Grayson Wildemere]] 
 
 These enterprising students discuss business theories. They often create small start-ups to sell wares and services appealing to students. The funds they generate fuel the club's activities.
 
 #### Intramural Gymnastics Club
 
 - **Skills.** [Acrobatics](3-Mechanics/CLI/rules/skills.md#Acrobatics), [Performance](3-Mechanics/CLI/rules/skills.md#Performance)  
-- **Member.** Zanther Bowen  
+- **Member.** [[#Zanther Bowen]] 
 
 These graceful gymnasts work to hone their craft, and they compete against each other in dazzling floor routines.
 
 #### Intramural Silkball Club
 
 - **Skills.** [Athletics](3-Mechanics/CLI/rules/skills.md#Athletics), [Intimidation](3-Mechanics/CLI/rules/skills.md#Intimidation)  
-- **Member.** Javenesh Stoutclaw, Melwythorne, Tilana Kapule  
+- **Member.** [[#Javenesh Stoutclaw]], [[#Melwythorne]], [[#Tilana Kapule]]  
 
 These hardy athletes train together and compete in the rough-and-tumble Strixhaven game of silkball, which is played in muddy fields with balls made of spider silk.
 
 #### Intramural Water-Dancing Club
 
 - **Skills.** [Athletics](3-Mechanics/CLI/rules/skills.md#Athletics), [Performance](3-Mechanics/CLI/rules/skills.md#Performance)  
-- **Member.** Larine Arneza  
+- **Member.** [[#Larine Arneza]] 
 
 These swimming enthusiasts combine their athletic skills with the finesse of artists as they choreograph water dances to the latest popular songs.
 
 #### Live-Action Roleplaying Guild
 
 - **Skills.** [Animal Handling](3-Mechanics/CLI/rules/skills.md#Animal%20Handling), [Performance](3-Mechanics/CLI/rules/skills.md#Performance)  
-- **Member.** Cadoras Damellawar, Rosimyffenbip "Rosie" Wuzfeddlims  
+- **Member.** [[#Cadoras Damellawar]], [[#Rosimyffenbip "Rosie" Wuzfeddlims]]
 
 These storytelling enthusiasts engage in a mix of strategy and playacting—often involving mascots—when they enact fantastical narratives that they resolve with special rules.
 
 #### Mage Tower Cheer Squad
 
 - **Skills.** [Perception](3-Mechanics/CLI/rules/skills.md#Perception), [Persuasion](3-Mechanics/CLI/rules/skills.md#Persuasion)  
-- **Member.** Zanther Bowen  
+- **Member.** [[#Zanther Bowen]] 
 
 With their coordinated cheers, outfits, and school spirit, these cheerleaders inspire pride in the official Strixhaven University Mage Tower teams.
 
 #### Playactors Drama Guild
 
 - **Skills.** [Arcana](3-Mechanics/CLI/rules/skills.md#Arcana), [Deception](3-Mechanics/CLI/rules/skills.md#Deception)  
-- **Member.** Quentillius A. Melentor III, Rubina Larkingdale  
+- **Member.** [[#Quentillius Antiphiun Melentor III]], [[#Rubina Larkingdale]] 
 
 These actors work together to create productions of brilliant stagecraft, often involving new spins on old classics as well as displays of magic and music.
 
 #### Strixhaven Iron-Lifters Society
 
 - **Skills.** [Athletics](3-Mechanics/CLI/rules/skills.md#Athletics), [Medicine](3-Mechanics/CLI/rules/skills.md#Medicine)  
-- **Member.** Greta Gorunn  
+- **Member.** [[#Greta Gorunn]]  
 
 These bodybuilders support each other in developing strong muscles and even stronger friendships.
 
 #### Strixhaven Show Band Association
 
 - **Skills.** [Sleight of Hand](3-Mechanics/CLI/rules/skills.md#Sleight%20of%20Hand), [Performance](3-Mechanics/CLI/rules/skills.md#Performance)  
-- **Member.** Aurora Luna Wynterstarr, Rubina Larkingdale  
+- **Member.** [[#Aurora Luna Wynterstarr]], [[#Rubina Larkingdale]]  
 
 These music enthusiasts play instruments such as hurdy-gurdies, bagpipes, flutes, and drums, and they regularly perform rousing concerts.
 
 #### Strixhaven Star
 
 - **Skills.** [Investigation](3-Mechanics/CLI/rules/skills.md#Investigation), [Insight](3-Mechanics/CLI/rules/skills.md#Insight)  
-- **Member.** Grayson Wildemere, Mina Lee  
+- **Member.** [[#Grayson Wildemere]], [[#Mina Lee]]  
 
 These truth seekers and wordsmiths report on campus news, regularly interviewing important figures and producing the monthly *Strixhaven Star* newspaper, which is distributed across the campus.
 
 #### Student-Mages of Faith
 
 - **Skills.** [Insight](3-Mechanics/CLI/rules/skills.md#Insight), [Religion](3-Mechanics/CLI/rules/skills.md#Religion)  
-- **Member.** Melwythorne, Shuvadri Glintmantle  
+- **Member.** [[#Melwythorne]], [[#Shuvadri Glintmantle]]
 
 These pious students of many faiths gather to share prayers and theological debates and to celebrate one another's high holidays.
 
@@ -269,47 +269,47 @@ Student characters can find work at the places below. A number of possible posit
 #### Biblioplex
 
 - **Jobs.** Book clerk, book shelver, café worker, cleanup crew member, garden tender, store worker  
-- **Coworker.** Drazhomir Yarnask  
+- **Coworker.**  [[#Drazhomir Yarnask]]
 
 #### Bow's End Tavern
 
 - **Jobs.** Assistant manager, cleanup crew member, cook, host, server  
-- **Coworker.** Javenesh Stoutclaw  
+- **Coworker.** [[#Javenesh Stoutclaw]]  
 
 #### Campus Grounds
 
 - **Jobs.** Graffiti eraser, lawn manicurist, litter retriever, sidewalk sweeper, statuary repairer, trash collector  
-- **Coworker.** Shuvadri Glintmantle  
+- **Coworker.** [[#Shuvadri Glintmantle]]  
 
 #### Campus Magic Labs
 
 - **Jobs.** Cleanup crew member, specimen preparer, volunteer lab partner  
-- **Coworker.** Urzmaktok Grojsh  
+- **Coworker.** [[#Urzmaktok Grojsh]]  
 
 #### Dormitories
 
 - **Jobs.** Cleanup crew member, events assistant, front-desk worker, resident assistant  
-- **Coworker.** Nora Ann Wu  
+- **Coworker.** [[#Nora Ann Wu]]  
 
 #### Firejolt Café
 
 - **Jobs.** Barista, cashier, cleanup crew member, server  
-- **Coworker.** Mina Lee  
+- **Coworker.** [[#Mina Lee]]
 
 #### Intramural Fields
 
 - **Jobs.** Cleanup crew member, crowd manager, equipment assistant, groundskeeper, referee  
-- **Coworker.** Rosimyffenbip "Rosie" Wuzfeddlims  
+- **Coworker.** [[#Rosimyffenbip "Rosie" Wuzfeddlims]] 
 
 #### Strixhaven Performing Arts Society
 
 - **Jobs.** Cleanup crew member, general assistant, refreshments expert, stagehand, ticket taker, usher  
-- **Coworker.** Larine Arneza  
+- **Coworker.** [[#Larine Arneza]]  
 
 #### Strixhaven Stadium
 
 - **Jobs.** Cleanup crew member, entertainment assistant, equipment assistant, groundskeeper, refreshments expert, ticket taker, usher  
-- **Coworker.** Aurora Luna Wynterstarr, Greta Gorunn  
+- **Coworker.** [[#Aurora Luna Wynterstarr]], [[#Greta Gorunn]]  
 
 ## Exams
 

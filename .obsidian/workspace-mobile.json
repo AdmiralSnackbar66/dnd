@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e24759de46079944",
+        "id": "f95ca0d86c6a9774",
         "type": "tabs",
         "children": [
           {
-            "id": "a8a0d006a6817792",
+            "id": "03ad6d4f4818d825",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ttrpgs/PlayerCharacters/Elvis Parsley.md",
-                "mode": "preview",
+                "file": "ttrpgs/Campaigns/Strixhaven/Sessions/Scripts/1. Tour of the Biblioplex.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Elvis Parsley"
+              "title": "1. Tour of the Biblioplex"
             }
           }
         ]
@@ -49,7 +49,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "elvis parsley",
+            "query": "sharpbeak",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -305,34 +305,43 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "a8a0d006a6817792",
+  "active": "03ad6d4f4818d825",
   "lastOpenFiles": [
-    "Elvis Parsley.md",
-    "ttrpgs/PlayerCharacters/Elvis Parsley.md",
-    "ttrpgs/Campaigns/Strixhaven/Strixhaven.md",
-    "ttrpgs/ttrpgs.md",
-    "z_templates/Player Template.md",
-    "ttrpgs/PlayerCharacters/Untitled.md",
-    "ttrpgs/PlayerCharacters/|locl+hs-med.md",
-    "z_templates/Character Image Placeholder.md",
-    "ttrpgs/Campaigns/Strixhaven/Sessions/Scripts/3. That Trunk Has Teeth!.md",
+    "ttrpgs/Non Player Characters/Groff Lundquist.md",
     "ttrpgs/Campaigns/Strixhaven/Sessions/Scripts/1. Tour of the Biblioplex.md",
-    "ttrpgs/Campaigns/Strixhaven/Sessions/Scripts/4. Register for Classes.md",
-    "ttrpgs/Campaigns/Strixhaven/Sessions/Scripts/2. Scavenger Hunt.md",
-    "ttrpgs/Campaigns/Strixhaven/Sessions/001_20250404.md",
-    "ttrpgs/Campaigns/Strixhaven/Sessions/Scripts/Scripts.md",
-    "ttrpgs/Campaigns/Strixhaven/Locations/Firejolt Café.md",
-    "ttrpgs/Campaigns/Strixhaven/Locations/Firejolt Café DELETE ME.md",
-    "ttrpgs/Campaigns/Strixhaven/Locations/to be deleted.md",
-    "ttrpgs/Campaigns/Strixhaven/Locations/The Biblioplex.md",
     "3-Mechanics/CLI/adventures/strixhaven-campus-kerfuffle/1-campus-kerfuffle.md",
-    "3-Mechanics/CLI/books/strixhaven-a-curriculum-of-chaos/05-campus-kerfuffle.md",
-    "ttrpgs/Campaigns/Strixhaven/Locations/Locations.md",
-    "ttrpgs/Campaigns/Strixhaven/Additional Rules/Extracurriculars and Jobs.md",
-    "ttrpgs/Campaigns/Strixhaven/Additional Rules/Courses.md",
-    "ttrpgs/Campaigns/Strixhaven/Additional Rules/Lorehold professor of order.md",
-    "3-Mechanics/CLI/bestiary/humanoid/lorehold-professor-of-order-scc.md",
-    "3-Mechanics/CLI/books/taldorei-campaign-setting-reborn/04-chapter-3-taldorei-gazetteer.md",
+    "3-Mechanics/CLI/bestiary/plant/groff-scc.md",
+    "ttrpgs/ttrpgs.md",
+    "ttrpgs/Non Player Characters/Mavinder Sharpbeak.md",
+    "z_Assets/MavindaSharpbeak.WEBP",
+    "ttrpgs/Campaigns/Strixhaven/Sessions/001_20250511.md",
+    "ttrpgs/Non Player Characters/Grayson Wildemere.md",
+    "ttrpgs/Non Player Characters/Mina Lee.md",
+    "ttrpgs/Non Player Characters/Quentillius Antiphiun Melentor III.md",
+    "ttrpgs/Non Player Characters/Aisla Fitzbottom.md",
+    "ttrpgs/Non Player Characters/Ellina Tanglewood.md",
+    "ttrpgs/Non Player Characters/Rosimyffenbip Wuzfeddlims.md",
+    "ttrpgs/Non Player Characters/Urzmaktok Grojsh.md",
+    "3-Mechanics/CLI/books/strixhaven-a-curriculum-of-chaos/04-school-is-in-session.md",
+    "ttrpgs/Campaigns/Strixhaven/Sessions/Scripts/5. Job Fair.md",
+    "ttrpgs/Campaigns/Strixhaven/Strixhaven.md",
+    "ttrpgs/Campaigns/Strixhaven/Sessions/Scripts/4. Register for Classes.md",
+    "2025-05-03.md",
+    "ttrpgs/PlayerCharacters/Borun Erutan.md",
+    "z_Assets/Borun Erutan.pdf",
+    "ttrpgs/PlayerCharacters/Roleck Nevari.md",
+    "ttrpgs/PlayerCharacters/Dalaila.md",
+    "ttrpgs/PlayerCharacters/Zolon Orielson.md",
+    "z_Assets/Zolon Orielson.pdf",
+    "z_Assets/Dalaila.pdf",
+    "z_Assets/Roleck Nevari.pdf",
+    "ttrpgs/PlayerCharacters/Elvis Parsley.md",
+    "z_Assets/Elvis Parsley.pdf",
+    "ttrpgs/PlayerCharacters/Elvis Parsley.pdf",
+    "z_templates/Líadan Inghean Machar.md",
+    "ttrpgs/Untitled.md",
+    "z_Assets/Untitled.canvas",
+    "z_Assets/character-sheet 1.pdf",
     "all-index.json",
     "3-Mechanics/CLI/races/img/owlin.webp",
     "3-Mechanics/CLI/races/img/gem-dragonborn.webp",
@@ -343,16 +352,7 @@
     "3-Mechanics/CLI/items/img/deathwalkersward.webp",
     "3-Mechanics/CLI/items/img/plateofthedawnmartyr.webp",
     "3-Mechanics/CLI/items/img/cabalsruin.webp",
-    "3-Mechanics/CLI/items/img/chapter3-skyship.webp",
     "3-Mechanics/CLI/books/taldorei-campaign-setting-reborn/img",
-    "3-Mechanics/CLI/books/taldorei-campaign-setting-reborn",
-    "3-Mechanics/CLI/books/strixhaven-a-curriculum-of-chaos/img",
-    "3-Mechanics/CLI/books/strixhaven-a-curriculum-of-chaos",
-    "3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img",
-    "3-Mechanics/CLI/books/fizbans-treasury-of-dragons",
-    "3-Mechanics/CLI/rewards/img",
-    "3-Mechanics/CLI/adventures/strixhaven-campus-kerfuffle/img",
-    "3-Mechanics/CLI/adventures/strixhaven-campus-kerfuffle",
-    "z_Assets/Untitled.canvas"
+    "3-Mechanics/CLI/books/taldorei-campaign-setting-reborn"
   ]
 }

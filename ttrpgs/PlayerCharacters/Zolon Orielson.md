@@ -21,6 +21,10 @@ campaign: Strixhaven
 aliases:
   - Zolon
 ---
+## DnD Beyond
 ```custom-frames
 frame: Zolon Orielson - DND Beyond
 ```
+
+## Character Sheet
+![[Zolon Orielson.pdf]]

@@ -5,27 +5,20 @@ Race:
   - Owlin
 Age: 
 Class:
-  - Bard
+  - Wizard
 Alignment: Neutral Good
-Character-Role: Faculty Member
-Location: Strixhaven
+Character-Role: 
+Location: Silverquill
 NoteIcon: npc
-campaign: Strixhaven
-AC: 12
-hp: 118
-pasperc: "11"
-aliases:
-  - Professor Sharpbeak
-  - Mavinder
-  - Sharpbeak
 ---
 
-
+Mavinder Sharpbeak
 
 
 > [!infobox]
 > # `=this.file.name`
-> ![[MavindaSharpbeak.webp|cover hsmall]]
+> ![[MavindaSharpbeak.WEBP|cover hsmall]]
+> [[MavindaSharpbeak.WEBP|Show To Players]]
 > ###### Basic Information
 > Type |  Stat |
 > ---|---|
@@ -45,16 +38,15 @@ aliases:
 # `=this.file.name`
 ## Profile
 
-Professors of radiance call up magic through spoken words and glyphs formed of magically shaped ink and light. The professors channel radiance to illuminate their allies, bolstering them with encouragement and inspiring any who witness their orations. Professors of radiance can turn their words into potent assets in battle or strike at their foes with searing radiance.
-
-These Silverquill teachers seek to inspire greatness in all that they do, pushing their students to look for the good in all things and bring that into the light.
+**<Add description here, extend it with AI Text Generator using Ctrl J>**
 
 > [!info] Statblock
 > ```statblock
 > name: Mavinder Sharpbeak
 > monster: Silverquill Professor of Radiance
+> columns: 1
 > ```
-## Encounter Table
+
 ```encounter-table
 name: Mavinder Sharpbeak
 creatures:

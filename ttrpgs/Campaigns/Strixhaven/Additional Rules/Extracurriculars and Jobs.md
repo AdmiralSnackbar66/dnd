@@ -158,7 +158,7 @@ While a character works a Job, they gain a positive or negative Relationship Poi
 
 Student characters can find work at the places below. A number of possible positions are noted for each place, along with NPC coworkers.
 
-#### [[to be deleted]]
+#### [[To be deleted]]
 
 **Jobs:** Book clerk, book shelver, café worker, cleanup crew member, garden tender, store worker
 **Coworker:** [[Drazhomir Yarnask]]

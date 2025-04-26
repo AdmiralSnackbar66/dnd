@@ -1,7 +1,7 @@
 ---
 aliases: []
 banner: "![[games-banner.png]]"
-banner_y: 0.86
+banner_y: 0
 ---
 # [[ttrpgs]]
 

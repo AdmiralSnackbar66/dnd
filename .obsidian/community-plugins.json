@@ -36,7 +36,8 @@
   "buttons",
   "dbfolder",
   "obsidian-banners",
-  "homepage",
   "css-editor",
-  "obsidian-textgenerator-plugin"
+  "obsidian-textgenerator-plugin",
+  "multi-column-markdown",
+  "homepage"
 ]
