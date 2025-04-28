@@ -449,7 +449,7 @@ The amphibians in the lounge are four [frogs](3-Mechanics/CLI/bestiary/beast/fro
 
 A character can participate in the fun in one of the following ways:
 
-- **Race a Frog.** A character might coach one of the frogs, encouraging it toward the finish line with words, gestures, and other antics. The character can urge their frog to victory with a successful DC 12 Wisdom ([Animal Handling](3-Mechanics/CLI/rules/skills.md#Animal%20Handling)) check. Encourage a player to really sell this scene by naming their frog and coming up with ways to inspire it. If one of the characters succeeds on this Wisdom check, that character's frog wins the race. (If more than one character succeeds, it's a tie, and those characters split the 30 gp prize.) If no characters win the race, roll a `d4` to randomly determine which frog wins.  
+- **Race a Frog.** A character might coach one of the frogs, encouraging it toward the finish line with words, gestures, and other antics. The character can urge their frog to victory with a successful DC 12 Wisdom ([Animal Handling](3-Mechanics/CLI/rules/skills.md#Animal%20Handling)) check. Encourage a player to really sell this scene by naming their frog and coming up with ways to inspire it. If one of the characters succeeds on this Wisdom check, that character's frog wins the race. (If more than one character succeeds, it's a tie, and those characters split the 30 gp prize.) If no characters win the race, roll a  d4 (`dice:d4`)  to randomly determine which frog wins.  
 - **Cheer a Coach.** A character might shout encouragement to one of the coaches. If the encouraged coach is another player character, that character gains advantage on their Wisdom ([Animal Handling](3-Mechanics/CLI/rules/skills.md#Animal%20Handling)) check to coach the frog. If the coach is an NPC, any characters racing a frog receive disadvantage on their check.  
 - **Heckle a Coach.** A character might taunt one of the coaches. If the heckled coach is another player character, that character has disadvantage on their Wisdom ([Animal Handling](3-Mechanics/CLI/rules/skills.md#Animal%20Handling)) check to coach the frog. If the coach is an NPC, that student's frog automatically loses the race.  
 
@@ -465,7 +465,7 @@ The other students scatter, and it's up to the characters to subdue the giant fr
 
 #### Ending the Threat
 
-If all the characters fall [unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious), café manager Ellina Tanglewood (chaotic good elf [mage](3-Mechanics/CLI/bestiary/humanoid/mage-xmm.md)) rushes onto the scene and subdues the frogs. She has two [potions of healing](3-Mechanics/CLI/items/potion-of-healing-xdmg.md) behind the barista station and can administer them as needed if anyone gets hurt.
+If all the characters fall [unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious), café manager [[Ellina Tanglewood]] (chaotic good elf [mage](3-Mechanics/CLI/bestiary/humanoid/mage-xmm.md)) rushes onto the scene and subdues the frogs. She has two [potions of healing](3-Mechanics/CLI/items/potion-of-healing-xdmg.md) behind the barista station and can administer them as needed if anyone gets hurt.
 
 ### Examining the Frogs
 

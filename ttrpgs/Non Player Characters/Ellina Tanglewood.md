@@ -12,13 +12,13 @@ NoteIcon: npc
 ---
 
 
-Groff Lundquist
+Ellina Tanglewood
 
 
 > [!infobox]
 > # `=this.file.name`
-> ![[Groff Lundquist.png|cover hsmall]]
-> [[Groff Lundquist.png|Show To Players]]
+> ![[EllinaTanglewood.webp|cover hsmall]]
+> [[EllinaTanglewood.webp|Show To Players]]
 > ###### Basic Information
 > Type |  Stat |
 > ---|---|
@@ -42,13 +42,13 @@ Groff Lundquist
 
 > [!info] Statblock
 > ```statblock
-> name: Groff Lundquist
-> monster: Commoner
+> name: Ellina Tanglewood
+> monster: Mage
 > columns: 1
 > ```
 
 ```encounter-table
-name: Groff Lundquist
+name: Ellina Tanglewood
 creatures:
- - 1: Commoner
+ - 1: Mage
 ```

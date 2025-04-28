@@ -102,6 +102,7 @@ With their coordinated cheers, outfits, and school spirit, these cheerleaders in
 **Skills:** [[skills#Arcana|Arcana]], [[skills#Deception|Deception]]
 **Member:** [[Quentillius Antiphiun Melentor III|Quentillius A. Melentor III]], [[Rubina Larkingdale]]
 
+§
 These actors work together to create productions of brilliant stagecraft, often involving new spins on old classics as well as displays of magic and music.
 
 #### Strixhaven Iron-Lifters Society
@@ -158,15 +159,15 @@ While a character works a Job, they gain a positive or negative Relationship Poi
 
 Student characters can find work at the places below. A number of possible positions are noted for each place, along with NPC coworkers.
 
-#### [[To be deleted]]
+#### [[The Biblioplex]]
 
 **Jobs:** Book clerk, book shelver, café worker, cleanup crew member, garden tender, store worker
-**Coworker:** [[Drazhomir Yarnask]]
+**Coworker:** [[04-school-is-in-session#Drazhomir Yarnask|Drazhomir Yarnask]]
 
 #### Bow’s End Tavern
 
 **Jobs:** Assistant manager, cleanup crew member, cook, host, server
-**Coworker:** [[Javenesh Stoutclaw]]
+**Coworker:** [[04-school-is-in-session#Javenesh Stoutclaw|Javanesh Stoutclaw]]
 
 #### Campus Grounds
 
