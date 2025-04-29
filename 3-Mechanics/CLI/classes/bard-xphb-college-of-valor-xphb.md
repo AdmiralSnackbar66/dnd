@@ -56,7 +56,7 @@ You can use your wit to turn the tide of battle. A creature that has a Bardic In
 
 #### Defense
 
-When the creature is hit by an attack roll, that creature can use its [Reaction](3-Mechanics/CLI/rules/variant-rules/reaction-xphb.md) to roll the Bardic Inspiration die and add the number rolled to its AC against that attack, potentially causing the attack to miss.
+When the creature is hit by an attack roll, that creature can use its [Reaction](/3-Mechanics/CLI/variant-rules/reaction-xphb.md) to roll the Bardic Inspiration die and add the number rolled to its AC against that attack, potentially causing the attack to miss.
 
 #### Offense
 
@@ -64,16 +64,16 @@ Immediately after the creature hits a target with an attack roll, the creature c
 
 ### Martial Training (Level 3)
 
-You gain proficiency with Martial weapons and training with Medium armor and [Shields](3-Mechanics/CLI/items/shield-xphb.md).
+You gain proficiency with Martial weapons and training with Medium armor and [Shields](/3-Mechanics/CLI/items/shield-xphb.md).
 
-In addition, you can use a Simple or Martial weapon as a [Spellcasting Focus](3-Mechanics/CLI/rules/variant-rules/spellcasting-focus-xphb.md) to cast spells from your Bard spell list.
+In addition, you can use a Simple or Martial weapon as a [Spellcasting Focus](/3-Mechanics/CLI/variant-rules/spellcasting-focus-xphb.md) to cast spells from your Bard spell list.
 
 ### Extra Attack (Level 6)
 
-You can attack twice instead of once whenever you take the [Attack](3-Mechanics/CLI/rules/actions.md#Attack) action on your turn.
+You can attack twice instead of once whenever you take the [Attack](/3-Mechanics/CLI/actions.md#Attack) action on your turn.
 
 In addition, you can cast one of your cantrips that has a casting time of an action in place of one of those attacks.
 
 ### Battle Magic (Level 14)
 
-After you cast a spell that has a casting time of an action, you can make one attack with a weapon as a [Bonus Action](3-Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md).
+After you cast a spell that has a casting time of an action, you can make one attack with a weapon as a [Bonus Action](/3-Mechanics/CLI/variant-rules/bonus-action-xphb.md).

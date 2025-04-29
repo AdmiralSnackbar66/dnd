@@ -13,7 +13,7 @@ statblock: inline
 aliases: ["Ettin"]
 ---
 # [Ettin](3-Mechanics\CLI\bestiary\giant/ettin-xmm.md)
-*Source: Monster Manual (2024) p. 116*  
+*Source: Monster Manual (2024) p. 116. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
 
 ## Ettin
 
@@ -69,9 +69,9 @@ Roll on or choose a result from the Ettin Interactions table to inspire how an e
 "speed": "40 ft."
 "skillsaves":
   "Perception": !!int "4"
-"condition_immunities": "[blinded](3-Mechanics/CLI/rules/conditions.md#Blinded), [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed),\
-  \ [deafened](3-Mechanics/CLI/rules/conditions.md#Deafened), [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened),\
-  \ [stunned](3-Mechanics/CLI/rules/conditions.md#Stunned), [unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious)"
+"condition_immunities": "[blinded](/3-Mechanics/CLI/conditions.md#Blinded), [charmed](/3-Mechanics/CLI/conditions.md#Charmed),\
+  \ [deafened](/3-Mechanics/CLI/conditions.md#Deafened), [frightened](/3-Mechanics/CLI/conditions.md#Frightened),\
+  \ [stunned](/3-Mechanics/CLI/conditions.md#Stunned), [unconscious](/3-Mechanics/CLI/conditions.md#Unconscious)"
 "senses": "darkvision 60 ft., passive Perception 14"
 "languages": "Giant"
 "cr": "4"
@@ -79,16 +79,16 @@ Roll on or choose a result from the Ettin Interactions table to inspire how an e
 - "desc": "The ettin makes one Battleaxe attack and one Morningstar attack."
   "name": "Multiattack"
 - "desc": "Melee Attack Roll: +7, reach 5 ft. Hit: 14 (2d8 + 5) Slashing damage.\
-    \ If the target is a Large or smaller creature, it has the [Prone](3-Mechanics/CLI/rules/conditions.md#Prone)\
+    \ If the target is a Large or smaller creature, it has the [Prone](/3-Mechanics/CLI/conditions.md#Prone)\
     \ condition."
   "name": "Battleaxe"
 - "desc": "Melee Attack Roll: +7, reach 5 ft. Hit: 14 (2d8 + 5) Piercing damage,\
-    \ and the target has [Disadvantage](3-Mechanics/CLI/rules/variant-rules/disadvantage-xphb.md)\
+    \ and the target has [Disadvantage](/3-Mechanics/CLI/variant-rules/disadvantage-xphb.md)\
     \ on the next attack roll it makes before the end of its next turn."
   "name": "Morningstar"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/giant/token/ettin-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/giant/token/ettin-xmm.webp"
 ```
 ^statblock
 

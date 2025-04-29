@@ -61,28 +61,28 @@ The first gnolls arose from hyenas that fed on flesh tainted by the Abyss. Their
 "actions":
 - "desc": "The gnoll makes two Abyssal Strike attacks."
   "name": "Multiattack"
-- "desc": "Melee or Ranged Attack Roll: +6, reach 5 ft. or range 60 ft. Hit:\
-    \ 20 (5d6 + 3) Poison damage."
+- "desc": "Melee or Ranged Attack Roll: +6, reach 5 ft. or range 60 ft. Hit: 20\
+    \ (5d6 + 3) Poison damage."
   "name": "Abyssal Strike"
-- "desc": "The gnoll conjures a 30-foot [Cube](3-Mechanics/CLI/rules/variant-rules/cube-area-of-effect-xphb.md)\
-    \ of magical [Darkness](3-Mechanics/CLI/rules/variant-rules/darkness-xphb.md)\
-    \ originating from a point it can see within 60 feet, which lasts for 1 minute\
-    \ or until the gnoll's [Concentration](3-Mechanics/CLI/rules/conditions.md#Concentration)\
-    \ ends on it. This area is [Difficult Terrain](3-Mechanics/CLI/rules/variant-rules/difficult-terrain-xphb.md).\
+- "desc": "The gnoll conjures a 30-foot [Cube](/3-Mechanics/CLI/variant-rules/cube-area-of-effect-xphb.md)\
+    \ of magical [Darkness](/3-Mechanics/CLI/variant-rules/darkness-xphb.md) originating\
+    \ from a point it can see within 60 feet, which lasts for 1 minute or until the\
+    \ gnoll's [Concentration](/3-Mechanics/CLI/conditions.md#Concentration) ends on\
+    \ it. This area is [Difficult Terrain](/3-Mechanics/CLI/variant-rules/difficult-terrain-xphb.md).\
     \ Dexterity Saving Throw: DC 14, any creature that starts its turn in this area\
     \ or enters it for the first time on a turn. Failure: 28 (8d6) Necrotic damage,\
     \ and the gnoll or a creature of its choice it can see gains 10 [Temporary Hit\
-    \ Points](3-Mechanics/CLI/rules/variant-rules/temporary-hit-points-xphb.md). Success:\
+    \ Points](/3-Mechanics/CLI/variant-rules/temporary-hit-points-xphb.md). Success:\
     \ Half damage only."
   "name": "Hunger of Yeenoghu (Recharge 5-6)"
 "bonus_actions":
-- "desc": "Immediately after dealing damage to a creature that is already [Bloodied](3-Mechanics/CLI/rules/variant-rules/bloodied-xphb.md),\
-    \ the gnoll moves up to half its [Speed](3-Mechanics/CLI/rules/variant-rules/speed-xphb.md),\
+- "desc": "Immediately after dealing damage to a creature that is already [Bloodied](/3-Mechanics/CLI/variant-rules/bloodied-xphb.md),\
+    \ the gnoll moves up to half its [Speed](/3-Mechanics/CLI/variant-rules/speed-xphb.md),\
     \ and it makes one Abyssal Strike attack."
   "name": "Rampage (2/Day)"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/fiend/token/gnoll-demoniac-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/fiend/token/gnoll-demoniac-xmm.webp"
 ```
 ^statblock
 

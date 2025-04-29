@@ -13,7 +13,7 @@ statblock: inline
 aliases: ["Salamander"]
 ---
 # [Salamander](3-Mechanics\CLI\bestiary\elemental/salamander-xmm.md)
-*Source: Monster Manual (2024) p. 267*  
+*Source: Monster Manual (2024) p. 267. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
 
 Most salamanders are arrogant yet curious, seeking to create artful blazes or burn that which has never been burned. They eagerly explain their work to strangers before trying to determine how the strangers burn. Salamanders radiate intense heat, which is conducted by their blazing weapons.
 
@@ -56,7 +56,7 @@ Salamanders are typically content to dwell on the Elemental Plane of Fire, creat
 "cr": "5"
 "traits":
 - "desc": "At the end of each of the salamander's turns, each creature of the salamander's\
-    \ choice in a 5-foot [Emanation](3-Mechanics/CLI/rules/variant-rules/emanation-area-of-effect-xphb.md)\
+    \ choice in a 5-foot [Emanation](/3-Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md)\
     \ originating from the salamander takes 7 (2d6) Fire damage."
   "name": "Fire Aura"
 "actions":
@@ -64,19 +64,18 @@ Salamanders are typically content to dwell on the Elemental Plane of Fire, creat
     \ with a use of Constrict."
   "name": "Multiattack"
 - "desc": "Melee or Ranged Attack Roll: +7, reach 5 ft. or range 20/60 ft. Hit:\
-    \ 13 (2d8 + 4) Piercing damage plus 7 (2d6) Fire damage. Hit or Miss: The\
-    \ spear magically returns to the salamander's hand immediately after a ranged\
-    \ attack."
+    \ 13 (2d8 + 4) Piercing damage plus 7 (2d6) Fire damage. Hit or Miss: The spear\
+    \ magically returns to the salamander's hand immediately after a ranged attack."
   "name": "Flame Spear"
 - "desc": "Strength Saving Throw: DC 15, one Large or smaller creature the salamander\
-    \ can see within 10 feet. Failure: 11 (2d6 + 4) Bludgeoning damage plus 7\
-    \ (2d6) Fire damage. The target has the [Grappled](3-Mechanics/CLI/rules/conditions.md#Grappled)\
-    \ condition (escape DC 14), and it has the [Restrained](3-Mechanics/CLI/rules/conditions.md#Restrained)\
+    \ can see within 10 feet. Failure: 11 (2d6 + 4) Bludgeoning damage plus 7 (2d6)\
+    \ Fire damage. The target has the [Grappled](/3-Mechanics/CLI/conditions.md#Grappled)\
+    \ condition (escape DC 14), and it has the [Restrained](/3-Mechanics/CLI/conditions.md#Restrained)\
     \ condition until the grapple ends."
   "name": "Constrict"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/elemental/token/salamander-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/elemental/token/salamander-xmm.webp"
 ```
 ^statblock
 

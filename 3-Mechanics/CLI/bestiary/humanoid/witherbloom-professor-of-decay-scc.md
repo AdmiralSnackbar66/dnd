@@ -27,7 +27,7 @@ Witherbloom College studies the magic inherent in the natural cycle of life and 
 "subtype": "druid"
 "alignment": "Any alignment"
 "ac": !!int "14"
-"ac_class": "[hide armor](3-Mechanics/CLI/items/hide-armor-xphb.md)"
+"ac_class": "[hide armor](/3-Mechanics/CLI/items/hide-armor-xphb.md)"
 "hp": !!int "105"
 "hit_dice": "14d8 + 42"
 "stats":
@@ -55,12 +55,12 @@ Witherbloom College studies the magic inherent in the natural cycle of life and 
 "traits":
 - "desc": "The professor casts one of the following spells, requiring no material\
     \ components and using Wisdom as the spellcasting ability (spell save DC 15):\n\
-    \nAt will: [druidcraft](3-Mechanics/CLI/spells/druidcraft-xphb.md), [spare\
-    \ the dying](3-Mechanics/CLI/spells/spare-the-dying-xphb.md)\n\n1/day each:\
-    \ [antilife shell](3-Mechanics/CLI/spells/antilife-shell-xphb.md), [bane](3-Mechanics/CLI/spells/bane-xphb.md),\
-    \ [feign death](3-Mechanics/CLI/spells/feign-death-xphb.md), [speak with dead](3-Mechanics/CLI/spells/speak-with-dead-xphb.md)"
+    \nAt will: [druidcraft](/3-Mechanics/CLI/spells/druidcraft-xphb.md), [spare\
+    \ the dying](/3-Mechanics/CLI/spells/spare-the-dying-xphb.md)\n\n1/day each:\
+    \ [antilife shell](/3-Mechanics/CLI/spells/antilife-shell-xphb.md), [bane](/3-Mechanics/CLI/spells/bane-xphb.md),\
+    \ [feign death](/3-Mechanics/CLI/spells/feign-death-xphb.md), [speak with dead](/3-Mechanics/CLI/spells/speak-with-dead-xphb.md)"
   "name": "Spellcasting"
-- "desc": "The professor can cast the [animate dead](3-Mechanics/CLI/spells/animate-dead-xphb.md)\
+- "desc": "The professor can cast the [animate dead](/3-Mechanics/CLI/spells/animate-dead-xphb.md)\
     \ spell, using Wisdom as the spellcasting ability."
   "name": "Essence Transfer (1/Day)"
 "actions":
@@ -82,6 +82,6 @@ Witherbloom College studies the magic inherent in the natural cycle of life and 
   "name": "Essence Pulse (Recharge 5-6)"
 "source":
 - "SCC"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/witherbloom-professor-of-decay-scc.webp"
+"image": "/3-Mechanics/CLI/bestiary/humanoid/token/witherbloom-professor-of-decay-scc.webp"
 ```
 ^statblock

@@ -11,7 +11,7 @@ statblock: inline
 aliases: ["Shield Guardian"]
 ---
 # [Shield Guardian](3-Mechanics\CLI\bestiary\construct/shield-guardian-xmm.md)
-*Source: Monster Manual (2024) p. 277*  
+*Source: Monster Manual (2024) p. 277. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
 
 ## Shield Guardian
 
@@ -41,9 +41,9 @@ Shield guardians are typically constructed of steel, stone, and wood in the shap
 - !!int "3"
 "speed": "30 ft."
 "damage_immunities": "poison"
-"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
-  \ [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened), [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed),\
-  \ [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified), [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
+  \ [frightened](/3-Mechanics/CLI/conditions.md#Frightened), [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed),\
+  \ [petrified](/3-Mechanics/CLI/conditions.md#Petrified), [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
 "senses": "blindsight 10 ft., darkvision 60 ft., passive Perception 10"
 "languages": "understands commands given in any language but can't speak"
 "cr": "7"
@@ -54,8 +54,8 @@ Shield guardians are typically constructed of steel, stone, and wood in the shap
     \ to the amulet. If the guardian is within 60 feet of the amulet's wearer, half\
     \ of any damage the wearer takes (round up) is transferred to the guardian."
   "name": "Bound"
-- "desc": "The guardian regains 10 [Hit Points](3-Mechanics/CLI/rules/variant-rules/hit-points-xphb.md)\
-    \ at the start of each of its turns if it has at least 1 [Hit Point](3-Mechanics/CLI/rules/variant-rules/hit-points-xphb.md)."
+- "desc": "The guardian regains 10 [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)\
+    \ at the start of each of its turns if it has at least 1 [Hit Point](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)."
   "name": "Regeneration"
 - "desc": "A spellcaster who wears the guardian's amulet can cause the guardian to\
     \ store one spell of level 4 or lower. To do so, the wearer must cast the spell\
@@ -68,8 +68,8 @@ Shield guardians are typically constructed of steel, stone, and wood in the shap
 "actions":
 - "desc": "The guardian makes two Fist attacks."
   "name": "Multiattack"
-- "desc": "Melee Attack Roll: +7, reach 10 ft. Hit: 11 (2d6 + 4) Bludgeoning\
-    \ damage plus 7 (2d6) Force damage."
+- "desc": "Melee Attack Roll: +7, reach 10 ft. Hit: 11 (2d6 + 4) Bludgeoning damage\
+    \ plus 7 (2d6) Force damage."
   "name": "Fist"
 "reactions":
 - "desc": "Trigger: An attack roll hits the wearer of the guardian's amulet while\
@@ -79,7 +79,7 @@ Shield guardians are typically constructed of steel, stone, and wood in the shap
   "name": "Protection"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/construct/token/shield-guardian-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/construct/token/shield-guardian-xmm.webp"
 ```
 ^statblock
 

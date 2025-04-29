@@ -12,7 +12,7 @@ statblock: inline
 aliases: ["Lemure"]
 ---
 # [Lemure](3-Mechanics\CLI\bestiary\fiend/lemure-xmm.md)
-*Source: Monster Manual (2024) p. 194*  
+*Source: Monster Manual (2024) p. 194. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
 
 Lemures torment weaker creatures, but in the Nine Hells, few such beings exist. To avoid greater suffering, they obey the orders of more powerful devils.
 
@@ -44,15 +44,15 @@ The least of all devils, lemures arise from wicked souls, their mortal memories 
 "speed": "20 ft."
 "damage_resistances": "cold"
 "damage_immunities": "fire, poison"
-"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened),\
-  \ [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
-"senses": "darkvision 120 ft. (unimpeded by magical darkness), passive Perception\
-  \ 10"
+"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [frightened](/3-Mechanics/CLI/conditions.md#Frightened),\
+  \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
+"senses": "darkvision 120 ft. (unimpeded by magical [Darkness](/3-Mechanics/CLI/variant-rules/darkness-xphb.md)),\
+  \ passive Perception 10"
 "languages": "understands Infernal but can't speak"
 "cr": "0"
 "traits":
-- "desc": "If the lemure dies in the Nine Hells, it revives with all its [Hit Points](3-Mechanics/CLI/rules/variant-rules/hit-points-xphb.md)\
-    \ in 1d10 days unless it is killed by a creature under the effects of a [Bless](3-Mechanics/CLI/spells/bless-xphb.md)\
+- "desc": "If the lemure dies in the Nine Hells, it revives with all its [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)\
+    \ in 1d10 days unless it is killed by a creature under the effects of a [Bless](/3-Mechanics/CLI/spells/bless-xphb.md)\
     \ spell or its remains are sprinkled with Holy Water."
   "name": "Hellish Restoration"
 "actions":
@@ -60,7 +60,7 @@ The least of all devils, lemures arise from wicked souls, their mortal memories 
   "name": "Vile Slime"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/fiend/token/lemure-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/fiend/token/lemure-xmm.webp"
 ```
 ^statblock
 

@@ -16,9 +16,9 @@ aliases:
 
 **Items in this group:**
 
-- [Potion of Healing](3-Mechanics/CLI/items/potion-of-healing-xdmg.md)
-- [Potion of Greater Healing](3-Mechanics/CLI/items/potion-of-greater-healing-xdmg.md)
-- [Potion of Superior Healing](3-Mechanics/CLI/items/potion-of-superior-healing-xdmg.md)
-- [Potion of Supreme Healing](3-Mechanics/CLI/items/potion-of-supreme-healing-xdmg.md)
+- [Potion of Healing](/3-Mechanics/CLI/items/potion-of-healing-xdmg.md)
+- [Potion of Greater Healing](/3-Mechanics/CLI/items/potion-of-greater-healing-xdmg.md)
+- [Potion of Superior Healing](/3-Mechanics/CLI/items/potion-of-superior-healing-xdmg.md)
+- [Potion of Supreme Healing](/3-Mechanics/CLI/items/potion-of-supreme-healing-xdmg.md)
 
-*Source: Dungeon Master's Guide (2024) p. 288. Available in the Free Rules (2024)*
+*Source: Dungeon Master's Guide (2024) p. 288*

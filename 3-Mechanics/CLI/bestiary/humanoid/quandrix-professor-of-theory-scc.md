@@ -48,31 +48,31 @@ The scholars of Quandrix College focus on the mathematical principles that gover
   "Perception": !!int "5"
   "Arcana": !!int "10"
 "damage_resistances": "psychic"
-"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened)"
+"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [frightened](/3-Mechanics/CLI/conditions.md#Frightened)"
 "senses": "passive Perception 15"
 "languages": "Common plus any four languages"
 "cr": "7"
 "traits":
 - "desc": "The professor casts one of the following spells, requiring no material\
     \ components and using Intelligence as the spellcasting ability (spell save DC\
-    \ 15):\n\nAt will: [guidance](3-Mechanics/CLI/spells/guidance-xphb.md), [mage\
-    \ hand](3-Mechanics/CLI/spells/mage-hand-xphb.md), [minor illusion](3-Mechanics/CLI/spells/minor-illusion-xphb.md)\n\
-    \n1/day each: [mage armor](3-Mechanics/CLI/spells/mage-armor-xphb.md), [major\
-    \ image](3-Mechanics/CLI/spells/major-image-xphb.md), [mirage arcane](3-Mechanics/CLI/spells/mirage-arcane-xphb.md)\
-    \ (as an action), [Rary's telepathic bond](3-Mechanics/CLI/spells/rarys-telepathic-bond-xphb.md)"
+    \ 15):\n\nAt will: [guidance](/3-Mechanics/CLI/spells/guidance-xphb.md), [mage\
+    \ hand](/3-Mechanics/CLI/spells/mage-hand-xphb.md), [minor illusion](/3-Mechanics/CLI/spells/minor-illusion-xphb.md)\n\
+    \n1/day each: [mage armor](/3-Mechanics/CLI/spells/mage-armor-xphb.md), [major\
+    \ image](/3-Mechanics/CLI/spells/major-image-xphb.md), [mirage arcane](/3-Mechanics/CLI/spells/mirage-arcane-xphb.md)\
+    \ (as an action), [Rary's telepathic bond](/3-Mechanics/CLI/spells/rarys-telepathic-bond-xphb.md)"
   "name": "Spellcasting"
 "actions":
 - "desc": "The professor makes two Heuristic Lance attacks. It can also use Overriding\
     \ Theorem, if available."
   "name": "Multiattack"
 - "desc": "Melee or Ranged Spell Attack: +7 to hit, reach 5 ft. or range 60 ft.,\
-    \ one creature. Hit: 13 (2d8 + 4) psychic damage, and the target is [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)\
+    \ one creature. Hit: 13 (2d8 + 4) psychic damage, and the target is [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)\
     \ until the end of its next turn."
   "name": "Heuristic Lance"
 - "desc": "The professor magically influences the mind of up to two creatures it can\
     \ see within 60 feet of itself. Each target must succeed on a DC 15 Intelligence\
-    \ saving throw or become [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed)\
-    \ by the professor until the start of the professor's next turn. The [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed)\
+    \ saving throw or become [charmed](/3-Mechanics/CLI/conditions.md#Charmed) by\
+    \ the professor until the start of the professor's next turn. The [charmed](/3-Mechanics/CLI/conditions.md#Charmed)\
     \ creature must immediately use its reaction, if available, to move up its speed\
     \ toward another creature of the professor's choice and make one melee attack\
     \ against that other creature."
@@ -85,6 +85,6 @@ The scholars of Quandrix College focus on the mathematical principles that gover
   "name": "Divide by Zero (2/Day)"
 "source":
 - "SCC"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/quandrix-professor-of-theory-scc.webp"
+"image": "/3-Mechanics/CLI/bestiary/humanoid/token/quandrix-professor-of-theory-scc.webp"
 ```
 ^statblock

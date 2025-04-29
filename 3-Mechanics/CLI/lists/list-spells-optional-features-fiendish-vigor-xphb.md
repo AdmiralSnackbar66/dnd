@@ -9,4 +9,4 @@ aliases: ["Spells for Fiendish Vigor"]
 
 ## 1st Level
 
-- [False Life](3-Mechanics/CLI/spells/false-life-xphb.md "XPHB")
+- [False Life](/3-Mechanics/CLI/spells/false-life-xphb.md "XPHB")

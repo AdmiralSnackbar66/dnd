@@ -26,10 +26,10 @@ aliases: ["Dissonant Whispers"]
 - **Components:** V
 - **Duration:** Instantaneous
 
-One creature of your choice that you can see within range hears a discordant melody in its mind. The target makes a Wisdom saving throw. On a failed save, it takes `3d6` Psychic damage and must immediately use its [Reaction](3-Mechanics/CLI/rules/variant-rules/reaction-xphb.md), if available, to move as far away from you as it can, using the safest route. On a successful save, the target takes half as much damage only.
+One creature of your choice that you can see within range hears a discordant melody in its mind. The target makes a Wisdom saving throw. On a failed save, it takes `dice:3d6|noform|noparens|avg` (`3d6`) Psychic damage and must immediately use its [Reaction](/3-Mechanics/CLI/variant-rules/reaction-xphb.md), if available, to move as far away from you as it can, using the safest route. On a successful save, the target takes half as much damage only.
 
-**Using a Higher-Level Spell Slot.** The damage increases by `1d6` for each spell slot level above 1.
+**Using a Higher-Level Spell Slot.** The damage increases by `dice:1d6|noform|noparens|avg|text(1d6)` for each spell slot level above 1.
 
-**Classes**: [Sorcerer (Aberrant Sorcery)](3-Mechanics/CLI/lists/list-spells-classes-sorcerer-xphb-aberrant-sorcery-xphb.md "subclass=XPHB;class=XPHB"); [Bard](3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Warlock (Great Old One Patron)](3-Mechanics/CLI/lists/list-spells-classes-warlock-xphb-great-old-one-patron-xphb.md "subclass=XPHB;class=XPHB")
+**Classes**: [Sorcerer (Aberrant Sorcery)](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer-xphb-aberrant-sorcery-xphb.md "subclass=XPHB;class=XPHB"); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Warlock (Great Old One Patron)](/3-Mechanics/CLI/lists/list-spells-classes-warlock-xphb-great-old-one-patron-xphb.md "subclass=XPHB;class=XPHB")
 
-*Source: Player's Handbook (2024) p. 264. Available in the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 264. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*

@@ -114,4 +114,4 @@ You have a +2 bonus to AC while wearing this armor.
 - **Weight**: 13.0 lbs.
 
 
-*Source: Dungeon Master's Guide (2024) p. 230. Available in the Free Rules (2024)*
+*Source: Dungeon Master's Guide (2024) p. 230. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*

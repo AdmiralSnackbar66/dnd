@@ -51,28 +51,27 @@ Mephits resent leaving the elemental extremes where they make their homes. If lo
 "skillsaves":
   "Stealth": !!int "3"
 "damage_immunities": "poison"
-"condition_immunities": "[exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
-  \ [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"condition_immunities": "[exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
+  \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": "Primordial (Aquan, Terran)"
 "cr": "1/4"
 "traits":
 - "desc": "The mephit explodes when it dies. Dexterity Saving Throw: DC 11, each\
-    \ creature in a 5-foot [Emanation](3-Mechanics/CLI/rules/variant-rules/emanation-area-of-effect-xphb.md)\
-    \ originating from the mephit. Failure: The target has the [Restrained](3-Mechanics/CLI/rules/conditions.md#Restrained)\
+    \ creature in a 5-foot [Emanation](/3-Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md)\
+    \ originating from the mephit. Failure: The target has the [Restrained](/3-Mechanics/CLI/conditions.md#Restrained)\
     \ condition until the end of its next turn."
   "name": "Death Burst"
 "actions":
-- "desc": "Melee Attack Roll: +3, reach 5 ft. Hit: 4 (1d6 + 1) Bludgeoning\
-    \ damage."
+- "desc": "Melee Attack Roll: +3, reach 5 ft. Hit: 4 (1d6 + 1) Bludgeoning damage."
   "name": "Slam"
 - "desc": "Dexterity Saving Throw: DC 11, one creature the mephit can see within\
-    \ 15 feet. Failure: The target has the [Restrained](3-Mechanics/CLI/rules/conditions.md#Restrained)\
+    \ 15 feet. Failure: The target has the [Restrained](/3-Mechanics/CLI/conditions.md#Restrained)\
     \ condition until the end of the mephit's next turn."
   "name": "Mud Breath (Recharge 6)"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/elemental/token/mud-mephit-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/elemental/token/mud-mephit-xmm.webp"
 ```
 ^statblock
 

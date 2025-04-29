@@ -76,11 +76,11 @@ Roll on or choose a result from the Mage Roles table to inspire different sorts 
 "cr": "2"
 "traits":
 - "desc": "The mage casts one of the following spells, using Intelligence as the spellcasting\
-    \ ability (spell save DC 13, +5 to hit with spell attacks):\n\nAt will:\
-    \ [Mage Hand](3-Mechanics/CLI/spells/mage-hand-xphb.md), [Prestidigitation](3-Mechanics/CLI/spells/prestidigitation-xphb.md)\n\
-    \n1/day each: [Disguise Self](3-Mechanics/CLI/spells/disguise-self-xphb.md),\
-    \ [Ice Knife](3-Mechanics/CLI/spells/ice-knife-xphb.md), [Mage Armor](3-Mechanics/CLI/spells/mage-armor-xphb.md)\
-    \ (included in AC), [Thunderwave](3-Mechanics/CLI/spells/thunderwave-xphb.md)"
+    \ ability (spell save DC 13, +5 to hit with spell attacks):\n\nAt will: [Mage\
+    \ Hand](/3-Mechanics/CLI/spells/mage-hand-xphb.md), [Prestidigitation](/3-Mechanics/CLI/spells/prestidigitation-xphb.md)\n\
+    \n1/day each: [Disguise Self](/3-Mechanics/CLI/spells/disguise-self-xphb.md),\
+    \ [Ice Knife](/3-Mechanics/CLI/spells/ice-knife-xphb.md), [Mage Armor](/3-Mechanics/CLI/spells/mage-armor-xphb.md)\
+    \ (included in AC), [Thunderwave](/3-Mechanics/CLI/spells/thunderwave-xphb.md)"
   "name": "Spellcasting"
 "actions":
 - "desc": "Melee or Ranged Attack Roll: +5, reach 5 ft. or range 120 ft. Hit:\
@@ -88,7 +88,7 @@ Roll on or choose a result from the Mage Roles table to inspire different sorts 
   "name": "Arcane Burst"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/mage-apprentice-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/humanoid/token/mage-apprentice-xmm.webp"
 ```
 ^statblock
 

@@ -15,7 +15,7 @@ statblock: inline
 aliases: ["Water Elemental"]
 ---
 # [Water Elemental](3-Mechanics\CLI\bestiary\elemental/water-elemental-xmm.md)
-*Source: Monster Manual (2024) p. 322*  
+*Source: Monster Manual (2024) p. 322. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
 
 ## Water Elemental
 
@@ -63,16 +63,16 @@ Water elementals' shapes are influenced by the liquid bodies in which they form.
 "speed": "30 ft., swim 90 ft."
 "damage_resistances": "acid, fire"
 "damage_immunities": "poison"
-"condition_immunities": "[exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
-  \ [grappled](3-Mechanics/CLI/rules/conditions.md#Grappled), [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed),\
-  \ [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified), [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned),\
-  \ [prone](3-Mechanics/CLI/rules/conditions.md#Prone), [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained),\
-  \ [unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious)"
+"condition_immunities": "[exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
+  \ [grappled](/3-Mechanics/CLI/conditions.md#Grappled), [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed),\
+  \ [petrified](/3-Mechanics/CLI/conditions.md#Petrified), [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned),\
+  \ [prone](/3-Mechanics/CLI/conditions.md#Prone), [restrained](/3-Mechanics/CLI/conditions.md#Restrained),\
+  \ [unconscious](/3-Mechanics/CLI/conditions.md#Unconscious)"
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": "Primordial (Aquan)"
 "cr": "5"
 "traits":
-- "desc": "If the elemental takes Cold damage, its [Speed](3-Mechanics/CLI/rules/variant-rules/speed-xphb.md)\
+- "desc": "If the elemental takes Cold damage, its [Speed](/3-Mechanics/CLI/variant-rules/speed-xphb.md)\
     \ decreases by 20 feet until the end of its next turn."
   "name": "Freeze"
 - "desc": "The elemental can enter an enemy's space and stop there. It can move through\
@@ -81,24 +81,24 @@ Water elementals' shapes are influenced by the liquid bodies in which they form.
 "actions":
 - "desc": "The elemental makes two Slam attacks."
   "name": "Multiattack"
-- "desc": "Melee Attack Roll: +7, reach 5 ft. Hit: 13 (2d8 + 4) Bludgeoning\
-    \ damage. If the target is a Medium or smaller creature, it has the [Prone](3-Mechanics/CLI/rules/conditions.md#Prone)\
+- "desc": "Melee Attack Roll: +7, reach 5 ft. Hit: 13 (2d8 + 4) Bludgeoning damage.\
+    \ If the target is a Medium or smaller creature, it has the [Prone](/3-Mechanics/CLI/conditions.md#Prone)\
     \ condition."
   "name": "Slam"
 - "desc": "Strength Saving Throw: DC 15, each creature in the elemental's space.\
     \ Failure: 22 (4d8 + 4) Bludgeoning damage. If the target is a Large or smaller\
-    \ creature, it has the [Grappled](3-Mechanics/CLI/rules/conditions.md#Grappled)\
-    \ condition (escape DC 14). Until the grapple ends, the target has the [Restrained](3-Mechanics/CLI/rules/conditions.md#Restrained)\
+    \ creature, it has the [Grappled](/3-Mechanics/CLI/conditions.md#Grappled) condition\
+    \ (escape DC 14). Until the grapple ends, the target has the [Restrained](/3-Mechanics/CLI/conditions.md#Restrained)\
     \ condition, is suffocating unless it can breathe water, and takes 9 (2d8) Bludgeoning\
     \ damage at the start of each of the elemental's turns. The elemental can grapple\
     \ one Large creature or up to two Medium or smaller creatures at a time with Whelm.\
     \ As an action, a creature within 5 feet of the elemental can pull a creature\
-    \ out of it by succeeding on a DC 14 Strength ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics))\
+    \ out of it by succeeding on a DC 14 Strength ([Athletics](/3-Mechanics/CLI/skills.md#Athletics))\
     \ check. Success: Half damage only."
   "name": "Whelm (Recharge 4-6)"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/elemental/token/water-elemental-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/elemental/token/water-elemental-xmm.webp"
 ```
 ^statblock
 

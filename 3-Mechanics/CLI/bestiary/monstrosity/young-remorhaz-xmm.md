@@ -45,16 +45,16 @@ Remorhazes are centipede-like terrors that burrow through snow and ice to ambush
 "languages": ""
 "cr": "5"
 "traits":
-- "desc": "At the end of each of the remorhaz's turns, each creature in a 5-foot [Emanation](3-Mechanics/CLI/rules/variant-rules/emanation-area-of-effect-xphb.md)\
+- "desc": "At the end of each of the remorhaz's turns, each creature in a 5-foot [Emanation](/3-Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md)\
     \ originating from the remorhaz takes 11 (2d10) Fire damage."
   "name": "Heat Aura"
 "actions":
-- "desc": "Melee Attack Roll: +7, reach 5 ft. Hit: 15 (2d10 + 4) Piercing\
-    \ damage plus 13 (3d8) Fire damage."
+- "desc": "Melee Attack Roll: +7, reach 5 ft. Hit: 15 (2d10 + 4) Piercing damage\
+    \ plus 13 (3d8) Fire damage."
   "name": "Bite"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/monstrosity/token/young-remorhaz-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/young-remorhaz-xmm.webp"
 ```
 ^statblock
 

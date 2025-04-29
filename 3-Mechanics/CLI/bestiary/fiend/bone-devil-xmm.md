@@ -12,7 +12,7 @@ statblock: inline
 aliases: ["Bone Devil"]
 ---
 # [Bone Devil](3-Mechanics\CLI\bestiary\fiend/bone-devil-xmm.md)
-*Source: Monster Manual (2024) p. 52*  
+*Source: Monster Manual (2024) p. 52. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
 
 ## Bone Devil
 
@@ -70,33 +70,32 @@ Bone devils travel across the multiverse to fulfill diabolical orders. If left w
   "Insight": !!int "6"
 "damage_resistances": "cold"
 "damage_immunities": "fire, poison"
-"condition_immunities": "[poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
-"senses": "darkvision 120 ft. (unimpeded by magical darkness), passive Perception\
-  \ 12"
+"condition_immunities": "[poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
+"senses": "darkvision 120 ft. (unimpeded by magical [Darkness](/3-Mechanics/CLI/variant-rules/darkness-xphb.md)),\
+  \ passive Perception 12"
 "languages": "Infernal; telepathy 120 ft."
 "cr": "9"
 "traits":
 - "desc": "If the devil dies outside the Nine Hells, its body disappears in sulfurous\
-    \ smoke, and it gains a new body instantly, reviving with all its [Hit Points](3-Mechanics/CLI/rules/variant-rules/hit-points-xphb.md)\
+    \ smoke, and it gains a new body instantly, reviving with all its [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)\
     \ somewhere in the Nine Hells."
   "name": "Diabolical Restoration"
-- "desc": "The devil has [Advantage](3-Mechanics/CLI/rules/variant-rules/advantage-xphb.md)\
+- "desc": "The devil has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
     \ on saving throws against spells and other magical effects."
   "name": "Magic Resistance"
 "actions":
 - "desc": "The devil makes two Claw attacks and one Infernal Sting attack."
   "name": "Multiattack"
-- "desc": "Melee Attack Roll: +8, reach 10 ft. Hit: 13 (2d8 + 4) Slashing\
-    \ damage."
+- "desc": "Melee Attack Roll: +8, reach 10 ft. Hit: 13 (2d8 + 4) Slashing damage."
   "name": "Claw"
-- "desc": "Melee Attack Roll: +8, reach 10 ft. Hit: 15 (2d10 + 4) Piercing\
-    \ damage plus 18 (4d8) Poison damage, and the target has the [Poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)\
-    \ condition until the start of the devil's next turn. While [Poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned),\
-    \ the target can't regain [Hit Points](3-Mechanics/CLI/rules/variant-rules/hit-points-xphb.md)."
+- "desc": "Melee Attack Roll: +8, reach 10 ft. Hit: 15 (2d10 + 4) Piercing damage\
+    \ plus 18 (4d8) Poison damage, and the target has the [Poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)\
+    \ condition until the start of the devil's next turn. While [Poisoned](/3-Mechanics/CLI/conditions.md#Poisoned),\
+    \ the target can't regain [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)."
   "name": "Infernal Sting"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/fiend/token/bone-devil-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/fiend/token/bone-devil-xmm.webp"
 ```
 ^statblock
 

@@ -12,7 +12,7 @@ statblock: inline
 aliases: ["Red Dragon Wyrmling"]
 ---
 # [Red Dragon Wyrmling](3-Mechanics\CLI\bestiary\dragon/red-dragon-wyrmling-xmm.md)
-*Source: Monster Manual (2024) p. 254*  
+*Source: Monster Manual (2024) p. 254. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
 
 Red dragon wyrmlings are born destroyers. From a young age, they delight in igniting objects and creatures alike. They sometimes restrain themselves from scorching creatures to instead bully others into following their orders and bringing them gifts.
 
@@ -66,12 +66,12 @@ Red dragons make their lairs in smoldering, unapproachable places such as volcan
 - "desc": "Melee Attack Roll: +6, reach 5 ft. Hit: 9 (1d10 + 4) Slashing damage\
     \ plus 3 (1d6) Fire damage."
   "name": "Rend"
-- "desc": "Dexterity Saving Throw: DC 13, each creature in a 15-foot [Cone](3-Mechanics/CLI/rules/variant-rules/cone-area-of-effect-xphb.md).\
+- "desc": "Dexterity Saving Throw: DC 13, each creature in a 15-foot [Cone](/3-Mechanics/CLI/variant-rules/cone-area-of-effect-xphb.md).\
     \ Failure: 24 (7d6) Fire damage. Success: Half damage."
   "name": "Fire Breath (Recharge 5-6)"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/dragon/token/red-dragon-wyrmling-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/dragon/token/red-dragon-wyrmling-xmm.webp"
 ```
 ^statblock
 

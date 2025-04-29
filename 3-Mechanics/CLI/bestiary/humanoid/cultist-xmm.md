@@ -11,7 +11,7 @@ statblock: inline
 aliases: ["Cultist"]
 ---
 # [Cultist](3-Mechanics\CLI\bestiary\humanoid/cultist-xmm.md)
-*Source: Monster Manual (2024) p. 84*  
+*Source: Monster Manual (2024) p. 84. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
 
 Cultists devote themselves to their faith's leaders and otherworldly masters. While this zeal grants cultists no magical powers, it gives them remarkable resolve in the face of threats. Cultists perform much of a cult's mundane work, which might include evangelism, criminal acts, or serving as sacrifices.
 
@@ -103,7 +103,7 @@ Cults can organize around any mystical tradition, but many serve supernatural be
   "name": "Ritual Sickle"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/cultist-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/humanoid/token/cultist-xmm.webp"
 ```
 ^statblock
 

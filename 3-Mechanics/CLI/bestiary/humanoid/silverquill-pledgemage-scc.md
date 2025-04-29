@@ -51,10 +51,10 @@ The scholars of Silverquill College study the power of magic shaped through spok
 "traits":
 - "desc": "The pledgemage casts one of the following spells, requiring no material\
     \ components and using Charisma as the spellcasting ability (spell save DC 13):\n\
-    \nAt will: [dancing lights](3-Mechanics/CLI/spells/dancing-lights-xphb.md),\
-    \ [friends](3-Mechanics/CLI/spells/friends-xphb.md)\n\n1/day each: [command](3-Mechanics/CLI/spells/command-xphb.md),\
-    \ [confusion](3-Mechanics/CLI/spells/confusion-xphb.md), [mage armor](3-Mechanics/CLI/spells/mage-armor-xphb.md),\
-    \ [tongues](3-Mechanics/CLI/spells/tongues-xphb.md)"
+    \nAt will: [dancing lights](/3-Mechanics/CLI/spells/dancing-lights-xphb.md),\
+    \ [friends](/3-Mechanics/CLI/spells/friends-xphb.md)\n\n1/day each: [command](/3-Mechanics/CLI/spells/command-xphb.md),\
+    \ [confusion](/3-Mechanics/CLI/spells/confusion-xphb.md), [mage armor](/3-Mechanics/CLI/spells/mage-armor-xphb.md),\
+    \ [tongues](/3-Mechanics/CLI/spells/tongues-xphb.md)"
   "name": "Spellcasting"
 "actions":
 - "desc": "Melee or Ranged Spell Attack: +5 to hit, reach 5 ft. or range 60 ft.,\
@@ -63,8 +63,8 @@ The scholars of Silverquill College study the power of magic shaped through spok
 "bonus_actions":
 - "desc": "The pledgemage hurls magical insults at one creature it can see within\
     \ 30 feet of itself. The target must succeed on a DC 13 Wisdom saving throw or\
-    \ become [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened) of the pledgemage\
-    \ for 1 minute. While [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened)\
+    \ become [frightened](/3-Mechanics/CLI/conditions.md#Frightened) of the pledgemage\
+    \ for 1 minute. While [frightened](/3-Mechanics/CLI/conditions.md#Frightened)\
     \ in this way, the target can't take reactions, its speed is halved, and any hit\
     \ the pledgemage scores against the creature is a critical hit. The target can\
     \ repeat the saving throw at the end of each of its turns, ending the effect on\
@@ -77,6 +77,6 @@ The scholars of Silverquill College study the power of magic shaped through spok
   "name": "Rousing Verse"
 "source":
 - "SCC"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/silverquill-pledgemage-scc.webp"
+"image": "/3-Mechanics/CLI/bestiary/humanoid/token/silverquill-pledgemage-scc.webp"
 ```
 ^statblock

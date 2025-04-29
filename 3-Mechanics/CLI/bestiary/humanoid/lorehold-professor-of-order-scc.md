@@ -51,13 +51,13 @@ The archaeomancers of Lorehold College draw their magical might from the flow of
 "traits":
 - "desc": "The professor casts one of the following spells, requiring no material\
     \ components and using Intelligence as the spellcasting ability (spell save DC\
-    \ 15):\n\nAt will: [comprehend languages](3-Mechanics/CLI/spells/comprehend-languages-xphb.md),\
-    \ [guidance](3-Mechanics/CLI/spells/guidance-xphb.md), [light](3-Mechanics/CLI/spells/light-xphb.md)\n\
-    \n2/day each: [dimension door](3-Mechanics/CLI/spells/dimension-door-xphb.md),\
-    \ [locate object](3-Mechanics/CLI/spells/locate-object-xphb.md), [mage armor](3-Mechanics/CLI/spells/mage-armor-xphb.md),\
-    \ [stone shape](3-Mechanics/CLI/spells/stone-shape-xphb.md)"
+    \ 15):\n\nAt will: [comprehend languages](/3-Mechanics/CLI/spells/comprehend-languages-xphb.md),\
+    \ [guidance](/3-Mechanics/CLI/spells/guidance-xphb.md), [light](/3-Mechanics/CLI/spells/light-xphb.md)\n\
+    \n2/day each: [dimension door](/3-Mechanics/CLI/spells/dimension-door-xphb.md),\
+    \ [locate object](/3-Mechanics/CLI/spells/locate-object-xphb.md), [mage armor](/3-Mechanics/CLI/spells/mage-armor-xphb.md),\
+    \ [stone shape](/3-Mechanics/CLI/spells/stone-shape-xphb.md)"
   "name": "Spellcasting"
-- "desc": "The professor can cast the [contact other plane](3-Mechanics/CLI/spells/contact-other-plane-xphb.md)\
+- "desc": "The professor can cast the [contact other plane](/3-Mechanics/CLI/spells/contact-other-plane-xphb.md)\
     \ spell to contact a long-dead spirit, using Intelligence as the spellcasting\
     \ ability."
   "name": "Voice from the Past (1/Day)"
@@ -65,10 +65,10 @@ The archaeomancers of Lorehold College draw their magical might from the flow of
 - "desc": "The professor makes two Repelling Burst attacks. It can also use Force\
     \ Barrier, if available."
   "name": "Multiattack"
-- "desc": "Melee Spell Attack: +7 to hit, reach 30 ft., one target. Hit: 13\
-    \ (2d8 + 4) force damage. If the target is a Large or smaller creature, it must\
-    \ succeed on a DC 15 Strength saving throw or be pushed up to 10 feet directly\
-    \ away from the professor and become [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained)\
+- "desc": "Melee Spell Attack: +7 to hit, reach 30 ft., one target. Hit: 13 (2d8\
+    \ + 4) force damage. If the target is a Large or smaller creature, it must succeed\
+    \ on a DC 15 Strength saving throw or be pushed up to 10 feet directly away from\
+    \ the professor and become [restrained](/3-Mechanics/CLI/conditions.md#Restrained)\
     \ until the start of professor's next turn."
   "name": "Repelling Burst"
 - "desc": "The professor magically creates a wall of translucent, golden force within\
@@ -86,6 +86,6 @@ The archaeomancers of Lorehold College draw their magical might from the flow of
   "name": "Arcane Stasis (2/Day)"
 "source":
 - "SCC"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/lorehold-professor-of-order-scc.webp"
+"image": "/3-Mechanics/CLI/bestiary/humanoid/token/lorehold-professor-of-order-scc.webp"
 ```
 ^statblock

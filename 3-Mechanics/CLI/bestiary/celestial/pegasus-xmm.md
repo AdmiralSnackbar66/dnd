@@ -15,7 +15,7 @@ statblock: inline
 aliases: ["Pegasus"]
 ---
 # [Pegasus](3-Mechanics\CLI\bestiary\celestial/pegasus-xmm.md)
-*Source: Monster Manual (2024) p. 235*  
+*Source: Monster Manual (2024) p. 235. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
 
 ## Pegasus
 
@@ -72,12 +72,12 @@ Pegasi are hunted by servants of evil, leading many of these winged steeds to fl
 "languages": "understands Celestial, Common, Elvish, and Sylvan but can't speak"
 "cr": "2"
 "actions":
-- "desc": "Melee Attack Roll: +6, reach 5 ft. Hit: 7 (1d6 + 4) Bludgeoning\
-    \ damage plus 5 (2d4) Radiant damage."
+- "desc": "Melee Attack Roll: +6, reach 5 ft. Hit: 7 (1d6 + 4) Bludgeoning damage\
+    \ plus 5 (2d4) Radiant damage."
   "name": "Hooves"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/celestial/token/pegasus-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/celestial/token/pegasus-xmm.webp"
 ```
 ^statblock
 

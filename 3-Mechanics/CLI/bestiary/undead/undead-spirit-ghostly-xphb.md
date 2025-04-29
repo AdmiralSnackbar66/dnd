@@ -27,9 +27,9 @@ aliases: ["Undead Spirit (Ghostly)"]
 - !!int "9"
 "speed": "30 ft., fly 40 ft. (hover)"
 "damage_immunities": "necrotic, poison"
-"condition_immunities": "[exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
-  \ [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened), [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed),\
-  \ [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"condition_immunities": "[exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
+  \ [frightened](/3-Mechanics/CLI/conditions.md#Frightened), [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed),\
+  \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": "understands the languages you know"
 "traits":
@@ -43,8 +43,8 @@ aliases: ["Undead Spirit (Ghostly)"]
   "name": "Multiattack"
 - "desc": "Melee Attack Roll: YourSpellAttack Bonus equals your spell attack modifier,\
     \ reach 5 ft. Hit: 1d8 + 3 + the spell's level Necrotic damage, and the target\
-    \ has the [Frightened](3-Mechanics/CLI/rules/conditions.md#Frightened) condition\
-    \ until the end of its next turn."
+    \ has the [Frightened](/3-Mechanics/CLI/conditions.md#Frightened) condition until\
+    \ the end of its next turn."
   "name": "Deathly Touch"
 "source":
 - "XPHB"

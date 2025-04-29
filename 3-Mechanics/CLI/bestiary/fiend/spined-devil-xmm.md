@@ -56,16 +56,16 @@ Spined devils, also known as spinagons, lurk in the shadows of the Lower Planes,
 "speed": "20 ft., fly 40 ft."
 "damage_resistances": "cold"
 "damage_immunities": "fire, poison"
-"condition_immunities": "[poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
-"senses": "darkvision 120 ft. (unimpeded by magical darkness), passive Perception\
-  \ 12"
+"condition_immunities": "[poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
+"senses": "darkvision 120 ft. (unimpeded by magical [Darkness](/3-Mechanics/CLI/variant-rules/darkness-xphb.md)),\
+  \ passive Perception 12"
 "languages": "Infernal; telepathy 120 ft."
 "cr": "2"
 "traits":
 - "desc": "The devil doesn't provoke an Opportunity Attack when it flies out of an\
     \ enemy's reach."
   "name": "Flyby"
-- "desc": "The devil has [Advantage](3-Mechanics/CLI/rules/variant-rules/advantage-xphb.md)\
+- "desc": "The devil has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
     \ on saving throws against spells and other magical effects."
   "name": "Magic Resistance"
 "actions":
@@ -75,12 +75,12 @@ Spined devils, also known as spinagons, lurk in the shadows of the Lower Planes,
 - "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 5 (1d6 + 2) Piercing damage\
     \ plus 3 (1d6) Fire damage."
   "name": "Infernal Fork"
-- "desc": "Ranged Attack Roll: +4, range 20/80 ft. Hit: 4 (1d4 + 2) Piercing\
-    \ damage plus 3 (1d6) Fire damage."
+- "desc": "Ranged Attack Roll: +4, range 20/80 ft. Hit: 4 (1d4 + 2) Piercing damage\
+    \ plus 3 (1d6) Fire damage."
   "name": "Tail Spine"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/fiend/token/spined-devil-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/fiend/token/spined-devil-xmm.webp"
 ```
 ^statblock
 

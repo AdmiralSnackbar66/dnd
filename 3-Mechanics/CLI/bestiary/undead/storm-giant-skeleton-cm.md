@@ -37,8 +37,8 @@ aliases: ["Storm Giant Skeleton"]
 "damage_vulnerabilities": "bludgeoning"
 "damage_resistances": "cold"
 "damage_immunities": "lightning, poison, thunder"
-"condition_immunities": "[exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
-  \ [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"condition_immunities": "[exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
+  \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
 "senses": "darkvision 60 ft., passive Perception 14"
 "languages": ""
 "cr": "16"
@@ -53,11 +53,11 @@ aliases: ["Storm Giant Skeleton"]
   "name": "Rock"
 - "desc": "The giant hurls a magical lightning bolt at a point it can see within 500\
     \ feet of it. Each creature within 10 feet of that point must make a DC 15 Dexterity\
-    \ saving throw, taking 54 (12d8) lightning damage on a failed save, or half\
-    \ as much damage on a successful one."
+    \ saving throw, taking 54 (12d8) lightning damage on a failed save, or half as\
+    \ much damage on a successful one."
   "name": "Lightning Strike (Recharge 5-6)"
 "source":
 - "CM"
-"image": "3-Mechanics/CLI/bestiary/undead/token/storm-giant-skeleton-cm.webp"
+"image": "/3-Mechanics/CLI/bestiary/undead/token/storm-giant-skeleton-cm.webp"
 ```
 ^statblock

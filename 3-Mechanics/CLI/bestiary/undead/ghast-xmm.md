@@ -13,7 +13,7 @@ statblock: inline
 aliases: ["Ghast"]
 ---
 # [Ghast](3-Mechanics\CLI\bestiary\undead/ghast-xmm.md)
-*Source: Monster Manual (2024) p. 130*  
+*Source: Monster Manual (2024) p. 130. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
 
 Ghasts frequently organize ghouls into packs to despoil crypts and steal the wealth within.
 
@@ -46,15 +46,15 @@ Ghasts are reeking, undying corpses closely related to ghouls. They hunger for t
   "Wisdom": !!int "2"
 "damage_resistances": "necrotic"
 "damage_immunities": "poison"
-"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
-  \ [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
+  \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": "Common"
 "cr": "2"
 "traits":
 - "desc": "Constitution Saving Throw: DC 10, any creature that starts its turn in\
-    \ a 5-foot [Emanation](3-Mechanics/CLI/rules/variant-rules/emanation-area-of-effect-xphb.md)\
-    \ originating from the ghast. Failure: The target has the [Poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)\
+    \ a 5-foot [Emanation](/3-Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md)\
+    \ originating from the ghast. Failure: The target has the [Poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)\
     \ condition until the start of its next turn. Success: The target is immune\
     \ to this ghast's Stench for 24 hours."
   "name": "Stench"
@@ -64,12 +64,12 @@ Ghasts are reeking, undying corpses closely related to ghouls. They hunger for t
   "name": "Bite"
 - "desc": "Melee Attack Roll: +5, reach 5 ft. Hit: 10 (2d6 + 3) Slashing damage.\
     \ If the target is a non-Undead creature, it is subjected to the following effect.\
-    \ Constitution Saving Throw: DC 10. Failure: The target has the [Paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed)\
+    \ Constitution Saving Throw: DC 10. Failure: The target has the [Paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed)\
     \ condition until the end of its next turn."
   "name": "Claw"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/undead/token/ghast-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/undead/token/ghast-xmm.webp"
 ```
 ^statblock
 

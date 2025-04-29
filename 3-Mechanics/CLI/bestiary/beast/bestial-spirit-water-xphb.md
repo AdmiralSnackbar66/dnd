@@ -31,8 +31,7 @@ aliases: ["Bestial Spirit (Water)"]
 "traits":
 - "desc": "The spirit has Advantage on an attack roll against a creature if at least\
     \ one of the spirit's allies is within 5 feet of the creature and the ally doesn't\
-    \ have the [Incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated)\
-    \ condition."
+    \ have the [Incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated) condition."
   "name": "Pack Tactics"
 - "desc": "The spirit can breathe only underwater."
   "name": "Water Breathing (Water Only)"

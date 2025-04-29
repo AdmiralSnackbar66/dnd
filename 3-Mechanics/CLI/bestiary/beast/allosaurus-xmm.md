@@ -11,11 +11,11 @@ statblock: inline
 aliases: ["Allosaurus"]
 ---
 # [Allosaurus](3-Mechanics\CLI\bestiary\beast/allosaurus-xmm.md)
-*Source: Monster Manual (2024) p. 348*  
+*Source: Monster Manual (2024) p. 348. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
 
 ## Animals
 
-Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [Panther](3-Mechanics/CLI/bestiary/beast/panther-xmm.md) stat block can also represent a mountain lion, while the [Giant Goat](3-Mechanics/CLI/bestiary/beast/giant-goat-xmm.md) stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
+Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [Panther](/3-Mechanics/CLI/bestiary/beast/panther-xmm.md) stat block can also represent a mountain lion, while the [Giant Goat](/3-Mechanics/CLI/bestiary/beast/giant-goat-xmm.md) stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
 
 ```statblock
 "name": "Allosaurus (XMM)"
@@ -40,17 +40,16 @@ Use these stat blocks to represent the creatures they're named for or other simi
 "languages": ""
 "cr": "2"
 "actions":
-- "desc": "Melee Attack Roll: +6, reach 5 ft. Hit: 15 (2d10 + 4) Piercing\
-    \ damage."
+- "desc": "Melee Attack Roll: +6, reach 5 ft. Hit: 15 (2d10 + 4) Piercing damage."
   "name": "Bite"
 - "desc": "Melee Attack Roll: +6, reach 5 ft. Hit: 8 (1d8 + 4) Slashing damage.\
     \ If the target is a Large or smaller creature and the allosaurus moved 30+ feet\
-    \ straight toward it immediately before the hit, the target has the [Prone](3-Mechanics/CLI/rules/conditions.md#Prone)\
+    \ straight toward it immediately before the hit, the target has the [Prone](/3-Mechanics/CLI/conditions.md#Prone)\
     \ condition, and the allosaurus can make one Bite attack against it."
   "name": "Claws"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/beast/token/allosaurus-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/beast/token/allosaurus-xmm.webp"
 ```
 ^statblock
 

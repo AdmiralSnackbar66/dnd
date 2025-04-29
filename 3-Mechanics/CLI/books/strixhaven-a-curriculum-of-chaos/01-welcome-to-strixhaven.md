@@ -12,7 +12,7 @@ aliases: ["Welcome to Strixhaven"]
 > 
 > The mission of Strixhaven University is to discover and preserve magical knowledge, to disseminate that knowledge from one generation to the next, to promote free and open study of magic in all its forms, and to enhance the lives of people throughout the world through the use of magic.
 
-![](3-Mechanics/CLI/books/strixhaven-a-curriculum-of-chaos/img/000-00-001-welcome-splash.webp#center)
+![](/3-Mechanics/CLI/books/strixhaven-a-curriculum-of-chaos/img/000-00-001-welcome-splash.webp#center)
 
 A magical world boasts many places where students can study magic and many sages who take eager learners under their wings. But being accepted to Strixhaven University is a special honor, the dream of many young students. Strixhaven is a place of enlightenment and learning, and both its graduates and its delegates are typically welcomed and respected wherever they go.
 
@@ -20,7 +20,7 @@ Founded seven centuries ago by five ancient dragons, Strixhaven is the premier i
 
 As a Strixhaven student, you start with a well-rounded education in a rigorous first-year program. In your second year, you choose your preferred specialty at one of the five colleges. You can also partake in a vibrant campus life, with plenty of clubs and other activities. You might even play on one of Strixhaven's prestigious Mage Tower teams and bask in the adoration of cheering crowds!
 
-![Welcome to Strixhaven; Colleges of Strixhaven](3-Mechanics/CLI/tables/welcome-to-strixhaven-colleges-of-strixhaven-scc.md)
+![Welcome to Strixhaven; Colleges of Strixhaven](/3-Mechanics/CLI/tables/welcome-to-strixhaven-colleges-of-strixhaven-scc.md)
 
 ## About This Book
 
@@ -32,7 +32,7 @@ This book is your guide to life at Strixhaven in Dungeons & Dragons—an introdu
 
 Chapters 3–6 provide a campaign meant to advance characters from 1st to 10th level as they progress through their magical studies. Each chapter covers a year's worth of adventure, so characters begin "chapter 3" as 1st-level characters and first-year students and begin chapter 6 at the start of their fourth year of studies (at around 8th level). Chapter 3 includes an overview of the adventures and the overall campaign arc as well as special rules for aspects of campus life: exams, relationships, extracurriculars, and jobs.
 
-"Chapter 7" is a collection of stat blocks for students, faculty, and various creatures on and around the Strixhaven campus. Whether student adventurers get caught up in a duel with their rivals or face a dreaded [mage hunter](3-Mechanics/CLI/bestiary/monstrosity/mage-hunter-scc.md), the stat blocks in this chapter give you the information you need to resolve the situation.
+"Chapter 7" is a collection of stat blocks for students, faculty, and various creatures on and around the Strixhaven campus. Whether student adventurers get caught up in a duel with their rivals or face a dreaded [mage hunter](/3-Mechanics/CLI/bestiary/monstrosity/mage-hunter-scc.md), the stat blocks in this chapter give you the information you need to resolve the situation.
 
 ## Orientation
 
@@ -56,7 +56,7 @@ Magic is everywhere on campus. The campus culture encourages finding magical sol
 
 Strixhaven draws students and faculty from across the world and from other realms in the multiverse. The university's students and faculty are united by a desire to learn and include humans, elves, dwarves, owlin (described in "chapter 2"), orcs, trolls, vampires, and studious folk of many other origins.
 
-In practical terms, for player characters, you can use the rules found in any D&D book to select a character's race, if the DM approves. For nonplayer characters, you're as likely to meet a [pixie](3-Mechanics/CLI/bestiary/fey/pixie-xmm.md), a [dryad](3-Mechanics/CLI/bestiary/fey/dryad-xmm.md), a giant, a [treant](3-Mechanics/CLI/bestiary/plant/treant-xmm.md), or another fantastical creature on campus as you are to meet a Humanoid. The faculty members mentioned in "chapter 1" include genasi, tritons, and even a bipedal brown bear.
+In practical terms, for player characters, you can use the rules found in any D&D book to select a character's race, if the DM approves. For nonplayer characters, you're as likely to meet a [pixie](/3-Mechanics/CLI/bestiary/fey/pixie-xmm.md), a [dryad](/3-Mechanics/CLI/bestiary/fey/dryad-xmm.md), a giant, a [treant](/3-Mechanics/CLI/bestiary/plant/treant-xmm.md), or another fantastical creature on campus as you are to meet a Humanoid. The faculty members mentioned in "chapter 1" include genasi, tritons, and even a bipedal brown bear.
 
 To the faculty and students of Strixhaven, it is unremarkable to meet someone who hails from a far-off land, since almost everyone on campus is from somewhere else. Strixhaven has a place for anyone who is dedicated to magic-enhanced study.
 
@@ -86,16 +86,16 @@ Strixhaven University was founded by five ancient dragons who, according to lege
 
 To this day, the Founder Dragons roam the world. They no longer associate directly with Strixhaven, preferring to let the deans of the colleges speak in their stead. The dragons' knowledge is vast, but their tempers can prove short. Mages seek them out only to learn the most elusive secrets. The dragons' stat blocks are presented in "chapter 7".
 
-![Founder Dragons](3-Mechanics/CLI/tables/founder-dragons-scc.md)
+![Founder Dragons](/3-Mechanics/CLI/tables/founder-dragons-scc.md)
 
 ### Archaics and the Oracle
 
-The [Oracle of Strixhaven](3-Mechanics/CLI/bestiary/humanoid/oracle-of-strixhaven-scc.md) is the wisest and most accomplished mage in the world of Arcavios, selected by the Founder Dragons. The Oracle's lifelong task is to ensure that magic is used to help people and not twisted to evil ends. To be the Oracle, one must understand fundamental truths about the nature of magic, know and wield hundreds of spells, and possess impeccable judgment and virtue.
+The [Oracle of Strixhaven](/3-Mechanics/CLI/bestiary/humanoid/oracle-of-strixhaven-scc.md) is the wisest and most accomplished mage in the world of Arcavios, selected by the Founder Dragons. The Oracle's lifelong task is to ensure that magic is used to help people and not twisted to evil ends. To be the Oracle, one must understand fundamental truths about the nature of magic, know and wield hundreds of spells, and possess impeccable judgment and virtue.
 
-Mysteriously linked to the Oracle, [archaics](3-Mechanics/CLI/bestiary/celestial/archaic-scc.md) are wise, giant, long-lived beings with an innate talent for magic. They can be seen striding through the wilds, exploring sources of magic with their many arms or contemplating existence through their "eye," which functions as a magical focus of some kind. Scholars seek out archaics for their vast knowledge of history and magic, but archaics tend to communicate in obscure allusions and cryptic metaphors.
+Mysteriously linked to the Oracle, [archaics](/3-Mechanics/CLI/bestiary/celestial/archaic-scc.md) are wise, giant, long-lived beings with an innate talent for magic. They can be seen striding through the wilds, exploring sources of magic with their many arms or contemplating existence through their "eye," which functions as a magical focus of some kind. Scholars seek out archaics for their vast knowledge of history and magic, but archaics tend to communicate in obscure allusions and cryptic metaphors.
 
 Few know that archaics' existence is linked to a time-warping phenomenon involving the Oracle. When an Oracle dies, their mind and spirit is swept off to the distant past, drawn backward through time toward the intense magical power that brought the world into being. Splinters of that Oracle's soul and its fragmented memories coalesce into a creature—a newborn archaic. Every archaic alive today was born at the dawn of time from the mind of someone who has lived and died (or who will one day live and die) as an Oracle. Archaics speak in cryptic allegories not only to tease and test the eager minds of young mages, but also to cleverly sidestep time paradoxes.
 
-Stat blocks for [archaics](3-Mechanics/CLI/bestiary/celestial/archaic-scc.md) appear in "chapter 7", alongside that of the current [Oracle](3-Mechanics/CLI/bestiary/humanoid/oracle-of-strixhaven-scc.md), whose name is Jadzi.
+Stat blocks for [archaics](/3-Mechanics/CLI/bestiary/celestial/archaic-scc.md) appear in "chapter 7", alongside that of the current [Oracle](/3-Mechanics/CLI/bestiary/humanoid/oracle-of-strixhaven-scc.md), whose name is Jadzi.
 
-![Strixhaven University, wit...](3-Mechanics/CLI/books/strixhaven-a-curriculum-of-chaos/img/001-00-002-strixhaven-university.webp#center "Strixhaven University, with the (Center) Biblioplex Surrounded by (Top) Silverquill and (Going Clockwise) Quandrix, Witherbloom, Prismari, and Lorehold")
+![Strixhaven University, wit...](/3-Mechanics/CLI/books/strixhaven-a-curriculum-of-chaos/img/001-00-002-strixhaven-university.webp#center "Strixhaven University, with the (Center) Biblioplex Surrounded by (Top) Silverquill and (Going Clockwise) Quandrix, Witherbloom, Prismari, and Lorehold")

@@ -11,7 +11,7 @@ statblock: inline
 aliases: ["Spy"]
 ---
 # [Spy](3-Mechanics\CLI\bestiary\humanoid/spy-xmm.md)
-*Source: Monster Manual (2024) p. 295*  
+*Source: Monster Manual (2024) p. 295. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
 
 Spies use charm and deception to veil their true intentions. If forced into combat, they seek to end such conflicts quietly and decisively.
 
@@ -74,7 +74,7 @@ Spies gather information and disseminate lies, manipulating people to gain the r
   "name": "Cunning Action"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/spy-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/humanoid/token/spy-xmm.webp"
 ```
 ^statblock
 

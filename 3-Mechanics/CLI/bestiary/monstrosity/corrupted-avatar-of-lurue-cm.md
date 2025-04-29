@@ -38,30 +38,30 @@ While tainted by the influence of Malar, the avatar of Lurue carries out the Bea
   "Wisdom": !!int "6"
   "Intelligence": !!int "3"
 "damage_immunities": "poison"
-"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed),\
-  \ [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed),\
+  \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
 "senses": "darkvision 60 ft., passive Perception 13"
 "languages": "Celestial, Elvish, Sylvan, telepathy 60 ft."
 "cr": "8"
 "actions":
 - "desc": "The avatar makes two attacks: one with its hooves and one with its horn."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 32\
-    \ (8d6 + 4) necrotic damage."
+- "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 32 (8d6\
+    \ + 4) necrotic damage."
   "name": "Hooves"
-- "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 32\
-    \ (8d6 + 4) necrotic damage. If the target is a humanoid, it must succeed on\
-    \ a DC 13 Wisdom saving throw or be transformed into a wolf under the avatar's\
-    \ control. This transformation lasts for 1 hour, or until the target drops to\
-    \ 0 hit points or dies. The target's game statistics are replaced by the wolf's\
-    \ statistics, but it retains its hit points. The target is limited in the actions\
-    \ it can perform by the nature of its wolf form, and it can't speak, cast spells,\
-    \ or take any other action that requires hands or speech. The target's gear melds\
-    \ into the new form, and it can't activate, use, wield, or otherwise benefit from\
-    \ any of its equipment."
+- "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 32 (8d6\
+    \ + 4) necrotic damage. If the target is a humanoid, it must succeed on a DC 13\
+    \ Wisdom saving throw or be transformed into a wolf under the avatar's control.\
+    \ This transformation lasts for 1 hour, or until the target drops to 0 hit points\
+    \ or dies. The target's game statistics are replaced by the wolf's statistics,\
+    \ but it retains its hit points. The target is limited in the actions it can perform\
+    \ by the nature of its wolf form, and it can't speak, cast spells, or take any\
+    \ other action that requires hands or speech. The target's gear melds into the\
+    \ new form, and it can't activate, use, wield, or otherwise benefit from any of\
+    \ its equipment."
   "name": "Horn"
 "source":
 - "CM"
-"image": "3-Mechanics/CLI/bestiary/monstrosity/token/corrupted-avatar-of-lurue-cm.webp"
+"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/corrupted-avatar-of-lurue-cm.webp"
 ```
 ^statblock

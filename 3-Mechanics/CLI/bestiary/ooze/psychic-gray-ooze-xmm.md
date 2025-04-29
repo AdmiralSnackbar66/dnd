@@ -11,7 +11,7 @@ statblock: inline
 aliases: ["Psychic Gray Ooze"]
 ---
 # [Psychic Gray Ooze](3-Mechanics\CLI\bestiary\ooze/psychic-gray-ooze-xmm.md)
-*Source: Monster Manual (2024) p. 151*  
+*Source: Monster Manual (2024) p. 151. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
 
 Psychic gray oozes exhibit violent psionic abilities. These oozes sometimes result from failed attempts to summon or create creatures linked to the Elemental Plane of Earth, like gargoyles or homunculi.
 
@@ -43,10 +43,10 @@ Gray oozes are predatory, corrosive slimes that blend in with stony surroundings
 "skillsaves":
   "Stealth": !!int "3"
 "damage_resistances": "acid, cold, fire, psychic"
-"condition_immunities": "[blinded](3-Mechanics/CLI/rules/conditions.md#Blinded), [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed),\
-  \ [deafened](3-Mechanics/CLI/rules/conditions.md#Deafened), [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
-  \ [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened), [grappled](3-Mechanics/CLI/rules/conditions.md#Grappled),\
-  \ [prone](3-Mechanics/CLI/rules/conditions.md#Prone), [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained)"
+"condition_immunities": "[blinded](/3-Mechanics/CLI/conditions.md#Blinded), [charmed](/3-Mechanics/CLI/conditions.md#Charmed),\
+  \ [deafened](/3-Mechanics/CLI/conditions.md#Deafened), [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
+  \ [frightened](/3-Mechanics/CLI/conditions.md#Frightened), [grappled](/3-Mechanics/CLI/conditions.md#Grappled),\
+  \ [prone](/3-Mechanics/CLI/conditions.md#Prone), [restrained](/3-Mechanics/CLI/conditions.md#Restrained)"
 "senses": "blindsight 60 ft., passive Perception 8"
 "languages": ""
 "cr": "1"
@@ -55,8 +55,8 @@ Gray oozes are predatory, corrosive slimes that blend in with stony surroundings
     \ extra movement to do so."
   "name": "Amorphous"
 "actions":
-- "desc": "Melee Attack Roll: +3, reach 5 ft. Hit: 11 (3d6 + 1) Acid damage,\
-    \ and the target has [Disadvantage](3-Mechanics/CLI/rules/variant-rules/disadvantage-xphb.md)\
+- "desc": "Melee Attack Roll: +3, reach 5 ft. Hit: 11 (3d6 + 1) Acid damage, and\
+    \ the target has [Disadvantage](/3-Mechanics/CLI/variant-rules/disadvantage-xphb.md)\
     \ on Intelligence saving throws until the end of the ooze's next turn."
   "name": "Pseudopod"
 - "desc": "Intelligence Saving Throw: DC 10, one creature the ooze can see within\
@@ -69,7 +69,7 @@ Gray oozes are predatory, corrosive slimes that blend in with stony surroundings
   "name": "Mind Corrosion"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/ooze/token/psychic-gray-ooze-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/ooze/token/psychic-gray-ooze-xmm.webp"
 ```
 ^statblock
 

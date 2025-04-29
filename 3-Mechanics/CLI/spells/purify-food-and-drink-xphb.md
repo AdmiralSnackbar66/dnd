@@ -15,12 +15,14 @@ tags:
 - ttrpg-cli/spell/ritual
 - ttrpg-cli/spell/school/transmutation
 - ttrpg-cli/spell/subclass/college-of-lore
+- ttrpg-cli/spell/subclass/divine-soul
 classes:
 - Bard
 - Bard (College of Lore)
 - Cleric
 - Druid
 - Paladin
+- Sorcerer (Divine Soul)
 aliases: ["Purify Food and Drink"]
 ---
 # Purify Food and Drink
@@ -34,6 +36,6 @@ aliases: ["Purify Food and Drink"]
 
 You remove poison and rot from nonmagical food and drink in a 5-foot-radius Sphere centered on a point within range.
 
-**Classes**: [Cleric](3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Bard (College of Lore)](3-Mechanics/CLI/lists/list-spells-classes-bard-xphb-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Paladin](3-Mechanics/CLI/lists/list-spells-classes-paladin.md); [Druid](3-Mechanics/CLI/lists/list-spells-classes-druid.md)
+**Classes**: [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Sorcerer (Divine Soul)](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer-xphb-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Paladin](/3-Mechanics/CLI/lists/list-spells-classes-paladin.md); [Bard (College of Lore)](/3-Mechanics/CLI/lists/list-spells-classes-bard-xphb-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md)
 
-*Source: Player's Handbook (2024) p. 310. Available in the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 310. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*

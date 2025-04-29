@@ -10,11 +10,13 @@ tags:
 - ttrpg-cli/spell/class/wizard
 - ttrpg-cli/spell/level/6th-level
 - ttrpg-cli/spell/school/divination
+- ttrpg-cli/spell/subclass/divine-soul
 - ttrpg-cli/spell/subclass/diviner
 classes:
 - Bard
 - Cleric
 - Sorcerer
+- Sorcerer (Divine Soul)
 - Warlock
 - Wizard
 - Wizard (Diviner)
@@ -29,8 +31,8 @@ aliases: ["True Seeing"]
 - **Components:** V, S, M (mushroom powder worth 25+ GP, which the spell consumes)
 - **Duration:** 1 hour
 
-For the duration, the willing creature you touch has [Truesight](3-Mechanics/CLI/rules/senses.md#Truesight) with a range of 120 feet.
+For the duration, the willing creature you touch has [Truesight](/3-Mechanics/CLI/senses.md#Truesight) with a range of 120 feet.
 
-**Classes**: [Sorcerer](3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Cleric](3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Bard](3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard (Diviner)](3-Mechanics/CLI/lists/list-spells-classes-wizard-xphb-diviner-xphb.md "subclass=XPHB;class=XPHB"); [Warlock](3-Mechanics/CLI/lists/list-spells-classes-warlock.md); [Wizard](3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Sorcerer (Divine Soul)](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer-xphb-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Warlock](/3-Mechanics/CLI/lists/list-spells-classes-warlock.md); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Wizard (Diviner)](/3-Mechanics/CLI/lists/list-spells-classes-wizard-xphb-diviner-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 336. Available in the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 336. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*

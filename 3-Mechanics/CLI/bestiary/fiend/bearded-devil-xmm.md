@@ -12,7 +12,7 @@ statblock: inline
 aliases: ["Bearded Devil"]
 ---
 # [Bearded Devil](3-Mechanics\CLI\bestiary\fiend/bearded-devil-xmm.md)
-*Source: Monster Manual (2024) p. 33*  
+*Source: Monster Manual (2024) p. 33. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
 
 ## Bearded Devil
 
@@ -50,38 +50,38 @@ Bearded devils' eponymous beards consist of grotesque, tentacle-like growths. Th
   "Constitution": !!int "4"
 "damage_resistances": "cold"
 "damage_immunities": "fire, poison"
-"condition_immunities": "[frightened](3-Mechanics/CLI/rules/conditions.md#Frightened),\
-  \ [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
-"senses": "darkvision 120 ft. (unimpeded by magical darkness), passive Perception\
-  \ 10"
+"condition_immunities": "[frightened](/3-Mechanics/CLI/conditions.md#Frightened),\
+  \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
+"senses": "darkvision 120 ft. (unimpeded by magical [Darkness](/3-Mechanics/CLI/variant-rules/darkness-xphb.md)),\
+  \ passive Perception 10"
 "languages": "Infernal; telepathy 120 ft."
 "cr": "3"
 "traits":
-- "desc": "The devil has [Advantage](3-Mechanics/CLI/rules/variant-rules/advantage-xphb.md)\
+- "desc": "The devil has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
     \ on saving throws against spells and other magical effects."
   "name": "Magic Resistance"
 "actions":
 - "desc": "The devil makes one Beard attack and one Infernal Glaive attack."
   "name": "Multiattack"
 - "desc": "Melee Attack Roll: +5, reach 5 ft. Hit: 7 (1d8 + 3) Piercing damage,\
-    \ and the target has the [Poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)\
-    \ condition until the start of the devil's next turn. Until this poison ends,\
-    \ the target can't regain [Hit Points](3-Mechanics/CLI/rules/variant-rules/hit-points-xphb.md)."
+    \ and the target has the [Poisoned](/3-Mechanics/CLI/conditions.md#Poisoned) condition\
+    \ until the start of the devil's next turn. Until this poison ends, the target\
+    \ can't regain [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)."
   "name": "Beard"
-- "desc": "Melee Attack Roll: +5, reach 10 ft. Hit: 8 (1d10 + 3) Slashing\
-    \ damage. If the target is a creature and doesn't already have an infernal wound,\
-    \ it is subjected to the following effect. Constitution Saving Throw: DC 12.\
-    \ Failure: The target receives an infernal wound. While wounded, the target\
-    \ loses 5 (1d10) [Hit Points](3-Mechanics/CLI/rules/variant-rules/hit-points-xphb.md)\
-    \ at the start of each of its turns. The wound closes after 1 minute, after a\
-    \ spell restores [Hit Points](3-Mechanics/CLI/rules/variant-rules/hit-points-xphb.md)\
-    \ to the target, or after the target or a creature within 5 feet of it takes an\
-    \ action to stanch the wound, doing so by succeeding on a DC 12 Wisdom ([Medicine](3-Mechanics/CLI/rules/skills.md#Medicine))\
+- "desc": "Melee Attack Roll: +5, reach 10 ft. Hit: 8 (1d10 + 3) Slashing damage.\
+    \ If the target is a creature and doesn't already have an infernal wound, it is\
+    \ subjected to the following effect. Constitution Saving Throw: DC 12. Failure:\
+    \ The target receives an infernal wound. While wounded, the target loses 5 (1d10)\
+    \ [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md) at the start\
+    \ of each of its turns. The wound closes after 1 minute, after a spell restores\
+    \ [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md) to the target,\
+    \ or after the target or a creature within 5 feet of it takes an action to stanch\
+    \ the wound, doing so by succeeding on a DC 12 Wisdom ([Medicine](/3-Mechanics/CLI/skills.md#Medicine))\
     \ check."
   "name": "Infernal Glaive"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/fiend/token/bearded-devil-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/fiend/token/bearded-devil-xmm.webp"
 ```
 ^statblock
 

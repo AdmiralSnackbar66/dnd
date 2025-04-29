@@ -21,7 +21,7 @@ Faerl, a neutral evil wood elf, is proud and cruel. He believes that he must be 
 "subtype": "elf"
 "alignment": "Neutral Evil"
 "ac": !!int "15"
-"ac_class": "[breastplate](3-Mechanics/CLI/items/breastplate-xphb.md)"
+"ac_class": "[breastplate](/3-Mechanics/CLI/items/breastplate-xphb.md)"
 "hp": !!int "9"
 "hit_dice": "2d8"
 "stats":
@@ -40,7 +40,7 @@ Faerl, a neutral evil wood elf, is proud and cruel. He believes that he must be 
 "languages": "Common, Elvish"
 "cr": "1/8"
 "traits":
-- "desc": "Faerl has advantage on saving throws against being [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed),\
+- "desc": "Faerl has advantage on saving throws against being [charmed](/3-Mechanics/CLI/conditions.md#Charmed),\
     \ and magic can't put him to sleep."
   "name": "Fey Ancestry"
 "actions":
@@ -53,6 +53,6 @@ Faerl, a neutral evil wood elf, is proud and cruel. He believes that he must be 
   "name": "Parry"
 "source":
 - "CM"
-"image": "3-Mechanics/CLI/bestiary/npc/token/faerl-cm.webp"
+"image": "/3-Mechanics/CLI/bestiary/npc/token/faerl-cm.webp"
 ```
 ^statblock

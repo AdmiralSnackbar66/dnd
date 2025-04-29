@@ -14,8 +14,8 @@ aliases:
 
 - **Weight**: 0.5 lbs.
 
-When you drink this potion, you gain the effect of the [Haste](3-Mechanics/CLI/spells/haste-xphb.md) spell for 1 minute (no [Concentration](3-Mechanics/CLI/rules/conditions.md#Concentration) required) without suffering the wave of lethargy that typically occurs when the effect ends.
+When you drink this potion, you gain the effect of the [Haste](/3-Mechanics/CLI/spells/haste-xphb.md) spell for 1 minute (no [Concentration](/3-Mechanics/CLI/conditions.md#Concentration) required) without suffering the wave of lethargy that typically occurs when the effect ends.
 
 This potion's yellow fluid is streaked with black and swirls on its own.
 
-*Source: Dungeon Master's Guide (2024) p. 289. Available in the Free Rules (2024)*
+*Source: Dungeon Master's Guide (2024) p. 289. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*

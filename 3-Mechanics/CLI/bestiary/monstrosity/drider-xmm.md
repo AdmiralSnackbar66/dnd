@@ -12,7 +12,7 @@ statblock: inline
 aliases: ["Drider"]
 ---
 # [Drider](3-Mechanics\CLI\bestiary\monstrosity/drider-xmm.md)
-*Source: Monster Manual (2024) p. 105*  
+*Source: Monster Manual (2024) p. 105. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
 
 ## Drider
 
@@ -62,15 +62,15 @@ Driders also appear when whole communities are transformed by a wicked god's wra
 "languages": "Elvish, Undercommon"
 "cr": "6"
 "traits":
-- "desc": "The drider casts [Darkness](3-Mechanics/CLI/spells/darkness-xphb.md), [Faerie\
-    \ Fire](3-Mechanics/CLI/spells/faerie-fire-xphb.md), or [Web](3-Mechanics/CLI/spells/web-xphb.md),\
+- "desc": "The drider casts [Darkness](/3-Mechanics/CLI/spells/darkness-xphb.md),\
+    \ [Faerie Fire](/3-Mechanics/CLI/spells/faerie-fire-xphb.md), or [Web](/3-Mechanics/CLI/spells/web-xphb.md),\
     \ requiring no Material components and using Wisdom as the spellcasting ability\
     \ (spell save DC 14).\n"
   "name": "Magic of the Spider Queen (Recharge 5-6)"
 - "desc": "The drider can climb difficult surfaces, including along ceilings, without\
     \ needing to make an ability check."
   "name": "Spider Climb"
-- "desc": "While in sunlight, the drider has [Disadvantage](3-Mechanics/CLI/rules/variant-rules/disadvantage-xphb.md)\
+- "desc": "While in sunlight, the drider has [Disadvantage](/3-Mechanics/CLI/variant-rules/disadvantage-xphb.md)\
     \ on ability checks and attack rolls."
   "name": "Sunlight Sensitivity"
 - "desc": "The drider ignores movement restrictions caused by webs, and the drider\
@@ -79,15 +79,13 @@ Driders also appear when whole communities are transformed by a wicked god's wra
 "actions":
 - "desc": "The drider makes three attacks, using Foreleg or Poison Burst in any combination."
   "name": "Multiattack"
-- "desc": "Melee Attack Roll: +7, reach 10 ft. Hit: 13 (2d8 + 4) Piercing\
-    \ damage."
+- "desc": "Melee Attack Roll: +7, reach 10 ft. Hit: 13 (2d8 + 4) Piercing damage."
   "name": "Foreleg"
-- "desc": "Ranged Attack Roll: +6, range 120 ft. Hit: 13 (3d6 + 3) Poison\
-    \ damage."
+- "desc": "Ranged Attack Roll: +6, range 120 ft. Hit: 13 (3d6 + 3) Poison damage."
   "name": "Poison Burst"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/monstrosity/token/drider-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/drider-xmm.webp"
 ```
 ^statblock
 

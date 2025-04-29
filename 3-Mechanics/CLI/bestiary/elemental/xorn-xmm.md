@@ -13,7 +13,7 @@ statblock: inline
 aliases: ["Xorn"]
 ---
 # [Xorn](3-Mechanics\CLI\bestiary\elemental/xorn-xmm.md)
-*Source: Monster Manual (2024) p. 338*  
+*Source: Monster Manual (2024) p. 338. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
 
 ## Xorn
 
@@ -66,8 +66,8 @@ Roll on or choose a result from the Xorn Delicacies table to inspire a xorn's fa
   "Stealth": !!int "6"
   "Perception": !!int "6"
 "damage_immunities": "poison"
-"condition_immunities": "[paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed),\
-  \ [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified), [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"condition_immunities": "[paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed), [petrified](/3-Mechanics/CLI/conditions.md#Petrified),\
+  \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
 "senses": "darkvision 60 ft., tremorsense 60 ft., passive Perception 16"
 "languages": "Primordial (Terran)"
 "cr": "5"
@@ -86,13 +86,13 @@ Roll on or choose a result from the Xorn Delicacies table to inspire a xorn's fa
 - "desc": "Melee Attack Roll: +6, reach 5 ft. Hit: 8 (1d10 + 3) Slashing damage."
   "name": "Claw"
 "bonus_actions":
-- "desc": "The xorn moves up to its [Speed](3-Mechanics/CLI/rules/variant-rules/speed-xphb.md)\
-    \ or [Burrow Speed](3-Mechanics/CLI/rules/variant-rules/burrow-speed-xphb.md)\
-    \ straight toward an enemy it can sense."
+- "desc": "The xorn moves up to its [Speed](/3-Mechanics/CLI/variant-rules/speed-xphb.md)\
+    \ or [Burrow Speed](/3-Mechanics/CLI/variant-rules/burrow-speed-xphb.md) straight\
+    \ toward an enemy it can sense."
   "name": "Charge"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/elemental/token/xorn-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/elemental/token/xorn-xmm.webp"
 ```
 ^statblock
 

@@ -12,7 +12,7 @@ aliases: ["Constructed Commoner"]
 # [Constructed Commoner](3-Mechanics\CLI\bestiary\construct/constructed-commoner-cm.md)
 *Source: Candlekeep Mysteries p. 149*  
 
-To populate the demiplane without endangering any innocents, the Harpers created constructs out of wooden mannequins to act as villagers. Magic makes them look like flesh-and-blood people, and the constructs conduct themselves as convincingly real humanoids who are simply living their lives in Wisteria Vale. [Detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md) spells do not reveal their true nature, as each construct is shielded by a spell that makes it seem nonmagical.
+To populate the demiplane without endangering any innocents, the Harpers created constructs out of wooden mannequins to act as villagers. Magic makes them look like flesh-and-blood people, and the constructs conduct themselves as convincingly real humanoids who are simply living their lives in Wisteria Vale. [Detect magic](/3-Mechanics/CLI/spells/detect-magic-xphb.md) spells do not reveal their true nature, as each construct is shielded by a spell that makes it seem nonmagical.
 
 Though these constructed villagers can physically interact with the environment around them and hold lengthy conversations, a few clues to their true nature exist. A character who observes one or more of the commoners closely and succeeds on a DC 15 Wisdom (Perception) check notices a faint clicking sound whenever a villager touches a hard surface. The villagers are also cold to the touch, which can be ascertained only through physical contact. A character who succeeds on a DC 15 Wisdom (Insight) check notices that if the villagers are asked about anything outside Wisteria Vale or their individual talents, they quickly change subjects to small talk about the weather or gossip, and always in Common regardless of their apparent origin.
 
@@ -36,8 +36,8 @@ Constructed commoners don't bleed or feel pain like flesh-and-blood humanoids. I
 - !!int "10"
 "speed": "25 ft."
 "damage_immunities": "poison"
-"condition_immunities": "[exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
-  \ [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"condition_immunities": "[exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
+  \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
 "senses": "passive Perception 10"
 "languages": "Common"
 "cr": "0"
@@ -52,6 +52,6 @@ Constructed commoners don't bleed or feel pain like flesh-and-blood humanoids. I
   "name": "Club"
 "source":
 - "CM"
-"image": "3-Mechanics/CLI/bestiary/construct/token/constructed-commoner-cm.webp"
+"image": "/3-Mechanics/CLI/bestiary/construct/token/constructed-commoner-cm.webp"
 ```
 ^statblock

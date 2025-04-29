@@ -6,7 +6,7 @@ tags:
 aliases: ["Choose Languages; Rare Languages"]
 ---
 # Choose Languages; Rare Languages
-*Source: Player's Handbook (2024) p. 37* 
+*Source: Player's Handbook (2024) p. 37. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>* 
 
 **Rare Languages**
 

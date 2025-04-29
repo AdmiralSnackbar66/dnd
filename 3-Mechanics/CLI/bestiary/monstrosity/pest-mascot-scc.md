@@ -50,6 +50,6 @@ Grumpy, spiky, and generally irritating, pest mascots inhabit the muggy bayou of
   "name": "Bite"
 "source":
 - "SCC"
-"image": "3-Mechanics/CLI/bestiary/monstrosity/token/pest-mascot-scc.webp"
+"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/pest-mascot-scc.webp"
 ```
 ^statblock

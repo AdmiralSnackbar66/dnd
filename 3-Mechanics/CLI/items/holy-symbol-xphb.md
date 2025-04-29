@@ -15,8 +15,8 @@ aliases:
 
 **Items in this group:**
 
-- [Amulet](3-Mechanics/CLI/items/amulet-xphb.md)
-- [Emblem](3-Mechanics/CLI/items/emblem-xphb.md)
-- [Reliquary](3-Mechanics/CLI/items/reliquary-xphb.md)
+- [Amulet](/3-Mechanics/CLI/items/amulet-xphb.md)
+- [Emblem](/3-Mechanics/CLI/items/emblem-xphb.md)
+- [Reliquary](/3-Mechanics/CLI/items/reliquary-xphb.md)
 
 *Source: Player's Handbook (2024) p. 226*

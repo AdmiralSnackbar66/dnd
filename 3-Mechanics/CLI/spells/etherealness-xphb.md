@@ -10,10 +10,12 @@ tags:
 - ttrpg-cli/spell/class/wizard
 - ttrpg-cli/spell/level/7th-level
 - ttrpg-cli/spell/school/conjuration
+- ttrpg-cli/spell/subclass/divine-soul
 classes:
 - Bard
 - Cleric
 - Sorcerer
+- Sorcerer (Divine Soul)
 - Warlock
 - Wizard
 aliases: ["Etherealness"]
@@ -37,6 +39,6 @@ This spell ends instantly if you cast it while you are on the Ethereal Plane or 
 
 **Using a Higher-Level Spell Slot.** You can target up to three willing creatures (including yourself) for each spell slot level above 7. The creatures must be within 10 feet of you when you cast the spell.
 
-**Classes**: [Sorcerer](3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Cleric](3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Bard](3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Warlock](3-Mechanics/CLI/lists/list-spells-classes-warlock.md); [Wizard](3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Sorcerer (Divine Soul)](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer-xphb-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Warlock](/3-Mechanics/CLI/lists/list-spells-classes-warlock.md); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 269. Available in the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 269. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*

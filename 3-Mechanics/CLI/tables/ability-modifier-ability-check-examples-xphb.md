@@ -6,7 +6,7 @@ tags:
 aliases: ["Ability Modifier; Ability Check Examples"]
 ---
 # Ability Modifier; Ability Check Examples
-*Source: Player's Handbook (2024) p. 10* 
+*Source: Player's Handbook (2024) p. 10. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>* 
 
 **Ability Check Examples**
 

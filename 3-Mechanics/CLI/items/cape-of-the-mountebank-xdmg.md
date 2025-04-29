@@ -9,11 +9,11 @@ aliases:
 ---
 # Cape of the Mountebank
 *Wondrous item, rare*  
-![](3-Mechanics/CLI/items/img/cape-of-the-mountebank.webp#right)
+![](/3-Mechanics/CLI/items/img/cape-of-the-mountebank.webp#right)
 
 
-This cape smells faintly of brimstone. While wearing it, you can use it to cast [Dimension Door](3-Mechanics/CLI/spells/dimension-door-xphb.md) as a [Magic](3-Mechanics/CLI/rules/actions.md#Magic) action. This property can't be used again until the next dawn.
+This cape smells faintly of brimstone. While wearing it, you can use it to cast [Dimension Door](/3-Mechanics/CLI/spells/dimension-door-xphb.md) as a [Magic](/3-Mechanics/CLI/actions.md#Magic) action. This property can't be used again until the next dawn.
 
-When you teleport with that spell, you leave behind a cloud of smoke. The space you left is [Lightly Obscured](3-Mechanics/CLI/rules/variant-rules/lightly-obscured-xphb.md) by that smoke until the end of your next turn.
+When you teleport with that spell, you leave behind a cloud of smoke. The space you left is [Lightly Obscured](/3-Mechanics/CLI/variant-rules/lightly-obscured-xphb.md) by that smoke until the end of your next turn.
 
-*Source: Dungeon Master's Guide (2024) p. 242*
+*Source: Dungeon Master's Guide (2024) p. 242. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*

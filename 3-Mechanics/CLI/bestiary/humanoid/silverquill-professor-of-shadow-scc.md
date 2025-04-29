@@ -54,10 +54,10 @@ The scholars of Silverquill College study the power of magic shaped through spok
 "traits":
 - "desc": "The professor casts one of the following spells, requiring no material\
     \ components and using Charisma as the spellcasting ability (spell save DC 15):\n\
-    \nAt will: [dancing lights](3-Mechanics/CLI/spells/dancing-lights-xphb.md),\
-    \ [friends](3-Mechanics/CLI/spells/friends-xphb.md)\n\n1/day each: [tongues](3-Mechanics/CLI/spells/tongues-xphb.md)\n\
-    \n2/day each: [bane](3-Mechanics/CLI/spells/bane-xphb.md), [command](3-Mechanics/CLI/spells/command-xphb.md),\
-    \ [darkness](3-Mechanics/CLI/spells/darkness-xphb.md), [mage armor](3-Mechanics/CLI/spells/mage-armor-xphb.md)"
+    \nAt will: [dancing lights](/3-Mechanics/CLI/spells/dancing-lights-xphb.md),\
+    \ [friends](/3-Mechanics/CLI/spells/friends-xphb.md)\n\n1/day each: [tongues](/3-Mechanics/CLI/spells/tongues-xphb.md)\n\
+    \n2/day each: [bane](/3-Mechanics/CLI/spells/bane-xphb.md), [command](/3-Mechanics/CLI/spells/command-xphb.md),\
+    \ [darkness](/3-Mechanics/CLI/spells/darkness-xphb.md), [mage armor](/3-Mechanics/CLI/spells/mage-armor-xphb.md)"
   "name": "Spellcasting"
 - "desc": "Magical darkness doesn't impede the professor's darkvision."
   "name": "Devil's Sight"
@@ -67,11 +67,11 @@ The scholars of Silverquill College study the power of magic shaped through spok
   "name": "Multiattack"
 - "desc": "Melee or Ranged Spell Attack: +7 to hit, reach 5 ft. or range 120 ft.,\
     \ one target. Hit: 17 (3d8 + 4) necrotic damage. If the target is a creature,\
-    \ it must succeed on a DC 15 Constitution saving throw be [blinded](3-Mechanics/CLI/rules/conditions.md#Blinded)\
+    \ it must succeed on a DC 15 Constitution saving throw be [blinded](/3-Mechanics/CLI/conditions.md#Blinded)\
     \ until the end of its next turn."
   "name": "Ink Lance"
 "source":
 - "SCC"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/silverquill-professor-of-shadow-scc.webp"
+"image": "/3-Mechanics/CLI/bestiary/humanoid/token/silverquill-professor-of-shadow-scc.webp"
 ```
 ^statblock

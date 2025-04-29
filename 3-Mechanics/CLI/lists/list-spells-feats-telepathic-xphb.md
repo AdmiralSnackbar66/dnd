@@ -9,4 +9,4 @@ aliases: ["Spells for Telepathic"]
 
 ## 2nd Level
 
-- [Detect Thoughts](3-Mechanics/CLI/spells/detect-thoughts-xphb.md "XPHB")
+- [Detect Thoughts](/3-Mechanics/CLI/spells/detect-thoughts-xphb.md "XPHB")

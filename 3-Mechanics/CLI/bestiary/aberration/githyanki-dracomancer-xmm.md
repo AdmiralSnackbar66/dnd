@@ -63,30 +63,30 @@ When Gith perished, her adviser, Vlaakith, assumed rule of the githyanki. Vlaaki
 "cr": "16"
 "traits":
 - "desc": "The githyanki casts one of the following spells, requiring no spell components\
-    \ and using Intelligence as the spellcasting ability (spell save DC 18, +10\
-    \ to hit with spell attacks):\n\nAt will: [Mage Hand](3-Mechanics/CLI/spells/mage-hand-xphb.md)\
-    \ (the hand is Invisible)\n\n2/day each: [Nondetection](3-Mechanics/CLI/spells/nondetection-xphb.md)\
-    \ (self only), [Plane Shift](3-Mechanics/CLI/spells/plane-shift-xphb.md), [Tongues](3-Mechanics/CLI/spells/tongues-xphb.md)"
+    \ and using Intelligence as the spellcasting ability (spell save DC 18, +10 to\
+    \ hit with spell attacks):\n\nAt will: [Mage Hand](/3-Mechanics/CLI/spells/mage-hand-xphb.md)\
+    \ (the hand is Invisible)\n\n2/day each: [Nondetection](/3-Mechanics/CLI/spells/nondetection-xphb.md)\
+    \ (self only), [Plane Shift](/3-Mechanics/CLI/spells/plane-shift-xphb.md), [Tongues](/3-Mechanics/CLI/spells/tongues-xphb.md)"
   "name": "Spellcasting"
-- "desc": "The githyanki casts [Misty Step](3-Mechanics/CLI/spells/misty-step-xphb.md),\
+- "desc": "The githyanki casts [Misty Step](/3-Mechanics/CLI/spells/misty-step-xphb.md),\
     \ requiring no spell components and using the same spellcasting ability as Spellcasting.\n\
-    \n3/day: [Misty Step](3-Mechanics/CLI/spells/misty-step-xphb.md)"
+    \n3/day: [Misty Step](/3-Mechanics/CLI/spells/misty-step-xphb.md)"
   "name": "Misty Step (3/Day)"
 "actions":
 - "desc": "The githyanki makes three Draconic Strike attacks."
   "name": "Multiattack"
 - "desc": "Melee or Ranged Attack Roll: +10, reach 10 ft. or range 120 ft. Hit:\
-    \ 12 (2d6 + 5) Slashing damage plus 17 (5d6) Fire damage, and the target has\
-    \ the [Frightened](3-Mechanics/CLI/rules/conditions.md#Frightened) condition until\
-    \ the start of the githyanki's next turn."
+    \ 12 (2d6 + 5) Slashing damage plus 17 (5d6) Fire damage, and the target has the\
+    \ [Frightened](/3-Mechanics/CLI/conditions.md#Frightened) condition until the\
+    \ start of the githyanki's next turn."
   "name": "Draconic Strike"
-- "desc": "Dexterity Saving Throw: DC 18, each creature in a 90-foot [Cone](3-Mechanics/CLI/rules/variant-rules/cone-area-of-effect-xphb.md).\
+- "desc": "Dexterity Saving Throw: DC 18, each creature in a 90-foot [Cone](/3-Mechanics/CLI/variant-rules/cone-area-of-effect-xphb.md).\
     \ Failure: 27 (6d8) Fire damage plus 27 (6d8) Force damage. Success: Half\
     \ damage."
   "name": "Conjured Dragon's Breath (Recharge 5-6)"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/aberration/token/githyanki-dracomancer-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/aberration/token/githyanki-dracomancer-xmm.webp"
 ```
 ^statblock
 

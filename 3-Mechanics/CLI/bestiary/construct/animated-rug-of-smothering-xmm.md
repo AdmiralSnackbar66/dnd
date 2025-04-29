@@ -11,7 +11,7 @@ statblock: inline
 aliases: ["Animated Rug of Smothering"]
 ---
 # [Animated Rug of Smothering](3-Mechanics\CLI\bestiary\construct/animated-rug-of-smothering-xmm.md)
-*Source: Monster Manual (2024) p. 17*  
+*Source: Monster Manual (2024) p. 17. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
 
 Animated rugs of smothering might attack any creature that steps on them, or they might be passed off as superficially similar magic items, such as Carpets of Flying, and attack those who speak a supposed command word. Deadly tapestries, furs, and similar items also use this stat block.
 
@@ -65,27 +65,26 @@ Roll on or choose a result from the Animated Object Catalysts table to inspire w
 - !!int "1"
 "speed": "10 ft."
 "damage_immunities": "poison, psychic"
-"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [deafened](3-Mechanics/CLI/rules/conditions.md#Deafened),\
-  \ [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion), [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened),\
-  \ [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed), [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified),\
-  \ [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [deafened](/3-Mechanics/CLI/conditions.md#Deafened),\
+  \ [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion), [frightened](/3-Mechanics/CLI/conditions.md#Frightened),\
+  \ [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed), [petrified](/3-Mechanics/CLI/conditions.md#Petrified),\
+  \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
 "senses": "blindsight 60 ft., passive Perception 6"
 "languages": ""
 "cr": "2"
 "actions":
-- "desc": "Melee Attack Roll: +5, reach 5 ft. Hit: 10 (2d6 + 3) Bludgeoning\
-    \ damage. If the target is a Medium or smaller creature, the rug can give it the\
-    \ [Grappled](3-Mechanics/CLI/rules/conditions.md#Grappled) condition (escape DC\
-    \ 13) instead of dealing damage. Until the grapple ends, the target has the [Blinded](3-Mechanics/CLI/rules/conditions.md#Blinded)\
-    \ and [Restrained](3-Mechanics/CLI/rules/conditions.md#Restrained) conditions,\
-    \ is suffocating, and takes 10 (2d6 + 3) Bludgeoning damage at the start of\
-    \ each of its turns. The rug can smother only one creature at a time.\n\nWhile\
-    \ grappling the target, the rug can't take this action, the rug halves the damage\
-    \ it takes (round down), and the target takes the same amount of damage."
+- "desc": "Melee Attack Roll: +5, reach 5 ft. Hit: 10 (2d6 + 3) Bludgeoning damage.\
+    \ If the target is a Medium or smaller creature, the rug can give it the [Grappled](/3-Mechanics/CLI/conditions.md#Grappled)\
+    \ condition (escape DC 13) instead of dealing damage. Until the grapple ends,\
+    \ the target has the [Blinded](/3-Mechanics/CLI/conditions.md#Blinded) and [Restrained](/3-Mechanics/CLI/conditions.md#Restrained)\
+    \ conditions, is suffocating, and takes 10 (2d6 + 3) Bludgeoning damage at the\
+    \ start of each of its turns. The rug can smother only one creature at a time.\n\
+    \nWhile grappling the target, the rug can't take this action, the rug halves the\
+    \ damage it takes (round down), and the target takes the same amount of damage."
   "name": "Smother"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/construct/token/animated-rug-of-smothering-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/construct/token/animated-rug-of-smothering-xmm.webp"
 ```
 ^statblock
 

@@ -13,7 +13,7 @@ statblock: inline
 aliases: ["Bulette"]
 ---
 # [Bulette](3-Mechanics\CLI\bestiary\monstrosity/bulette-xmm.md)
-*Source: Monster Manual (2024) p. 63*  
+*Source: Monster Manual (2024) p. 63. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
 
 Bulettes range under vast territories. They often threaten animal herds, and they can wipe out whole farming communities.
 
@@ -50,13 +50,12 @@ Also called "land sharks," bulettes are single-minded predators that burrow unde
 "actions":
 - "desc": "The bulette makes two Bite attacks."
   "name": "Multiattack"
-- "desc": "Melee Attack Roll: +7, reach 5 ft. Hit: 17 (2d12 + 4) Piercing\
-    \ damage."
+- "desc": "Melee Attack Roll: +7, reach 5 ft. Hit: 17 (2d12 + 4) Piercing damage."
   "name": "Bite"
 - "desc": "The bulette spends 5 feet of movement to jump to a space within 15 feet\
     \ that contains one or more Large or smaller creatures. Dexterity Saving Throw:\
     \ DC 15, each creature in the bulette's destination space. Failure: 19 (3d12)\
-    \ Bludgeoning damage, and the target has the [Prone](3-Mechanics/CLI/rules/conditions.md#Prone)\
+    \ Bludgeoning damage, and the target has the [Prone](/3-Mechanics/CLI/conditions.md#Prone)\
     \ condition. Success: Half damage, and the target is pushed 5 feet straight\
     \ away from the bulette."
   "name": "Deadly Leap"
@@ -65,7 +64,7 @@ Also called "land sharks," bulettes are single-minded predators that burrow unde
   "name": "Leap"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/monstrosity/token/bulette-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/bulette-xmm.webp"
 ```
 ^statblock
 

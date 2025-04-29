@@ -50,9 +50,9 @@ The archaeomancers of Lorehold College draw their magical might from the flow of
 "traits":
 - "desc": "The apprentice casts one of the following spells, requiring no material\
     \ components and using Intelligence as the spellcasting ability (spell save DC\
-    \ 12):\n\nAt will: [guidance](3-Mechanics/CLI/spells/guidance-xphb.md), [light](3-Mechanics/CLI/spells/light-xphb.md)\n\
-    \n1/day each: [comprehend languages](3-Mechanics/CLI/spells/comprehend-languages-xphb.md),\
-    \ [locate object](3-Mechanics/CLI/spells/locate-object-xphb.md), [mage armor](3-Mechanics/CLI/spells/mage-armor-xphb.md)"
+    \ 12):\n\nAt will: [guidance](/3-Mechanics/CLI/spells/guidance-xphb.md), [light](/3-Mechanics/CLI/spells/light-xphb.md)\n\
+    \n1/day each: [comprehend languages](/3-Mechanics/CLI/spells/comprehend-languages-xphb.md),\
+    \ [locate object](/3-Mechanics/CLI/spells/locate-object-xphb.md), [mage armor](/3-Mechanics/CLI/spells/mage-armor-xphb.md)"
   "name": "Spellcasting"
 "actions":
 - "desc": "Melee Spell Attack: +4 to hit, reach 30 ft., one target. Hit: 7 (1d10\
@@ -70,6 +70,6 @@ The archaeomancers of Lorehold College draw their magical might from the flow of
   "name": "Learn from the Past (2/Day)"
 "source":
 - "SCC"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/lorehold-apprentice-scc.webp"
+"image": "/3-Mechanics/CLI/bestiary/humanoid/token/lorehold-apprentice-scc.webp"
 ```
 ^statblock

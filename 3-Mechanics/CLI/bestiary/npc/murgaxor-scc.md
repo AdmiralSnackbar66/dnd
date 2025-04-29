@@ -49,7 +49,7 @@ After giving the characters their quest, Professor Lang hands them a file with i
   "Deception": !!int "9"
   "Survival": !!int "5"
 "damage_resistances": "necrotic"
-"condition_immunities": "[exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion)"
+"condition_immunities": "[exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion)"
 "senses": "passive Perception 11"
 "languages": "Common plus any four languages"
 "cr": "9"
@@ -59,10 +59,10 @@ After giving the characters their quest, Professor Lang hands them a file with i
   "name": "Blood Aegis"
 - "desc": "Murgaxor wears an Oriq mask. While wearing the mask, Murgaxor can't be\
     \ targeted by any divination magic or perceived through magical scrying sensors,\
-    \ and he adds double his proficiency bonus to Charisma ([Deception](3-Mechanics/CLI/rules/skills.md#Deception))\
+    \ and he adds double his proficiency bonus to Charisma ([Deception](/3-Mechanics/CLI/skills.md#Deception))\
     \ checks (included above)."
   "name": "Oriq Mask"
-- "desc": "While Murgaxor isn't [blinded](3-Mechanics/CLI/rules/conditions.md#Blinded),\
+- "desc": "While Murgaxor isn't [blinded](/3-Mechanics/CLI/conditions.md#Blinded),\
     \ he can see any creature that isn't an Undead or a Construct within 60 feet of\
     \ himself, even through total cover, heavily obscured areas, invisibility, or\
     \ any other phenomena that would prevent sight."
@@ -70,17 +70,17 @@ After giving the characters their quest, Professor Lang hands them a file with i
 "actions":
 - "desc": "Murgaxor makes two Blood Lash attacks."
   "name": "Multiattack"
-- "desc": "Melee Spell Attack: +9 to hit, reach 10 ft., one target. Hit: 21\
-    \ (3d10 + 5) necrotic damage. If the target is a creature, it can't regain hit\
-    \ points until the start of Murgaxor's next turn."
+- "desc": "Melee Spell Attack: +9 to hit, reach 10 ft., one target. Hit: 21 (3d10\
+    \ + 5) necrotic damage. If the target is a creature, it can't regain hit points\
+    \ until the start of Murgaxor's next turn."
   "name": "Blood Lash"
 - "desc": "Murgaxor chooses a point within 150 feet of himself, and a 20-foot radius\
     \ sphere centered on that point fills with a burst of searing, blood-red mist.\
     \ Each creature of Murgaxor's choice that he can see in that area must make a\
     \ DC 17 Constitution saving throw. On a failed save, a creature takes 38 (7d10)\
-    \ necrotic damage and is [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated)\
+    \ necrotic damage and is [incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated)\
     \ until the end of its next turn. On a success, a creature takes half as much\
-    \ damage and isn't [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated).\
+    \ damage and isn't [incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated).\
     \ A creature dies if reduced to 0 hit points by this necrotic damage."
   "name": "Blood Boil (Recharge 4-6)"
 "lair_actions":
@@ -88,7 +88,7 @@ After giving the characters their quest, Professor Lang hands them a file with i
     \ of the following lair actions; after he does so, he can't use that action again\
     \ until he finishes a long rest:"
   "name": ""
-- "desc": "- Clay Behemoth. A [clay golem](3-Mechanics/CLI/bestiary/construct/clay-golem-xmm.md)\
+- "desc": "- Clay Behemoth. A [clay golem](/3-Mechanics/CLI/bestiary/construct/clay-golem-xmm.md)\
     \ erupts from the floor in an unoccupied space within 15 feet of the ritual circle.\
     \ The golem obeys Murgaxor's commands, takes its turns on initiative count 10\
     \ (losing initiative ties), fights until destroyed, and reverts to a mound of\
@@ -96,20 +96,20 @@ After giving the characters their quest, Professor Lang hands them a file with i
     \ earth rises from the floor in an unoccupied space that Murgaxor can see within\
     \ 30 feet of him. The fist attacks when one creature of his choice is within 4\
     \ feet of the fist. The fist has a +11 bonus to hit, and on a hit, the target\
-    \ takes 13 (3d8) bludgeoning damage and is grappled (escape DC 15). The fist\
-    \ disappears if the attack roll misses or if the grapple ends. When the fist disappears,\
+    \ takes 13 (3d8) bludgeoning damage and is grappled (escape DC 15). The fist disappears\
+    \ if the attack roll misses or if the grapple ends. When the fist disappears,\
     \ this lair action recharges, allowing Murgaxor to use it again.  \n- Necrotic\
     \ Burst. Tendrils of necrotic energy erupt from the ritual circle and lash out\
     \ at any number of creatures Murgaxor can see within 15 feet of the circle. Each\
     \ target must succeed on a DC 15 Dexterity saving throw, or it takes 5 (1d10)\
     \ necrotic damage and can't regain hit points until the start of its next turn.\
-    \  \n- Summon Mephits. Murgaxor summons four [mud mephits](3-Mechanics/CLI/bestiary/elemental/mud-mephit-xmm.md)\
+    \  \n- Summon Mephits. Murgaxor summons four [mud mephits](/3-Mechanics/CLI/bestiary/elemental/mud-mephit-xmm.md)\
     \ that appear in unoccupied spaces within 15 feet of the ritual circle. The mephits\
     \ obey Murgaxor's commands, take their turns on initiative count 15 (losing initiative\
     \ ties), and fight until destroyed.  "
   "name": ""
 "source":
 - "SCC"
-"image": "3-Mechanics/CLI/bestiary/npc/token/murgaxor-scc.webp"
+"image": "/3-Mechanics/CLI/bestiary/npc/token/murgaxor-scc.webp"
 ```
 ^statblock

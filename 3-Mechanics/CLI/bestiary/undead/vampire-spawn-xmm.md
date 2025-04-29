@@ -12,7 +12,7 @@ statblock: inline
 aliases: ["Vampire Spawn"]
 ---
 # [Vampire Spawn](3-Mechanics\CLI\bestiary\undead/vampire-spawn-xmm.md)
-*Source: Monster Manual (2024) p. 315*  
+*Source: Monster Manual (2024) p. 315. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
 
 Vampire spawn are newly created vampires. They have yet to fully master their abilities, and many are consumed by their thirst for blood. Vampire spawn might serve more powerful vampires or pursue their own depraved agendas.
 
@@ -84,33 +84,33 @@ Vampires and vampire umbral lords create sanctuaries apart from the living, whet
     \ enter a residence without an invitation from an occupant.  \n- Running Water.\
     \ The vampire takes 20 Acid damage if it ends its turn in running water.  \n-\
     \ Stake to the Heart. The vampire is destroyed if a weapon that deals Piercing\
-    \ damage is driven into the vampire's heart while the vampire has the [Incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated)\
+    \ damage is driven into the vampire's heart while the vampire has the [Incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated)\
     \ condition.  \n- Sunlight. The vampire takes 20 Radiant damage if it starts\
-    \ its turn in sunlight. While in sunlight, it has [Disadvantage](3-Mechanics/CLI/rules/variant-rules/disadvantage-xphb.md)\
+    \ its turn in sunlight. While in sunlight, it has [Disadvantage](/3-Mechanics/CLI/variant-rules/disadvantage-xphb.md)\
     \ on attack rolls and ability checks.  "
   "name": "Vampire Weakness"
 "actions":
 - "desc": "The vampire makes two Claw attacks and uses Bite."
   "name": "Multiattack"
 - "desc": "Melee Attack Roll: +6, reach 5 ft. Hit: 8 (2d4 + 3) Slashing damage.\
-    \ If the target is a Medium or smaller creature, it has the [Grappled](3-Mechanics/CLI/rules/conditions.md#Grappled)\
+    \ If the target is a Medium or smaller creature, it has the [Grappled](/3-Mechanics/CLI/conditions.md#Grappled)\
     \ condition (escape DC 13) from one of two claws."
   "name": "Claw"
 - "desc": "Constitution Saving Throw: DC 14, one creature within 5 feet that is\
-    \ willing or that has the [Grappled](3-Mechanics/CLI/rules/conditions.md#Grappled),\
-    \ [Incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated), or [Restrained](3-Mechanics/CLI/rules/conditions.md#Restrained)\
-    \ condition. Failure: 5 (1d4 + 3) Piercing damage plus 10 (3d6) Necrotic\
-    \ damage. The target's [Hit Point](3-Mechanics/CLI/rules/variant-rules/hit-points-xphb.md)\
+    \ willing or that has the [Grappled](/3-Mechanics/CLI/conditions.md#Grappled),\
+    \ [Incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated), or [Restrained](/3-Mechanics/CLI/conditions.md#Restrained)\
+    \ condition. Failure: 5 (1d4 + 3) Piercing damage plus 10 (3d6) Necrotic damage.\
+    \ The target's [Hit Point](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)\
     \ maximum decreases by an amount equal to the Necrotic damage taken, and the vampire\
-    \ regains [Hit Points](3-Mechanics/CLI/rules/variant-rules/hit-points-xphb.md)\
-    \ equal to that amount."
+    \ regains [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md) equal\
+    \ to that amount."
   "name": "Bite"
 "bonus_actions":
 - "desc": "The vampire takes the Dash or Disengage action."
   "name": "Deathless Agility"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/undead/token/vampire-spawn-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/undead/token/vampire-spawn-xmm.webp"
 ```
 ^statblock
 

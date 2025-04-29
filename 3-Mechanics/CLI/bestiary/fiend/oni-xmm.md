@@ -12,7 +12,7 @@ statblock: inline
 aliases: ["Oni"]
 ---
 # [Oni](3-Mechanics\CLI\bestiary\fiend/oni-xmm.md)
-*Source: Monster Manual (2024) p. 232*  
+*Source: Monster Manual (2024) p. 232. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
 
 ## Oni
 
@@ -69,26 +69,26 @@ Oni torment villages that don't pay them or other supernatural forces respect. R
 "traits":
 - "desc": "The oni casts one of the following spells, requiring no Material components\
     \ and using Charisma as the spellcasting ability (spell save DC 13):\n\n1/day\
-    \ each: [Charm Person](3-Mechanics/CLI/spells/charm-person-xphb.md) (level 2\
-    \ version), [Darkness](3-Mechanics/CLI/spells/darkness-xphb.md), [Gaseous Form](3-Mechanics/CLI/spells/gaseous-form-xphb.md),\
-    \ [Sleep](3-Mechanics/CLI/spells/sleep-xphb.md)"
+    \ each: [Charm Person](/3-Mechanics/CLI/spells/charm-person-xphb.md) (level\
+    \ 2 version), [Darkness](/3-Mechanics/CLI/spells/darkness-xphb.md), [Gaseous Form](/3-Mechanics/CLI/spells/gaseous-form-xphb.md),\
+    \ [Sleep](/3-Mechanics/CLI/spells/sleep-xphb.md)"
   "name": "Spellcasting"
-- "desc": "The oni casts [Invisibility](3-Mechanics/CLI/spells/invisibility-xphb.md)\
+- "desc": "The oni casts [Invisibility](/3-Mechanics/CLI/spells/invisibility-xphb.md)\
     \ on itself, requiring no spell components and using the same spellcasting ability\
-    \ as Spellcasting.\n\nAt will: [Invisibility](3-Mechanics/CLI/spells/invisibility-xphb.md)"
+    \ as Spellcasting.\n\nAt will: [Invisibility](/3-Mechanics/CLI/spells/invisibility-xphb.md)"
   "name": "Invisibility"
-- "desc": "The oni regains 10 [Hit Points](3-Mechanics/CLI/rules/variant-rules/hit-points-xphb.md)\
-    \ at the start of each of its turns if it has at least 1 [Hit Point](3-Mechanics/CLI/rules/variant-rules/hit-points-xphb.md)."
+- "desc": "The oni regains 10 [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)\
+    \ at the start of each of its turns if it has at least 1 [Hit Point](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)."
   "name": "Regeneration"
 "actions":
 - "desc": "The oni makes two Claw or Nightmare Ray attacks. It can replace one attack\
     \ with a use of Spellcasting."
   "name": "Multiattack"
-- "desc": "Melee Attack Roll: +7, reach 10 ft. Hit: 10 (1d12 + 4) Slashing\
-    \ damage plus 9 (2d8) Necrotic damage."
+- "desc": "Melee Attack Roll: +7, reach 10 ft. Hit: 10 (1d12 + 4) Slashing damage\
+    \ plus 9 (2d8) Necrotic damage."
   "name": "Claw"
 - "desc": "Ranged Attack Roll: +5, range 60 ft. Hit: 9 (2d6 + 2) Psychic damage,\
-    \ and the target has the [Frightened](3-Mechanics/CLI/rules/conditions.md#Frightened)\
+    \ and the target has the [Frightened](/3-Mechanics/CLI/conditions.md#Frightened)\
     \ condition until the start of the oni's next turn."
   "name": "Nightmare Ray"
 - "desc": "The oni shape-shifts into a Small or Medium Humanoid or a Large Giant,\
@@ -97,7 +97,7 @@ Oni torment villages that don't pay them or other supernatural forces respect. R
   "name": "Shape-Shift"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/fiend/token/oni-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/fiend/token/oni-xmm.webp"
 ```
 ^statblock
 

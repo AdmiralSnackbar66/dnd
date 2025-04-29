@@ -11,11 +11,11 @@ aliases:
 ---
 # Greatclub
 *Weapon*  
-![](3-Mechanics/CLI/items/img/greatclub.webp#right)
+![](/3-Mechanics/CLI/items/img/greatclub.webp#right)
 
 - **Damage**: 1d8 bludgeoning
-- **Properties**: [Two-Handed](3-Mechanics/CLI/rules/item-properties.md#Two-Handed)
+- **Properties**: [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed)
 - **Cost**: 2 sp
 - **Weight**: 10.0 lbs.
 
-*Source: Player's Handbook (2024) p. 215. Available in the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 215. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*

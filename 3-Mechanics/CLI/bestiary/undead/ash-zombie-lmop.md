@@ -41,7 +41,7 @@ The first time the zombie takes damage, any living creature within 5 feet of the
 "saves":
   "Wisdom": !!int "0"
 "damage_immunities": "poison"
-"condition_immunities": "[poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"condition_immunities": "[poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
 "senses": "darkvision 60 ft., passive Perception 8"
 "languages": "understands all languages it spoke in life but can't speak"
 "cr": "1/4"
@@ -62,6 +62,6 @@ The first time the zombie takes damage, any living creature within 5 feet of the
   "name": "Slam"
 "source":
 - "LMoP"
-"image": "3-Mechanics/CLI/bestiary/undead/token/ash-zombie-lmop.webp"
+"image": "/3-Mechanics/CLI/bestiary/undead/token/ash-zombie-lmop.webp"
 ```
 ^statblock

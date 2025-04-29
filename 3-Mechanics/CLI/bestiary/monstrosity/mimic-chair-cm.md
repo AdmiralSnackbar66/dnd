@@ -33,7 +33,7 @@ aliases: ["Mimic Chair"]
 "skillsaves":
   "Stealth": !!int "5"
 "damage_immunities": "acid"
-"condition_immunities": "[prone](3-Mechanics/CLI/rules/conditions.md#Prone)"
+"condition_immunities": "[prone](/3-Mechanics/CLI/conditions.md#Prone)"
 "senses": "darkvision 60 ft., passive Perception 11"
 "languages": ""
 "cr": "2"
@@ -44,13 +44,13 @@ aliases: ["Mimic Chair"]
     \ it dies."
   "name": "Shapechanger"
 - "desc": "The mimic adheres to anything that touches it. A Huge or smaller creature\
-    \ adhered to the mimic is also [grappled](3-Mechanics/CLI/rules/conditions.md#Grappled)\
+    \ adhered to the mimic is also [grappled](/3-Mechanics/CLI/conditions.md#Grappled)\
     \ by it (escape DC 10). Ability checks made to escape this grapple have disadvantage."
   "name": "Adhesive (Object Form Only)"
 - "desc": "While the mimic remains motionless, it is indistinguishable from an ordinary\
     \ object."
   "name": "False Appearance (Object Form Only)"
-- "desc": "The mimic has advantage on attack rolls against any creature [grappled](3-Mechanics/CLI/rules/conditions.md#Grappled)\
+- "desc": "The mimic has advantage on attack rolls against any creature [grappled](/3-Mechanics/CLI/conditions.md#Grappled)\
     \ by it."
   "name": "Grappler"
 "actions":
@@ -63,6 +63,6 @@ aliases: ["Mimic Chair"]
   "name": "Bite"
 "source":
 - "CM"
-"image": "3-Mechanics/CLI/bestiary/monstrosity/token/mimic-chair-cm.webp"
+"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/mimic-chair-cm.webp"
 ```
 ^statblock

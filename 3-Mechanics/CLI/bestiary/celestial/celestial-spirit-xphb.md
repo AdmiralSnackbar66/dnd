@@ -27,7 +27,7 @@ aliases: ["Celestial Spirit"]
 - !!int "16"
 "speed": "30 ft., fly 40 ft."
 "damage_resistances": "radiant"
-"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened)"
+"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [frightened](/3-Mechanics/CLI/conditions.md#Frightened)"
 "senses": "darkvision 60 ft., passive Perception 12"
 "languages": "Celestial, understands the languages you know"
 "actions":
@@ -47,6 +47,6 @@ aliases: ["Celestial Spirit"]
   "name": "Healing Touch (1/Day)"
 "source":
 - "XPHB"
-"image": "3-Mechanics/CLI/bestiary/celestial/token/celestial-spirit-xphb.webp"
+"image": "/3-Mechanics/CLI/bestiary/celestial/token/celestial-spirit-xphb.webp"
 ```
 ^statblock

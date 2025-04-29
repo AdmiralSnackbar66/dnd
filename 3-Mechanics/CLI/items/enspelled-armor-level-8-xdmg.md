@@ -28,9 +28,9 @@ aliases:
 
 
 
-Bound into this armor is a level 8 spell. The spell is determined when the armor is created and must belong to the Abjuration or Illusion school of magic. The armor has 6 charges and regains `1d6` expended charges daily at dawn. While wearing the armor, you can expend 1 charge to cast its spell.
+Bound into this armor is a level 8 spell. The spell is determined when the armor is created and must belong to the Abjuration or Illusion school of magic. The armor has 6 charges and regains `dice:1d6|noform|noparens|avg` (`1d6`) expended charges daily at dawn. While wearing the armor, you can expend 1 charge to cast its spell.
 
-The spell's saving throw DC is 18, and its attack bonus is `+10`.
+The spell's saving throw DC is 18, and its attack bonus is `dice:1d20+10|noform|noparens|text(+10)`.
 
 **Variants**:
 - [Enspelled (Level 8) Breastplate](#Enspelled%20(Level%208)%20Breastplate)

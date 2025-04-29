@@ -13,7 +13,6 @@ cssclasses: json5e-note
 - [Centaur Trooper](./centaur-trooper-xmm.md)
 - [Centaur Warden](./centaur-warden-xmm.md)
 - [Dire Worg](./dire-worg-xmm.md)
-- [Dohwar](./dohwar-bam.md)
 - [Dryad](./dryad-xmm.md)
 - [Fey Spirit (Fuming)](./fey-spirit-fuming-xphb.md)
 - [Fey Spirit (Mirthful)](./fey-spirit-mirthful-xphb.md)

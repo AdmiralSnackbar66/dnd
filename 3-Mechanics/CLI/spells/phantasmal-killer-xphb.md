@@ -10,10 +10,12 @@ tags:
 - ttrpg-cli/spell/subclass/arcane-trickster
 - ttrpg-cli/spell/subclass/eldritch-knight
 - ttrpg-cli/spell/subclass/illusionist
+- ttrpg-cli/spell/subclass/the-hexblade
 classes:
 - Bard
 - Fighter (Eldritch Knight)
 - Rogue (Arcane Trickster)
+- Warlock (The Hexblade)
 - Wizard
 - Wizard (Illusionist)
 aliases: ["Phantasmal Killer"]
@@ -27,12 +29,12 @@ aliases: ["Phantasmal Killer"]
 - **Components:** V, S
 - **Duration:** Concentration, up to 1 minute
 
-You tap into the nightmares of a creature you can see within range and create an illusion of its deepest fears, visible only to that creature. The target makes a Wisdom saving throw. On a failed save, the target takes `4d10` Psychic damage and has [Disadvantage](3-Mechanics/CLI/rules/variant-rules/disadvantage-xphb.md) on ability checks and attack rolls for the duration. On a successful save, the target takes half as much damage, and the spell ends.
+You tap into the nightmares of a creature you can see within range and create an illusion of its deepest fears, visible only to that creature. The target makes a Wisdom saving throw. On a failed save, the target takes `dice:4d10|noform|noparens|avg` (`4d10`) Psychic damage and has [Disadvantage](/3-Mechanics/CLI/variant-rules/disadvantage-xphb.md) on ability checks and attack rolls for the duration. On a successful save, the target takes half as much damage, and the spell ends.
 
 For the duration, the target makes a Wisdom saving throw at the end of each of its turns. On a failed save, it takes the Psychic damage again. On a successful save, the spell ends.
 
-**Using a Higher-Level Spell Slot.** The damage increases by `1d10` for each spell slot level above 4.
+**Using a Higher-Level Spell Slot.** The damage increases by `dice:1d10|noform|noparens|avg|text(1d10)` for each spell slot level above 4.
 
-**Classes**: [Rogue (Arcane Trickster)](3-Mechanics/CLI/lists/list-spells-classes-rogue-xphb-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Fighter (Eldritch Knight)](3-Mechanics/CLI/lists/list-spells-classes-fighter-xphb-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Bard](3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard (Illusionist)](3-Mechanics/CLI/lists/list-spells-classes-wizard-xphb-illusionist-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Rogue (Arcane Trickster)](/3-Mechanics/CLI/lists/list-spells-classes-rogue-xphb-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Wizard (Illusionist)](/3-Mechanics/CLI/lists/list-spells-classes-wizard-xphb-illusionist-xphb.md "subclass=XPHB;class=XPHB"); [Fighter (Eldritch Knight)](/3-Mechanics/CLI/lists/list-spells-classes-fighter-xphb-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md); [Warlock (The Hexblade)](/3-Mechanics/CLI/lists/list-spells-classes-warlock-xphb-the-hexblade-xge.md "subclass=XGE;class=XPHB")
 
-*Source: Player's Handbook (2024) p. 304. Available in the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 304. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*

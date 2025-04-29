@@ -13,11 +13,11 @@ statblock: inline
 aliases: ["Giant Owl"]
 ---
 # [Giant Owl](3-Mechanics\CLI\bestiary\celestial/giant-owl-xmm.md)
-*Source: Monster Manual (2024) p. 358*  
+*Source: Monster Manual (2024) p. 358. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
 
 ## Animals
 
-Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [Panther](3-Mechanics/CLI/bestiary/beast/panther-xmm.md) stat block can also represent a mountain lion, while the [Giant Goat](3-Mechanics/CLI/bestiary/beast/giant-goat-xmm.md) stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
+Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [Panther](/3-Mechanics/CLI/bestiary/beast/panther-xmm.md) stat block can also represent a mountain lion, while the [Giant Goat](/3-Mechanics/CLI/bestiary/beast/giant-goat-xmm.md) stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
 
 ```statblock
 "name": "Giant Owl (XMM)"
@@ -47,8 +47,8 @@ Use these stat blocks to represent the creatures they're named for or other simi
 "traits":
 - "desc": "The owl casts one of the following spells, requiring no spell components\
     \ and using Wisdom as the spellcasting ability:\n\nAt will: [Detect Evil and\
-    \ Good](3-Mechanics/CLI/spells/detect-evil-and-good-xphb.md), [Detect Magic](3-Mechanics/CLI/spells/detect-magic-xphb.md)\n\
-    \n1/day: [Clairvoyance](3-Mechanics/CLI/spells/clairvoyance-xphb.md)"
+    \ Good](/3-Mechanics/CLI/spells/detect-evil-and-good-xphb.md), [Detect Magic](/3-Mechanics/CLI/spells/detect-magic-xphb.md)\n\
+    \n1/day: [Clairvoyance](/3-Mechanics/CLI/spells/clairvoyance-xphb.md)"
   "name": "Spellcasting"
 - "desc": "The owl doesn't provoke an Opportunity Attack when it flies out of an enemy's\
     \ reach."
@@ -58,7 +58,7 @@ Use these stat blocks to represent the creatures they're named for or other simi
   "name": "Talons"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/celestial/token/giant-owl-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/celestial/token/giant-owl-xmm.webp"
 ```
 ^statblock
 

@@ -6,7 +6,7 @@ tags:
 aliases: ["Proficiency Bonus"]
 ---
 # Proficiency Bonus
-*Source: Player's Handbook (2024) p. 13* 
+*Source: Player's Handbook (2024) p. 13. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>* 
 
 **Proficiency Bonus**
 

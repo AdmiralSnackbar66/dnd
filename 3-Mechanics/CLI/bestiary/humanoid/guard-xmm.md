@@ -11,7 +11,7 @@ statblock: inline
 aliases: ["Guard"]
 ---
 # [Guard](3-Mechanics\CLI\bestiary\humanoid/guard-xmm.md)
-*Source: Monster Manual (2024) p. 162*  
+*Source: Monster Manual (2024) p. 162. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
 
 Guards are perceptive, but most have little martial training. They might be bouncers, lookouts, members of a city watch, or other keen-eyed warriors.
 
@@ -56,7 +56,7 @@ Guards protect people, places, and things, either for pay or from a sense of dut
   "name": "Spear"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/guard-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/humanoid/token/guard-xmm.webp"
 ```
 ^statblock
 

@@ -13,7 +13,7 @@ statblock: inline
 aliases: ["Efreeti"]
 ---
 # [Efreeti](3-Mechanics\CLI\bestiary\elemental/efreeti-xmm.md)
-*Source: Monster Manual (2024) p. 109*  
+*Source: Monster Manual (2024) p. 109. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
 
 ## Efreeti
 
@@ -58,21 +58,20 @@ On many worlds, efreet dwell in sweltering deserts and volcanic regions. Those t
 "traits":
 - "desc": "The efreeti casts one of the following spells, requiring no Material components\
     \ and using Charisma as the spellcasting ability (spell save DC 16):\n\nAt will:\
-    \ [Detect Magic](3-Mechanics/CLI/spells/detect-magic-xphb.md), [Elementalism](3-Mechanics/CLI/spells/elementalism-xphb.md)\n\
-    \n1/day each: [Gaseous Form](3-Mechanics/CLI/spells/gaseous-form-xphb.md),\
-    \ [Invisibility](3-Mechanics/CLI/spells/invisibility-xphb.md), [Major Image](3-Mechanics/CLI/spells/major-image-xphb.md),\
-    \ [Plane Shift](3-Mechanics/CLI/spells/plane-shift-xphb.md), [Tongues](3-Mechanics/CLI/spells/tongues-xphb.md),\
-    \ [Wall of Fire](3-Mechanics/CLI/spells/wall-of-fire-xphb.md) (level 7 version)"
+    \ [Detect Magic](/3-Mechanics/CLI/spells/detect-magic-xphb.md), [Elementalism](/3-Mechanics/CLI/spells/elementalism-xphb.md)\n\
+    \n1/day each: [Gaseous Form](/3-Mechanics/CLI/spells/gaseous-form-xphb.md),\
+    \ [Invisibility](/3-Mechanics/CLI/spells/invisibility-xphb.md), [Major Image](/3-Mechanics/CLI/spells/major-image-xphb.md),\
+    \ [Plane Shift](/3-Mechanics/CLI/spells/plane-shift-xphb.md), [Tongues](/3-Mechanics/CLI/spells/tongues-xphb.md),\
+    \ [Wall of Fire](/3-Mechanics/CLI/spells/wall-of-fire-xphb.md) (level 7 version)"
   "name": "Spellcasting"
 - "desc": "If the efreeti dies outside the Elemental Plane of Fire, its body dissolves\
-    \ into ash, and it gains a new body in 1d4 days, reviving with all its [Hit\
-    \ Points](3-Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) somewhere on\
-    \ the Plane of Fire."
+    \ into ash, and it gains a new body in 1d4 days, reviving with all its [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)\
+    \ somewhere on the Plane of Fire."
   "name": "Elemental Restoration"
-- "desc": "The efreeti has [Advantage](3-Mechanics/CLI/rules/variant-rules/advantage-xphb.md)\
+- "desc": "The efreeti has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
     \ on saving throws against spells and other magical effects."
   "name": "Magic Resistance"
-- "desc": "The efreeti has a 30 percent chance of knowing the [Wish](3-Mechanics/CLI/spells/wish-xphb.md)\
+- "desc": "The efreeti has a 30 percent chance of knowing the [Wish](/3-Mechanics/CLI/spells/wish-xphb.md)\
     \ spell. If the efreeti knows it, the efreeti can cast it only on behalf of a\
     \ non-genie creature who communicates a wish in a way the efreeti can understand.\
     \ If the efreeti casts the spell for the creature, the efreeti suffers none of\
@@ -83,14 +82,14 @@ On many worlds, efreet dwell in sweltering deserts and volcanic regions. Those t
 - "desc": "The efreeti makes three attacks, using Heated Blade or Hurl Flame in any\
     \ combination."
   "name": "Multiattack"
-- "desc": "Melee Attack Roll: +10, reach 5 ft. Hit: 13 (2d6 + 6) Slashing\
-    \ damage plus 13 (2d12) Fire damage."
+- "desc": "Melee Attack Roll: +10, reach 5 ft. Hit: 13 (2d6 + 6) Slashing damage\
+    \ plus 13 (2d12) Fire damage."
   "name": "Heated Blade"
 - "desc": "Ranged Attack Roll: +8, range 120 ft. Hit: 24 (7d6) Fire damage."
   "name": "Hurl Flame"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/elemental/token/efreeti-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/elemental/token/efreeti-xmm.webp"
 ```
 ^statblock
 

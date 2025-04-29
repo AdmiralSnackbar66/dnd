@@ -11,7 +11,7 @@ statblock: inline
 aliases: ["Owlbear"]
 ---
 # [Owlbear](3-Mechanics\CLI\bestiary\monstrosity/owlbear-xmm.md)
-*Source: Monster Manual (2024) p. 234*  
+*Source: Monster Manual (2024) p. 234. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
 
 Owlbears are tenacious hunters that might track prey over miles and rarely give up their hunts.
 
@@ -34,7 +34,7 @@ Owlbears dwell in distinctive dens. Roll on or choose a result from the Owlbear 
 |-----------|----------------------------|
 | 1 | Evidence of previous occupants, like bandits, wolves, or dragons. |
 | 2 | Heaps of regurgitated pellets studded with coins or other treasure. |
-| 3 | A nest with `1d6` owlbear eggs. |
+| 3 | A nest with `dice:1d6\|noform\|noparens\|avg` (`1d6`) owlbear eggs. |
 | 4 | Passages through the earth or hollow trees. |
 ^owlbear-den-features
 
@@ -66,7 +66,7 @@ Owlbears dwell in distinctive dens. Roll on or choose a result from the Owlbear 
   "name": "Rend"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/monstrosity/token/owlbear-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/owlbear-xmm.webp"
 ```
 ^statblock
 

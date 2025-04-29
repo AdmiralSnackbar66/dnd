@@ -11,7 +11,7 @@ statblock: inline
 aliases: ["Shrieker Fungus"]
 ---
 # [Shrieker Fungus](3-Mechanics\CLI\bestiary\plant/shrieker-fungus-xmm.md)
-*Source: Monster Manual (2024) p. 125*  
+*Source: Monster Manual (2024) p. 125. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
 
 If exposed to light or otherwise disturbed, mushroomlike shriekers emit a high-pitched noise that gives them their name. This wailing might alert other creatures or attract predators.
 
@@ -40,19 +40,19 @@ The dank, sunless Underdark is a fertile breeding ground for weird and dangerous
 - !!int "3"
 - !!int "1"
 "speed": "5 ft."
-"condition_immunities": "[blinded](3-Mechanics/CLI/rules/conditions.md#Blinded), [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed),\
-  \ [deafened](3-Mechanics/CLI/rules/conditions.md#Deafened), [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened)"
+"condition_immunities": "[blinded](/3-Mechanics/CLI/conditions.md#Blinded), [charmed](/3-Mechanics/CLI/conditions.md#Charmed),\
+  \ [deafened](/3-Mechanics/CLI/conditions.md#Deafened), [frightened](/3-Mechanics/CLI/conditions.md#Frightened)"
 "senses": "blindsight 30 ft., passive Perception 6"
 "languages": ""
 "cr": "0"
 "reactions":
-- "desc": "Trigger: A creature or a source of [Bright Light](3-Mechanics/CLI/rules/variant-rules/bright-light-xphb.md)\
+- "desc": "Trigger: A creature or a source of [Bright Light](/3-Mechanics/CLI/variant-rules/bright-light-xphb.md)\
     \ moves within 30 feet of the shrieker. _Response:_ The shrieker emits a shriek\
     \ audible within 300 feet of itself for 1 minute or until the shrieker dies."
   "name": "Shriek"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/plant/token/shrieker-fungus-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/plant/token/shrieker-fungus-xmm.webp"
 ```
 ^statblock
 

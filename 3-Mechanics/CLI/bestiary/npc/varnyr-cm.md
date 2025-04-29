@@ -21,7 +21,7 @@ Varnyr is a senior scribe who has spent centuries at Candlekeep. She loves the b
 "subtype": "elf"
 "alignment": "Chaotic Good"
 "ac": !!int "15"
-"ac_class": "[breastplate](3-Mechanics/CLI/items/breastplate-xphb.md)"
+"ac_class": "[breastplate](/3-Mechanics/CLI/items/breastplate-xphb.md)"
 "hp": !!int "9"
 "hit_dice": "2d8"
 "stats":
@@ -40,7 +40,7 @@ Varnyr is a senior scribe who has spent centuries at Candlekeep. She loves the b
 "languages": "Common, Elvish"
 "cr": "1/8"
 "traits":
-- "desc": "Varnyr has advantage on saving throws against being [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed),\
+- "desc": "Varnyr has advantage on saving throws against being [charmed](/3-Mechanics/CLI/conditions.md#Charmed),\
     \ and magic can't put Varnyr to sleep."
   "name": "Fey Ancestry"
 "actions":
@@ -55,6 +55,6 @@ Varnyr is a senior scribe who has spent centuries at Candlekeep. She loves the b
   "name": "Parry"
 "source":
 - "CM"
-"image": "3-Mechanics/CLI/bestiary/npc/token/varnyr-cm.webp"
+"image": "/3-Mechanics/CLI/bestiary/npc/token/varnyr-cm.webp"
 ```
 ^statblock

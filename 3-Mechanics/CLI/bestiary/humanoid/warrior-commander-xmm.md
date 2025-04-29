@@ -82,18 +82,18 @@ Roll on or choose a result from the Warrior Roles table to inspire the creation 
   "name": "Multiattack"
 - "desc": "Melee Attack Roll: +9, reach 5 ft. Hit: 19 (4d6 + 5) Slashing damage.\
     \ The warrior also creates one of the following effects:\n\n- Sap. The target\
-    \ has [Disadvantage](3-Mechanics/CLI/rules/variant-rules/disadvantage-xphb.md)\
-    \ on its next attack roll before the start of the warrior's next turn.  \n- Maneuver.\
-    \ One ally who can see or hear the warrior can take a [Reaction](3-Mechanics/CLI/rules/variant-rules/reaction-xphb.md)\
-    \ to move up to half the ally's [Speed](3-Mechanics/CLI/rules/variant-rules/speed-xphb.md)\
+    \ has [Disadvantage](/3-Mechanics/CLI/variant-rules/disadvantage-xphb.md) on its\
+    \ next attack roll before the start of the warrior's next turn.  \n- Maneuver.\
+    \ One ally who can see or hear the warrior can take a [Reaction](/3-Mechanics/CLI/variant-rules/reaction-xphb.md)\
+    \ to move up to half the ally's [Speed](/3-Mechanics/CLI/variant-rules/speed-xphb.md)\
     \ without provoking Opportunity Attacks.  "
   "name": "Greatsword"
 - "desc": "Ranged Attack Roll: +9, range 150/600 ft. Hit: 18 (3d8 + 5) Piercing\
-    \ damage, and the target's [Speed](3-Mechanics/CLI/rules/variant-rules/speed-xphb.md)\
+    \ damage, and the target's [Speed](/3-Mechanics/CLI/variant-rules/speed-xphb.md)\
     \ decreases by 10 feet until the end of the target's next turn."
   "name": "Longbow"
 "bonus_actions":
-- "desc": "The warrior moves up to half its [Speed](3-Mechanics/CLI/rules/variant-rules/speed-xphb.md)\
+- "desc": "The warrior moves up to half its [Speed](/3-Mechanics/CLI/variant-rules/speed-xphb.md)\
     \ straight toward an enemy it can see without provoking Opportunity Attacks."
   "name": "Tactical Charge"
 "reactions":
@@ -103,7 +103,7 @@ Roll on or choose a result from the Warrior Roles table to inspire the creation 
   "name": "Counterattack"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/warrior-commander-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/humanoid/token/warrior-commander-xmm.webp"
 ```
 ^statblock
 

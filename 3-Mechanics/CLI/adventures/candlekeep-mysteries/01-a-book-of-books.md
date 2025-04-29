@@ -79,7 +79,7 @@ Details about the history and nature of the Realms fill volumes, and much of tha
 | Sarah of Yellowcrest Manor | 7 | A haunted book points a ghostly finger at the perpetrators of an unsolved mass killing in Waterdeep. |
 | Lore of Lurue | 8 | Adventurers become immersed in a storybook conflict involving Lurue the Unicorn Queen and Malar the Beast Lord. |
 | Kandlekeep Dekonstruktion | 9 | A stolen book leads adventurers to a tower in Candlekeep that is more than what it seems. |
-| Zikran's Zephyrean Tome | 10 | A djinni trapped in a book offers a [wish](3-Mechanics/CLI/spells/wish-xphb.md) spell to adventurers who find a way to release him. |
+| Zikran's Zephyrean Tome | 10 | A djinni trapped in a book offers a [wish](/3-Mechanics/CLI/spells/wish-xphb.md) spell to adventurers who find a way to release him. |
 | The Curious Tale of Wisteria Vale | 11 | A book holds the key to unlocking a bard's prison. |
 | The Book of Inner Alchemy | 12 | A search for the missing pages of a book puts adventurers in conflict with the monks of the Immortal Lotus. |
 | The Canopic Being | 13 | A book brings several puzzling organ transplants to light. |
@@ -88,6 +88,6 @@ Details about the history and nature of the Realms fill volumes, and much of tha
 | Xanthoria | 16 | A fell grimoire helps adventurers end a fungal plague. |
 ^candlekeep-mysteries
 
-![](3-Mechanics/CLI/adventures/candlekeep-mysteries/img/000-00-004-divider.webp#center)
+![](/3-Mechanics/CLI/adventures/candlekeep-mysteries/img/000-00-004-divider.webp#center)
 
-![Poster Map](3-Mechanics/CLI/adventures/candlekeep-mysteries/img/map-poster.webp#center)
+![Poster Map](/3-Mechanics/CLI/adventures/candlekeep-mysteries/img/map-poster.webp#center)

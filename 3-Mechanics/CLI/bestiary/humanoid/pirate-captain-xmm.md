@@ -11,7 +11,7 @@ statblock: inline
 aliases: ["Pirate Captain"]
 ---
 # [Pirate Captain](3-Mechanics\CLI\bestiary\humanoid/pirate-captain-xmm.md)
-*Source: Monster Manual (2024) p. 242*  
+*Source: Monster Manual (2024) p. 242. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
 
 Pirate captains command crews of pirates, dictating their destinations and targets. Captains cultivate fearsome and theatrical reputations, painting themselves as larger-than-life characters to terrorize their foes, ensure the obedience of their crews, and attract followers to their banner. Many have colorful nicknames inspired by signature traits and deeds.
 
@@ -77,7 +77,7 @@ To terrify opponents and spread their reputations, pirate crews fly distinctive 
 - "desc": "The pirate makes three attacks, using Rapier or Pistol in any combination."
   "name": "Multiattack"
 - "desc": "Melee Attack Roll: +7, reach 5 ft. Hit: 13 (2d8 + 4) Piercing damage,\
-    \ and the pirate has [Advantage](3-Mechanics/CLI/rules/variant-rules/advantage-xphb.md)\
+    \ and the pirate has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
     \ on the next attack roll it makes before the end of this turn."
   "name": "Rapier"
 - "desc": "Ranged Attack Roll: +7, range 30/90 ft. Hit: 15 (2d10 + 4) Piercing\
@@ -85,7 +85,7 @@ To terrify opponents and spread their reputations, pirate crews fly distinctive 
   "name": "Pistol"
 "bonus_actions":
 - "desc": "Wisdom Saving Throw: DC 14, one creature the pirate can see within 30\
-    \ feet. Failure: The target has the [Charmed](3-Mechanics/CLI/rules/conditions.md#Charmed)\
+    \ feet. Failure: The target has the [Charmed](/3-Mechanics/CLI/conditions.md#Charmed)\
     \ condition until the start of the pirate's next turn."
   "name": "Captain's Charm"
 "reactions":
@@ -96,7 +96,7 @@ To terrify opponents and spread their reputations, pirate crews fly distinctive 
   "name": "Riposte"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/pirate-captain-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/humanoid/token/pirate-captain-xmm.webp"
 ```
 ^statblock
 

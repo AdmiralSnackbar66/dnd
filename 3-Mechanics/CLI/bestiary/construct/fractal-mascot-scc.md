@@ -33,7 +33,7 @@ Because of their arithmetic basis, fractal mascots can alter both their size and
 - !!int "5"
 "speed": "30 ft."
 "damage_immunities": "poison"
-"condition_immunities": "[poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"condition_immunities": "[poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
 "senses": "passive Perception 10"
 "languages": "understands the languages of its creator but can't speak"
 "cr": "1/4"
@@ -43,8 +43,7 @@ Because of their arithmetic basis, fractal mascots can alter both their size and
   "name": "Relative Density"
 "actions":
 - "desc": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4\
-    \ + 1) force damage, or 6 (2d4 + 1) force damage if the fractal is Medium or\
-    \ bigger."
+    \ + 1) force damage, or 6 (2d4 + 1) force damage if the fractal is Medium or bigger."
   "name": "Quantum Strike"
 "bonus_actions":
 - "desc": "The fractal's size increases by one category. While the fractal is Medium\
@@ -57,6 +56,6 @@ Because of their arithmetic basis, fractal mascots can alter both their size and
   "name": "Diminish"
 "source":
 - "SCC"
-"image": "3-Mechanics/CLI/bestiary/construct/token/fractal-mascot-scc.webp"
+"image": "/3-Mechanics/CLI/bestiary/construct/token/fractal-mascot-scc.webp"
 ```
 ^statblock

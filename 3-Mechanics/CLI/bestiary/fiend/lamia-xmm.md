@@ -11,7 +11,7 @@ statblock: inline
 aliases: ["Lamia"]
 ---
 # [Lamia](3-Mechanics\CLI\bestiary\fiend/lamia-xmm.md)
-*Source: Monster Manual (2024) p. 192*  
+*Source: Monster Manual (2024) p. 192. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
 
 ## Lamia
 
@@ -64,10 +64,10 @@ Lamias either are descendants of that first lamia or have made similar deals. Th
 "traits":
 - "desc": "The lamia casts one of the following spells, requiring no Material components\
     \ and using Charisma as the spellcasting ability (spell save DC 13):\n\nAt will:\
-    \ [Disguise Self](3-Mechanics/CLI/spells/disguise-self-xphb.md) (can appear as\
-    \ a Large or Medium biped), [Minor Illusion](3-Mechanics/CLI/spells/minor-illusion-xphb.md)\n\
-    \n1/day each: [Geas](3-Mechanics/CLI/spells/geas-xphb.md), [Major Image](3-Mechanics/CLI/spells/major-image-xphb.md),\
-    \ [Scrying](3-Mechanics/CLI/spells/scrying-xphb.md)"
+    \ [Disguise Self](/3-Mechanics/CLI/spells/disguise-self-xphb.md) (can appear as\
+    \ a Large or Medium biped), [Minor Illusion](/3-Mechanics/CLI/spells/minor-illusion-xphb.md)\n\
+    \n1/day each: [Geas](/3-Mechanics/CLI/spells/geas-xphb.md), [Major Image](/3-Mechanics/CLI/spells/major-image-xphb.md),\
+    \ [Scrying](/3-Mechanics/CLI/spells/scrying-xphb.md)"
   "name": "Spellcasting"
 "actions":
 - "desc": "The lamia makes two Claw attacks. It can replace one attack with a use\
@@ -78,15 +78,15 @@ Lamias either are descendants of that first lamia or have made similar deals. Th
   "name": "Claw"
 - "desc": "Wisdom Saving Throw: DC 13, one creature the lamia can see within 5 feet.\
     \ Failure: 13 (3d8) Psychic damage, and the target is cursed for 1 hour. Until\
-    \ the curse ends, the target has the [Charmed](3-Mechanics/CLI/rules/conditions.md#Charmed)\
-    \ and [Poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned) conditions."
+    \ the curse ends, the target has the [Charmed](/3-Mechanics/CLI/conditions.md#Charmed)\
+    \ and [Poisoned](/3-Mechanics/CLI/conditions.md#Poisoned) conditions."
   "name": "Corrupting Touch"
 "bonus_actions":
 - "desc": "The lamia jumps up to 30 feet by spending 10 feet of movement."
   "name": "Leap"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/fiend/token/lamia-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/fiend/token/lamia-xmm.webp"
 ```
 ^statblock
 

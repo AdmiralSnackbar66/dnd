@@ -6,7 +6,7 @@ tags:
 aliases: ["Starting Equipment at Higher Levels"]
 ---
 # Starting Equipment at Higher Levels
-*Source: Player's Handbook (2024) p. 43* 
+*Source: Player's Handbook (2024) p. 43. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>* 
 
 **Starting Equipment at Higher Levels**
 

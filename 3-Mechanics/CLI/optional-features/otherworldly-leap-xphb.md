@@ -7,6 +7,6 @@ tags:
 aliases: ["Otherworldly Leap"]
 ---
 # Otherworldly Leap
-*Source: Player's Handbook (2024) p. 156*  
+*Source: Player's Handbook (2024) p. 156. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
 **Prerequisite**: 2nd Warlock
-You can cast [Jump](3-Mechanics/CLI/spells/jump-xphb.md) on yourself without expending a spell slot.
+You can cast [Jump](/3-Mechanics/CLI/spells/jump-xphb.md) on yourself without expending a spell slot.

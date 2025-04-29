@@ -11,7 +11,7 @@ statblock: inline
 aliases: ["Pirate"]
 ---
 # [Pirate](3-Mechanics\CLI\bestiary\humanoid/pirate-xmm.md)
-*Source: Monster Manual (2024) p. 241*  
+*Source: Monster Manual (2024) p. 241. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
 
 Along with being competent warriors, pirates are accomplished seafarers who know how to sail and maintain a ship. While some loyally follow their captains' orders, others place greed, superstition, or self-preservation over duty.
 
@@ -76,12 +76,12 @@ To terrify opponents and spread their reputations, pirate crews fly distinctive 
     \ 5 (1d4 + 3) Piercing damage."
   "name": "Dagger"
 - "desc": "Wisdom Saving Throw: DC 12, one creature the pirate can see within 30\
-    \ feet. Failure: The target has the [Charmed](3-Mechanics/CLI/rules/conditions.md#Charmed)\
+    \ feet. Failure: The target has the [Charmed](/3-Mechanics/CLI/conditions.md#Charmed)\
     \ condition until the start of the pirate's next turn."
   "name": "Enthralling Panache"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/pirate-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/humanoid/token/pirate-xmm.webp"
 ```
 ^statblock
 

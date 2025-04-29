@@ -12,7 +12,7 @@ statblock: inline
 aliases: ["Frost Giant"]
 ---
 # [Frost Giant](3-Mechanics\CLI\bestiary\giant/frost-giant-xmm.md)
-*Source: Monster Manual (2024) p. 124*  
+*Source: Monster Manual (2024) p. 124. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
 
 ## Frost Giant
 
@@ -60,22 +60,22 @@ Frost giants often travel far to find food and goods. This leads many to become 
 "actions":
 - "desc": "The giant makes two attacks, using Frost Axe or Great Bow in any combination."
   "name": "Multiattack"
-- "desc": "Melee Attack Roll: +9, reach 10 ft. Hit: 19 (2d12 + 6) Slashing\
-    \ damage plus 9 (2d8) Cold damage."
+- "desc": "Melee Attack Roll: +9, reach 10 ft. Hit: 19 (2d12 + 6) Slashing damage\
+    \ plus 9 (2d8) Cold damage."
   "name": "Frost Axe"
 - "desc": "Ranged Attack Roll: +9, range 150/600 ft. Hit: 17 (2d10 + 6) Piercing\
-    \ damage plus 7 (2d6) Cold damage, and the target's [Speed](3-Mechanics/CLI/rules/variant-rules/speed-xphb.md)\
+    \ damage plus 7 (2d6) Cold damage, and the target's [Speed](/3-Mechanics/CLI/variant-rules/speed-xphb.md)\
     \ decreases by 10 feet until the end of its next turn."
   "name": "Great Bow"
 "bonus_actions":
 - "desc": "The giant or one creature of its choice that can see or hear it gains 16\
-    \ (2d10 + 5) [Temporary Hit Points](3-Mechanics/CLI/rules/variant-rules/temporary-hit-points-xphb.md)\
-    \ and has [Advantage](3-Mechanics/CLI/rules/variant-rules/advantage-xphb.md) on\
-    \ attack rolls until the start of the giant's next turn."
+    \ (2d10 + 5) [Temporary Hit Points](/3-Mechanics/CLI/variant-rules/temporary-hit-points-xphb.md)\
+    \ and has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md) on attack\
+    \ rolls until the start of the giant's next turn."
   "name": "War Cry (Recharge 5-6)"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/giant/token/frost-giant-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/giant/token/frost-giant-xmm.webp"
 ```
 ^statblock
 

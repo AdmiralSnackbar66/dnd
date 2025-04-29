@@ -55,11 +55,11 @@ The scholars of Prismari College believe that art is the truest form of spellcra
 "traits":
 - "desc": "The professor casts one of the following spells, requiring no material\
     \ components and using Charisma as the spellcasting ability (spell save DC 15):\n\
-    \nAt will: [minor illusion](3-Mechanics/CLI/spells/minor-illusion-xphb.md)\n\
-    \n1/day: [wall of ice](3-Mechanics/CLI/spells/wall-of-ice-xphb.md)\n\n2/day\
-    \ each: [control water](3-Mechanics/CLI/spells/control-water-xphb.md), [create\
-    \ or destroy water](3-Mechanics/CLI/spells/create-or-destroy-water-xphb.md), [mage\
-    \ armor](3-Mechanics/CLI/spells/mage-armor-xphb.md), [stone shape](3-Mechanics/CLI/spells/stone-shape-xphb.md)"
+    \nAt will: [minor illusion](/3-Mechanics/CLI/spells/minor-illusion-xphb.md)\n\
+    \n1/day: [wall of ice](/3-Mechanics/CLI/spells/wall-of-ice-xphb.md)\n\n2/day\
+    \ each: [control water](/3-Mechanics/CLI/spells/control-water-xphb.md), [create\
+    \ or destroy water](/3-Mechanics/CLI/spells/create-or-destroy-water-xphb.md),\
+    \ [mage armor](/3-Mechanics/CLI/spells/mage-armor-xphb.md), [stone shape](/3-Mechanics/CLI/spells/stone-shape-xphb.md)"
   "name": "Spellcasting"
 - "desc": "The professor can walk across water and other liquids as if they were solid\
     \ ground."
@@ -74,12 +74,12 @@ The scholars of Prismari College believe that art is the truest form of spellcra
 - "desc": "The professor is momentarily surrounded by a swirling wave of water and\
     \ moves up to 30 feet. When the professor moves within 5 feet of any other creature\
     \ during this bonus action, that creature must succeed on a DC 15 Strength saving\
-    \ throw, or the creature is knocked [prone](3-Mechanics/CLI/rules/conditions.md#Prone)\
+    \ throw, or the creature is knocked [prone](/3-Mechanics/CLI/conditions.md#Prone)\
     \ and it can't take reactions until the start of its next turn. A creature can\
     \ suffer this effect only once during a turn."
   "name": "Rushing Wave"
 "source":
 - "SCC"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/prismari-professor-of-perfection-scc.webp"
+"image": "/3-Mechanics/CLI/bestiary/humanoid/token/prismari-professor-of-perfection-scc.webp"
 ```
 ^statblock

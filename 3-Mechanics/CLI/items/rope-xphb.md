@@ -15,8 +15,8 @@ aliases:
 - **Cost**: 1 gp
 - **Weight**: 5.0 lbs.
 
-As a [Utilize](3-Mechanics/CLI/rules/actions.md#Utilize) action, you can tie a knot with Rope if you succeed on a DC 10 Dexterity ([Sleight of Hand](3-Mechanics/CLI/rules/skills.md#Sleight%20of%20Hand)) check. The Rope can be burst with a successful DC 20 Strength ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)) check.
+As a [Utilize](/3-Mechanics/CLI/actions.md#Utilize) action, you can tie a knot with Rope if you succeed on a DC 10 Dexterity ([Sleight of Hand](/3-Mechanics/CLI/skills.md#Sleight%20of%20Hand)) check. The Rope can be burst with a successful DC 20 Strength ([Athletics](/3-Mechanics/CLI/skills.md#Athletics)) check.
 
-You can bind an unwilling creature with the Rope only if the creature has the [Grappled](3-Mechanics/CLI/rules/conditions.md#Grappled), [Incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated), or [Restrained](3-Mechanics/CLI/rules/conditions.md#Restrained) condition. If the creature's legs are bound, the creature has the [Restrained](3-Mechanics/CLI/rules/conditions.md#Restrained) condition until it escapes. Escaping the Rope requires the creature to make a successful DC 15 Dexterity ([Acrobatics](3-Mechanics/CLI/rules/skills.md#Acrobatics)) check as an action.
+You can bind an unwilling creature with the Rope only if the creature has the [Grappled](/3-Mechanics/CLI/conditions.md#Grappled), [Incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated), or [Restrained](/3-Mechanics/CLI/conditions.md#Restrained) condition. If the creature's legs are bound, the creature has the [Restrained](/3-Mechanics/CLI/conditions.md#Restrained) condition until it escapes. Escaping the Rope requires the creature to make a successful DC 15 Dexterity ([Acrobatics](/3-Mechanics/CLI/skills.md#Acrobatics)) check as an action.
 
-*Source: Player's Handbook (2024) p. 228. Available in the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 228. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*

@@ -124,32 +124,32 @@ Wrestler
 "traits":
 - "desc": "The performer casts one of the following spells, requiring no Material\
     \ components and using Charisma as the spellcasting ability (spell save DC 17):\n\
-    \nAt will: [Mage Hand](3-Mechanics/CLI/spells/mage-hand-xphb.md), [Minor Illusion](3-Mechanics/CLI/spells/minor-illusion-xphb.md),\
-    \ [Prestidigitation](3-Mechanics/CLI/spells/prestidigitation-xphb.md)\n\n1/day\
-    \ each: [Major Image](3-Mechanics/CLI/spells/major-image-xphb.md), [Project\
-    \ Image](3-Mechanics/CLI/spells/project-image-xphb.md)"
+    \nAt will: [Mage Hand](/3-Mechanics/CLI/spells/mage-hand-xphb.md), [Minor\
+    \ Illusion](/3-Mechanics/CLI/spells/minor-illusion-xphb.md), [Prestidigitation](/3-Mechanics/CLI/spells/prestidigitation-xphb.md)\n\
+    \n1/day each: [Major Image](/3-Mechanics/CLI/spells/major-image-xphb.md),\
+    \ [Project Image](/3-Mechanics/CLI/spells/project-image-xphb.md)"
   "name": "Spellcasting"
 "actions":
 - "desc": "The performer makes three Bejeweled Baton attacks."
   "name": "Multiattack"
-- "desc": "Melee Attack Roll: +9, reach 5 ft. Hit: 10 (2d4 + 5) Bludgeoning\
-    \ damage plus 10 (3d6) Psychic damage."
+- "desc": "Melee Attack Roll: +9, reach 5 ft. Hit: 10 (2d4 + 5) Bludgeoning damage\
+    \ plus 10 (3d6) Psychic damage."
   "name": "Bejeweled Baton"
-- "desc": "Wisdom Saving Throw: DC 17, each creature in a 20-foot-radius [Sphere](3-Mechanics/CLI/rules/variant-rules/sphere-area-of-effect-xphb.md)\
+- "desc": "Wisdom Saving Throw: DC 17, each creature in a 20-foot-radius [Sphere](/3-Mechanics/CLI/variant-rules/sphere-area-of-effect-xphb.md)\
     \ centered on a point within 120 feet. Failure: 22 (4d8 + 4) Psychic damage,\
-    \ and the target has the [Charmed](3-Mechanics/CLI/rules/conditions.md#Charmed)\
-    \ or [Frightened](3-Mechanics/CLI/rules/conditions.md#Frightened) condition (performer's\
+    \ and the target has the [Charmed](/3-Mechanics/CLI/conditions.md#Charmed) or\
+    \ [Frightened](/3-Mechanics/CLI/conditions.md#Frightened) condition (performer's\
     \ choice) until the end of the performer's next turn. Success: Half damage only."
   "name": "Majestic Song"
 "reactions":
 - "desc": "Trigger: A creature hits the performer with an attack roll. _Response—\
     _Wisdom Saving Throw: DC 17, the triggering creature. Failure: The attack\
-    \ roll misses the performer, and the target has the [Charmed](3-Mechanics/CLI/rules/conditions.md#Charmed)\
+    \ roll misses the performer, and the target has the [Charmed](/3-Mechanics/CLI/conditions.md#Charmed)\
     \ condition until the end of the performer's next turn."
   "name": "Warding Charm"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/performer-legend-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/humanoid/token/performer-legend-xmm.webp"
 ```
 ^statblock
 

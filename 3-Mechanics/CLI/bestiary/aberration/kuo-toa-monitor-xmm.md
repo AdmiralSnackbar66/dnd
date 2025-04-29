@@ -103,7 +103,7 @@ Kuo-toa typically organize their communities around sites they believe to be imp
 "traits":
 - "desc": "The kuo-toa can breathe air and water."
   "name": "Amphibious"
-- "desc": "While in sunlight, the kuo-toa has [Disadvantage](3-Mechanics/CLI/rules/variant-rules/disadvantage-xphb.md)\
+- "desc": "While in sunlight, the kuo-toa has [Disadvantage](/3-Mechanics/CLI/variant-rules/disadvantage-xphb.md)\
     \ on ability checks and attack rolls."
   "name": "Sunlight Sensitivity"
 "actions":
@@ -115,7 +115,7 @@ Kuo-toa typically organize their communities around sites they believe to be imp
   "name": "Bone Whip"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/aberration/token/kuo-toa-monitor-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/aberration/token/kuo-toa-monitor-xmm.webp"
 ```
 ^statblock
 

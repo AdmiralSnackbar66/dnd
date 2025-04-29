@@ -6,7 +6,7 @@ tags:
 aliases: ["Experience Points by Challenge Rating"]
 ---
 # Experience Points by Challenge Rating
-*Source: Monster Manual (2024) p. 8* 
+*Source: Monster Manual (2024) p. 8. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>* 
 
 **Experience Points by Challenge Rating**
 

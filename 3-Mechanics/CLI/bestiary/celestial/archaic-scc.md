@@ -45,19 +45,19 @@ In truth, archaics are the reincarnated souls of the oracles of Strixhaven. When
   "Arcana": !!int "20"
 "damage_resistances": "force"
 "damage_immunities": "poison, psychic"
-"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
-  \ [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened), [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed),\
-  \ [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified), [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned),\
-  \ [stunned](3-Mechanics/CLI/rules/conditions.md#Stunned)"
+"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
+  \ [frightened](/3-Mechanics/CLI/conditions.md#Frightened), [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed),\
+  \ [petrified](/3-Mechanics/CLI/conditions.md#Petrified), [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned),\
+  \ [stunned](/3-Mechanics/CLI/conditions.md#Stunned)"
 "senses": "truesight 120 ft., passive Perception 23"
 "languages": "all"
 "cr": "18"
 "traits":
 - "desc": "The archaic casts one of the following spells, requiring no material components\
     \ and using Intelligence as the spellcasting ability (spell save DC 22):\n\nAt\
-    \ will: [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md), [divination](3-Mechanics/CLI/spells/divination-xphb.md),\
-    \ [sending](3-Mechanics/CLI/spells/sending-xphb.md)\n\n1/day each: [banishment](3-Mechanics/CLI/spells/banishment-xphb.md),\
-    \ [forcecage](3-Mechanics/CLI/spells/forcecage-xphb.md)"
+    \ will: [detect magic](/3-Mechanics/CLI/spells/detect-magic-xphb.md), [divination](/3-Mechanics/CLI/spells/divination-xphb.md),\
+    \ [sending](/3-Mechanics/CLI/spells/sending-xphb.md)\n\n1/day each: [banishment](/3-Mechanics/CLI/spells/banishment-xphb.md),\
+    \ [forcecage](/3-Mechanics/CLI/spells/forcecage-xphb.md)"
   "name": "Spellcasting"
 - "desc": "The archaic's mind can't be read, creatures can communicate telepathically\
     \ with the archaic only if it allows, and magic can't determine whether the archaic\
@@ -71,10 +71,9 @@ In truth, archaics are the reincarnated souls of the oracles of Strixhaven. When
 - "desc": "The archaic makes two Force Strike attacks. It can also use Gravity Shift,\
     \ if available."
   "name": "Multiattack"
-- "desc": "Melee or Ranged Spell Attack: +14 to hit, reach 15 ft. or range 120\
-    \ ft., one target. Hit: 19 (2d10 + 8) force damage, and the target is pulled\
-    \ up to 10 feet toward the archaic or pushed 10 feet away from it, as the archaic\
-    \ chooses."
+- "desc": "Melee or Ranged Spell Attack: +14 to hit, reach 15 ft. or range 120 ft.,\
+    \ one target. Hit: 19 (2d10 + 8) force damage, and the target is pulled up to\
+    \ 10 feet toward the archaic or pushed 10 feet away from it, as the archaic chooses."
   "name": "Force Strike"
 - "desc": "The archaic reverses gravity for one creature it can see within 100 feet\
     \ of itself. The creature must succeed on a DC 22 Wisdom saving throw or fall\
@@ -105,6 +104,6 @@ In truth, archaics are the reincarnated souls of the oracles of Strixhaven. When
   "name": "Unravel Magic (Costs 2 Actions)"
 "source":
 - "SCC"
-"image": "3-Mechanics/CLI/bestiary/celestial/token/archaic-scc.webp"
+"image": "/3-Mechanics/CLI/bestiary/celestial/token/archaic-scc.webp"
 ```
 ^statblock

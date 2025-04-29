@@ -48,16 +48,16 @@ Water weirds might protect a site for generations and learn much about their sur
 "speed": "5 ft., swim 60 ft."
 "damage_resistances": "fire"
 "damage_immunities": "poison"
-"condition_immunities": "[exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
-  \ [grappled](3-Mechanics/CLI/rules/conditions.md#Grappled), [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed),\
-  \ [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified), [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned),\
-  \ [prone](3-Mechanics/CLI/rules/conditions.md#Prone), [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained),\
-  \ [unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious)"
+"condition_immunities": "[exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
+  \ [grappled](/3-Mechanics/CLI/conditions.md#Grappled), [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed),\
+  \ [petrified](/3-Mechanics/CLI/conditions.md#Petrified), [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned),\
+  \ [prone](/3-Mechanics/CLI/conditions.md#Prone), [restrained](/3-Mechanics/CLI/conditions.md#Restrained),\
+  \ [unconscious](/3-Mechanics/CLI/conditions.md#Unconscious)"
 "senses": "blindsight 30 ft., passive Perception 10"
 "languages": "understands Primordial but can't speak"
 "cr": "3"
 "traits":
-- "desc": "The water weird has the [Invisible](3-Mechanics/CLI/rules/conditions.md#Invisible)\
+- "desc": "The water weird has the [Invisible](/3-Mechanics/CLI/conditions.md#Invisible)\
     \ condition while fully immersed in water."
   "name": "Invisible in Water"
 - "desc": "The water weird dies if it leaves the water to which it is bound or if\
@@ -65,13 +65,13 @@ Water weirds might protect a site for generations and learn much about their sur
   "name": "Water Bound"
 "actions":
 - "desc": "Melee Attack Roll: +5, reach 10 ft. Hit: 13 (3d6 + 3) Cold damage.\
-    \ If the target is a Medium or smaller creature, it has the [Grappled](3-Mechanics/CLI/rules/conditions.md#Grappled)\
-    \ condition (escape DC 13), and it has the [Restrained](3-Mechanics/CLI/rules/conditions.md#Restrained)\
+    \ If the target is a Medium or smaller creature, it has the [Grappled](/3-Mechanics/CLI/conditions.md#Grappled)\
+    \ condition (escape DC 13), and it has the [Restrained](/3-Mechanics/CLI/conditions.md#Restrained)\
     \ condition until the grapple ends."
   "name": "Surge"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/elemental/token/water-weird-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/elemental/token/water-weird-xmm.webp"
 ```
 ^statblock
 

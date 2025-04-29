@@ -8,19 +8,19 @@ aliases: ["The Curious Tale of Wisteria Vale"]
 # The Curious Tale of Wisteria Vale
 *Source: Candlekeep Mysteries, p. 147* 
 
-![The Curious Tale of Wisteria Vale](3-Mechanics/CLI/adventures/candlekeep-mysteries/img/103-13-001-book.webp#center)
+![The Curious Tale of Wisteria Vale](/3-Mechanics/CLI/adventures/candlekeep-mysteries/img/103-13-001-book.webp#center)
 
 **An Adventure for 11th-level Characters**  
 **Developed & Edited by Christopher Perkins & Hannah Rose**  
 **Written by Kienna Shaw**  
 
-*The Curious Tale of Wisteria Vale* is the script of a play written in Common. It is split up into three acts, telling the story of a heroic bard before he becomes corrupted by evil. A wizard named Ryllia Liadon donated the book to Candlekeep as an entrance gift. She didn't tell the Avowed that the book contains the secret to accessing Wisteria Vale, a magical demiplane created by the Harpers to imprison a bard named [Arrant Quill](3-Mechanics/CLI/bestiary/npc/arrant-quill-cm.md) until they could free him from the influence of an evil artifact.
+*The Curious Tale of Wisteria Vale* is the script of a play written in Common. It is split up into three acts, telling the story of a heroic bard before he becomes corrupted by evil. A wizard named Ryllia Liadon donated the book to Candlekeep as an entrance gift. She didn't tell the Avowed that the book contains the secret to accessing Wisteria Vale, a magical demiplane created by the Harpers to imprison a bard named [Arrant Quill](/3-Mechanics/CLI/bestiary/npc/arrant-quill-cm.md) until they could free him from the influence of an evil artifact.
 
 The book has been hidden in the Candlekeep archives for three years, but the Harpers have finally discovered a cure for Quill's corruption, and the time has come to visit Wisteria Vale once more.
 
 ## Finding the Book
 
-The characters have been hired by Ryllia (a female human [archmage](3-Mechanics/CLI/bestiary/humanoid/archmage-xmm.md)) on behalf of the Harpers to administer the newfound cure to Quill. They received directions on how to find *The Curious Tale of Wisteria Vale* in Candlekeep and a promise of 5,000 gp if they successfully complete their task. The Avowed of Candlekeep furnish the characters with the book and a private room in which to read it.
+The characters have been hired by Ryllia (a female human [archmage](/3-Mechanics/CLI/bestiary/humanoid/archmage-xmm.md)) on behalf of the Harpers to administer the newfound cure to Quill. They received directions on how to find *The Curious Tale of Wisteria Vale* in Candlekeep and a promise of 5,000 gp if they successfully complete their task. The Avowed of Candlekeep furnish the characters with the book and a private room in which to read it.
 
 Alternatively, the characters could uncover the book while searching through Candlekeep's archives, if they've been granted access to the Inner Ward.
 
@@ -32,7 +32,7 @@ Although the design of the book is simple, the crafting and materials are of the
 
 ### The Play's the Thing
 
-The story of *The Curious Tale of Wisteria Vale* serves as the background for the adventure. Characters who succeed on a DC 13 Intelligence ([History](3-Mechanics/CLI/rules/skills.md#History)) check recognize that the play is a fictionalized retelling of [Arrant Quill](3-Mechanics/CLI/bestiary/npc/arrant-quill-cm.md)'s rise and fall, with many parallels to real events, including the appearance of the Harper wizard who hired the characters. Characters who succeed on this check by 5 or more also know that Wisteria Vale was the name of a village on the River Chionthar, just east of Baldur's Gate, that was destroyed over a decade ago. You can adjust Wisteria Vale's location to suit your campaign.
+The story of *The Curious Tale of Wisteria Vale* serves as the background for the adventure. Characters who succeed on a DC 13 Intelligence ([History](/3-Mechanics/CLI/skills.md#History)) check recognize that the play is a fictionalized retelling of [Arrant Quill](/3-Mechanics/CLI/bestiary/npc/arrant-quill-cm.md)'s rise and fall, with many parallels to real events, including the appearance of the Harper wizard who hired the characters. Characters who succeed on this check by 5 or more also know that Wisteria Vale was the name of a village on the River Chionthar, just east of Baldur's Gate, that was destroyed over a decade ago. You can adjust Wisteria Vale's location to suit your campaign.
 
 > [!note] Who Are the Harpers?
 > 
@@ -82,19 +82,19 @@ When that phrase is uttered, the book shakes and flies into the air, pages flipp
 
 ## Wisteria Vale
 
-Wisteria Vale is a demiplane created by the Harpers for one purpose: to imprison [Arrant Quill](3-Mechanics/CLI/bestiary/npc/arrant-quill-cm.md) while they devise a cure for his corruption. Everything in Wisteria Vale is bright and colorful, tailored to keep Quill comfortable and entertained. The weather is always mild and temperate, with just enough rainy days to nurture crops. Wisteria blossoms are always in full bloom amid the verdant greenery. The air is filled with the soothing sounds of nature, from birdsong to the chirping of crickets to gentle breezes ruffling the leaves. Time passes differently here: each day in Wisteria Vale equates to three days on the Material Plane.
+Wisteria Vale is a demiplane created by the Harpers for one purpose: to imprison [Arrant Quill](/3-Mechanics/CLI/bestiary/npc/arrant-quill-cm.md) while they devise a cure for his corruption. Everything in Wisteria Vale is bright and colorful, tailored to keep Quill comfortable and entertained. The weather is always mild and temperate, with just enough rainy days to nurture crops. Wisteria blossoms are always in full bloom amid the verdant greenery. The air is filled with the soothing sounds of nature, from birdsong to the chirping of crickets to gentle breezes ruffling the leaves. Time passes differently here: each day in Wisteria Vale equates to three days on the Material Plane.
 
 Because of the nature and purpose of the demiplane, any spells used to try to escape Wisteria Vale fail. The only way to leave the demiplane is to terminate it by curing or killing Quill.
 
 ### Constructed Commoners
 
-To populate the demiplane without endangering any innocents, the Harpers created constructs out of wooden mannequins to act as villagers (see the accompanying stat block). Magic makes them look like flesh-and-blood people, and the constructs conduct themselves as convincingly real humanoids who are simply living their lives in Wisteria Vale. [Detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md) spells do not reveal their true nature, as each construct is shielded by a spell that makes it seem nonmagical.
+To populate the demiplane without endangering any innocents, the Harpers created constructs out of wooden mannequins to act as villagers (see the accompanying stat block). Magic makes them look like flesh-and-blood people, and the constructs conduct themselves as convincingly real humanoids who are simply living their lives in Wisteria Vale. [Detect magic](/3-Mechanics/CLI/spells/detect-magic-xphb.md) spells do not reveal their true nature, as each construct is shielded by a spell that makes it seem nonmagical.
 
-Though these constructed villagers can physically interact with the environment around them and hold lengthy conversations, a few clues to their true nature exist. A character who observes one or more of the commoners closely and succeeds on a DC 15 Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) check notices a faint clicking sound whenever a villager touches a hard surface. The villagers are also cold to the touch, which can be ascertained only through physical contact. A character who succeeds on a DC 15 Wisdom ([Insight](3-Mechanics/CLI/rules/skills.md#Insight)) check notices that if the villagers are asked about anything outside Wisteria Vale or their individual talents, they quickly change subjects to small talk about the weather or gossip, and always in Common regardless of their apparent origin.
+Though these constructed villagers can physically interact with the environment around them and hold lengthy conversations, a few clues to their true nature exist. A character who observes one or more of the commoners closely and succeeds on a DC 15 Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) check notices a faint clicking sound whenever a villager touches a hard surface. The villagers are also cold to the touch, which can be ascertained only through physical contact. A character who succeeds on a DC 15 Wisdom ([Insight](/3-Mechanics/CLI/skills.md#Insight)) check notices that if the villagers are asked about anything outside Wisteria Vale or their individual talents, they quickly change subjects to small talk about the weather or gossip, and always in Common regardless of their apparent origin.
 
 Constructed commoners don't bleed or feel pain like flesh-and-blood humanoids. If a villager's hit points drop to 0, its true form is revealed: that of a lifeless wooden mannequin. Overnight, the mannequin disappears, and a replacement villager is generated by the demiplane to take over the "slain" villager's place and role in the village a few days later. If the mannequin is disintegrated or reduced to ashes, it is not replaced and the population of the village permanently decreases by one.
 
-![Constructed Commoner](3-Mechanics/CLI/adventures/candlekeep-mysteries/img/104-637514193124229281.webp#center)
+![Constructed Commoner](/3-Mechanics/CLI/adventures/candlekeep-mysteries/img/104-637514193124229281.webp#center)
 
 ### Aberrant Events
 
@@ -130,14 +130,14 @@ In an attempt to make the demiplane as comforting and familiar as possible for Q
 The following locations are keyed to the map of Wisteria Vale.
 
 > [!gallery]
-> ![Map 13.1: Wisteria Vale](3-Mechanics/CLI/adventures/candlekeep-mysteries/img/105-map-13-01-wisteria-vale.webp#gallery)
-> ![Player Version](3-Mechanics/CLI/adventures/candlekeep-mysteries/img/106-map-13-01-wisteria-vale-player.webp#gallery)
+> ![Map 13.1: Wisteria Vale](/3-Mechanics/CLI/adventures/candlekeep-mysteries/img/105-map-13-01-wisteria-vale.webp#gallery)
+> ![Player Version](/3-Mechanics/CLI/adventures/candlekeep-mysteries/img/106-map-13-01-wisteria-vale-player.webp#gallery)
 
 #### W1. Vyridian Forest
 
 The Vyridian Forest encircles the village. It is an ancient forest with well-worn trails, old-growth trees, and a supply of wild game such as deer, boar, and rabbits. The villagers supplement their crops with occasional hunts in the forest, especially for feasts on holidays and for village gatherings.
 
-While in the forest, the characters might encounter Ki'lara, a half-elf hunter and a [constructed commoner](3-Mechanics/CLI/bestiary/construct/constructed-commoner-cm.md) who knows how to navigate the woods and where the best hunting spots are. She warns the characters about wandering too far into the woods, since the ancient forest can often be disorienting. If they walk far enough into the woods in one direction, they end up on the other side of the forest approaching Wisteria Vale, as if they had walked in a giant loop. Characters who succeed on a DC 13 Intelligence ([Arcana](3-Mechanics/CLI/rules/skills.md#Arcana)) check recognize that this is part of the demiplane's magical design to keep Quill inside the village.
+While in the forest, the characters might encounter Ki'lara, a half-elf hunter and a [constructed commoner](/3-Mechanics/CLI/bestiary/construct/constructed-commoner-cm.md) who knows how to navigate the woods and where the best hunting spots are. She warns the characters about wandering too far into the woods, since the ancient forest can often be disorienting. If they walk far enough into the woods in one direction, they end up on the other side of the forest approaching Wisteria Vale, as if they had walked in a giant loop. Characters who succeed on a DC 13 Intelligence ([Arcana](/3-Mechanics/CLI/skills.md#Arcana)) check recognize that this is part of the demiplane's magical design to keep Quill inside the village.
 
 #### W2. Farms
 
@@ -147,13 +147,13 @@ These farms exist for Quill's benefit alone, though they provide enough food to 
 
 #### W3. Blossom's Rest
 
-Blossom's Rest is the tavern in the center of the village owned by Ulrich (male hill dwarf) and Daphne (female wood elf), both [constructed commoners](3-Mechanics/CLI/bestiary/construct/constructed-commoner-cm.md). They are a married couple. The tavern is the heart of the village, a place where people gather to talk and share meals. Even though the villagers don't need to eat or drink because they are constructs, they do so when Quill is around. In the evenings when Quill visits the village, Ulrich always insists that Quill perform for an enraptured audience that never seems to get bored of his stories and songs.
+Blossom's Rest is the tavern in the center of the village owned by Ulrich (male hill dwarf) and Daphne (female wood elf), both [constructed commoners](/3-Mechanics/CLI/bestiary/construct/constructed-commoner-cm.md). They are a married couple. The tavern is the heart of the village, a place where people gather to talk and share meals. Even though the villagers don't need to eat or drink because they are constructs, they do so when Quill is around. In the evenings when Quill visits the village, Ulrich always insists that Quill perform for an enraptured audience that never seems to get bored of his stories and songs.
 
 Daphne tells the characters that Quill hasn't visited in the past two weeks, which is unusual for him. She theorizes that his absence is due to the arrival of the many-eyed creature, and while the villagers trust Quill, they are still concerned about him.
 
 #### W4. Silks and Soles
 
-Silks and Soles is owned by Josephus Lovett (male human) and Henrietta Storm (nonbinary tiefling), both [constructed commoners](3-Mechanics/CLI/bestiary/construct/constructed-commoner-cm.md). Josephus is the tailor and the village gossip, gathering and sharing information as he measures his neighbors and sews their clothes. If given the opportunity, he talks about his favorite topic: Quill and his secretive past. Henrietta is a cobbler by trade and also a social butterfly, helping to organize community events and create decorations from spare cloth and leather.
+Silks and Soles is owned by Josephus Lovett (male human) and Henrietta Storm (nonbinary tiefling), both [constructed commoners](/3-Mechanics/CLI/bestiary/construct/constructed-commoner-cm.md). Josephus is the tailor and the village gossip, gathering and sharing information as he measures his neighbors and sews their clothes. If given the opportunity, he talks about his favorite topic: Quill and his secretive past. Henrietta is a cobbler by trade and also a social butterfly, helping to organize community events and create decorations from spare cloth and leather.
 
 Josephus or Henrietta shares information on Quill, his arrival in Wisteria Vale, the appearance of the creature two weeks ago, and the party in the manor taking place that evening, to which all the villagers have been invited. Like their neighbors, Josephus and Henrietta have reservations about Quill's strange houseguest.
 
@@ -161,7 +161,7 @@ Without any need for a check, the characters can convince Josephus or Henrietta 
 
 #### W5. Marketplace
 
-This small marketplace is where the farmers along the edge of the village sell their wares. Once in a while, the demiplane generates a traveling merchant who passes through Wisteria Vale to sell food, fabric, and other goods from "outside" the village, to further enhance the illusion that Wisteria Vale is a real village. Three traveling merchants visit regularly. Each of these [constructed commoners](3-Mechanics/CLI/bestiary/construct/constructed-commoner-cm.md) never stays longer than a day, and one appears only once every few weeks to break up the monotony of the village's everyday events.
+This small marketplace is where the farmers along the edge of the village sell their wares. Once in a while, the demiplane generates a traveling merchant who passes through Wisteria Vale to sell food, fabric, and other goods from "outside" the village, to further enhance the illusion that Wisteria Vale is a real village. Three traveling merchants visit regularly. Each of these [constructed commoners](/3-Mechanics/CLI/bestiary/construct/constructed-commoner-cm.md) never stays longer than a day, and one appears only once every few weeks to break up the monotony of the village's everyday events.
 
 #### W6. Manor
 
@@ -169,13 +169,13 @@ The manor on the northern edge of Wisteria Vale stands out as the biggest and mo
 
 ## Exploring the Manor
 
-The characters can approach the front door or try to sneak in through the side door that leads to the kitchen (area M2). If they try the front door prior to the time of the party, they find that it's locked and no one answers. The door can be broken down with a successful DC 15 Strength ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)) check or unlocked with a successful DC 15 Dexterity check using thieves' tools. The back door is unlocked, but Damien (see "Servants" below) notices the characters using it unless they succeed on a DC 15 group Dexterity ([Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)) check.
+The characters can approach the front door or try to sneak in through the side door that leads to the kitchen (area M2). If they try the front door prior to the time of the party, they find that it's locked and no one answers. The door can be broken down with a successful DC 15 Strength ([Athletics](/3-Mechanics/CLI/skills.md#Athletics)) check or unlocked with a successful DC 15 Dexterity check using thieves' tools. The back door is unlocked, but Damien (see "Servants" below) notices the characters using it unless they succeed on a DC 15 group Dexterity ([Stealth](/3-Mechanics/CLI/skills.md#Stealth)) check.
 
-Inside the manor, the characters might feel as though they're constantly being watched, but this isn't necessarily the case. There are, however, three [stone golems](3-Mechanics/CLI/bestiary/construct/stone-golem-xmm.md) and six suits of [animated armor](3-Mechanics/CLI/bestiary/construct/animated-armor-xmm.md) that guard the halls of the manor and attack intruders (see the Manor Encounters table below).
+Inside the manor, the characters might feel as though they're constantly being watched, but this isn't necessarily the case. There are, however, three [stone golems](/3-Mechanics/CLI/bestiary/construct/stone-golem-xmm.md) and six suits of [animated armor](/3-Mechanics/CLI/bestiary/construct/animated-armor-xmm.md) that guard the halls of the manor and attack intruders (see the Manor Encounters table below).
 
 ### Manor Occupants
 
-As the characters explore the manor, they might encounter one or more creatures roaming the halls or moving from one room to another. Whenever you feel the need for a random encounter, roll a `d20` and consult the Manor Encounters table to determine whom or what the characters encounter.
+As the characters explore the manor, they might encounter one or more creatures roaming the halls or moving from one room to another. Whenever you feel the need for a random encounter, roll a `dice:d20|noform|noparens|avg` (`d20`) and consult the Manor Encounters table to determine whom or what the characters encounter.
 
 **Manor Encounters**
 
@@ -183,38 +183,38 @@ As the characters explore the manor, they might encounter one or more creatures 
 
 | dice: d20 | Encounter |
 |-----------|-----------|
-| 1 | Roll twice more on this table, using `2d10` instead of a `d20` for each roll. |
-| 2–9 | Two suits of [animated armor](3-Mechanics/CLI/bestiary/construct/animated-armor-xmm.md) (see "Servants" below) |
-| 10–12 | One [stone golem](3-Mechanics/CLI/bestiary/construct/stone-golem-xmm.md) (see "Servants" below) |
-| 13–17 | The fake Quill (see "[Arrant Quill](3-Mechanics/CLI/bestiary/npc/arrant-quill-cm.md) and the Fake Quill" below) |
-| 18–20 | Renekor the [beholder](3-Mechanics/CLI/bestiary/aberration/beholder-xmm.md) |
+| 1 | Roll twice more on this table, using `dice:2d10\|noform\|noparens\|avg` (`2d10`) instead of a `dice:d20\|noform\|noparens\|avg` (`d20`) for each roll. |
+| 2–9 | Two suits of [animated armor](/3-Mechanics/CLI/bestiary/construct/animated-armor-xmm.md) (see "Servants" below) |
+| 10–12 | One [stone golem](/3-Mechanics/CLI/bestiary/construct/stone-golem-xmm.md) (see "Servants" below) |
+| 13–17 | The fake Quill (see "[Arrant Quill](/3-Mechanics/CLI/bestiary/npc/arrant-quill-cm.md) and the Fake Quill" below) |
+| 18–20 | Renekor the [beholder](/3-Mechanics/CLI/bestiary/aberration/beholder-xmm.md) |
 ^manor-encounters
 
 #### Arrant Quill and the Fake Quill
 
 *Neutral evil human (age 36)*
 
-[Quill](3-Mechanics/CLI/bestiary/npc/arrant-quill-cm.md) is a charismatic bard who carries himself with a quiet confidence that doesn't hint at the full extent of his skills or powers. His handsome features are marred by a scar that curves from the top of his left cheekbone down to his jaw, though he doesn't consider the scar disfiguring. If asked about the scar, he explains that he got it years ago when the man who burned down his home village slashed his face with a dagger. It serves as a grim reminder of his past.
+[Quill](/3-Mechanics/CLI/bestiary/npc/arrant-quill-cm.md) is a charismatic bard who carries himself with a quiet confidence that doesn't hint at the full extent of his skills or powers. His handsome features are marred by a scar that curves from the top of his left cheekbone down to his jaw, though he doesn't consider the scar disfiguring. If asked about the scar, he explains that he got it years ago when the man who burned down his home village slashed his face with a dagger. It serves as a grim reminder of his past.
 
 Although outwardly friendly, Quill is driven by three selfish desires: to preserve his well-being, to alleviate his boredom, and to escape Wisteria Vale. He holds a grudge against the Harpers and Ryllia for imprisoning him in a place that reminds him of the people he lost in his childhood, though he also takes some comfort in being able to live out the life he could've had. His time spent alone with his thoughts in Wisteria Vale has led him to suspect that the Harpers were never going to find a cure, and that they were simply biding their time until he became complacent enough that they could kill him without his being a threat. Quill's corruption has convinced him that the Harpers have become a powerful force that must be taken down; he trusts only himself to identify and eliminate agents of tyranny.
 
 ##### Fake Quill
 
-Renekor the [beholder](3-Mechanics/CLI/bestiary/aberration/beholder-xmm.md) has imprisoned [Arrant Quill](3-Mechanics/CLI/bestiary/npc/arrant-quill-cm.md) in a magic painting. Furthermore, the beholder has used its reality-altering dreams to create a twin of Quill that feels real to the touch. A [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md) spell reveals an aura of illusion magic around the fake Quill, which otherwise looks and behaves exactly like the real Quill. The fake Quill can't do anything except move and talk, and it is dispelled if it takes damage from a spell or a magic weapon. No other magic or damage affects it.
+Renekor the [beholder](/3-Mechanics/CLI/bestiary/aberration/beholder-xmm.md) has imprisoned [Arrant Quill](/3-Mechanics/CLI/bestiary/npc/arrant-quill-cm.md) in a magic painting. Furthermore, the beholder has used its reality-altering dreams to create a twin of Quill that feels real to the touch. A [detect magic](/3-Mechanics/CLI/spells/detect-magic-xphb.md) spell reveals an aura of illusion magic around the fake Quill, which otherwise looks and behaves exactly like the real Quill. The fake Quill can't do anything except move and talk, and it is dispelled if it takes damage from a spell or a magic weapon. No other magic or damage affects it.
 
 #### Renekor the Beholder
 
 *Lawful evil beholder*
 
-This [beholder](3-Mechanics/CLI/bestiary/aberration/beholder-xmm.md) dreamed itself into Wisteria Vale from the Underdark to escape its enemies. Due to the unconventional way that it entered the demiplane, Renekor believes that Wisteria Vale and its inhabitants are all products of its imagination. Therefore, the beholder is unusually complacent and relaxed as long as nothing disturbs or threatens its new haven and playthings.
+This [beholder](/3-Mechanics/CLI/bestiary/aberration/beholder-xmm.md) dreamed itself into Wisteria Vale from the Underdark to escape its enemies. Due to the unconventional way that it entered the demiplane, Renekor believes that Wisteria Vale and its inhabitants are all products of its imagination. Therefore, the beholder is unusually complacent and relaxed as long as nothing disturbs or threatens its new haven and playthings.
 
 Renekor floats around the manor during the day before retreating to the ballroom at night. Although it might not be on high alert, it is still keenly observant and paranoid as all beholders are.
 
 #### Servants
 
-The manor is guarded by six suits of [animated armor](3-Mechanics/CLI/bestiary/construct/animated-armor-xmm.md) and two [stone golems](3-Mechanics/CLI/bestiary/construct/stone-golem-xmm.md). One of the stone golems doesn't leave the library (area M7), and two suits of animated armor are stationed outside the doors to the ballroom (area M6). The remaining sentries roam the manor freely. The suits of armor and golems also perform hands-on labor that doesn't require conversation or delicate movements.
+The manor is guarded by six suits of [animated armor](/3-Mechanics/CLI/bestiary/construct/animated-armor-xmm.md) and two [stone golems](/3-Mechanics/CLI/bestiary/construct/stone-golem-xmm.md). One of the stone golems doesn't leave the library (area M7), and two suits of animated armor are stationed outside the doors to the ballroom (area M6). The remaining sentries roam the manor freely. The suits of armor and golems also perform hands-on labor that doesn't require conversation or delicate movements.
 
-A housekeeper named Damien takes care of the cooking and cleaning. He is a [constructed commoner](3-Mechanics/CLI/bestiary/construct/constructed-commoner-cm.md) and the only full-time staff member in the manor, although some local villagers have been drafted to serve as waiters during the party in the ballroom (see "Quill's Party" later in the adventure).
+A housekeeper named Damien takes care of the cooking and cleaning. He is a [constructed commoner](/3-Mechanics/CLI/bestiary/construct/constructed-commoner-cm.md) and the only full-time staff member in the manor, although some local villagers have been drafted to serve as waiters during the party in the ballroom (see "Quill's Party" later in the adventure).
 
 Renekor's presence is slowly warping the demiplane, causing these servants to shift allegiance, becoming loyal and obedient to the beholder rather than to Quill or the Harpers.
 
@@ -225,8 +225,8 @@ Within the marble walls of the manor, the rooms and hallways are spacious and cl
 The following locations are keyed to the map of the manor.
 
 > [!gallery]
-> ![Map 13.2: The Manor](3-Mechanics/CLI/adventures/candlekeep-mysteries/img/107-map-13-02-the-manor.webp#gallery)
-> ![Player Version](3-Mechanics/CLI/adventures/candlekeep-mysteries/img/108-map-13-02-the-manor-player.webp#gallery)
+> ![Map 13.2: The Manor](/3-Mechanics/CLI/adventures/candlekeep-mysteries/img/107-map-13-02-the-manor.webp#gallery)
+> ![Player Version](/3-Mechanics/CLI/adventures/candlekeep-mysteries/img/108-map-13-02-the-manor-player.webp#gallery)
 
 #### M1. Lounge
 
@@ -235,7 +235,7 @@ The following locations are keyed to the map of the manor.
 > This lounge is warm and smells of wood smoke. The furniture is plush and inviting, with chairs and couches arranged for conversation. On the west wall hangs a large painting of a forest. A fireplace crackles along the east wall. Above the mantel hangs a painting of two figures, one of whom has had her face scratched over with ink.
 ^3ba
 
-The portrait depicts a younger Quill standing next to a second figure that has been defaced. A character who examines this figure closely and succeeds on a DC 15 Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) check recognizes it as a younger Ryllia Liadon. (Quill ruined her likeness when he concluded that she had betrayed him.)
+The portrait depicts a younger Quill standing next to a second figure that has been defaced. A character who examines this figure closely and succeeds on a DC 15 Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) check recognizes it as a younger Ryllia Liadon. (Quill ruined her likeness when he concluded that she had betrayed him.)
 
 ##### Forest Painting
 
@@ -248,7 +248,7 @@ The forest painting is the gateway to one of four connected extradimensional spa
 > This kitchen is bright and clean, with two windows looking out into the yard. The air smells of spices, and a man hums to himself as he stirs a large iron pot over a fire. Dishes and platters of artfully arranged hors d'oeuvres sit on the table alongside a bowl of magenta punch.
 ^3bd
 
-Damien, a [constructed commoner](3-Mechanics/CLI/bestiary/construct/constructed-commoner-cm.md), is here preparing food for Quill's party. If he notices the characters and they appear to be friendly, he offers to take them to Quill. If the characters accept this offer, Damien leads them to area M10. If the characters look like trouble, Damien alerts one of the suits of [animated armor](3-Mechanics/CLI/bestiary/construct/animated-armor-xmm.md), which goes to warn Renekor about the intruders.
+Damien, a [constructed commoner](/3-Mechanics/CLI/bestiary/construct/constructed-commoner-cm.md), is here preparing food for Quill's party. If he notices the characters and they appear to be friendly, he offers to take them to Quill. If the characters accept this offer, Damien leads them to area M10. If the characters look like trouble, Damien alerts one of the suits of [animated armor](/3-Mechanics/CLI/bestiary/construct/animated-armor-xmm.md), which goes to warn Renekor about the intruders.
 
 Damien has a ring of keys hooked onto his apron. These keys can lock and unlock all the doors in the manor.
 
@@ -275,7 +275,7 @@ This cluttered space holds cleaning supplies, spare silverware, cooking utensils
 
 ##### Treasure
 
-Any character who spends at least 5 minutes searching the room finds a satchel containing a packet of [dust of disappearance](3-Mechanics/CLI/items/dust-of-disappearance-xdmg.md).
+Any character who spends at least 5 minutes searching the room finds a satchel containing a packet of [dust of disappearance](/3-Mechanics/CLI/items/dust-of-disappearance-xdmg.md).
 
 #### M5. Backstage
 
@@ -288,11 +288,11 @@ The backstage area of the ballroom's stage is filled with set pieces, props, and
 
 ##### Treasure
 
-Among the many other instruments stored here is Quill's [instrument of the bards (Cli lyre)](3-Mechanics/CLI/items/instrument-of-the-bards-cli-lyre-xdmg.md), which is kept in an ornate wooden case that bears the monogram A.Q. Quill takes this instrument with him whenever he entertains villagers at Blossom's Rest.
+Among the many other instruments stored here is Quill's [instrument of the bards (Cli lyre)](/3-Mechanics/CLI/items/instrument-of-the-bards-cli-lyre-xdmg.md), which is kept in an ornate wooden case that bears the monogram A.Q. Quill takes this instrument with him whenever he entertains villagers at Blossom's Rest.
 
 #### M6. Ballroom
 
-Two suits of [animated armor](3-Mechanics/CLI/bestiary/construct/animated-armor-xmm.md) stand guard at the double door, outside the ballroom. Prior to Quill's party, these doors are locked. As an action, a character can try to unlock the doors using thieves' tools, doing so with a successful DC 15 Dexterity check, or force open the doors with a successful DC 15 Strength ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)) check. Trying to open the door without the proper key causes the suits of animated armor to attack.
+Two suits of [animated armor](/3-Mechanics/CLI/bestiary/construct/animated-armor-xmm.md) stand guard at the double door, outside the ballroom. Prior to Quill's party, these doors are locked. As an action, a character can try to unlock the doors using thieves' tools, doing so with a successful DC 15 Dexterity check, or force open the doors with a successful DC 15 Strength ([Athletics](/3-Mechanics/CLI/skills.md#Athletics)) check. Trying to open the door without the proper key causes the suits of animated armor to attack.
 
 > [!readaloud] 
 > 
@@ -301,13 +301,13 @@ Two suits of [animated armor](3-Mechanics/CLI/bestiary/construct/animated-armor-
 
 The ballroom takes up two floors, with a 50-foot-high ceiling and a balcony that is accessible from the upper floor.
 
-If the characters arrive here during Quill's party, see "Quill's Party" later in the adventure for a description of the ballroom's occupants and other features. If it hasn't been encountered and defeated elsewhere, Renekor the [beholder](3-Mechanics/CLI/bestiary/aberration/beholder-xmm.md) is here.
+If the characters arrive here during Quill's party, see "Quill's Party" later in the adventure for a description of the ballroom's occupants and other features. If it hasn't been encountered and defeated elsewhere, Renekor the [beholder](/3-Mechanics/CLI/bestiary/aberration/beholder-xmm.md) is here.
 
 This room serves as Renekor's lair. The beholder can use its lair actions (as described in the "Monster Manual"), but only within this room. If the characters forced their way into the room, destroying the suits of animated armor in the process, Renekor assumes they're hostile and attacks them on sight. Otherwise, it assumes the characters are creations of its dreaming mind until they demonstrate otherwise. If the characters make a scene, Renekor feels threatened and attacks them. If one or more characters move to within 10 feet of the painting on the north wall, the beholder instructs them (in Undercommon) to keep away from it on pain of death. Characters who can't understand the beholder can surmise that it doesn't want them near the painting.
 
 ##### Quill's Prison
 
-The painting on the north wall is the entrance to an extradimensional space where [Arrant Quill](3-Mechanics/CLI/bestiary/npc/arrant-quill-cm.md) is imprisoned. Renekor has covered the painting in slime to prevent Quill from getting out, though characters can still enter the painting's extradimensional space from the ballroom. A character who has a passive Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) score of 15 or higher notices that the image of Quill in the painting is moving slightly. See "Finding Quill" later in the adventure for more information.
+The painting on the north wall is the entrance to an extradimensional space where [Arrant Quill](/3-Mechanics/CLI/bestiary/npc/arrant-quill-cm.md) is imprisoned. Renekor has covered the painting in slime to prevent Quill from getting out, though characters can still enter the painting's extradimensional space from the ballroom. A character who has a passive Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) score of 15 or higher notices that the image of Quill in the painting is moving slightly. See "Finding Quill" later in the adventure for more information.
 
 #### M7. Library
 
@@ -320,7 +320,7 @@ The library is a replica of one of the Harper libraries that Quill frequented. T
 
 The books on the desk cover research about the Underdark and beholders, with notes written by Quill scribbled in the margins.
 
-The statue is actually a [stone golem](3-Mechanics/CLI/bestiary/construct/stone-golem-xmm.md). If a character attempts to take Quill's notes or any of the books out of the room, the stone golem activates, stepping in front of the door. It doesn't fight the characters unless they try to push past it and leave with the notes or books.
+The statue is actually a [stone golem](/3-Mechanics/CLI/bestiary/construct/stone-golem-xmm.md). If a character attempts to take Quill's notes or any of the books out of the room, the stone golem activates, stepping in front of the door. It doesn't fight the characters unless they try to push past it and leave with the notes or books.
 
 A character who takes 10 minutes to read Quill's notes can learn the basics of beholder lore as well as obtain the following information:
 
@@ -361,7 +361,7 @@ The roc painting is the gateway to one of four connected extradimensional spaces
 
 #### M10. Guest Bathroom
 
-The guest bathroom is unremarkable, though characters who search the room and succeed on a DC 13 Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) check notice a loose tile on the ceiling. Above the tile is a crawl space that spans the entire upper floor. The crawl space is dusty and has a 3-foot-high ceiling. Characters can use the crawl space to enter any other room on the upper floor through removable panels in the ceiling.
+The guest bathroom is unremarkable, though characters who search the room and succeed on a DC 13 Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) check notice a loose tile on the ceiling. Above the tile is a crawl space that spans the entire upper floor. The crawl space is dusty and has a 3-foot-high ceiling. Characters can use the crawl space to enter any other room on the upper floor through removable panels in the ceiling.
 
 ## Finding Quill
 
@@ -427,28 +427,28 @@ If one of the paintings is damaged, the window in that extradimensional chamber 
 
 #### Forest
 
-Within this painting's extradimensional space, the walls are painted to depict a forest of trees and shrubbery, the floor is covered with a thin layer of dirt, and the ceiling is painted to resemble the sky. Hiding against the wall with the window are four [medusas](3-Mechanics/CLI/bestiary/monstrosity/medusa-xmm.md) wearing hooded robes and covered with greenery for camouflage. The medusas attack intruders as they cross the room. Characters who have a passive Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) score of 15 or higher spot the medusas and aren't surprised by them.
+Within this painting's extradimensional space, the walls are painted to depict a forest of trees and shrubbery, the floor is covered with a thin layer of dirt, and the ceiling is painted to resemble the sky. Hiding against the wall with the window are four [medusas](/3-Mechanics/CLI/bestiary/monstrosity/medusa-xmm.md) wearing hooded robes and covered with greenery for camouflage. The medusas attack intruders as they cross the room. Characters who have a passive Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) score of 15 or higher spot the medusas and aren't surprised by them.
 
 #### Banquet
 
 This painting's extradimensional space contains a 15-foot-long banquet table covered with prepared dishes that look and smell delectable. Each dish has a magical property that functions only when the food is consumed in this room. The dishes and their properties are as follows:
 
-- **Candied Yams.** Any creature that eats from the plate of candied yams is targeted by a [faerie fire](3-Mechanics/CLI/spells/faerie-fire-xphb.md) spell (save DC 15) that affects only it and lasts for 1 hour or until dispelled.  
+- **Candied Yams.** Any creature that eats from the plate of candied yams is targeted by a [faerie fire](/3-Mechanics/CLI/spells/faerie-fire-xphb.md) spell (save DC 15) that affects only it and lasts for 1 hour or until dispelled.  
 - **Cheese-Stuffed Peppers.** Any creature with 75 hit points or fewer that eats a whole cheese-stuffed pepper must succeed on a DC 15 Constitution saving throw or instantly drop to 0 hit points and explode, leaving behind a mess plus whatever it was carrying and wearing.  
-- **Jerk Frog Legs.** Any creature that eats from the plate of jerk frog legs gains the benefit of a [jump](3-Mechanics/CLI/spells/jump-xphb.md) spell that lasts for 1 hour or until dispelled.  
-- **Salted Cockatrice Eggs.** Any creature that eats a whole salted cockatrice egg gains immunity to the [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified) condition for 1 hour.  
+- **Jerk Frog Legs.** Any creature that eats from the plate of jerk frog legs gains the benefit of a [jump](/3-Mechanics/CLI/spells/jump-xphb.md) spell that lasts for 1 hour or until dispelled.  
+- **Salted Cockatrice Eggs.** Any creature that eats a whole salted cockatrice egg gains immunity to the [petrified](/3-Mechanics/CLI/conditions.md#Petrified) condition for 1 hour.  
 - **Stirge Burgers.** Any creature that eats a whole stirge burger gains 10 temporary hit points.  
-- **Veggie Kabobs.** Any creature that eats from the plate of veggie kabobs must make a DC 15 Constitution saving throw, taking 22 (`4d10`) poison damage on a failed save, or half as much damage on a successful one.  
+- **Veggie Kabobs.** Any creature that eats from the plate of veggie kabobs must make a DC 15 Constitution saving throw, taking `dice:4d10|noform|noparens|avg|text(22)` (`4d10`) poison damage on a failed save, or half as much damage on a successful one.  
 
 #### Quill's Prison Chamber
 
 When the characters enter the ballroom painting, the doors on the walls of this extradimensional space close and disappear. The window is fogged over, covered in slime that prevents anyone from exiting through it.
 
-[Arrant Quill](3-Mechanics/CLI/bestiary/npc/arrant-quill-cm.md) (see the accompanying stat block) is sitting in a chaise longue, protected by his [mind blank](3-Mechanics/CLI/spells/mind-blank-xphb.md) spell and occupying his time by reading the book he was holding in the library when he was trapped in the painting two days ago. He's outwardly friendly, and he politely asks the characters who they are and what they're doing here. Because he's hungry and parched, he also kindly begs them for some food and drink. If the Harpers are mentioned, Quill can barely hide his contempt.
+[Arrant Quill](/3-Mechanics/CLI/bestiary/npc/arrant-quill-cm.md) (see the accompanying stat block) is sitting in a chaise longue, protected by his [mind blank](/3-Mechanics/CLI/spells/mind-blank-xphb.md) spell and occupying his time by reading the book he was holding in the library when he was trapped in the painting two days ago. He's outwardly friendly, and he politely asks the characters who they are and what they're doing here. Because he's hungry and parched, he also kindly begs them for some food and drink. If the Harpers are mentioned, Quill can barely hide his contempt.
 
 As long as Quill remains in Wisteria Vale, he is immune to all damage and automatically succeeds on all saving throws. This feature is suppressed if Quill wills it (no action required) or while he is within 15 feet of Renekor the beholder.
 
-Good roleplaying or a successful DC 19 Charisma ([Deception](3-Mechanics/CLI/rules/skills.md#Deception) or [Persuasion](3-Mechanics/CLI/rules/skills.md#Persuasion)) check convinces Quill that the characters are his allies and that they've come to help him escape Wisteria Vale. However, he insists that they not stab him with the magical crystal dagger until they're all back in the manor. If the characters fail to earn his trust, Quill pretends to be agreeable but tries to escape using his [teleport](3-Mechanics/CLI/spells/teleport-xphb.md) spell once he escapes the painting, denying characters the chance to stab him with the dagger. Where the [teleport](3-Mechanics/CLI/spells/teleport-xphb.md) spell takes him is up to you, but the destination must be somewhere in Wisteria Vale.
+Good roleplaying or a successful DC 19 Charisma ([Deception](/3-Mechanics/CLI/skills.md#Deception) or [Persuasion](/3-Mechanics/CLI/skills.md#Persuasion)) check convinces Quill that the characters are his allies and that they've come to help him escape Wisteria Vale. However, he insists that they not stab him with the magical crystal dagger until they're all back in the manor. If the characters fail to earn his trust, Quill pretends to be agreeable but tries to escape using his [teleport](/3-Mechanics/CLI/spells/teleport-xphb.md) spell once he escapes the painting, denying characters the chance to stab him with the dagger. Where the [teleport](/3-Mechanics/CLI/spells/teleport-xphb.md) spell takes him is up to you, but the destination must be somewhere in Wisteria Vale.
 
 ##### Escaping Quill's Prison
 
@@ -456,19 +456,19 @@ The only way to escape from this room is to damage the slime that covers the win
 
 #### Roc
 
-Within this painting's extradimensional space, the walls, doors, and ceiling are painted to resemble thick clouds. The air is cold and fresh. A hostile [roc](3-Mechanics/CLI/bestiary/monstrosity/roc-xmm.md) takes up much of the room and attacks intruders on sight. It's sustained by magic and is too big to leave the room. If killed, the roc is not replaced.
+Within this painting's extradimensional space, the walls, doors, and ceiling are painted to resemble thick clouds. The air is cold and fresh. A hostile [roc](/3-Mechanics/CLI/bestiary/monstrosity/roc-xmm.md) takes up much of the room and attacks intruders on sight. It's sustained by magic and is too big to leave the room. If killed, the roc is not replaced.
 
-![The Bard and the Beholder](3-Mechanics/CLI/adventures/candlekeep-mysteries/img/109-13-002-the-bard-and-the-beholder.webp#center)
+![The Bard and the Beholder](/3-Mechanics/CLI/adventures/candlekeep-mysteries/img/109-13-002-the-bard-and-the-beholder.webp#center)
 
 ## Quill's Party
 
-No matter how much time seems to have passed inside the painting, when Quill and the characters leave the extradimensional space, they land near the north wall of the ballroom during the party that Renekor and the fake Quill are hosting. The room has been decorated with garlands of wisteria, and small tables hold hors d'oeuvres and drinks. Renekor and the fake Quill are in the middle of the room, surrounded by a crowd of thirty villagers dressed in fine attire, all having a good time. Five villagers have gathered on the stage to perform instrumental music. This band includes a harpsichordist, a cellist, a violinist, a flutist, and a fiddler. Milling through the crowd are four waiters. All the guests, performers, and waiters are unarmed [constructed commoners](3-Mechanics/CLI/bestiary/construct/constructed-commoner-cm.md) that do not engage in battle and flee if combat erupts.
+No matter how much time seems to have passed inside the painting, when Quill and the characters leave the extradimensional space, they land near the north wall of the ballroom during the party that Renekor and the fake Quill are hosting. The room has been decorated with garlands of wisteria, and small tables hold hors d'oeuvres and drinks. Renekor and the fake Quill are in the middle of the room, surrounded by a crowd of thirty villagers dressed in fine attire, all having a good time. Five villagers have gathered on the stage to perform instrumental music. This band includes a harpsichordist, a cellist, a violinist, a flutist, and a fiddler. Milling through the crowd are four waiters. All the guests, performers, and waiters are unarmed [constructed commoners](/3-Mechanics/CLI/bestiary/construct/constructed-commoner-cm.md) that do not engage in battle and flee if combat erupts.
 
-Renekor can tell the real Quill from the fake one. When it notices the characters and the real Quill, the [beholder](3-Mechanics/CLI/bestiary/aberration/beholder-xmm.md) attacks, hovering just out of reach of melee weapons and using its lair actions when appropriate. The two suits of [animated armor](3-Mechanics/CLI/bestiary/construct/animated-armor-xmm.md) standing guard outside the ballroom also attack at the command of the beholder. Renekor wants to keep Quill alive and avoids attacking him.
+Renekor can tell the real Quill from the fake one. When it notices the characters and the real Quill, the [beholder](/3-Mechanics/CLI/bestiary/aberration/beholder-xmm.md) attacks, hovering just out of reach of melee weapons and using its lair actions when appropriate. The two suits of [animated armor](/3-Mechanics/CLI/bestiary/construct/animated-armor-xmm.md) standing guard outside the ballroom also attack at the command of the beholder. Renekor wants to keep Quill alive and avoids attacking him.
 
 The two Quills look the same. However, the fake Quill can't do anything except move and talk, and it is dispelled if it takes damage from a spell or magic weapon. No other magic or damage affects it.
 
-If the real Quill believes the characters are on his side, he gives them permission to stab him with the magical crystal dagger. If he thinks the characters have come to Wisteria Vale to kill him, he flees using his [teleport](3-Mechanics/CLI/spells/teleport-xphb.md) spell, reappearing in some other location of your choice in Wisteria Vale. Quill's priority is to stay alive.
+If the real Quill believes the characters are on his side, he gives them permission to stab him with the magical crystal dagger. If he thinks the characters have come to Wisteria Vale to kill him, he flees using his [teleport](/3-Mechanics/CLI/spells/teleport-xphb.md) spell, reappearing in some other location of your choice in Wisteria Vale. Quill's priority is to stay alive.
 
 Quill loses his immunity to damage while he's within 15 feet of Renekor, but he is not immediately aware of this. Once Quill realizes that Renekor is negating his invincibility, he tries to distance himself from the beholder.
 

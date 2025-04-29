@@ -11,7 +11,7 @@ statblock: inline
 aliases: ["Bandit Captain"]
 ---
 # [Bandit Captain](3-Mechanics\CLI\bestiary\humanoid/bandit-captain-xmm.md)
-*Source: Monster Manual (2024) p. 27*  
+*Source: Monster Manual (2024) p. 27. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
 
 Bandit captains command gangs of scoundrels and conduct straightforward heists. Others serve as guards and muscle for more influential criminals.
 
@@ -85,7 +85,7 @@ Roll on or choose a result from the Bandit Motivations table to determine the ci
   "name": "Parry"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/bandit-captain-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/humanoid/token/bandit-captain-xmm.webp"
 ```
 ^statblock
 

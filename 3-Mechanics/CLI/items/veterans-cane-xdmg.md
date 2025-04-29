@@ -12,6 +12,6 @@ aliases:
 
 
 
-As a [Bonus Action](3-Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md), you can transform this walking cane into an ordinary Longsword or change the Longsword back into a walking cane. In either case, you must be holding the item.
+As a [Bonus Action](/3-Mechanics/CLI/variant-rules/bonus-action-xphb.md), you can transform this walking cane into an ordinary Longsword or change the Longsword back into a walking cane. In either case, you must be holding the item.
 
 *Source: Dungeon Master's Guide (2024) p. 318*

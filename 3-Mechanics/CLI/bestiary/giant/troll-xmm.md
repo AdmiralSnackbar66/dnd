@@ -16,7 +16,7 @@ statblock: inline
 aliases: ["Troll"]
 ---
 # [Troll](3-Mechanics\CLI\bestiary\giant/troll-xmm.md)
-*Source: Monster Manual (2024) p. 310*  
+*Source: Monster Manual (2024) p. 310. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
 
 ## Troll
 
@@ -51,32 +51,31 @@ Trolls typically hunt alone, but small groups occasionally cooperate to ambush p
 "languages": "Giant"
 "cr": "5"
 "traits":
-- "desc": "If the troll ends any turn [Bloodied](3-Mechanics/CLI/rules/variant-rules/bloodied-xphb.md)\
+- "desc": "If the troll ends any turn [Bloodied](/3-Mechanics/CLI/variant-rules/bloodied-xphb.md)\
     \ and took 15+ Slashing damage during that turn, one of the troll's limbs is severed,\
-    \ falls into the troll's space, and becomes a [Troll Limb](3-Mechanics/CLI/bestiary/giant/troll-limb-xmm.md).\
-    \ The limb acts immediately after the troll's turn. The troll has 1 [Exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion)\
+    \ falls into the troll's space, and becomes a [Troll Limb](/3-Mechanics/CLI/bestiary/giant/troll-limb-xmm.md).\
+    \ The limb acts immediately after the troll's turn. The troll has 1 [Exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion)\
     \ level for each missing limb, and it grows replacement limbs the next time it\
-    \ regains [Hit Points](3-Mechanics/CLI/rules/variant-rules/hit-points-xphb.md)."
+    \ regains [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)."
   "name": "Loathsome Limbs (4/Day)"
-- "desc": "The troll regains 15 [Hit Points](3-Mechanics/CLI/rules/variant-rules/hit-points-xphb.md)\
+- "desc": "The troll regains 15 [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)\
     \ at the start of each of its turns. If the troll takes Acid or Fire damage, this\
     \ trait doesn't function on the troll's next turn. The troll dies only if it starts\
-    \ its turn with 0 [Hit Points](3-Mechanics/CLI/rules/variant-rules/hit-points-xphb.md)\
+    \ its turn with 0 [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)\
     \ and doesn't regenerate."
   "name": "Regeneration"
 "actions":
 - "desc": "The troll makes three Rend attacks."
   "name": "Multiattack"
-- "desc": "Melee Attack Roll: +7, reach 10 ft. Hit: 11 (2d6 + 4) Slashing\
-    \ damage."
+- "desc": "Melee Attack Roll: +7, reach 10 ft. Hit: 11 (2d6 + 4) Slashing damage."
   "name": "Rend"
 "bonus_actions":
-- "desc": "The troll moves up to half its [Speed](3-Mechanics/CLI/rules/variant-rules/speed-xphb.md)\
+- "desc": "The troll moves up to half its [Speed](/3-Mechanics/CLI/variant-rules/speed-xphb.md)\
     \ straight toward an enemy it can see."
   "name": "Charge"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/giant/token/troll-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/giant/token/troll-xmm.webp"
 ```
 ^statblock
 

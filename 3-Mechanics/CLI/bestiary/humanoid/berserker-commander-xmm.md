@@ -46,36 +46,36 @@ Gripped by the adrenaline of battle, berserkers are reckless invaders, pit fight
 "skillsaves":
   "Athletics": !!int "7"
   "Perception": !!int "5"
-"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened)"
+"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [frightened](/3-Mechanics/CLI/conditions.md#Frightened)"
 "senses": "passive Perception 15"
 "languages": "Common"
 "cr": "8"
 "traits":
-- "desc": "While [Bloodied](3-Mechanics/CLI/rules/variant-rules/bloodied-xphb.md),\
-    \ the berserker has [Advantage](3-Mechanics/CLI/rules/variant-rules/advantage-xphb.md)\
+- "desc": "While [Bloodied](/3-Mechanics/CLI/variant-rules/bloodied-xphb.md), the\
+    \ berserker has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
     \ on attack rolls and saving throws."
   "name": "Bloodied Frenzy"
 "actions":
 - "desc": "The berserker makes three attacks, using Greataxe or Javelin in any combination."
   "name": "Multiattack"
-- "desc": "Melee Attack Roll: +7, reach 5 ft. Hit: 10 (1d12 + 4) Slashing\
-    \ damage, plus 10 (3d6) Thunder damage to the target or another creature within\
-    \ 5 feet of the target."
+- "desc": "Melee Attack Roll: +7, reach 5 ft. Hit: 10 (1d12 + 4) Slashing damage,\
+    \ plus 10 (3d6) Thunder damage to the target or another creature within 5 feet\
+    \ of the target."
   "name": "Greataxe"
 - "desc": "Melee or Ranged Attack Roll: +7, reach 5 ft. or range 30/120 ft. Hit:\
-    \ 18 (4d6 + 4) Piercing damage, and the target's [Speed](3-Mechanics/CLI/rules/variant-rules/speed-xphb.md)\
+    \ 18 (4d6 + 4) Piercing damage, and the target's [Speed](/3-Mechanics/CLI/variant-rules/speed-xphb.md)\
     \ decreases by 5 feet until the start of the berserker's next turn."
   "name": "Javelin"
 "bonus_actions":
-- "desc": "Each ally within 30 feet of the berserker can take a [Reaction](3-Mechanics/CLI/rules/variant-rules/reaction-xphb.md)\
-    \ to move up to half the ally's [Speed](3-Mechanics/CLI/rules/variant-rules/speed-xphb.md)\
+- "desc": "Each ally within 30 feet of the berserker can take a [Reaction](/3-Mechanics/CLI/variant-rules/reaction-xphb.md)\
+    \ to move up to half the ally's [Speed](/3-Mechanics/CLI/variant-rules/speed-xphb.md)\
     \ without provoking Opportunity Attacks. The berserker can also move up to half\
-    \ its [Speed](3-Mechanics/CLI/rules/variant-rules/speed-xphb.md) without provoking\
+    \ its [Speed](/3-Mechanics/CLI/variant-rules/speed-xphb.md) without provoking\
     \ Opportunity Attacks."
   "name": "Frenzied Rush"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/berserker-commander-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/humanoid/token/berserker-commander-xmm.webp"
 ```
 ^statblock
 

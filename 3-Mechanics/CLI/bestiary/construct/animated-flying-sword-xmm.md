@@ -11,7 +11,7 @@ statblock: inline
 aliases: ["Animated Flying Sword"]
 ---
 # [Animated Flying Sword](3-Mechanics\CLI\bestiary\construct/animated-flying-sword-xmm.md)
-*Source: Monster Manual (2024) p. 17*  
+*Source: Monster Manual (2024) p. 17. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
 
 Animated flying swords move as if wielded by unseen warriors. Whether an animated blade is newly forged or a constellation of broken fragments, the object behaves the same. Other weapons from the "Player's Handbook" can also be animated and use game statistics similar to those here.
 
@@ -67,10 +67,10 @@ Roll on or choose a result from the Animated Object Catalysts table to inspire w
 "saves":
   "Dexterity": !!int "4"
 "damage_immunities": "poison, psychic"
-"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [deafened](3-Mechanics/CLI/rules/conditions.md#Deafened),\
-  \ [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion), [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened),\
-  \ [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed), [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified),\
-  \ [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [deafened](/3-Mechanics/CLI/conditions.md#Deafened),\
+  \ [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion), [frightened](/3-Mechanics/CLI/conditions.md#Frightened),\
+  \ [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed), [petrified](/3-Mechanics/CLI/conditions.md#Petrified),\
+  \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
 "senses": "blindsight 60 ft., passive Perception 7"
 "languages": ""
 "cr": "1/4"
@@ -79,7 +79,7 @@ Roll on or choose a result from the Animated Object Catalysts table to inspire w
   "name": "Slash"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/construct/token/animated-flying-sword-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/construct/token/animated-flying-sword-xmm.webp"
 ```
 ^statblock
 

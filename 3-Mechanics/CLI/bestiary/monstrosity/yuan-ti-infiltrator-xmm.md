@@ -71,17 +71,17 @@ Yuan-ti might gain their reptilian features through dangerous supernatural rites
   "Stealth": !!int "3"
   "Perception": !!int "4"
 "damage_immunities": "poison"
-"condition_immunities": "[poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"condition_immunities": "[poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
 "senses": "darkvision 60 ft., passive Perception 14"
 "languages": "Abyssal, Common, Draconic"
 "cr": "1"
 "traits":
 - "desc": "The yuan-ti casts one of the following spells, requiring no Material components\
     \ and using Wisdom as the spellcasting ability (spell save DC 12):\n\nAt will:\
-    \ [Animal Friendship](3-Mechanics/CLI/spells/animal-friendship-xphb.md) (snakes\
-    \ only)\n\n2/day: [Suggestion](3-Mechanics/CLI/spells/suggestion-xphb.md)"
+    \ [Animal Friendship](/3-Mechanics/CLI/spells/animal-friendship-xphb.md) (snakes\
+    \ only)\n\n2/day: [Suggestion](/3-Mechanics/CLI/spells/suggestion-xphb.md)"
   "name": "Spellcasting"
-- "desc": "The yuan-ti has [Advantage](3-Mechanics/CLI/rules/variant-rules/advantage-xphb.md)\
+- "desc": "The yuan-ti has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
     \ on saving throws against spells and other magical effects."
   "name": "Magic Resistance"
 "actions":
@@ -93,7 +93,7 @@ Yuan-ti might gain their reptilian features through dangerous supernatural rites
   "name": "Poison Ray"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/monstrosity/token/yuan-ti-infiltrator-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/yuan-ti-infiltrator-xmm.webp"
 ```
 ^statblock
 

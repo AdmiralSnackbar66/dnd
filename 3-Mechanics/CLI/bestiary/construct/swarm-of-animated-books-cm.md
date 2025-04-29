@@ -31,18 +31,18 @@ aliases: ["Swarm of Animated Books"]
 "speed": "0 ft., fly 30 ft. (hover)"
 "damage_vulnerabilities": "fire"
 "damage_immunities": "poison, psychic"
-"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
-  \ [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened), [grappled](3-Mechanics/CLI/rules/conditions.md#Grappled),\
-  \ [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed), [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified),\
-  \ [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned), [prone](3-Mechanics/CLI/rules/conditions.md#Prone),\
-  \ [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained), [stunned](3-Mechanics/CLI/rules/conditions.md#Stunned)"
+"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
+  \ [frightened](/3-Mechanics/CLI/conditions.md#Frightened), [grappled](/3-Mechanics/CLI/conditions.md#Grappled),\
+  \ [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed), [petrified](/3-Mechanics/CLI/conditions.md#Petrified),\
+  \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned), [prone](/3-Mechanics/CLI/conditions.md#Prone),\
+  \ [restrained](/3-Mechanics/CLI/conditions.md#Restrained), [stunned](/3-Mechanics/CLI/conditions.md#Stunned)"
 "senses": "blindsight 60 ft. (blind beyond this radius), passive Perception 10"
 "languages": ""
 "cr": "1/4"
 "traits":
 - "desc": "If the swarm is motionless at the start of combat, it has advantage on\
     \ its initiative roll. Moreover, if a creature hasn't observed the swarm move\
-    \ or act, that creature must succeed on a DC 15 Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception))\
+    \ or act, that creature must succeed on a DC 15 Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception))\
     \ check to discern that the swarm is animate."
   "name": "False Objects"
 - "desc": "The swarm can occupy another creature's space and vice versa, and the swarm\
@@ -51,11 +51,11 @@ aliases: ["Swarm of Animated Books"]
   "name": "Swarm"
 "actions":
 - "desc": "Melee Weapon Attack: +3 to hit, reach 0 ft., one target in the swarm's\
-    \ space. Hit: 6 (2d4 + 1) bludgeoning damage, or 3 (1d4 + 1) bludgeoning\
-    \ damage if the swarm has half its hit points or fewer."
+    \ space. Hit: 6 (2d4 + 1) bludgeoning damage, or 3 (1d4 + 1) bludgeoning damage\
+    \ if the swarm has half its hit points or fewer."
   "name": "Book Club"
 "source":
 - "CM"
-"image": "3-Mechanics/CLI/bestiary/construct/token/swarm-of-animated-books-cm.webp"
+"image": "/3-Mechanics/CLI/bestiary/construct/token/swarm-of-animated-books-cm.webp"
 ```
 ^statblock

@@ -49,20 +49,20 @@ Knights are skilled warriors trained for war and tested in battle. Many serve th
   "Athletics": !!int "9"
   "Perception": !!int "5"
   "Persuasion": !!int "8"
-"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened)"
+"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [frightened](/3-Mechanics/CLI/conditions.md#Frightened)"
 "senses": "passive Perception 15"
 "languages": "Common plus one other language"
 "cr": "12"
 "traits":
 - "desc": "The knight casts one of the following spells, using Charisma as the spellcasting\
-    \ ability (spell save DC 16):\n\n1/day each: [Daylight](3-Mechanics/CLI/spells/daylight-xphb.md),\
-    \ [Dispel Evil and Good](3-Mechanics/CLI/spells/dispel-evil-and-good-xphb.md),\
-    \ [Greater Restoration](3-Mechanics/CLI/spells/greater-restoration-xphb.md), [Phantom\
-    \ Steed](3-Mechanics/CLI/spells/phantom-steed-xphb.md)"
+    \ ability (spell save DC 16):\n\n1/day each: [Daylight](/3-Mechanics/CLI/spells/daylight-xphb.md),\
+    \ [Dispel Evil and Good](/3-Mechanics/CLI/spells/dispel-evil-and-good-xphb.md),\
+    \ [Greater Restoration](/3-Mechanics/CLI/spells/greater-restoration-xphb.md),\
+    \ [Phantom Steed](/3-Mechanics/CLI/spells/phantom-steed-xphb.md)"
   "name": "Spellcasting"
-- "desc": "Creatures of the knight's choice in a 30-foot [Emanation](3-Mechanics/CLI/rules/variant-rules/emanation-area-of-effect-xphb.md)\
-    \ originating from it have [Immunity](3-Mechanics/CLI/rules/variant-rules/immunity-xphb.md)\
-    \ to the [Charmed](3-Mechanics/CLI/rules/conditions.md#Charmed) and [Frightened](3-Mechanics/CLI/rules/conditions.md#Frightened)\
+- "desc": "Creatures of the knight's choice in a 30-foot [Emanation](/3-Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md)\
+    \ originating from it have [Immunity](/3-Mechanics/CLI/variant-rules/immunity-xphb.md)\
+    \ to the [Charmed](/3-Mechanics/CLI/conditions.md#Charmed) and [Frightened](/3-Mechanics/CLI/conditions.md#Frightened)\
     \ conditions while there."
   "name": "Aura of Bravery"
 "actions":
@@ -76,7 +76,7 @@ Knights are skilled warriors trained for war and tested in battle. Many serve th
   "name": "Longbow"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/questing-knight-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/humanoid/token/questing-knight-xmm.webp"
 ```
 ^statblock
 

@@ -54,25 +54,25 @@ The scholars of Quandrix College focus on the mathematical principles that gover
 "traits":
 - "desc": "The professor casts one of the following spells, requiring no material\
     \ components and using Intelligence as the spellcasting ability (spell save DC\
-    \ 15):\n\nAt will: [guidance](3-Mechanics/CLI/spells/guidance-xphb.md), [mage\
-    \ hand](3-Mechanics/CLI/spells/mage-hand-xphb.md), [mending](3-Mechanics/CLI/spells/mending-xphb.md)\
-    \ (as an action)\n\n1/day each: [creation](3-Mechanics/CLI/spells/creation-xphb.md)\
-    \ (as an action), [dimension door](3-Mechanics/CLI/spells/dimension-door-xphb.md),\
-    \ [mage armor](3-Mechanics/CLI/spells/mage-armor-xphb.md), [plant growth](3-Mechanics/CLI/spells/plant-growth-xphb.md),\
-    \ [polymorph](3-Mechanics/CLI/spells/polymorph-xphb.md)"
+    \ 15):\n\nAt will: [guidance](/3-Mechanics/CLI/spells/guidance-xphb.md), [mage\
+    \ hand](/3-Mechanics/CLI/spells/mage-hand-xphb.md), [mending](/3-Mechanics/CLI/spells/mending-xphb.md)\
+    \ (as an action)\n\n1/day each: [creation](/3-Mechanics/CLI/spells/creation-xphb.md)\
+    \ (as an action), [dimension door](/3-Mechanics/CLI/spells/dimension-door-xphb.md),\
+    \ [mage armor](/3-Mechanics/CLI/spells/mage-armor-xphb.md), [plant growth](/3-Mechanics/CLI/spells/plant-growth-xphb.md),\
+    \ [polymorph](/3-Mechanics/CLI/spells/polymorph-xphb.md)"
   "name": "Spellcasting"
 "actions":
 - "desc": "The professor makes two Spatial Blade attacks."
   "name": "Multiattack"
 - "desc": "Melee or Ranged Spell Attack: +7 to hit (the target can't benefit from\
     \ cover less than total cover), reach 5 ft. or range 120 ft., one target. Hit:\
-    \ 13 (2d8 + 4) force damage, or 22 (4d8 + 4) force damage if the professor\
-    \ is Large or larger, and the professor can push the target horizontally up to\
-    \ 10 feet away."
+    \ 13 (2d8 + 4) force damage, or 22 (4d8 + 4) force damage if the professor is\
+    \ Large or larger, and the professor can push the target horizontally up to 10\
+    \ feet away."
   "name": "Spatial Blade"
 "bonus_actions":
 - "desc": "The professor magically alters its physical form until it uses this bonus\
-    \ action again, until it is [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated)\
+    \ action again, until it is [incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated)\
     \ or dies, or until it dismisses the effect (no action required). Choose one of\
     \ the following options:"
   "name": "Dilation (Recharge 5-6)"
@@ -92,6 +92,6 @@ The scholars of Quandrix College focus on the mathematical principles that gover
   "name": "Avoidant Translation (2/Day)"
 "source":
 - "SCC"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/quandrix-professor-of-substance-scc.webp"
+"image": "/3-Mechanics/CLI/bestiary/humanoid/token/quandrix-professor-of-substance-scc.webp"
 ```
 ^statblock

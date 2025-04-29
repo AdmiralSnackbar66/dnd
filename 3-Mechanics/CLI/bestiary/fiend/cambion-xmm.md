@@ -70,18 +70,18 @@ Cambions come into being in disparate ways. Roll on or choose a result from the 
   "Stealth": !!int "7"
   "Perception": !!int "4"
 "damage_resistances": "cold, fire, lightning, poison"
-"condition_immunities": "[poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"condition_immunities": "[poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
 "senses": "darkvision 120 ft., passive Perception 14"
 "languages": "Abyssal, Common, Infernal"
 "cr": "5"
 "traits":
 - "desc": "The cambion casts one of the following spells, requiring no Material components\
     \ and using Charisma as the spellcasting ability (spell save DC 14):\n\n1/day\
-    \ each: [Dominate Person](3-Mechanics/CLI/spells/dominate-person-xphb.md) (level\
-    \ 8 version), [Plane Shift](3-Mechanics/CLI/spells/plane-shift-xphb.md) (self\
-    \ only)\n\n2/day each: [Alter Self](3-Mechanics/CLI/spells/alter-self-xphb.md),\
-    \ [Command](3-Mechanics/CLI/spells/command-xphb.md) (level 3 version), [Detect\
-    \ Magic](3-Mechanics/CLI/spells/detect-magic-xphb.md)"
+    \ each: [Dominate Person](/3-Mechanics/CLI/spells/dominate-person-xphb.md) (level\
+    \ 8 version), [Plane Shift](/3-Mechanics/CLI/spells/plane-shift-xphb.md) (self\
+    \ only)\n\n2/day each: [Alter Self](/3-Mechanics/CLI/spells/alter-self-xphb.md),\
+    \ [Command](/3-Mechanics/CLI/spells/command-xphb.md) (level 3 version), [Detect\
+    \ Magic](/3-Mechanics/CLI/spells/detect-magic-xphb.md)"
   "name": "Spellcasting"
 "actions":
 - "desc": "The cambion makes two attacks, using Claw or Fire Ray in any combination."
@@ -93,7 +93,7 @@ Cambions come into being in disparate ways. Roll on or choose a result from the 
   "name": "Fire Ray"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/fiend/token/cambion-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/fiend/token/cambion-xmm.webp"
 ```
 ^statblock
 

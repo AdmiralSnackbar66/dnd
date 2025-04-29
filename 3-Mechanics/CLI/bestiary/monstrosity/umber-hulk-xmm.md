@@ -44,28 +44,27 @@ Umber hulks typically lurk in tunnels they've burrowed alongside other passages.
 "languages": "Umber Hulk"
 "cr": "5"
 "traits":
-- "desc": "The umber hulk can burrow through solid rock at half its [Burrow Speed](3-Mechanics/CLI/rules/variant-rules/burrow-speed-xphb.md)\
+- "desc": "The umber hulk can burrow through solid rock at half its [Burrow Speed](/3-Mechanics/CLI/variant-rules/burrow-speed-xphb.md)\
     \ and leaves a 10-foot-diameter tunnel in its wake."
   "name": "Tunneler"
 "actions":
 - "desc": "The umber hulk makes three Rend attacks."
   "name": "Multiattack"
-- "desc": "Melee Attack Roll: +8, reach 10 ft. Hit: 12 (2d6 + 5) Slashing\
-    \ damage."
+- "desc": "Melee Attack Roll: +8, reach 10 ft. Hit: 12 (2d6 + 5) Slashing damage."
   "name": "Rend"
 "bonus_actions":
-- "desc": "Wisdom Saving Throw: DC 14, each creature in a 30-foot [Cone](3-Mechanics/CLI/rules/variant-rules/cone-area-of-effect-xphb.md).\
+- "desc": "Wisdom Saving Throw: DC 14, each creature in a 30-foot [Cone](/3-Mechanics/CLI/variant-rules/cone-area-of-effect-xphb.md).\
     \ Failure: The target can't take Reactions until the start of the umber hulk's\
-    \ next turn, and the target rolls 1d8 to determine what it does on its next\
-    \ turn:\n\n- 1-4. The target does nothing.  \n- 5-6. The target takes\
-    \ no action or [Bonus Action](3-Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md)\
-    \ and uses all its movement to move in a random direction.  \n- 7-8. The target\
-    \ makes a melee attack against a random creature within its reach or does nothing\
-    \ if it can't make such an attack.  "
+    \ next turn, and the target rolls 1d8 to determine what it does on its next turn:\n\
+    \n- 1-4. The target does nothing.  \n- 5-6. The target takes no action\
+    \ or [Bonus Action](/3-Mechanics/CLI/variant-rules/bonus-action-xphb.md) and uses\
+    \ all its movement to move in a random direction.  \n- 7-8. The target makes\
+    \ a melee attack against a random creature within its reach or does nothing if\
+    \ it can't make such an attack.  "
   "name": "Confusing Gaze (Recharge 5-6)"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/monstrosity/token/umber-hulk-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/umber-hulk-xmm.webp"
 ```
 ^statblock
 

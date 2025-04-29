@@ -11,7 +11,7 @@ statblock: inline
 aliases: ["Warrior Infantry"]
 ---
 # [Warrior Infantry](3-Mechanics\CLI\bestiary\humanoid/warrior-infantry-xmm.md)
-*Source: Monster Manual (2024) p. 320*  
+*Source: Monster Manual (2024) p. 320. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
 
 Warrior infantry might be trainees or rank-and-file troops. They are skilled at contending with commonplace, nonmagical threats.
 
@@ -69,9 +69,9 @@ Roll on or choose a result from the Warrior Roles table to inspire the creation 
 "languages": "Common"
 "cr": "1/8"
 "traits":
-- "desc": "The warrior has [Advantage](3-Mechanics/CLI/rules/variant-rules/advantage-xphb.md)\
+- "desc": "The warrior has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
     \ on an attack roll against a creature if at least one of the warrior's allies\
-    \ is within 5 feet of the creature and the ally doesn't have the [Incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated)\
+    \ is within 5 feet of the creature and the ally doesn't have the [Incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated)\
     \ condition."
   "name": "Pack Tactics"
 "actions":
@@ -80,7 +80,7 @@ Roll on or choose a result from the Warrior Roles table to inspire the creation 
   "name": "Spear"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/warrior-infantry-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/humanoid/token/warrior-infantry-xmm.webp"
 ```
 ^statblock
 

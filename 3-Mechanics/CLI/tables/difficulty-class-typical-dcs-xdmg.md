@@ -6,7 +6,7 @@ tags:
 aliases: ["Difficulty Class; Typical DCs"]
 ---
 # Difficulty Class; Typical DCs
-*Source: Dungeon Master's Guide (2024) p. 29* 
+*Source: Dungeon Master's Guide (2024) p. 29. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>* 
 
 **Typical DCs**
 

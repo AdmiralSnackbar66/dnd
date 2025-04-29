@@ -13,7 +13,7 @@ aliases:
 
 
 
-When you make your character, you may roll once on the Silverquill Trinkets table, instead of on the [Trinkets table](3-Mechanics/CLI/items/trinket-xphb.md) in the "Player's Handbook", for your starting trinket.
+When you make your character, you may roll once on the Silverquill Trinkets table, instead of on the [Trinkets table](/3-Mechanics/CLI/items/trinket-xphb.md) in the "Player's Handbook", for your starting trinket.
 
 **Silverquill Trinkets**
 

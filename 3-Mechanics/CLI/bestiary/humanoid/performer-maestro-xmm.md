@@ -122,9 +122,9 @@ Wrestler
 "traits":
 - "desc": "The performer casts one of the following spells, requiring no Material\
     \ components and using Charisma as the spellcasting ability (spell save DC 15):\n\
-    \nAt will: [Minor Illusion](3-Mechanics/CLI/spells/minor-illusion-xphb.md),\
-    \ [Prestidigitation](3-Mechanics/CLI/spells/prestidigitation-xphb.md)\n\n1/day:\
-    \ [Tasha's Hideous Laughter](3-Mechanics/CLI/spells/tashas-hideous-laughter-xphb.md)\
+    \nAt will: [Minor Illusion](/3-Mechanics/CLI/spells/minor-illusion-xphb.md),\
+    \ [Prestidigitation](/3-Mechanics/CLI/spells/prestidigitation-xphb.md)\n\n1/day:\
+    \ [Tasha's Hideous Laughter](/3-Mechanics/CLI/spells/tashas-hideous-laughter-xphb.md)\
     \ (level 3 version)"
   "name": "Spellcasting"
 "actions":
@@ -133,15 +133,14 @@ Wrestler
 - "desc": "Melee Attack Roll: +7, reach 5 ft. Hit: 8 (1d8 + 4) Piercing damage\
     \ plus 7 (2d6) Psychic damage."
   "name": "Rapier"
-- "desc": "Wisdom Saving Throw: DC 15, each creature in a 20-foot-radius [Sphere](3-Mechanics/CLI/rules/variant-rules/sphere-area-of-effect-xphb.md)\
+- "desc": "Wisdom Saving Throw: DC 15, each creature in a 20-foot-radius [Sphere](/3-Mechanics/CLI/variant-rules/sphere-area-of-effect-xphb.md)\
     \ centered on a point within 120 feet. Failure: 20 (3d10 + 4) Psychic damage,\
-    \ and the target has the [Charmed](3-Mechanics/CLI/rules/conditions.md#Charmed)\
-    \ condition until the end of the performer's next turn. Success: Half damage\
-    \ only."
+    \ and the target has the [Charmed](/3-Mechanics/CLI/conditions.md#Charmed) condition\
+    \ until the end of the performer's next turn. Success: Half damage only."
   "name": "Beguiling Song"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/performer-maestro-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/humanoid/token/performer-maestro-xmm.webp"
 ```
 ^statblock
 

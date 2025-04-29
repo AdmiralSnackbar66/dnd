@@ -10,9 +10,9 @@ aliases: ["Student NPC Stat Blocks"]
 
 **Student NPC Stat Blocks**
 
-| Year           | Stat Block                                                                        |
-| -------------- | --------------------------------------------------------------------------------- |
-| First          | [First-Year Student](3-Mechanics/CLI/bestiary/humanoid/first-year-student-scc.md) |
-| Second         | [College] Apprentice                                                              |
-| Third or Later | [College] Pledgemage                                                              |
+| Year | Stat Block |
+|------|------------|
+| First | [First-Year Student](/3-Mechanics/CLI/bestiary/humanoid/first-year-student-scc.md) |
+| Second | [College] Apprentice |
+| Third or Later | [College] Pledgemage |
 ^student-npc-stat-blocks

@@ -72,7 +72,7 @@ Whether in service to lawful deities or as part of the Great Modron March, modro
 - !!int "10"
 - !!int "7"
 "speed": "30 ft."
-"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed)"
+"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed)"
 "senses": "truesight 120 ft., passive Perception 10"
 "languages": "Modron"
 "cr": "1/4"
@@ -83,13 +83,13 @@ Whether in service to lawful deities or as part of the Great Modron March, modro
 "actions":
 - "desc": "The modron makes two Clockwork Blade attacks."
   "name": "Multiattack"
-- "desc": "Melee or Ranged Attack Roll: +3, reach 5 ft. or range 30 ft. Hit:\
-    \ 4 (1d6 + 1) Force damage. Hit or Miss: The blade magically returns to the\
-    \ modron's hand immediately after a ranged attack."
+- "desc": "Melee or Ranged Attack Roll: +3, reach 5 ft. or range 30 ft. Hit: 4\
+    \ (1d6 + 1) Force damage. Hit or Miss: The blade magically returns to the modron's\
+    \ hand immediately after a ranged attack."
   "name": "Clockwork Blade"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/construct/token/modron-duodrone-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/construct/token/modron-duodrone-xmm.webp"
 ```
 ^statblock
 

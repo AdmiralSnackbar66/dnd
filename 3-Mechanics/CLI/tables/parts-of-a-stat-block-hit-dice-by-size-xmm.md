@@ -6,16 +6,16 @@ tags:
 aliases: ["Parts of a Stat Block; Hit Dice by Size"]
 ---
 # Parts of a Stat Block; Hit Dice by Size
-*Source: Monster Manual (2024) p. 6* 
+*Source: Monster Manual (2024) p. 6. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>* 
 
 **Hit Dice by Size**
 
 | Monster Size | Hit Die | Average HP per Die |
 |--------------|---------|--------------------|
-| Tiny | `d4` | 2½ |
-| Small | `d6` | 3½ |
-| Medium | `d8` | 4½ |
-| Large | `d10` | 5½ |
-| Huge | `d12` | 6½ |
-| Gargantuan | `d20` | 10½ |
+| Tiny | `dice:d4\|noform\|noparens\|avg` (`d4`) | 2½ |
+| Small | `dice:d6\|noform\|noparens\|avg` (`d6`) | 3½ |
+| Medium | `dice:d8\|noform\|noparens\|avg` (`d8`) | 4½ |
+| Large | `dice:d10\|noform\|noparens\|avg` (`d10`) | 5½ |
+| Huge | `dice:d12\|noform\|noparens\|avg` (`d12`) | 6½ |
+| Gargantuan | `dice:1d20\|noform\|noparens\|avg\|text(d20)` | 10½ |
 ^hit-dice-by-size

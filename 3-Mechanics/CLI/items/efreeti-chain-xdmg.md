@@ -14,10 +14,10 @@ aliases:
 ---
 # Efreeti Chain
 *Legendary (requires attunement)*  
-![](3-Mechanics/CLI/items/img/efreeti-chain.webp#right)
+![](/3-Mechanics/CLI/items/img/efreeti-chain.webp#right)
 
 
-While wearing this armor, you gain a +3 bonus to [Armor Class](3-Mechanics/CLI/rules/variant-rules/armor-class-xphb.md), you have [Immunity](3-Mechanics/CLI/rules/variant-rules/immunity-xphb.md) to Fire damage, and you know Primordial. In addition, you can stand on and move across molten rock as if it were solid ground.
+While wearing this armor, you gain a +3 bonus to [Armor Class](/3-Mechanics/CLI/variant-rules/armor-class-xphb.md), you have [Immunity](/3-Mechanics/CLI/variant-rules/immunity-xphb.md) to Fire damage, and you know Primordial. In addition, you can stand on and move across molten rock as if it were solid ground.
 
 **Variants**:
 - [Efreeti Chain Mail](#Efreeti%20Chain%20Mail)
@@ -36,4 +36,4 @@ While wearing this armor, you gain a +3 bonus to [Armor Class](3-Mechanics/CLI/r
 - **Weight**: 20.0 lbs.
 
 
-*Source: Dungeon Master's Guide (2024) p. 257. Available in the Free Rules (2024)*
+*Source: Dungeon Master's Guide (2024) p. 257*

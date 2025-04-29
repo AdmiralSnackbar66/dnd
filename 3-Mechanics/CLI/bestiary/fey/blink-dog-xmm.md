@@ -13,7 +13,7 @@ statblock: inline
 aliases: ["Blink Dog"]
 ---
 # [Blink Dog](3-Mechanics\CLI\bestiary\fey/blink-dog-xmm.md)
-*Source: Monster Manual (2024) p. 46*  
+*Source: Monster Manual (2024) p. 46. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
 
 ## Blink Dog
 
@@ -54,7 +54,7 @@ Blink dogs glimmer with a magic that allows them to teleport, "blinking" from on
   "name": "Teleport (Recharge 4-6)"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/fey/token/blink-dog-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/fey/token/blink-dog-xmm.webp"
 ```
 ^statblock
 

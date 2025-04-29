@@ -12,11 +12,13 @@ tags:
 - ttrpg-cli/spell/level/1st-level
 - ttrpg-cli/spell/school/divination
 - ttrpg-cli/spell/subclass/college-of-lore
+- ttrpg-cli/spell/subclass/divine-soul
 classes:
 - Bard
 - Bard (College of Lore)
 - Cleric
 - Paladin
+- Sorcerer (Divine Soul)
 aliases: ["Detect Evil and Good"]
 ---
 # Detect Evil and Good
@@ -28,10 +30,10 @@ aliases: ["Detect Evil and Good"]
 - **Components:** V, S
 - **Duration:** Concentration, up to 10 minutes
 
-For the duration, you sense the location of any Aberration, Celestial, Elemental, Fey, Fiend, or Undead within 30 feet of yourself. You also sense whether the [Hallow](3-Mechanics/CLI/spells/hallow-xphb.md) spell is active there and, if so, where.
+For the duration, you sense the location of any Aberration, Celestial, Elemental, Fey, Fiend, or Undead within 30 feet of yourself. You also sense whether the [Hallow](/3-Mechanics/CLI/spells/hallow-xphb.md) spell is active there and, if so, where.
 
 The spell is blocked by 1 foot of stone, dirt, or wood; 1 inch of metal; or a thin sheet of lead.
 
-**Classes**: [Cleric](3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Bard (College of Lore)](3-Mechanics/CLI/lists/list-spells-classes-bard-xphb-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Paladin](3-Mechanics/CLI/lists/list-spells-classes-paladin.md)
+**Classes**: [Sorcerer (Divine Soul)](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer-xphb-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Paladin](/3-Mechanics/CLI/lists/list-spells-classes-paladin.md); [Bard (College of Lore)](/3-Mechanics/CLI/lists/list-spells-classes-bard-xphb-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md)
 
-*Source: Player's Handbook (2024) p. 261. Available in the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 261. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*

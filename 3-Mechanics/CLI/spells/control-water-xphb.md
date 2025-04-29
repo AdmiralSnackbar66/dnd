@@ -11,15 +11,15 @@ tags:
 - ttrpg-cli/spell/level/4th-level
 - ttrpg-cli/spell/school/transmutation
 - ttrpg-cli/spell/subclass/arcane-trickster
+- ttrpg-cli/spell/subclass/divine-soul
 - ttrpg-cli/spell/subclass/eldritch-knight
-- ttrpg-cli/spell/subclass/oath-of-the-open-sea
 classes:
 - Bard
 - Cleric
 - Druid
 - Fighter (Eldritch Knight)
-- Paladin (Oath of the Open Sea)
 - Rogue (Arcane Trickster)
+- Sorcerer (Divine Soul)
 - Wizard
 aliases: ["Control Water"]
 ---
@@ -32,7 +32,7 @@ aliases: ["Control Water"]
 - **Components:** V, S, M (a mixture of water and dust)
 - **Duration:** Concentration, up to 10 minutes
 
-Until the spell ends, you control any water inside an area you choose that is a Cube up to 100 feet on a side, using one of the following effects. As a [Magic](3-Mechanics/CLI/rules/actions.md#Magic) action on your later turns, you can repeat the same effect or choose a different one.
+Until the spell ends, you control any water inside an area you choose that is a Cube up to 100 feet on a side, using one of the following effects. As a [Magic](/3-Mechanics/CLI/actions.md#Magic) action on your later turns, you can repeat the same effect or choose a different one.
 
 ## Flood
 
@@ -50,10 +50,10 @@ You cause flowing water in the area to move in a direction you choose, even if t
 
 ## Whirlpool
 
-You cause a whirlpool to form in the center of the area, which must be at least 50 feet square and 25 feet deep. The whirlpool lasts until you choose a different effect or the spell ends. The whirlpool is 5 feet wide at the base, up to 50 feet wide at the top, and 25 feet tall. Any creature in the water and within 25 feet of the whirlpool is pulled 10 feet toward it. When a creature enters the whirlpool for the first time on a turn or ends its turn there, it makes a Strength saving throw. On a failed save, the creature takes `2d8` Bludgeoning damage. On a successful save, the creature takes half as much damage. A creature can swim away from the whirlpool only if it first takes an action to pull away and succeeds on a Strength ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)) check against your spell save DC.
+You cause a whirlpool to form in the center of the area, which must be at least 50 feet square and 25 feet deep. The whirlpool lasts until you choose a different effect or the spell ends. The whirlpool is 5 feet wide at the base, up to 50 feet wide at the top, and 25 feet tall. Any creature in the water and within 25 feet of the whirlpool is pulled 10 feet toward it. When a creature enters the whirlpool for the first time on a turn or ends its turn there, it makes a Strength saving throw. On a failed save, the creature takes `dice:2d8|noform|noparens|avg` (`2d8`) Bludgeoning damage. On a successful save, the creature takes half as much damage. A creature can swim away from the whirlpool only if it first takes an action to pull away and succeeds on a Strength ([Athletics](/3-Mechanics/CLI/skills.md#Athletics)) check against your spell save DC.
 
 ## Summary
 
-**Classes**: [Rogue (Arcane Trickster)](3-Mechanics/CLI/lists/list-spells-classes-rogue-xphb-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Cleric](3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Fighter (Eldritch Knight)](3-Mechanics/CLI/lists/list-spells-classes-fighter-xphb-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Bard](3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Druid](3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Wizard](3-Mechanics/CLI/lists/list-spells-classes-wizard.md); [Paladin (Oath of the Open Sea)](3-Mechanics/CLI/lists/list-spells-classes-paladin-xphb-oath-of-the-open-sea-tdcsr.md "subclass=TDCSR;class=XPHB")
+**Classes**: [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Rogue (Arcane Trickster)](/3-Mechanics/CLI/lists/list-spells-classes-rogue-xphb-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer (Divine Soul)](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer-xphb-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Fighter (Eldritch Knight)](/3-Mechanics/CLI/lists/list-spells-classes-fighter-xphb-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 256. Available in the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 256. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*

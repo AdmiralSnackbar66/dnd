@@ -103,18 +103,18 @@ Kuo-toa typically organize their communities around sites they believe to be imp
 "traits":
 - "desc": "The kuo-toa casts one of the following spells, requiring no Material components\
     \ and using Wisdom as the spellcasting ability (spell save DC 14):\n\nAt will:\
-    \ [Detect Magic](3-Mechanics/CLI/spells/detect-magic-xphb.md), [Thaumaturgy](3-Mechanics/CLI/spells/thaumaturgy-xphb.md)\n\
-    \n1/day each: [Destructive Wave](3-Mechanics/CLI/spells/destructive-wave-xphb.md),\
-    \ [Divination](3-Mechanics/CLI/spells/divination-xphb.md), [Hold Monster](3-Mechanics/CLI/spells/hold-monster-xphb.md)\
-    \ (level 6 version), [Scrying](3-Mechanics/CLI/spells/scrying-xphb.md), [Tongues](3-Mechanics/CLI/spells/tongues-xphb.md)"
+    \ [Detect Magic](/3-Mechanics/CLI/spells/detect-magic-xphb.md), [Thaumaturgy](/3-Mechanics/CLI/spells/thaumaturgy-xphb.md)\n\
+    \n1/day each: [Destructive Wave](/3-Mechanics/CLI/spells/destructive-wave-xphb.md),\
+    \ [Divination](/3-Mechanics/CLI/spells/divination-xphb.md), [Hold Monster](/3-Mechanics/CLI/spells/hold-monster-xphb.md)\
+    \ (level 6 version), [Scrying](/3-Mechanics/CLI/spells/scrying-xphb.md), [Tongues](/3-Mechanics/CLI/spells/tongues-xphb.md)"
   "name": "Spellcasting"
-- "desc": "The kuo-toa casts [Shield of Faith](3-Mechanics/CLI/spells/shield-of-faith-xphb.md),\
+- "desc": "The kuo-toa casts [Shield of Faith](/3-Mechanics/CLI/spells/shield-of-faith-xphb.md),\
     \ using the same spellcasting ability as Spellcasting.\n\n2/day: [Shield of\
-    \ Faith](3-Mechanics/CLI/spells/shield-of-faith-xphb.md)"
+    \ Faith](/3-Mechanics/CLI/spells/shield-of-faith-xphb.md)"
   "name": "Shield of Faith (2/Day)"
 - "desc": "The kuo-toa can breathe air and water."
   "name": "Amphibious"
-- "desc": "While in sunlight, the kuo-toa has [Disadvantage](3-Mechanics/CLI/rules/variant-rules/disadvantage-xphb.md)\
+- "desc": "While in sunlight, the kuo-toa has [Disadvantage](/3-Mechanics/CLI/variant-rules/disadvantage-xphb.md)\
     \ on ability checks and attack rolls."
   "name": "Sunlight Sensitivity"
 "actions":
@@ -125,7 +125,7 @@ Kuo-toa typically organize their communities around sites they believe to be imp
   "name": "Strange Scepter"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/aberration/token/kuo-toa-archpriest-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/aberration/token/kuo-toa-archpriest-xmm.webp"
 ```
 ^statblock
 

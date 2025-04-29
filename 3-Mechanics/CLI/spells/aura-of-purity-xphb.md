@@ -8,10 +8,12 @@ tags:
 - ttrpg-cli/spell/class/paladin
 - ttrpg-cli/spell/level/4th-level
 - ttrpg-cli/spell/school/abjuration
+- ttrpg-cli/spell/subclass/divine-soul
 classes:
 - Bard
 - Cleric
 - Paladin
+- Sorcerer (Divine Soul)
 aliases: ["Aura of Purity"]
 ---
 # Aura of Purity
@@ -23,8 +25,8 @@ aliases: ["Aura of Purity"]
 - **Components:** V
 - **Duration:** Concentration, up to 10 minutes
 
-An aura radiates from you in a 30-foot Emanation for the duration. While in the aura, you and your allies have [Resistance](3-Mechanics/CLI/rules/variant-rules/resistance-xphb.md) to Poison damage and [Advantage](3-Mechanics/CLI/rules/variant-rules/advantage-xphb.md) on saving throws to avoid or end effects that include the [Blinded](3-Mechanics/CLI/rules/conditions.md#Blinded), [Charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [Deafened](3-Mechanics/CLI/rules/conditions.md#Deafened), [Frightened](3-Mechanics/CLI/rules/conditions.md#Frightened), [Paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed), [Poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned), or [Stunned](3-Mechanics/CLI/rules/conditions.md#Stunned) condition.
+An aura radiates from you in a 30-foot Emanation for the duration. While in the aura, you and your allies have [Resistance](/3-Mechanics/CLI/variant-rules/resistance-xphb.md) to Poison damage and [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md) on saving throws to avoid or end effects that include the [Blinded](/3-Mechanics/CLI/conditions.md#Blinded), [Charmed](/3-Mechanics/CLI/conditions.md#Charmed), [Deafened](/3-Mechanics/CLI/conditions.md#Deafened), [Frightened](/3-Mechanics/CLI/conditions.md#Frightened), [Paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed), [Poisoned](/3-Mechanics/CLI/conditions.md#Poisoned), or [Stunned](/3-Mechanics/CLI/conditions.md#Stunned) condition.
 
-**Classes**: [Cleric](3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Bard](3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Paladin](3-Mechanics/CLI/lists/list-spells-classes-paladin.md)
+**Classes**: [Sorcerer (Divine Soul)](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer-xphb-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Paladin](/3-Mechanics/CLI/lists/list-spells-classes-paladin.md); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md)
 
 *Source: Player's Handbook (2024) p. 244*

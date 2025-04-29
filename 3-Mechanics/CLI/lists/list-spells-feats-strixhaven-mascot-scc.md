@@ -9,4 +9,4 @@ aliases: ["Spells for Strixhaven Mascot"]
 
 ## 1st Level
 
-- [Find Familiar](3-Mechanics/CLI/spells/find-familiar-xphb.md "XPHB")
+- [Find Familiar](/3-Mechanics/CLI/spells/find-familiar-xphb.md "XPHB")

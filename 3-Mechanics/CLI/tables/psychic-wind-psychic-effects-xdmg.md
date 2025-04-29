@@ -14,8 +14,8 @@ aliases: ["Psychic Wind Psychic Effects"]
 
 | dice: 1d20 | Psychic Effect |
 |------------|----------------|
-| 1–8 | You have the [Stunned](3-Mechanics/CLI/rules/conditions.md#Stunned) condition for 1 minute; you repeat the saving throw at the end of each of your turns, ending the effect on yourself on a success. |
-| 9–12 | You take 11 (`2d10`) Psychic damage. |
-| 13–17 | You take 22 (`4d10`) Psychic damage. |
-| 18–20 | You have the [Unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious) condition for 5 (`1d10`) hours; the effect on you ends if you take damage or if another creature takes an action to shake you awake. |
+| 1–8 | You have the [Stunned](/3-Mechanics/CLI/conditions.md#Stunned) condition for 1 minute; you repeat the saving throw at the end of each of your turns, ending the effect on yourself on a success. |
+| 9–12 | You take `dice:2d10\|noform\|noparens\|avg\|text(11)` (`2d10`) Psychic damage. |
+| 13–17 | You take `dice:4d10\|noform\|noparens\|avg\|text(22)` (`4d10`) Psychic damage. |
+| 18–20 | You have the [Unconscious](/3-Mechanics/CLI/conditions.md#Unconscious) condition for `dice:1d10\|noform\|noparens\|avg\|text(5)` (`1d10`) hours; the effect on you ends if you take damage or if another creature takes an action to shake you awake. |
 ^psychic-wind-psychic-effects

@@ -101,10 +101,9 @@ Cults can organize around any mystical tradition, but many serve supernatural be
 "cr": "10"
 "traits":
 - "desc": "The cultist casts one of the following spells, using Charisma as the spellcasting\
-    \ ability (spell save DC 17):\n\nAt will: [Mage Armor](3-Mechanics/CLI/spells/mage-armor-xphb.md)\
-    \ (included in AC), [Thaumaturgy](3-Mechanics/CLI/spells/thaumaturgy-xphb.md)\n\
-    \n1/day each: [Jallarzi's Storm of Radiance](3-Mechanics/CLI/spells/jallarzis-storm-of-radiance-xphb.md)\
-    \ (level 7 version), [Mass Suggestion](3-Mechanics/CLI/spells/mass-suggestion-xphb.md)"
+    \ ability (spell save DC 17):\n\nAt will: [Thaumaturgy](/3-Mechanics/CLI/spells/thaumaturgy-xphb.md)\n\
+    \n1/day each: [Jallarzi's Storm of Radiance](/3-Mechanics/CLI/spells/jallarzis-storm-of-radiance-xphb.md)\
+    \ (level 7 version), [Mass Suggestion](/3-Mechanics/CLI/spells/mass-suggestion-xphb.md)"
   "name": "Spellcasting"
 "actions":
 - "desc": "The cultist makes three attacks, using Pact Blade or Radiant Ray in any\
@@ -113,12 +112,11 @@ Cults can organize around any mystical tradition, but many serve supernatural be
 - "desc": "Melee Attack Roll: +9, reach 5 ft. Hit: 12 (2d6 + 5) Slashing damage\
     \ plus 18 (4d8) Radiant damage."
   "name": "Pact Blade"
-- "desc": "Ranged Attack Roll: +9, range 120 ft. Hit: 31 (4d12 + 5) Radiant\
-    \ damage."
+- "desc": "Ranged Attack Roll: +9, range 120 ft. Hit: 31 (4d12 + 5) Radiant damage."
   "name": "Radiant Ray"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/cultist-hierophant-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/humanoid/token/cultist-hierophant-xmm.webp"
 ```
 ^statblock
 

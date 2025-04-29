@@ -71,12 +71,12 @@ Perytons tear out the hearts of those they slay, carrying the organs back to gri
     \ the hit, the target takes an extra 9 (2d8) Piercing damage."
   "name": "Gore"
 - "desc": "Melee Attack Roll: +5, reach 5 ft. Hit: 8 (2d4 + 3) Piercing damage.\
-    \ If the attack reduces a Humanoid target to 0 [Hit Points](3-Mechanics/CLI/rules/variant-rules/hit-points-xphb.md),\
+    \ If the attack reduces a Humanoid target to 0 [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md),\
     \ the peryton kills the target by removing its heart."
   "name": "Talons"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/monstrosity/token/peryton-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/peryton-xmm.webp"
 ```
 ^statblock
 

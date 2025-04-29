@@ -9,20 +9,20 @@ aliases: ["Spells for Gloom Stalker"]
 
 ## 1st Level
 
-- [Disguise Self](3-Mechanics/CLI/spells/disguise-self-xphb.md "XPHB") at class level 3
+- [Disguise Self](/3-Mechanics/CLI/spells/disguise-self-xphb.md "XPHB") at class level 3
 
 ## 2nd Level
 
-- [Rope Trick](3-Mechanics/CLI/spells/rope-trick-xphb.md "XPHB") at class level 3
+- [Rope Trick](/3-Mechanics/CLI/spells/rope-trick-xphb.md "XPHB") at class level 3
 
 ## 3rd Level
 
-- [Fear](3-Mechanics/CLI/spells/fear-xphb.md "XPHB") at class level 3
+- [Fear](/3-Mechanics/CLI/spells/fear-xphb.md "XPHB") at class level 3
 
 ## 4th Level
 
-- [Greater Invisibility](3-Mechanics/CLI/spells/greater-invisibility-xphb.md "XPHB") at class level 3
+- [Greater Invisibility](/3-Mechanics/CLI/spells/greater-invisibility-xphb.md "XPHB") at class level 3
 
 ## 5th Level
 
-- [Seeming](3-Mechanics/CLI/spells/seeming-xphb.md "XPHB") at class level 3
+- [Seeming](/3-Mechanics/CLI/spells/seeming-xphb.md "XPHB") at class level 3

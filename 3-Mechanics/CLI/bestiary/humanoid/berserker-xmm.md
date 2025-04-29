@@ -11,7 +11,7 @@ statblock: inline
 aliases: ["Berserker"]
 ---
 # [Berserker](3-Mechanics\CLI\bestiary\humanoid/berserker-xmm.md)
-*Source: Monster Manual (2024) p. 37*  
+*Source: Monster Manual (2024) p. 37. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
 
 Berserkers might fight for personal glory or form motivated forces or howling hordes.
 
@@ -44,8 +44,8 @@ Gripped by the adrenaline of battle, berserkers are reckless invaders, pit fight
 "languages": "Common"
 "cr": "2"
 "traits":
-- "desc": "While [Bloodied](3-Mechanics/CLI/rules/variant-rules/bloodied-xphb.md),\
-    \ the berserker has [Advantage](3-Mechanics/CLI/rules/variant-rules/advantage-xphb.md)\
+- "desc": "While [Bloodied](/3-Mechanics/CLI/variant-rules/bloodied-xphb.md), the\
+    \ berserker has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
     \ on attack rolls and saving throws."
   "name": "Bloodied Frenzy"
 "actions":
@@ -53,7 +53,7 @@ Gripped by the adrenaline of battle, berserkers are reckless invaders, pit fight
   "name": "Greataxe"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/berserker-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/humanoid/token/berserker-xmm.webp"
 ```
 ^statblock
 

@@ -15,11 +15,11 @@ statblock: inline
 aliases: ["Giant Spider"]
 ---
 # [Giant Spider](3-Mechanics\CLI\bestiary\beast/giant-spider-xmm.md)
-*Source: Monster Manual (2024) p. 359, Player's Handbook (2024) p. 351*  
+*Source: Monster Manual (2024) p. 359, Player's Handbook (2024) p. 351. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
 
 ## Animals
 
-Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [Panther](3-Mechanics/CLI/bestiary/beast/panther-xmm.md) stat block can also represent a mountain lion, while the [Giant Goat](3-Mechanics/CLI/bestiary/beast/giant-goat-xmm.md) stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
+Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [Panther](/3-Mechanics/CLI/bestiary/beast/panther-xmm.md) stat block can also represent a mountain lion, while the [Giant Goat](/3-Mechanics/CLI/bestiary/beast/giant-goat-xmm.md) stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
 
 ```statblock
 "name": "Giant Spider (XMM)"
@@ -55,15 +55,15 @@ Use these stat blocks to represent the creatures they're named for or other simi
     \ plus 7 (2d6) Poison damage."
   "name": "Bite"
 - "desc": "Dexterity Saving Throw: DC 13, one creature the spider can see within\
-    \ 60 feet. Failure: The target has the [Restrained](3-Mechanics/CLI/rules/conditions.md#Restrained)\
-    \ condition until the web is destroyed (AC 10; HP 5; [Vulnerability](3-Mechanics/CLI/rules/variant-rules/vulnerability-xphb.md)\
-    \ to Fire damage; [Immunity](3-Mechanics/CLI/rules/variant-rules/immunity-xphb.md)\
+    \ 60 feet. Failure: The target has the [Restrained](/3-Mechanics/CLI/conditions.md#Restrained)\
+    \ condition until the web is destroyed (AC 10; HP 5; [Vulnerability](/3-Mechanics/CLI/variant-rules/vulnerability-xphb.md)\
+    \ to Fire damage; [Immunity](/3-Mechanics/CLI/variant-rules/immunity-xphb.md)\
     \ to Poison and Psychic damage)."
   "name": "Web (Recharge 5-6)"
 "source":
 - "XMM"
 - "XPHB"
-"image": "3-Mechanics/CLI/bestiary/beast/token/giant-spider-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/beast/token/giant-spider-xmm.webp"
 ```
 ^statblock
 

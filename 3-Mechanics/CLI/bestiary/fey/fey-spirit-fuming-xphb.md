@@ -26,7 +26,7 @@ aliases: ["Fey Spirit (Fuming)"]
 - !!int "11"
 - !!int "16"
 "speed": "30 ft., fly 30 ft."
-"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed)"
+"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed)"
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": "Sylvan, understands the languages you know"
 "actions":

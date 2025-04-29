@@ -46,19 +46,19 @@ Ghasts are reeking, undying corpses closely related to ghouls. They hunger for t
   "Wisdom": !!int "5"
   "Constitution": !!int "5"
 "damage_immunities": "necrotic, poison"
-"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
-  \ [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
+  \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
 "senses": "darkvision 120 ft., passive Perception 12"
 "languages": "Abyssal, Common"
 "cr": "6"
 "traits":
 - "desc": "The ghast casts one of the following spells, requiring no Material components\
     \ and using Intelligence as the spellcasting ability:\n\nAt will: [Speak with\
-    \ Dead](3-Mechanics/CLI/spells/speak-with-dead-xphb.md), [Thaumaturgy](3-Mechanics/CLI/spells/thaumaturgy-xphb.md)"
+    \ Dead](/3-Mechanics/CLI/spells/speak-with-dead-xphb.md), [Thaumaturgy](/3-Mechanics/CLI/spells/thaumaturgy-xphb.md)"
   "name": "Spellcasting"
 - "desc": "Constitution Saving Throw: DC 13, any creature that starts its turn in\
-    \ a 5-foot [Emanation](3-Mechanics/CLI/rules/variant-rules/emanation-area-of-effect-xphb.md)\
-    \ originating from the ghast. Failure: The target has the [Poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)\
+    \ a 5-foot [Emanation](/3-Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md)\
+    \ originating from the ghast. Failure: The target has the [Poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)\
     \ condition until the start of its next turn. Success: The target is immune\
     \ to this ghast's Stench for 24 hours."
   "name": "Stench"
@@ -67,16 +67,16 @@ Ghasts are reeking, undying corpses closely related to ghouls. They hunger for t
     \ with a Claw attack."
   "name": "Multiattack"
 - "desc": "Melee Attack Roll: +6, reach 5 ft. Hit: 13 (3d6 + 3) Slashing damage.\
-    \ If the target isn't an Undead, it has the [Paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed)\
+    \ If the target isn't an Undead, it has the [Paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed)\
     \ condition until the end of its next turn."
   "name": "Claw"
 - "desc": "Melee or Ranged Attack Roll: +7, reach 5 ft. or range 120 ft. Hit:\
-    \ 15 (2d10 + 4) Necrotic damage, and the target has the [Frightened](3-Mechanics/CLI/rules/conditions.md#Frightened)\
+    \ 15 (2d10 + 4) Necrotic damage, and the target has the [Frightened](/3-Mechanics/CLI/conditions.md#Frightened)\
     \ condition until the end of its next turn."
   "name": "Horrific Necrosis"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/undead/token/ghast-gravecaller-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/undead/token/ghast-gravecaller-xmm.webp"
 ```
 ^statblock
 

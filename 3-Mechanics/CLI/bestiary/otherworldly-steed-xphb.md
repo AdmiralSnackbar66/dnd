@@ -33,12 +33,12 @@ aliases: ["Otherworldly Steed"]
   "name": "Life Bond"
 "actions":
 - "desc": "Melee Attack Roll: YourSpellAttack Bonus equals your spell attack modifier,\
-    \ reach 5 ft. Hit: 1d8 + the spell's level of Radiant (Celestial), Psychic\
-    \ (Fey), or Necrotic (Fiend) damage."
+    \ reach 5 ft. Hit: 1d8 + the spell's level of Radiant (Celestial), Psychic (Fey),\
+    \ or Necrotic (Fiend) damage."
   "name": "Otherworldly Slam"
 "bonus_actions":
 - "desc": "Wisdom Saving Throw: DC equals your spell save DC, one creature within\
-    \ 60 feet the steed can see. Failure: The target has the [Frightened](3-Mechanics/CLI/rules/conditions.md#Frightened)\
+    \ 60 feet the steed can see. Failure: The target has the [Frightened](/3-Mechanics/CLI/conditions.md#Frightened)\
     \ condition until the end of your next turn."
   "name": "Fell Glare (Fiend Only; Recharges after a Long Rest)"
 - "desc": "The steed teleports, along with its rider, to an unoccupied space of your\
@@ -49,6 +49,6 @@ aliases: ["Otherworldly Steed"]
   "name": "Healing Touch (Celestial Only; Recharges after a Long Rest)"
 "source":
 - "XPHB"
-"image": "3-Mechanics/CLI/bestiary/token/otherworldly-steed-xphb.webp"
+"image": "/3-Mechanics/CLI/bestiary/token/otherworldly-steed-xphb.webp"
 ```
 ^statblock

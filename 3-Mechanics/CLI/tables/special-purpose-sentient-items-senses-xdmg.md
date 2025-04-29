@@ -17,5 +17,5 @@ aliases: ["Special Purpose; Sentient Item's Senses"]
 | 1 | Hearing and standard vision out to 30 feet |
 | 2 | Hearing and standard vision out to 60 feet |
 | 3 | Hearing and standard vision out to 120 feet |
-| 4 | Hearing and [Darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) out to 120 feet |
+| 4 | Hearing and [Darkvision](/3-Mechanics/CLI/senses.md#Darkvision) out to 120 feet |
 ^sentient-items-senses

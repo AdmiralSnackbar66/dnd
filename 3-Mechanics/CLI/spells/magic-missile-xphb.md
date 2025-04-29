@@ -26,17 +26,17 @@ aliases: ["Magic Missile"]
 ---
 # Magic Missile
 *1st-level, Evocation*  
-![](3-Mechanics/CLI/spells/img/magic-missile.webp#right)
+![](/3-Mechanics/CLI/spells/img/magic-missile.webp#right)
 
 - **Casting time:** 1 Action
 - **Range:** 120 feet
 - **Components:** V, S
 - **Duration:** Instantaneous
 
-You create three glowing darts of magical force. Each dart strikes a creature of your choice that you can see within range. A dart deals `1d4 + 1` Force damage to its target. The darts all strike simultaneously, and you can direct them to hit one creature or several.
+You create three glowing darts of magical force. Each dart strikes a creature of your choice that you can see within range. A dart deals `dice:1d4+1|noform|noparens|avg` (`1d4 + 1`) Force damage to its target. The darts all strike simultaneously, and you can direct them to hit one creature or several.
 
 **Using a Higher-Level Spell Slot.** The spell creates one more dart for each spell slot level above 1.
 
-**Classes**: [Wizard (Evoker)](3-Mechanics/CLI/lists/list-spells-classes-wizard-xphb-evoker-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Rogue (Arcane Trickster)](3-Mechanics/CLI/lists/list-spells-classes-rogue-xphb-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Bard (College of Lore)](3-Mechanics/CLI/lists/list-spells-classes-bard-xphb-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Fighter (Eldritch Knight)](3-Mechanics/CLI/lists/list-spells-classes-fighter-xphb-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Bard](3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Rogue (Arcane Trickster)](/3-Mechanics/CLI/lists/list-spells-classes-rogue-xphb-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Fighter (Eldritch Knight)](/3-Mechanics/CLI/lists/list-spells-classes-fighter-xphb-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Bard (College of Lore)](/3-Mechanics/CLI/lists/list-spells-classes-bard-xphb-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md); [Wizard (Evoker)](/3-Mechanics/CLI/lists/list-spells-classes-wizard-xphb-evoker-xphb.md "subclass=XPHB;class=XPHB")
 
-*Source: Player's Handbook (2024) p. 295. Available in the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 295. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*

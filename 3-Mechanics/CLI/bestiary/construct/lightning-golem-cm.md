@@ -32,9 +32,9 @@ Lightning golems resemble humans made of crackling lightning. Powerful enchantme
 "speed": "30 ft."
 "damage_immunities": "lightning; poison; bludgeoning, piercing, slashing from nonmagical\
   \ attacks that aren't adamantine"
-"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
-  \ [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened), [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed),\
-  \ [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified), [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
+  \ [frightened](/3-Mechanics/CLI/conditions.md#Frightened), [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed),\
+  \ [petrified](/3-Mechanics/CLI/conditions.md#Petrified), [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": "understands the languages of its creator but can't speak"
 "cr": "5"
@@ -47,9 +47,9 @@ Lightning golems resemble humans made of crackling lightning. Powerful enchantme
     \ it is destroyed or regains all its hit points.\n\nThe golem's creator, if within\
     \ 60 feet of the berserk golem, can try to calm it by speaking firmly and persuasively.\
     \ The golem must be able to hear its creator, who must take an action to make\
-    \ a DC 15 Charisma ([Persuasion](3-Mechanics/CLI/rules/skills.md#Persuasion))\
-    \ check. If the check succeeds, the golem ceases being berserk. If it takes damage\
-    \ while still at 40 hit points or fewer, the golem might go berserk again."
+    \ a DC 15 Charisma ([Persuasion](/3-Mechanics/CLI/skills.md#Persuasion)) check.\
+    \ If the check succeeds, the golem ceases being berserk. If it takes damage while\
+    \ still at 40 hit points or fewer, the golem might go berserk again."
   "name": "Berserk"
 - "desc": "The golem is immune to any spell or effect that would alter its form."
   "name": "Immutable Form"
@@ -64,11 +64,11 @@ Lightning golems resemble humans made of crackling lightning. Powerful enchantme
 "actions":
 - "desc": "The golem makes two slam attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 13\
-    \ (2d8 + 4) lightning damage."
+- "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 13 (2d8\
+    \ + 4) lightning damage."
   "name": "Slam"
 "source":
 - "CM"
-"image": "3-Mechanics/CLI/bestiary/construct/token/lightning-golem-cm.webp"
+"image": "/3-Mechanics/CLI/bestiary/construct/token/lightning-golem-cm.webp"
 ```
 ^statblock

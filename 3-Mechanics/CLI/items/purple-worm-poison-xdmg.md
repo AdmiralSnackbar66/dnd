@@ -12,9 +12,9 @@ aliases:
 *Adventuring gear, poison (injury)*  
 
 
-- **Properties**: [Poison](3-Mechanics/CLI/rules/item-properties.md#Poison)
+- **Properties**: [Poison](/3-Mechanics/CLI/item-properties.md#Poison)
 - **Cost**: 2,000 gp
 
-A creature subjected to Purple Worm Poison makes a DC 21 Constitution saving throw, taking 35 (`10d6`) Poison damage on a failed save or half as much damage on a successful one.
+A creature subjected to Purple Worm Poison makes a DC 21 Constitution saving throw, taking `dice:10d6|noform|noparens|avg|text(35)` (`10d6`) Poison damage on a failed save or half as much damage on a successful one.
 
-*Source: Dungeon Master's Guide (2024) p. 91*
+*Source: Dungeon Master's Guide (2024) p. 91. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*

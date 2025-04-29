@@ -12,11 +12,11 @@ statblock: inline
 aliases: ["Giant Crab"]
 ---
 # [Giant Crab](3-Mechanics\CLI\bestiary\beast/giant-crab-xmm.md)
-*Source: Monster Manual (2024) p. 356, Player's Handbook (2024) p. 350*  
+*Source: Monster Manual (2024) p. 356, Player's Handbook (2024) p. 350. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
 
 ## Animals
 
-Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [Panther](3-Mechanics/CLI/bestiary/beast/panther-xmm.md) stat block can also represent a mountain lion, while the [Giant Goat](3-Mechanics/CLI/bestiary/beast/giant-goat-xmm.md) stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
+Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [Panther](/3-Mechanics/CLI/bestiary/beast/panther-xmm.md) stat block can also represent a mountain lion, while the [Giant Goat](/3-Mechanics/CLI/bestiary/beast/giant-goat-xmm.md) stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
 
 ```statblock
 "name": "Giant Crab (XMM)"
@@ -43,14 +43,14 @@ Use these stat blocks to represent the creatures they're named for or other simi
 - "desc": "The crab can breathe air and water."
   "name": "Amphibious"
 "actions":
-- "desc": "Melee Attack Roll: +3, reach 5 ft. Hit: 4 (1d6 + 1) Bludgeoning\
-    \ damage. If the target is a Medium or smaller creature, it has the [Grappled](3-Mechanics/CLI/rules/conditions.md#Grappled)\
+- "desc": "Melee Attack Roll: +3, reach 5 ft. Hit: 4 (1d6 + 1) Bludgeoning damage.\
+    \ If the target is a Medium or smaller creature, it has the [Grappled](/3-Mechanics/CLI/conditions.md#Grappled)\
     \ condition (escape DC 11) from one of two claws."
   "name": "Claw"
 "source":
 - "XMM"
 - "XPHB"
-"image": "3-Mechanics/CLI/bestiary/beast/token/giant-crab-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/beast/token/giant-crab-xmm.webp"
 ```
 ^statblock
 

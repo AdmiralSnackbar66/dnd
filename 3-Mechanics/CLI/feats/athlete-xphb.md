@@ -18,7 +18,7 @@ You gain a Climb Speed equal to your Speed.
 
 ## Hop Up
 
-When you have the [Prone](3-Mechanics/CLI/rules/conditions.md#Prone) condition, you can right yourself with only 5 feet of movement.
+When you have the [Prone](/3-Mechanics/CLI/conditions.md#Prone) condition, you can right yourself with only 5 feet of movement.
 
 ## Jumping
 

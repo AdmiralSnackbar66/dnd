@@ -25,7 +25,7 @@ aliases: ["Teleport"]
 
 This spell instantly transports you and up to eight willing creatures that you can see within range, or a single object that you can see within range, to a destination you select. If you target an object, it must be Large or smaller, and it can't be held or carried by an unwilling creature.
 
-The destination you choose must be known to you, and it must be on the same plane of existence as you. Your familiarity with the destination determines whether you arrive there successfully. The DM rolls `1d100` and consults the [Teleportation](3-Mechanics/CLI/rules/variant-rules/teleportation-xphb.md) Outcome table and the explanations after it.
+The destination you choose must be known to you, and it must be on the same plane of existence as you. Your familiarity with the destination determines whether you arrive there successfully. The DM rolls `dice:1d100|noform|noparens|avg` (`1d100`) and consults the [Teleportation](/3-Mechanics/CLI/variant-rules/teleportation-xphb.md) Outcome table and the explanations after it.
 
 **Teleportation Outcome**
 
@@ -52,7 +52,7 @@ Here are the meanings of the terms in the table's Familiarity column:
 
 ## Mishap
 
-The spell's unpredictable magic results in a difficult journey. Each teleporting creature (or the target object) takes `3d10` Force damage, and the DM rerolls on the table to see where you wind up (multiple mishaps can occur, dealing damage each time).
+The spell's unpredictable magic results in a difficult journey. Each teleporting creature (or the target object) takes `dice:3d10|noform|noparens|avg` (`3d10`) Force damage, and the DM rerolls on the table to see where you wind up (multiple mishaps can occur, dealing damage each time).
 
 ## Similar Area
 
@@ -60,7 +60,7 @@ You and your group (or the target object) appear in a different area that's visu
 
 ## Off Target
 
-You and your group (or the target object) appear `2d12` miles away from the destination in a random direction. Roll `1d8` for the direction: 1, east; 2, southeast; 3, south; 4, southwest; 5, west; 6, northwest; 7, north; or 8, northeast.
+You and your group (or the target object) appear `dice:2d12|noform|noparens|avg` (`2d12`) miles away from the destination in a random direction. Roll `dice:1d8|noform|noparens|avg` (`1d8`) for the direction: 1, east; 2, southeast; 3, south; 4, southwest; 5, west; 6, northwest; 7, north; or 8, northeast.
 
 ## On Target
 
@@ -68,6 +68,6 @@ You and your group (or the target object) appear where you intended.
 
 ## Summary
 
-**Classes**: [Sorcerer](3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Bard](3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 331. Available in the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 331. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*

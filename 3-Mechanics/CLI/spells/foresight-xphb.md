@@ -27,8 +27,8 @@ aliases: ["Foresight"]
 - **Components:** V, S, M (a hummingbird feather)
 - **Duration:** 8 hours
 
-You touch a willing creature and bestow a limited ability to see into the immediate future. For the duration, the target has [Advantage](3-Mechanics/CLI/rules/variant-rules/advantage-xphb.md) on [D20 Tests](3-Mechanics/CLI/rules/variant-rules/d20-test-xphb.md), and other creatures have [Disadvantage](3-Mechanics/CLI/rules/variant-rules/disadvantage-xphb.md) on attack rolls against it. The spell ends early if you cast it again.
+You touch a willing creature and bestow a limited ability to see into the immediate future. For the duration, the target has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md) on [D20 Tests](/3-Mechanics/CLI/variant-rules/d20-test-xphb.md), and other creatures have [Disadvantage](/3-Mechanics/CLI/variant-rules/disadvantage-xphb.md) on attack rolls against it. The spell ends early if you cast it again.
 
-**Classes**: [Bard](3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Druid](3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Wizard (Diviner)](3-Mechanics/CLI/lists/list-spells-classes-wizard-xphb-diviner-xphb.md "subclass=XPHB;class=XPHB"); [Warlock](3-Mechanics/CLI/lists/list-spells-classes-warlock.md); [Wizard](3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Warlock](/3-Mechanics/CLI/lists/list-spells-classes-warlock.md); [Wizard (Diviner)](/3-Mechanics/CLI/lists/list-spells-classes-wizard-xphb-diviner-xphb.md "subclass=XPHB;class=XPHB"); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 276. Available in the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 276. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*

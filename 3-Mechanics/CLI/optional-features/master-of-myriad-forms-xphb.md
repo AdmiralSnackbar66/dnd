@@ -7,6 +7,6 @@ tags:
 aliases: ["Master of Myriad Forms"]
 ---
 # Master of Myriad Forms
-*Source: Player's Handbook (2024) p. 156*  
+*Source: Player's Handbook (2024) p. 156. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
 **Prerequisite**: 5th Warlock
-You can cast [Alter Self](3-Mechanics/CLI/spells/alter-self-xphb.md) without expending a spell slot.
+You can cast [Alter Self](/3-Mechanics/CLI/spells/alter-self-xphb.md) without expending a spell slot.

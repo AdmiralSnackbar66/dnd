@@ -13,7 +13,7 @@ statblock: inline
 aliases: ["Spirit Naga"]
 ---
 # [Spirit Naga](3-Mechanics\CLI\bestiary\fiend/spirit-naga-xmm.md)
-*Source: Monster Manual (2024) p. 297*  
+*Source: Monster Manual (2024) p. 297. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
 
 ## Spirit Naga
 
@@ -62,25 +62,24 @@ Spirit nagas seek to claim what they believe they deserve. Their schemes often i
   "Wisdom": !!int "5"
   "Constitution": !!int "5"
 "damage_immunities": "poison"
-"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
 "senses": "darkvision 60 ft., passive Perception 12"
 "languages": "Abyssal, Common"
 "cr": "8"
 "traits":
 - "desc": "The naga casts one of the following spells, requiring no Somatic or Material\
     \ components and using Intelligence as the spellcasting ability (spell save DC\
-    \ 14):\n\nAt will: [Detect Magic](3-Mechanics/CLI/spells/detect-magic-xphb.md),\
-    \ [Mage Hand](3-Mechanics/CLI/spells/mage-hand-xphb.md), [Minor Illusion](3-Mechanics/CLI/spells/minor-illusion-xphb.md),\
-    \ [Water Breathing](3-Mechanics/CLI/spells/water-breathing-xphb.md)\n\n2/day\
-    \ each: [Detect Thoughts](3-Mechanics/CLI/spells/detect-thoughts-xphb.md), [Dimension\
-    \ Door](3-Mechanics/CLI/spells/dimension-door-xphb.md), [Hold Person](3-Mechanics/CLI/spells/hold-person-xphb.md)\
-    \ (level 3 version), [Lightning Bolt](3-Mechanics/CLI/spells/lightning-bolt-xphb.md)\
+    \ 14):\n\nAt will: [Detect Magic](/3-Mechanics/CLI/spells/detect-magic-xphb.md),\
+    \ [Mage Hand](/3-Mechanics/CLI/spells/mage-hand-xphb.md), [Minor Illusion](/3-Mechanics/CLI/spells/minor-illusion-xphb.md),\
+    \ [Water Breathing](/3-Mechanics/CLI/spells/water-breathing-xphb.md)\n\n2/day\
+    \ each: [Detect Thoughts](/3-Mechanics/CLI/spells/detect-thoughts-xphb.md),\
+    \ [Dimension Door](/3-Mechanics/CLI/spells/dimension-door-xphb.md), [Hold Person](/3-Mechanics/CLI/spells/hold-person-xphb.md)\
+    \ (level 3 version), [Lightning Bolt](/3-Mechanics/CLI/spells/lightning-bolt-xphb.md)\
     \ (level 4 version)"
   "name": "Spellcasting"
-- "desc": "If it dies, the naga returns to life in 1d6 days and regains all its\
-    \ [Hit Points](3-Mechanics/CLI/rules/variant-rules/hit-points-xphb.md). Only a\
-    \ [Wish](3-Mechanics/CLI/spells/wish-xphb.md) spell can prevent this trait from\
-    \ functioning."
+- "desc": "If it dies, the naga returns to life in 1d6 days and regains all its [Hit\
+    \ Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md). Only a [Wish](/3-Mechanics/CLI/spells/wish-xphb.md)\
+    \ spell can prevent this trait from functioning."
   "name": "Fiendish Restoration"
 "actions":
 - "desc": "The naga makes three attacks, using Bite or Necrotic Ray in any combination."
@@ -92,7 +91,7 @@ Spirit nagas seek to claim what they believe they deserve. Their schemes often i
   "name": "Necrotic Ray"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/fiend/token/spirit-naga-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/fiend/token/spirit-naga-xmm.webp"
 ```
 ^statblock
 

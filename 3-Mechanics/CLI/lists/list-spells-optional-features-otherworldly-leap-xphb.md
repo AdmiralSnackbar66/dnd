@@ -9,4 +9,4 @@ aliases: ["Spells for Otherworldly Leap"]
 
 ## 1st Level
 
-- [Jump](3-Mechanics/CLI/spells/jump-xphb.md "XPHB")
+- [Jump](/3-Mechanics/CLI/spells/jump-xphb.md "XPHB")

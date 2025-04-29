@@ -126,7 +126,7 @@ Wrestler
   "name": "Uncanny Dodge"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/performer-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/humanoid/token/performer-xmm.webp"
 ```
 ^statblock
 

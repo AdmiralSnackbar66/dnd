@@ -24,7 +24,7 @@ aliases:
 You have a +1 bonus to attack and damage rolls made with this piece of magic ammunition. Once it hits a target, the ammunition is no longer magical.
 
 This ammunition is typically found or sold in quantities of ten or twenty pieces. Ten pieces of this ammunition are equivalent in value to a potion of the same rarity > [!note]
-> ([200 GP](3-Mechanics/CLI/tables/magic-item-values-by-rarity-magic-item-rarities-and-values-xdmg.md)).
+> ([200 GP](/3-Mechanics/CLI/tables/magic-item-values-by-rarity-magic-item-rarities-and-values-xdmg.md)).
 
 **Variants**:
 - [+1 Arrow](#+1%20Arrow)
@@ -59,4 +59,4 @@ This ammunition is typically found or sold in quantities of ten or twenty pieces
 - **Weight**: 0.075 lbs.
 
 
-*Source: Dungeon Master's Guide (2024) p. 228. Available in the Free Rules (2024)*
+*Source: Dungeon Master's Guide (2024) p. 228. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*

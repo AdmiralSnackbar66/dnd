@@ -73,29 +73,28 @@ Yuan-ti might gain their reptilian features through dangerous supernatural rites
 "skillsaves":
   "Stealth": !!int "0"
 "damage_immunities": "poison"
-"condition_immunities": "[poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"condition_immunities": "[poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
 "senses": "darkvision 60 ft., passive Perception 13"
 "languages": "Abyssal, Common, Draconic"
 "cr": "3"
 "traits":
 - "desc": "The yuan-ti casts one of the following spells, requiring no Material components\
     \ and using Wisdom as the spellcasting ability (spell save DC 13):\n\nAt will:\
-    \ [Animal Friendship](3-Mechanics/CLI/spells/animal-friendship-xphb.md) (snakes\
-    \ only)\n\n2/day: [Suggestion](3-Mechanics/CLI/spells/suggestion-xphb.md)"
+    \ [Animal Friendship](/3-Mechanics/CLI/spells/animal-friendship-xphb.md) (snakes\
+    \ only)\n\n2/day: [Suggestion](/3-Mechanics/CLI/spells/suggestion-xphb.md)"
   "name": "Spellcasting (Yuan-ti Form Only)"
-- "desc": "The yuan-ti has [Advantage](3-Mechanics/CLI/rules/variant-rules/advantage-xphb.md)\
+- "desc": "The yuan-ti has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
     \ on saving throws against spells and other magical effects."
   "name": "Magic Resistance"
 "actions":
 - "desc": "The yuan-ti makes two attacks, using Bite or Poison Ray in any combination,\
-    \ and it can use Spellcasting to cast [Suggestion](3-Mechanics/CLI/spells/suggestion-xphb.md)\
+    \ and it can use Spellcasting to cast [Suggestion](/3-Mechanics/CLI/spells/suggestion-xphb.md)\
     \ if available."
   "name": "Multiattack"
 - "desc": "Melee Attack Roll: +5, reach 5 ft. Hit: 5 (1d4 + 3) Piercing damage\
     \ plus 7 (2d6) Poison damage."
   "name": "Bite"
-- "desc": "Ranged Attack Roll: +5, range 120 ft. Hit: 12 (2d8 + 3) Poison\
-    \ damage."
+- "desc": "Ranged Attack Roll: +5, range 120 ft. Hit: 12 (2d8 + 3) Poison damage."
   "name": "Poison Ray (Yuan-ti Form Only)"
 "bonus_actions":
 - "desc": "The yuan-ti shape-shifts into a Medium snake or returns to its true form.\
@@ -105,7 +104,7 @@ Yuan-ti might gain their reptilian features through dangerous supernatural rites
   "name": "Shape-Shift"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/monstrosity/token/yuan-ti-malison-type-1-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/yuan-ti-malison-type-1-xmm.webp"
 ```
 ^statblock
 

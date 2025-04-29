@@ -60,7 +60,7 @@ Fey embodiments of swamplands, bullywugs protect the murky wilds and consider th
   "name": "Leap"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/fey/token/bullywug-warrior-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/fey/token/bullywug-warrior-xmm.webp"
 ```
 ^statblock
 

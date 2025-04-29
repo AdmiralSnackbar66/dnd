@@ -9,4 +9,4 @@ aliases: ["Monk Spells"]
 
 ## 9th Level
 
-- [Astral Projection](3-Mechanics/CLI/spells/astral-projection-xphb.md "XPHB")
+- [Astral Projection](/3-Mechanics/CLI/spells/astral-projection-xphb.md "XPHB")

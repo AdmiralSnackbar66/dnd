@@ -48,20 +48,19 @@ The scholars of Quandrix College focus on the mathematical principles that gover
 "traits":
 - "desc": "The apprentice casts one of the following spells, requiring no material\
     \ components and using Intelligence as the spellcasting ability (spell save DC\
-    \ 12):\n\nAt will: [guidance](3-Mechanics/CLI/spells/guidance-xphb.md), [mage\
-    \ hand](3-Mechanics/CLI/spells/mage-hand-xphb.md)\n\n1/day each: [enlarge/reduce](3-Mechanics/CLI/spells/enlarge-reduce-xphb.md),\
-    \ [mage armor](3-Mechanics/CLI/spells/mage-armor-xphb.md)"
+    \ 12):\n\nAt will: [guidance](/3-Mechanics/CLI/spells/guidance-xphb.md), [mage\
+    \ hand](/3-Mechanics/CLI/spells/mage-hand-xphb.md)\n\n1/day each: [enlarge/reduce](/3-Mechanics/CLI/spells/enlarge-reduce-xphb.md),\
+    \ [mage armor](/3-Mechanics/CLI/spells/mage-armor-xphb.md)"
   "name": "Spellcasting"
 "actions":
 - "desc": "The apprentice makes two Exponential Lash attacks."
   "name": "Multiattack"
 - "desc": "Melee or Ranged Spell Attack: +4 to hit, reach 5 ft. or range 60 ft.,\
-    \ one target. Hit: 5 (1d6 + 2) force damage, and the apprentice can cause\
-    \ one creature it can see within 30 feet of the target to take 9 (2d6 + 2) force\
-    \ damage."
+    \ one target. Hit: 5 (1d6 + 2) force damage, and the apprentice can cause one\
+    \ creature it can see within 30 feet of the target to take 9 (2d6 + 2) force damage."
   "name": "Exponential Lash"
 "source":
 - "SCC"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/quandrix-apprentice-scc.webp"
+"image": "/3-Mechanics/CLI/bestiary/humanoid/token/quandrix-apprentice-scc.webp"
 ```
 ^statblock

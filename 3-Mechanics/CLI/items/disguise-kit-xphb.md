@@ -17,6 +17,6 @@ aliases:
 
 - **Ability.** Charisma  
 - **Utilize.** Apply makeup (DC 10)  
-- **Craft.** [Costume](3-Mechanics/CLI/items/costume-xphb.md)  
+- **Craft.** [Costume](/3-Mechanics/CLI/items/costume-xphb.md)  
 
-*Source: Player's Handbook (2024) p. 221. Available in the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 221. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*

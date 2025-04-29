@@ -14,11 +14,11 @@ statblock: inline
 aliases: ["Giant Eagle"]
 ---
 # [Giant Eagle](3-Mechanics\CLI\bestiary\celestial/giant-eagle-xmm.md)
-*Source: Monster Manual (2024) p. 356*  
+*Source: Monster Manual (2024) p. 356. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
 
 ## Animals
 
-Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [Panther](3-Mechanics/CLI/bestiary/beast/panther-xmm.md) stat block can also represent a mountain lion, while the [Giant Goat](3-Mechanics/CLI/bestiary/beast/giant-goat-xmm.md) stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
+Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [Panther](/3-Mechanics/CLI/bestiary/beast/panther-xmm.md) stat block can also represent a mountain lion, while the [Giant Goat](/3-Mechanics/CLI/bestiary/beast/giant-goat-xmm.md) stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
 
 ```statblock
 "name": "Giant Eagle (XMM)"
@@ -51,7 +51,7 @@ Use these stat blocks to represent the creatures they're named for or other simi
   "name": "Rend"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/celestial/token/giant-eagle-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/celestial/token/giant-eagle-xmm.webp"
 ```
 ^statblock
 

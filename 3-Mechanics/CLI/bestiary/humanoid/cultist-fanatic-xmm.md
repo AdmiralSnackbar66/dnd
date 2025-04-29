@@ -11,7 +11,7 @@ statblock: inline
 aliases: ["Cultist Fanatic"]
 ---
 # [Cultist Fanatic](3-Mechanics\CLI\bestiary\humanoid/cultist-fanatic-xmm.md)
-*Source: Monster Manual (2024) p. 85*  
+*Source: Monster Manual (2024) p. 85. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
 
 Cultist fanatics lead small cults or cells within larger cults. They're privy to more of a cult's mysteries than lower-ranking cultists are, granting them access to magical powers from their patrons.
 
@@ -100,14 +100,13 @@ Cults can organize around any mystical tradition, but many serve supernatural be
 "cr": "2"
 "traits":
 - "desc": "The cultist casts one of the following spells, using Wisdom as the spellcasting\
-    \ ability (spell save DC 12, +4 to hit with spell attacks):\n\nAt will:\
-    \ [Light](3-Mechanics/CLI/spells/light-xphb.md), [Thaumaturgy](3-Mechanics/CLI/spells/thaumaturgy-xphb.md)\n\
-    \n1/day: [Hold Person](3-Mechanics/CLI/spells/hold-person-xphb.md)\n\n2/day:\
-    \ [Command](3-Mechanics/CLI/spells/command-xphb.md)"
+    \ ability (spell save DC 12, +4 to hit with spell attacks):\n\nAt will: [Light](/3-Mechanics/CLI/spells/light-xphb.md),\
+    \ [Thaumaturgy](/3-Mechanics/CLI/spells/thaumaturgy-xphb.md)\n\n1/day: [Hold\
+    \ Person](/3-Mechanics/CLI/spells/hold-person-xphb.md)\n\n2/day: [Command](/3-Mechanics/CLI/spells/command-xphb.md)"
   "name": "Spellcasting"
-- "desc": "The cultist casts the [Spiritual Weapon](3-Mechanics/CLI/spells/spiritual-weapon-xphb.md)\
+- "desc": "The cultist casts the [Spiritual Weapon](/3-Mechanics/CLI/spells/spiritual-weapon-xphb.md)\
     \ spell, using the same spellcasting ability as Spellcasting.\n\n2/day: [Spiritual\
-    \ Weapon](3-Mechanics/CLI/spells/spiritual-weapon-xphb.md)"
+    \ Weapon](/3-Mechanics/CLI/spells/spiritual-weapon-xphb.md)"
   "name": "Spiritual Weapon (2/Day)"
 "actions":
 - "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 6 (1d8 + 2) Slashing damage\
@@ -115,7 +114,7 @@ Cults can organize around any mystical tradition, but many serve supernatural be
   "name": "Pact Blade"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/cultist-fanatic-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/humanoid/token/cultist-fanatic-xmm.webp"
 ```
 ^statblock
 

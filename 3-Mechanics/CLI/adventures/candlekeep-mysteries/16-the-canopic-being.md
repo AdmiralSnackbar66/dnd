@@ -8,7 +8,7 @@ aliases: ["The Canopic Being"]
 # The Canopic Being
 *Source: Candlekeep Mysteries, p. 170* 
 
-![The Canopic Being](3-Mechanics/CLI/adventures/candlekeep-mysteries/img/118-15-001-the-canopic-being.webp#center)
+![The Canopic Being](/3-Mechanics/CLI/adventures/candlekeep-mysteries/img/118-15-001-the-canopic-being.webp#center)
 
 **An Adventure for 13th-level Characters**  
 **Developed & Edited by Scott Fitzgerald Gray & Christopher Perkins**  
@@ -48,24 +48,24 @@ The last page of the book appears to be a list of those who have undergone this 
 
 #### Named by an Oracle
 
-Before arriving at Candlekeep, *The Canopic Being* was stolen from the person who has most recently made use of it. [Valin Sarnaster](3-Mechanics/CLI/bestiary/npc/valin-sarnaster-cm.md) is an honored oracle of Savras, based in the House of the All-Seeing Orb in Tashalar. In accordance with visions she experienced years before, the oracle has embraced undeath by becoming a mummy lord, using the rituals described in the book. The list of names in the back of the book is written by many hands, since it includes creatures bonded to other mummy lords before the tome came to Valin. The names Valin has added at the end are those of the oracle's current and intended victims, as seen in her visions:
+Before arriving at Candlekeep, *The Canopic Being* was stolen from the person who has most recently made use of it. [Valin Sarnaster](/3-Mechanics/CLI/bestiary/npc/valin-sarnaster-cm.md) is an honored oracle of Savras, based in the House of the All-Seeing Orb in Tashalar. In accordance with visions she experienced years before, the oracle has embraced undeath by becoming a mummy lord, using the rituals described in the book. The list of names in the back of the book is written by many hands, since it includes creatures bonded to other mummy lords before the tome came to Valin. The names Valin has added at the end are those of the oracle's current and intended victims, as seen in her visions:
 
-- Alessia Baseer, [Valin Sarnaster](3-Mechanics/CLI/bestiary/npc/valin-sarnaster-cm.md)'s longtime attendant (and the unwitting custodian of Valin's heart)  
+- Alessia Baseer, [Valin Sarnaster](/3-Mechanics/CLI/bestiary/npc/valin-sarnaster-cm.md)'s longtime attendant (and the unwitting custodian of Valin's heart)  
 - Xemru Thaal, the high priest who sent the book to Candlekeep (now a golem serving Valin)  
 - Zeren Zoradius, a human mage (who now serves Valin as a golem)  
 - Okuzor, a tiefling gladiator (and another of Valin's golem servants)  
 - Mayastan Sadaar, the dragonborn sage  
 - Each of the characters, using whatever names they are best known by  
 
-The sections that follow have more information on [Valin Sarnaster](3-Mechanics/CLI/bestiary/npc/valin-sarnaster-cm.md)'s servants.
+The sections that follow have more information on [Valin Sarnaster](/3-Mechanics/CLI/bestiary/npc/valin-sarnaster-cm.md)'s servants.
 
 ## Player Handout: Xemru's Note
 
 > [!note] Author's Note
 > 
-> When we began this journey, only the oracle of the All-Seeing Orb, the great [Valin Sarnaster](3-Mechanics/CLI/bestiary/npc/valin-sarnaster-cm.md), had an inkling where it might lead. It is my honor to have been selected as the first donor and recipient. By giving Valin a piece of myself and receiving a piece of her in return, I can help the fate of the world unfold as she has foreseen.
+> When we began this journey, only the oracle of the All-Seeing Orb, the great [Valin Sarnaster](/3-Mechanics/CLI/bestiary/npc/valin-sarnaster-cm.md), had an inkling where it might lead. It is my honor to have been selected as the first donor and recipient. By giving Valin a piece of myself and receiving a piece of her in return, I can help the fate of the world unfold as she has foreseen.
 > 
-> It is my honor to protect the oracle in her sanctuary, ensuring that only donors and recipients may visit her. I have no need of the rite of reclamation, for I believe in the vision and perfection of [Valin Sarnaster](3-Mechanics/CLI/bestiary/npc/valin-sarnaster-cm.md).
+> It is my honor to protect the oracle in her sanctuary, ensuring that only donors and recipients may visit her. I have no need of the rite of reclamation, for I believe in the vision and perfection of [Valin Sarnaster](/3-Mechanics/CLI/bestiary/npc/valin-sarnaster-cm.md).
 > 
 > For clarity's sake, I offer this record of the procedures performed on the donors and recipients, whose fates and organs are now bound to the oracle. May she serve the All-Seeing for centuries to come.
 > 
@@ -76,15 +76,15 @@ The sections that follow have more information on [Valin Sarnaster](3-Mechanics/
 > House of the All-Seeing Orb, Tashluta
 ^authors-note
 
-![](3-Mechanics/CLI/adventures/candlekeep-mysteries/img/119-15-002-handout.webp#center)
+![](/3-Mechanics/CLI/adventures/candlekeep-mysteries/img/119-15-002-handout.webp#center)
 
 ## Mission to Tashluta
 
 A'lai Aivenmore asks the characters to travel to the city of Tashluta in Tashalar, find Mayastan Sadaar at the House of the All-Seeing Orb, and bring her back. The First Reader has no proof that Mayastan is in danger, but the implications of her name appearing in *The Canopic Being* are alarming. A'lai expects that the characters have their own reasons to investigate, having seen their names in the book. If they need further incentive, she offers the party 5,000 gp or the future services of Candlekeep to undertake the mission.
 
-Mages at Candlekeep can set up the characters' journey by casting the [teleportation circle](3-Mechanics/CLI/spells/teleportation-circle-xphb.md) spell to reach a permanent teleportation circle at the House of the All-Seeing Orb. This is the same destination to which Mayastan Sadaar traveled the previous day.
+Mages at Candlekeep can set up the characters' journey by casting the [teleportation circle](/3-Mechanics/CLI/spells/teleportation-circle-xphb.md) spell to reach a permanent teleportation circle at the House of the All-Seeing Orb. This is the same destination to which Mayastan Sadaar traveled the previous day.
 
-![House of the All-Seeing Orb](3-Mechanics/CLI/adventures/candlekeep-mysteries/img/120-15-003-house-of-the-all-seeing-orb.webp#center)
+![House of the All-Seeing Orb](/3-Mechanics/CLI/adventures/candlekeep-mysteries/img/120-15-003-house-of-the-all-seeing-orb.webp#center)
 
 ### House of the All-Seeing Orb
 
@@ -114,12 +114,12 @@ When the characters enter the temple, read:
 > "More visitors from Candlekeep. Most delightful. I trust that your journey was not too taxing?"
 ^433
 
-The figure with the bejeweled third eye is Shir Endellion (a lawful neutral human [priest](3-Mechanics/CLI/bestiary/humanoid/priest-xmm.md)), currently the highest-ranking official in the temple. While engaged in her divinatory studies a tenday ago, she foresaw the arrival of both Mayastan Sadaar and the party, but she does not know the purpose of the characters' visit.
+The figure with the bejeweled third eye is Shir Endellion (a lawful neutral human [priest](/3-Mechanics/CLI/bestiary/humanoid/priest-xmm.md)), currently the highest-ranking official in the temple. While engaged in her divinatory studies a tenday ago, she foresaw the arrival of both Mayastan Sadaar and the party, but she does not know the purpose of the characters' visit.
 
 If the characters join her, Shir offers them tea, then calls for fine Tashlutan wine, pastries, and other finger foods to be delivered to the table. The priest knows the following information, which she is happy to share:
 
-- Mayastan arrived yesterday, intending to speak with the oracle [Valin Sarnaster](3-Mechanics/CLI/bestiary/npc/valin-sarnaster-cm.md). The sage was taken to Valin's sanctum and has not returned.  
-- [Valin Sarnaster](3-Mechanics/CLI/bestiary/npc/valin-sarnaster-cm.md) is known to all who serve Savras, and her works have long been an inspiration. She has lived alone for decades now, so that the influence of the outside world will have no effect on her divinatory abilities.  
+- Mayastan arrived yesterday, intending to speak with the oracle [Valin Sarnaster](/3-Mechanics/CLI/bestiary/npc/valin-sarnaster-cm.md). The sage was taken to Valin's sanctum and has not returned.  
+- [Valin Sarnaster](/3-Mechanics/CLI/bestiary/npc/valin-sarnaster-cm.md) is known to all who serve Savras, and her works have long been an inspiration. She has lived alone for decades now, so that the influence of the outside world will have no effect on her divinatory abilities.  
 - If *The Canopic Being* is discussed, Shir doesn't recognize the name of the book. If its contents are described, she is horrified, but she says that the dark rituals the book describes have nothing to do with Savras's work. If she is told that Xemru Thaal sent the book to Candlekeep nine months ago, she has no idea why that happened.  
 - If the characters ask to see Xemru, Shir says that the high priest went through the portal to visit Valin eight months ago and has not come back. Messages received from him through Valin's attendant, Alessia, say that he continues to study with Valin and plans to remain with her for the foreseeable future. (Xemru accepted the future in which he saw himself becoming Valin's servant. But a sense of misgiving caused him to send *The Canopic Being* to Candlekeep as evidence of what Valin had become—as Valin had already foreseen.)  
 - Valin lives in a secret sanctum, since she would otherwise be sought out by too many people seeking her wisdom and counsel. A portal hidden in the temple complex is the only means of reaching her. The oracle sends her attendant, Alessia, through the portal regularly to convey and receive messages.  
@@ -127,20 +127,20 @@ If the characters join her, Shir offers them tea, then calls for fine Tashlutan 
 
 #### The Oracle's Portal
 
-Behind the main temple stands a nondescript and locked shed, within which is the portal that leads to Valin's sanctum. The shed is quietly watched at all hours by faithful acolytes, and an [alarm](3-Mechanics/CLI/spells/alarm-xphb.md) spell regularly cast on the door by the temple's mages sounds out if the door is opened by anyone except Shir Endellion or Alessia Baseer (see area T1 of Valin's tomb). Shir and Alessia carry keys that can unlock the door from inside or outside. The door can also be unlocked with a successful DC 25 Dexterity check using thieves' tools, or forced open with a successful DC 25 Strength ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)) check.
+Behind the main temple stands a nondescript and locked shed, within which is the portal that leads to Valin's sanctum. The shed is quietly watched at all hours by faithful acolytes, and an [alarm](/3-Mechanics/CLI/spells/alarm-xphb.md) spell regularly cast on the door by the temple's mages sounds out if the door is opened by anyone except Shir Endellion or Alessia Baseer (see area T1 of Valin's tomb). Shir and Alessia carry keys that can unlock the door from inside or outside. The door can also be unlocked with a successful DC 25 Dexterity check using thieves' tools, or forced open with a successful DC 25 Strength ([Athletics](/3-Mechanics/CLI/skills.md#Athletics)) check.
 
-The shed holds unused gardening equipment and has a hidden trapdoor that can be found with a successful DC 18 Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) check if not revealed by Shir. Below the trapdoor is a 5-foot-diameter stone-walled well with a sturdy wooden ladder. The well descends 20 feet before opening up into a 40-foot-square chamber whose walls and floor are worked stone. The portal that leads to Valin's sanctum is on the wall opposite the well's ladder.
+The shed holds unused gardening equipment and has a hidden trapdoor that can be found with a successful DC 18 Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) check if not revealed by Shir. Below the trapdoor is a 5-foot-diameter stone-walled well with a sturdy wooden ladder. The well descends 20 feet before opening up into a 40-foot-square chamber whose walls and floor are worked stone. The portal that leads to Valin's sanctum is on the wall opposite the well's ladder.
 
 > [!readaloud] 
 > 
 > The plain gray stone of the wall diffuses into a swirling ellipsoid of blue-and-white light, edged by translucent crystals. From across the room, the portal resembles an enormous eye.
 ^435
 
-This portal is a permanent magical effect set up by [Valin Sarnaster](3-Mechanics/CLI/bestiary/npc/valin-sarnaster-cm.md). It connects to the crystalline demiplane that serves as the mummy lord's tomb.
+This portal is a permanent magical effect set up by [Valin Sarnaster](/3-Mechanics/CLI/bestiary/npc/valin-sarnaster-cm.md). It connects to the crystalline demiplane that serves as the mummy lord's tomb.
 
 > [!note] What Is and What's to Come
 > 
-> The presence of the characters' names in *The Canopic Being* points to the mummy lord oracle, [Valin Sarnaster](3-Mechanics/CLI/bestiary/npc/valin-sarnaster-cm.md), having seen them in visions of the future. The particulars of that future and the oracle's interest in the characters is left to your determination.
+> The presence of the characters' names in *The Canopic Being* points to the mummy lord oracle, [Valin Sarnaster](/3-Mechanics/CLI/bestiary/npc/valin-sarnaster-cm.md), having seen them in visions of the future. The particulars of that future and the oracle's interest in the characters is left to your determination.
 > 
 > Valin has long plotted to usurp the role of Savras, acquiring power through her dark rituals that will enable her to become a new demigod of fate. In her visions, she has seen that the characters will thwart her plans—so she has arranged the events that cause them to come to her, so she can end their threat before it begins. In the course of their fight to expose and destroy Valin, the characters might gain glimpses of the future or hear coded threats from her about the fate she sees for them. Especially if your campaign is built around an epic story line, these oracular insights can help you foreshadow what's to come.
 ^what-is-and-whats-to-come
@@ -155,11 +155,11 @@ Characters who look outside the temple see the demiplane beyond as a shifting sp
 
 > [!note] Valin's Victims
 > 
-> If a creature dies after one of its vital organs is replaced by Valin's organs, it can be returned to life by a [wish](3-Mechanics/CLI/spells/wish-xphb.md) spell or in one of the ways described below.
+> If a creature dies after one of its vital organs is replaced by Valin's organs, it can be returned to life by a [wish](/3-Mechanics/CLI/spells/wish-xphb.md) spell or in one of the ways described below.
 > 
 > **Rite of Reclamation.** A ritual known as the rite of reclamation involves claiming some of the dust of Valin's body after she has been reduced to 0 hit points. The ritual describes a process for mixing the dust with wax to create a magic candle, then floating the lit candle in a vessel of holy water. If a creature imbued with one of Valin's organs spends an entire long rest within 5 feet of the candle, the candle is consumed, Valin's organ is destroyed, and the creature's missing organ is restored. The rite of reclamation is known to Valin and detailed on a scroll found in area T5. The characters might also be able to learn the ritual through research or a side quest.
 > 
-> **Replacing What's Lost.** A more direct restoration can be undertaken if the creature imbued with one of Valin's organs has been killed and the characters have access to the creature's original organ. Removing Valin's organ from the creature's body reveals it to be shriveled, glassy, and pulsing with unnatural life. If the creature's original organ is replaced within 1 hour of its death at the same time Valin's organ is destroyed, the creature returns to life immediately as if targeted by a [resurrection](3-Mechanics/CLI/spells/resurrection-xphb.md) spell. A character who removes one of Valin's organs from a dead host creature and succeeds on a DC 17 Wisdom ([Medicine](3-Mechanics/CLI/rules/skills.md#Medicine)) check intuits how this process works.
+> **Replacing What's Lost.** A more direct restoration can be undertaken if the creature imbued with one of Valin's organs has been killed and the characters have access to the creature's original organ. Removing Valin's organ from the creature's body reveals it to be shriveled, glassy, and pulsing with unnatural life. If the creature's original organ is replaced within 1 hour of its death at the same time Valin's organ is destroyed, the creature returns to life immediately as if targeted by a [resurrection](/3-Mechanics/CLI/spells/resurrection-xphb.md) spell. A character who removes one of Valin's organs from a dead host creature and succeeds on a DC 17 Wisdom ([Medicine](/3-Mechanics/CLI/skills.md#Medicine)) check intuits how this process works.
 ^valins-victims
 
 ### Canopic Golems
@@ -183,17 +183,17 @@ Valin's tomb has the following features:
 
 - **Walls and Floors.** The crystal from which the temple was constructed glows with a bright light that fills all areas, even as it allows the characters faint glimpses of what lies beyond it. The magic of the walls obscures certain features, however, so that secret passages and rooms can't be seen from outside them. The crystal that makes up the tomb can't be damaged by any means available to the characters.  
 - **Ceilings.** Hallways and smaller chambers in the tomb are 15 feet high with flat ceilings. The ceilings in larger chambers are 20 to 30 feet high.  
-- **Doors.** All doors in the tomb are made of crystal, and most of them are unlocked. A character can use an action to try to open a locked door, either by using thieves' tools and succeeding on a DC 20 Dexterity check, or by forcing open the door with a successful DC 25 Strength ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)) check. A door has AC 15, 60 hit points, and immunity to poison and psychic damage.  
-- **Eyes of Savras.** The walls of the tomb are adorned with decorative eyes that serve as magical sensors, following the movements of visitors who explore the site. [Valin Sarnaster](3-Mechanics/CLI/bestiary/npc/valin-sarnaster-cm.md) controls the eyes, which have [truesight](3-Mechanics/CLI/rules/senses.md#Truesight) out to a range of 120 feet and allow her to surveil the characters from anywhere in the tomb. She must maintain concentration (as if concentrating on a spell) to do so. The eyes are free-floating in area T9 and are prevented from functioning in area T3.  
+- **Doors.** All doors in the tomb are made of crystal, and most of them are unlocked. A character can use an action to try to open a locked door, either by using thieves' tools and succeeding on a DC 20 Dexterity check, or by forcing open the door with a successful DC 25 Strength ([Athletics](/3-Mechanics/CLI/skills.md#Athletics)) check. A door has AC 15, 60 hit points, and immunity to poison and psychic damage.  
+- **Eyes of Savras.** The walls of the tomb are adorned with decorative eyes that serve as magical sensors, following the movements of visitors who explore the site. [Valin Sarnaster](/3-Mechanics/CLI/bestiary/npc/valin-sarnaster-cm.md) controls the eyes, which have [truesight](/3-Mechanics/CLI/senses.md#Truesight) out to a range of 120 feet and allow her to surveil the characters from anywhere in the tomb. She must maintain concentration (as if concentrating on a spell) to do so. The eyes are free-floating in area T9 and are prevented from functioning in area T3.  
 - **Extradimensional Interference.** The tomb is warded against teleportation, and creatures inside it can't travel using teleportation or by extradimensional or interplanar means.  
 
 ### Tomb Locations
 
-The following locations are keyed to the map of the tomb of [Valin Sarnaster](3-Mechanics/CLI/bestiary/npc/valin-sarnaster-cm.md).
+The following locations are keyed to the map of the tomb of [Valin Sarnaster](/3-Mechanics/CLI/bestiary/npc/valin-sarnaster-cm.md).
 
 > [!gallery]
-> ![Map 15.1: Tomb of Valin Sarnaster](3-Mechanics/CLI/adventures/candlekeep-mysteries/img/121-map-15-01-tomb-of-valin-sarnaster.webp#gallery)
-> ![Player Version](3-Mechanics/CLI/adventures/candlekeep-mysteries/img/122-map-15-01-tomb-of-valin-sarnaster-player.webp#gallery)
+> ![Map 15.1: Tomb of Valin Sarnaster](/3-Mechanics/CLI/adventures/candlekeep-mysteries/img/121-map-15-01-tomb-of-valin-sarnaster.webp#gallery)
+> ![Player Version](/3-Mechanics/CLI/adventures/candlekeep-mysteries/img/122-map-15-01-tomb-of-valin-sarnaster-player.webp#gallery)
 
 #### T1. Portal
 
@@ -206,11 +206,11 @@ The portal beneath the House of the All-Seeing Orb brings the characters to this
 
 As the characters move around in the room, the eyes in the walls turn to follow them.
 
-The guard is Alessia Baseer, a lawful good human [priest](3-Mechanics/CLI/bestiary/humanoid/priest-xmm.md) of Savras (see the "Alessia Baseer" sidebar). A premonition of someone arriving through the portal brought her here to await the characters. When she sees them, she assumes they have been summoned by or have important business with Valin, and she freely answers any questions put to her.
+The guard is Alessia Baseer, a lawful good human [priest](/3-Mechanics/CLI/bestiary/humanoid/priest-xmm.md) of Savras (see the "Alessia Baseer" sidebar). A premonition of someone arriving through the portal brought her here to await the characters. When she sees them, she assumes they have been summoned by or have important business with Valin, and she freely answers any questions put to her.
 
 ##### Power of Disbelief
 
-Alessia scoffs in response to a suggestion that Valin might be involved in improper activities or evil plots, and insists that the characters will know better once they speak with her. If the idea that Valin might be a mummy lord is mentioned, Alessia confirms that she sees the oracle regularly and that Valin appears quite normal. (This is a product of the mummy lord's diadem, which functions as a [hat of disguise](3-Mechanics/CLI/items/hat-of-disguise-xdmg.md).)
+Alessia scoffs in response to a suggestion that Valin might be involved in improper activities or evil plots, and insists that the characters will know better once they speak with her. If the idea that Valin might be a mummy lord is mentioned, Alessia confirms that she sees the oracle regularly and that Valin appears quite normal. (This is a product of the mummy lord's diadem, which functions as a [hat of disguise](/3-Mechanics/CLI/items/hat-of-disguise-xdmg.md).)
 
 Having escorted all the recent visitors to the temple, Alessia is under the impression that they are communing with Valin in the observatory of fate (area T9). She explains that time passes differently in the observatory, making it not unusual that those visitors have apparently been gone from the world for months. (This is a lie told to her by Valin.) She thus does not understand that the canopic golems have been created from Valin's visitors. She has not been through area T7 in a few days, and so likewise does not know Mayastan Sadaar's fate.
 
@@ -218,7 +218,7 @@ Having escorted all the recent visitors to the temple, Alessia is under the impr
 
 Alessia does not wander the temple except as directed by Valin, who sends orders to the attendant through her canopic golems. She tells the characters that they have free run of the temple, and that they will find Valin when fate determines it. She does warn them against the dangers they might face in certain areas, including the mirrors of fortune (area T3), the testing chamber (area T4), and the phasing passage (area T7). She also knows why the sword hilt has been hidden in the dais in area T4, but does not share that information until Valin's true nature is revealed to her.
 
-With suitable roleplaying or a successful DC 15 Charisma ([Persuasion](3-Mechanics/CLI/rules/skills.md#Persuasion)) check, Alessia agrees to escort the characters through area T3, but then returns to her quarters (area T2).
+With suitable roleplaying or a successful DC 15 Charisma ([Persuasion](/3-Mechanics/CLI/skills.md#Persuasion)) check, Alessia agrees to escort the characters through area T3, but then returns to her quarters (area T2).
 
 Alessia keeps the key to her quarters and the key to the portal door on a leather thong around her neck.
 
@@ -235,7 +235,7 @@ Alessia's collection of cat figurines include sculptures made of glass, ceramic,
 
 ##### Cupboard
 
-This magic cupboard radiates an aura of conjuration to a [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md) spell. It generates food and drink for Alessia and any visitors to the tomb. It currently contains empty glass flasks, half a loaf of bread, and three peaches.
+This magic cupboard radiates an aura of conjuration to a [detect magic](/3-Mechanics/CLI/spells/detect-magic-xphb.md) spell. It generates food and drink for Alessia and any visitors to the tomb. It currently contains empty glass flasks, half a loaf of bread, and three peaches.
 
 If the cabinet door is closed, a bell rings. When the door is reopened, the previous contents are gone and the cabinet's shelves are filled with foodstuffs—fresh bread, dried meat, flasks of clear water, fruit, sweet cakes, and more. Once used, this property of the cabinet cannot be used again for 24 hours.
 
@@ -253,7 +253,7 @@ The folding screen in the corner of the room conceals a magic self-cleaning toil
 > 
 > **Ideal.** "I yearn to see the best of all possible futures, so that I can help those futures come to pass."
 > 
-> **Bond.** "I faithfully serve [Valin Sarnaster](3-Mechanics/CLI/bestiary/npc/valin-sarnaster-cm.md), the living embodiment of the divine will and power of Savras."
+> **Bond.** "I faithfully serve [Valin Sarnaster](/3-Mechanics/CLI/bestiary/npc/valin-sarnaster-cm.md), the living embodiment of the divine will and power of Savras."
 > 
 > **Flaw.** "I never question orders."
 ^alessia-baseer
@@ -267,19 +267,19 @@ The folding screen in the corner of the room conceals a magic self-cleaning toil
 
 This chamber was once used by the priests of the temple for meditation, and its magic is still intact. Two-sided mirrors set along the outside walls of this area reflect everything inside and outside it, causing the area to appear empty from the outside. From the inside, the mirrors block the eyes of Savras, preventing Valin from looking within.
 
-The magic mirrors that cover this area and hang as freestanding walls inside it show a super-realistic reflection of everything in the room, including the other mirrors—quickly creating a confusing cascade of images. Any creature that enters the area and can see normally is overwhelmed by multiple visions of itself. Each creature that passes through this area must succeed on a DC 20 Dexterity saving throw or accidentally make contact with a mirror. A creature that makes contact with a mirror for the first time on a turn or starts its turn in contact with one takes 22 (`4d10`) psychic damage.
+The magic mirrors that cover this area and hang as freestanding walls inside it show a super-realistic reflection of everything in the room, including the other mirrors—quickly creating a confusing cascade of images. Any creature that enters the area and can see normally is overwhelmed by multiple visions of itself. Each creature that passes through this area must succeed on a DC 20 Dexterity saving throw or accidentally make contact with a mirror. A creature that makes contact with a mirror for the first time on a turn or starts its turn in contact with one takes `dice:4d10|noform|noparens|avg|text(22)` (`4d10`) psychic damage.
 
-A creature that passes through the area without taking damage earns a gift of supernatural insight that lasts until it finishes a long rest. While it has this gift, the creature can roll a `d8` and add the number rolled to one ability check, attack roll, or saving throw it makes. The creature can wait until after it rolls the `d20` before deciding to use the number, but it must decide before the DM says whether the roll succeeds or fails. A creature can't gain this gift again until it finishes a long rest.
+A creature that passes through the area without taking damage earns a gift of supernatural insight that lasts until it finishes a long rest. While it has this gift, the creature can roll a `dice:d8|noform|noparens|avg` (`d8`) and add the number rolled to one ability check, attack roll, or saving throw it makes. The creature can wait until after it rolls the `dice:d20|noform|noparens|avg` (`d20`) before deciding to use the number, but it must decide before the DM says whether the roll succeeds or fails. A creature can't gain this gift again until it finishes a long rest.
 
-Creatures that have [blindsight](3-Mechanics/CLI/rules/senses.md#Blindsight) or [truesight](3-Mechanics/CLI/rules/senses.md#Truesight) can move through the area normally, as can Alessia. If the attendant leads the characters through the area, she tells them to follow her closely, and doing so grants them advantage on their saving throws.
+Creatures that have [blindsight](/3-Mechanics/CLI/senses.md#Blindsight) or [truesight](/3-Mechanics/CLI/senses.md#Truesight) can move through the area normally, as can Alessia. If the attendant leads the characters through the area, she tells them to follow her closely, and doing so grants them advantage on their saving throws.
 
 ##### Secret Panel
 
-A hidden panel along one wall of the room can be noted with a successful DC 25 Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) check. It slides open to reveal a meditation room (area T3a) that holds a number of rotting cushions and two [potions of healing (superior)](3-Mechanics/CLI/items/potion-of-superior-healing-xdmg.md).
+A hidden panel along one wall of the room can be noted with a successful DC 25 Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) check. It slides open to reveal a meditation room (area T3a) that holds a number of rotting cushions and two [potions of healing (superior)](/3-Mechanics/CLI/items/potion-of-superior-healing-xdmg.md).
 
 ##### Hidden Hallway
 
-Any character who has a passive Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) score of 20 or higher, or who succeeds on a DC 20 Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) check while moving through the room, notices that one of the mirrors near the corner of the room has a shimmer in its reflections. A creature that touches that mirror takes no damage and causes the mirror to turn sideways, revealing an empty chamber (area T3b) and a hallway that leads to area T11.
+Any character who has a passive Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) score of 20 or higher, or who succeeds on a DC 20 Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) check while moving through the room, notices that one of the mirrors near the corner of the room has a shimmer in its reflections. A creature that touches that mirror takes no damage and causes the mirror to turn sideways, revealing an empty chamber (area T3b) and a hallway that leads to area T11.
 
 #### T4. Testing Chamber
 
@@ -292,66 +292,66 @@ This area was once used by priests and acolytes to sharpen their mental acuity a
 
 As soon as any character enters this area, they feel a sudden pulse of psychic energy radiating from the dais, which can't be sensed from the corridors beyond. The effect of this numbing energy causes any creature in the room to suffer visible tremors and have its speed halved.
 
-A creature that has a passive Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) score of 18 or higher, or that succeeds on a DC 18 Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) check made to observe the dais, spots an ornate sword hilt embedded within it (see "Treasure" below). The hilt can be noted automatically by anyone within 5 feet of the dais.
+A creature that has a passive Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) score of 18 or higher, or that succeeds on a DC 18 Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) check made to observe the dais, spots an ornate sword hilt embedded within it (see "Treasure" below). The hilt can be noted automatically by anyone within 5 feet of the dais.
 
 ##### Genie Guardians
 
-Obtaining the hilt requires smashing through the dais, which has AC 18, 50 hit points, and immunity to poison and psychic damage. If the dais is attacked or touched by any creature, two [dao](3-Mechanics/CLI/bestiary/elemental/dao-xmm.md) wearing bejeweled necklaces are conjured above it and immediately attack any creatures in the room.
+Obtaining the hilt requires smashing through the dais, which has AC 18, 50 hit points, and immunity to poison and psychic damage. If the dais is attacked or touched by any creature, two [dao](/3-Mechanics/CLI/bestiary/elemental/dao-xmm.md) wearing bejeweled necklaces are conjured above it and immediately attack any creatures in the room.
 
-On their first turn in combat, the genies target intruders with their [phantasmal killer](3-Mechanics/CLI/spells/phantasmal-killer-xphb.md) spells, maintaining concentration on these spells for as long as possible while attacking with their mauls on later turns. When a dao dies, its body disintegrates into crystalline powder. A slain dao leaves behind its maul and its necklace (see "Treasure" below).
+On their first turn in combat, the genies target intruders with their [phantasmal killer](/3-Mechanics/CLI/spells/phantasmal-killer-xphb.md) spells, maintaining concentration on these spells for as long as possible while attacking with their mauls on later turns. When a dao dies, its body disintegrates into crystalline powder. A slain dao leaves behind its maul and its necklace (see "Treasure" below).
 
 The dao do not pursue creatures that leave the room. If the characters all leave the area, any dao that wasn't defeated vanishes after 1 minute but returns with full hit points if the dais is touched again.
 
 ##### Shattered Dais
 
-The hilt (see "Treasure" below) can be easily claimed once the dais is destroyed. The first creature to pick it up must make a DC 16 Intelligence saving throw, taking 14 (`4d6`) psychic damage on a failed save, or half as much damage on a successful one. A character wearing gloves or other protection has advantage on the saving throw.
+The hilt (see "Treasure" below) can be easily claimed once the dais is destroyed. The first creature to pick it up must make a DC 16 Intelligence saving throw, taking `dice:4d6|noform|noparens|avg|text(14)` (`4d6`) psychic damage on a failed save, or half as much damage on a successful one. A character wearing gloves or other protection has advantage on the saving throw.
 
 The shattered dais repairs itself 1 hour after being destroyed. If the hilt (or any other object) is left amid the rubble, it is trapped inside the dais when it re-forms. The dais can't re-form around creatures and can't repair itself while one or more creatures occupy its space.
 
-A character who studies the rubble of the shattered dais and succeeds on a DC 17 Intelligence ([Arcana](3-Mechanics/CLI/rules/skills.md#Arcana) or [Religion](3-Mechanics/CLI/rules/skills.md#Religion)) check determines that its original function was allowing acolytes to focus their divinations in the presence of low levels of psychic energy, and that its power has now been corrupted.
+A character who studies the rubble of the shattered dais and succeeds on a DC 17 Intelligence ([Arcana](/3-Mechanics/CLI/skills.md#Arcana) or [Religion](/3-Mechanics/CLI/skills.md#Religion)) check determines that its original function was allowing acolytes to focus their divinations in the presence of low levels of psychic energy, and that its power has now been corrupted.
 
 ##### Treasure
 
-The hilt in the dais is a [sun blade](3-Mechanics/CLI/items/sun-blade-xdmg.md) placed there by Valin. It came into her possession years before, after she had received two visions about it—one in which she used the weapon to slay a great enemy, and one in which it was used to slay her. Not willing to destroy the weapon for fear of thwarting the first vision, she has kept the hilt hidden in an attempt to keep the second vision from coming to pass.
+The hilt in the dais is a [sun blade](/3-Mechanics/CLI/items/sun-blade-xdmg.md) placed there by Valin. It came into her possession years before, after she had received two visions about it—one in which she used the weapon to slay a great enemy, and one in which it was used to slay her. Not willing to destroy the weapon for fear of thwarting the first vision, she has kept the hilt hidden in an attempt to keep the second vision from coming to pass.
 
 Each dao wears a golden, gem-encrusted necklace worth 2,500 gp.
 
 #### T5. Scrying Pool
 
-This chamber was once used to conduct scrying training and rituals, but it has been desecrated by Valin's corruption, as can be confirmed by a [detect evil and good](3-Mechanics/CLI/spells/detect-evil-and-good-xphb.md) spell or similar magic.
+This chamber was once used to conduct scrying training and rituals, but it has been desecrated by Valin's corruption, as can be confirmed by a [detect evil and good](/3-Mechanics/CLI/spells/detect-evil-and-good-xphb.md) spell or similar magic.
 
 > [!readaloud] 
 > 
 > Dark swirls of noxious steam fill this circular chamber, whose floor is taken up mostly by a large reflecting pool. Runes carved into the pool's rim glow faintly, and heat shimmers off its fetid water. On the far side of the pool's edge, a figure moves, its two bright ochre eyes piercing the fog.
 ^455
 
-Okuzor, a tiefling gladiator, sought out Valin expecting to persuade the oracle to offer up predictions for Okuzor's success in the arena. Instead, Valin enticed Okuzor into undergoing the ritual that transferred Valin's eye into the gladiator and turned her into a [canopic golem](3-Mechanics/CLI/bestiary/construct/canopic-golem-cm.md) (see the accompanying stat block).
+Okuzor, a tiefling gladiator, sought out Valin expecting to persuade the oracle to offer up predictions for Okuzor's success in the arena. Instead, Valin enticed Okuzor into undergoing the ritual that transferred Valin's eye into the gladiator and turned her into a [canopic golem](/3-Mechanics/CLI/bestiary/construct/canopic-golem-cm.md) (see the accompanying stat block).
 
-[Valin](3-Mechanics/CLI/bestiary/npc/valin-sarnaster-cm.md) controls Okuzor and uses her to interact with the characters. The oracle speaks through the golem, greeting the characters warmly and asking why they've come to the temple. She describes the golem as one of her servants, and responds to any talk of her illicit activities by saying that such rumors were no doubt started by enemies of the House of the All-Seeing Orb. She offers to have her golem servant escort the characters to her location if they seek an audience. Okuzor then leads the characters to the false tomb in area T6, where she and the other two canopic golems there attack at once.
+[Valin](/3-Mechanics/CLI/bestiary/npc/valin-sarnaster-cm.md) controls Okuzor and uses her to interact with the characters. The oracle speaks through the golem, greeting the characters warmly and asking why they've come to the temple. She describes the golem as one of her servants, and responds to any talk of her illicit activities by saying that such rumors were no doubt started by enemies of the House of the All-Seeing Orb. She offers to have her golem servant escort the characters to her location if they seek an audience. Okuzor then leads the characters to the false tomb in area T6, where she and the other two canopic golems there attack at once.
 
 If the characters attack Okuzor, the golem fights until reduced to 30 hit points or fewer. She then tries to flee to area T6, hoping to draw the characters to the false tomb and the other golems waiting there.
 
-![Canopic Golem](3-Mechanics/CLI/adventures/candlekeep-mysteries/img/123-637514193114938363.webp#center)
+![Canopic Golem](/3-Mechanics/CLI/adventures/candlekeep-mysteries/img/123-637514193114938363.webp#center)
 
 ##### Toxic Steam
 
-The room is heavily obscured by the dark steam coming off the scrying pool. At the end of each minute a creature spends here, it must succeed on a DC 15 Constitution saving throw or take 14 (`4d6`) poison damage.
+The room is heavily obscured by the dark steam coming off the scrying pool. At the end of each minute a creature spends here, it must succeed on a DC 15 Constitution saving throw or take `dice:4d6|noform|noparens|avg|text(14)` (`4d6`) poison damage.
 
 ##### Scrying Pool
 
-Any character who has proficiency in the [Arcana](3-Mechanics/CLI/rules/skills.md#Arcana) skill, or who succeeds on a DC 15 Intelligence ([Arcana](3-Mechanics/CLI/rules/skills.md#Arcana)) check, recognizes that the runes along the edge of the pool once channeled divination magic, but have been corrupted. Though the 10-foot-deep pool once held holy water, the liquid is now unpleasantly odorous and boiling. Any creature that starts its turn in the water takes 36 (`8d8`) fire damage. A creature that drinks the water must succeed on a DC 15 Constitution saving throw or be [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned) for 1 hour.
+Any character who has proficiency in the [Arcana](/3-Mechanics/CLI/skills.md#Arcana) skill, or who succeeds on a DC 15 Intelligence ([Arcana](/3-Mechanics/CLI/skills.md#Arcana)) check, recognizes that the runes along the edge of the pool once channeled divination magic, but have been corrupted. Though the 10-foot-deep pool once held holy water, the liquid is now unpleasantly odorous and boiling. Any creature that starts its turn in the water takes `dice:8d8|noform|noparens|avg|text(36)` (`8d8`) fire damage. A creature that drinks the water must succeed on a DC 15 Constitution saving throw or be [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned) for 1 hour.
 
-A character can spend 1 minute trying to undo the corruption of the runes, doing so with a successful DC 19 Intelligence ([Arcana](3-Mechanics/CLI/rules/skills.md#Arcana)) check. If this occurs, the noxious smell dissipates as the water cools and reverts to holy water over the course of 1 hour.
+A character can spend 1 minute trying to undo the corruption of the runes, doing so with a successful DC 19 Intelligence ([Arcana](/3-Mechanics/CLI/skills.md#Arcana)) check. If this occurs, the noxious smell dissipates as the water cools and reverts to holy water over the course of 1 hour.
 
 ##### Divine Insight
 
-Any character who has a background involving Savras, or who succeeds on a DC 20 Intelligence ([History](3-Mechanics/CLI/rules/skills.md#History) or [Religion](3-Mechanics/CLI/rules/skills.md#Religion)) check, understands that once its corruption is undone, the pool can bestow a blessing on anyone who meditates here. A character who finishes a long rest in this area can roll a `d20`, taking note of the number rolled. The character can then substitute that roll for one attack roll, saving throw, or ability check made by them or another creature they can see. This benefit is lost if the substitution isn't made before the character finishes another long rest.
+Any character who has a background involving Savras, or who succeeds on a DC 20 Intelligence ([History](/3-Mechanics/CLI/skills.md#History) or [Religion](/3-Mechanics/CLI/skills.md#Religion)) check, understands that once its corruption is undone, the pool can bestow a blessing on anyone who meditates here. A character who finishes a long rest in this area can roll a `dice:d20|noform|noparens|avg` (`d20`), taking note of the number rolled. The character can then substitute that roll for one attack roll, saving throw, or ability check made by them or another creature they can see. This benefit is lost if the substitution isn't made before the character finishes another long rest.
 
 ##### Treasure
 
-A small cabinet that stands against the back wall of the room can't be spotted through the fog until a creature is within 5 feet of it. It holds a collection of dusty divination ritual components. A character who searches the cabinet and succeeds on a DC 20 Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) check discovers a locked compartment in its false back. A character can use an action to try to open this compartment, either with thieves' tools and a successful DC 15 Dexterity check, or by forcing it open with a successful DC 20 Strength ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)) check.
+A small cabinet that stands against the back wall of the room can't be spotted through the fog until a creature is within 5 feet of it. It holds a collection of dusty divination ritual components. A character who searches the cabinet and succeeds on a DC 20 Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) check discovers a locked compartment in its false back. A character can use an action to try to open this compartment, either with thieves' tools and a successful DC 15 Dexterity check, or by forcing it open with a successful DC 20 Strength ([Athletics](/3-Mechanics/CLI/skills.md#Athletics)) check.
 
-The cabinet contains twelve sticks of incense (5 gp each), several candles, a bowl of polished stones, and an amethyst pendant inscribed with an open eye (500 gp). The secret compartment in the cabinet holds a [crystal ball of true seeing](3-Mechanics/CLI/items/crystal-ball-of-true-seeing-xdmg.md) and a scroll describing the rite of reclamation (see the "Valin's Victims" sidebar earlier in the adventure).
+The cabinet contains twelve sticks of incense (5 gp each), several candles, a bowl of polished stones, and an amethyst pendant inscribed with an open eye (500 gp). The secret compartment in the cabinet holds a [crystal ball of true seeing](/3-Mechanics/CLI/items/crystal-ball-of-true-seeing-xdmg.md) and a scroll describing the rite of reclamation (see the "Valin's Victims" sidebar earlier in the adventure).
 
 #### T6. False Tomb
 
@@ -362,7 +362,7 @@ Adjust the following boxed text if Okuzor fled here from area T5:
 > This huge chamber is edged by a broad floor surrounding a sunken lower-level gallery, reached by way of sloping ramps. The center of the lower level is a diamond-shaped pit that descends some hundred feet. Flanking the opening are two tall, crystalline figures whose amber eyes watch you.
 ^45b
 
-The crystalline figures guarding the pit are two [canopic golems](3-Mechanics/CLI/bestiary/construct/canopic-golem-cm.md) (see the accompanying stat block) who were once the high priest Xemru Thaal and the mage Zeren Zoradius. Zeren came to Valin hoping to become a master of divination. Instead, she showed him a very different future.
+The crystalline figures guarding the pit are two [canopic golems](/3-Mechanics/CLI/bestiary/construct/canopic-golem-cm.md) (see the accompanying stat block) who were once the high priest Xemru Thaal and the mage Zeren Zoradius. Zeren came to Valin hoping to become a master of divination. Instead, she showed him a very different future.
 
 The golems attack intruders at once, while Valin speaks through them to challenge the characters. She arrogantly proclaims that no one will ever break through her sarcophagus to face her, hoping to entice the characters to approach the magically warded sarcophagus at the bottom of the pit.
 
@@ -394,15 +394,15 @@ Whenever the characters are in a position to see down into the pit, read:
 > At the bottom of the pit is a dais resembling an enormous eye peering up. A ten-foot-long black onyx sarcophagus forms the pupil of the eye.
 ^45e
 
-Valin placed her sarcophagus at the bottom of the pit not for security, but as a deadly trap. The sarcophagus is presently empty. Valin returns to it only if she is slain and re-forms, and uses the [dimension door](3-Mechanics/CLI/spells/dimension-door-xphb.md) spell to leave it afterward.
+Valin placed her sarcophagus at the bottom of the pit not for security, but as a deadly trap. The sarcophagus is presently empty. Valin returns to it only if she is slain and re-forms, and uses the [dimension door](/3-Mechanics/CLI/spells/dimension-door-xphb.md) spell to leave it afterward.
 
-The sarcophagus radiates auras of abjuration and evocation magic to a [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md) spell. Its first ward triggers when any creature that is not a construct or an undead moves within 20 feet of it, filling the area of the well to a height of 30 feet above the floor with a noxious gray fog equivalent to the effect of a [stinking cloud](3-Mechanics/CLI/spells/stinking-cloud-xphb.md) spell. The vapors vanish after 1 minute, and this ward resets after 1 hour.
+The sarcophagus radiates auras of abjuration and evocation magic to a [detect magic](/3-Mechanics/CLI/spells/detect-magic-xphb.md) spell. Its first ward triggers when any creature that is not a construct or an undead moves within 20 feet of it, filling the area of the well to a height of 30 feet above the floor with a noxious gray fog equivalent to the effect of a [stinking cloud](/3-Mechanics/CLI/spells/stinking-cloud-xphb.md) spell. The vapors vanish after 1 minute, and this ward resets after 1 hour.
 
-The sarcophagus's lid weighs 550 pounds. When opened, the sarcophagus vents a blast of stale air and triggers its second magical warding. Each creature within 5 feet of the sarcophagus that is not a construct or an undead must make a DC 17 Charisma saving throw, taking 27 (`6d8`) necrotic damage on a failed save, or half as much damage on a successful one. This ward resets when the lid of the sarcophagus is closed again.
+The sarcophagus's lid weighs 550 pounds. When opened, the sarcophagus vents a blast of stale air and triggers its second magical warding. Each creature within 5 feet of the sarcophagus that is not a construct or an undead must make a DC 17 Charisma saving throw, taking `dice:6d8|noform|noparens|avg|text(27)` (`6d8`) necrotic damage on a failed save, or half as much damage on a successful one. This ward resets when the lid of the sarcophagus is closed again.
 
 ##### Treasure
 
-Okuzor's canopic jar also contains [eyes of minute seeing](3-Mechanics/CLI/items/eyes-of-minute-seeing-xdmg.md) and an eye patch set with a sapphire-and-moonstone eye (2,500 gp). Okuzor lost her right eye in an early gladiatorial bout, and she used both of these items while she was alive.
+Okuzor's canopic jar also contains [eyes of minute seeing](/3-Mechanics/CLI/items/eyes-of-minute-seeing-xdmg.md) and an eye patch set with a sapphire-and-moonstone eye (2,500 gp). Okuzor lost her right eye in an early gladiatorial bout, and she used both of these items while she was alive.
 
 #### T7. Meditation Room
 
@@ -413,7 +413,7 @@ Okuzor's canopic jar also contains [eyes of minute seeing](3-Mechanics/CLI/items
 
 The fallen figure is Mayastan Sadaar, the scholar who came to the temple to confront Valin, and who became another unwilling recipient of the mummy lord's rituals. Though she remembered nothing of the ritual, Mayastan's recollection of her mission and what she had read in *The Canopic Being* allowed her to successfully guess what had happened to her. She thus chose to end her life by carving out Valin's pancreas from where it had been placed in her and destroying it, rather than submit to the oracle's dark will.
 
-Turning the body over reveals the horrible abdominal wound that killed Mayastan. Any character who has proficiency in the Medicine skill, or who succeeds on a DC 20 Wisdom ([Medicine](3-Mechanics/CLI/rules/skills.md#Medicine)) check, recognizes that the shape of the rock resembles a pancreas, which shows signs of being hacked nearly in half before it petrified. A character who has proficiency in the [Medicine](3-Mechanics/CLI/rules/skills.md#Medicine) skill and examines the wound notes that the body's pancreas is missing.
+Turning the body over reveals the horrible abdominal wound that killed Mayastan. Any character who has proficiency in the Medicine skill, or who succeeds on a DC 20 Wisdom ([Medicine](/3-Mechanics/CLI/skills.md#Medicine)) check, recognizes that the shape of the rock resembles a pancreas, which shows signs of being hacked nearly in half before it petrified. A character who has proficiency in the [Medicine](/3-Mechanics/CLI/skills.md#Medicine) skill and examines the wound notes that the body's pancreas is missing.
 
 If the characters need information on how to permanently slay a mummy lord, any search of Mayastan's body reveals a sheaf of papers in an inside pocket. These are pages copied from a tome of lore regarding mummy lords, and they note the fact that a mummy lord's heart must be destroyed to keep the mummy lord from re-forming.
 
@@ -426,7 +426,7 @@ Both doors to this area are locked, and each can be opened with the key charm fr
 > The walls of this room converge in a high peak overhead. Through the wall opposite the door, the room beyond can be vaguely seen—a vast, cubic chamber filled with shimmering points of light.
 ^463
 
-Any character who has a passive Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) score of 18 or higher, or who succeeds on a DC 18 Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) check to scan the interior of the chamber beyond this one, notices a strange motion within.
+Any character who has a passive Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) score of 18 or higher, or who succeeds on a DC 18 Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) check to scan the interior of the chamber beyond this one, notices a strange motion within.
 
 > [!readaloud] 
 > 
@@ -435,11 +435,11 @@ Any character who has a passive Wisdom ([Perception](3-Mechanics/CLI/rules/skill
 
 The door into area T9 opens automatically whenever any creature moves within 10 feet of it.
 
-![Valin Sarnaster](3-Mechanics/CLI/adventures/candlekeep-mysteries/img/124-15-004-valin-sarnaster.webp#center)
+![Valin Sarnaster](/3-Mechanics/CLI/adventures/candlekeep-mysteries/img/124-15-004-valin-sarnaster.webp#center)
 
 #### T9. Observatory of Fate
 
-[Valin's](3-Mechanics/CLI/bestiary/npc/valin-sarnaster-cm.md) sanctum is a gravity-free chamber whose magic focuses her oracular sight. Having watched the characters progress through her lair, the [mummy lord](3-Mechanics/CLI/bestiary/undead/mummy-lord-xmm.md) (see the "Valin Sarnaster" sidebar for changes to her statistics and roleplaying notes) is fully prepared to face them for a final showdown—but the characters might find fighting in this strange environment to be a challenge.
+[Valin's](/3-Mechanics/CLI/bestiary/npc/valin-sarnaster-cm.md) sanctum is a gravity-free chamber whose magic focuses her oracular sight. Having watched the characters progress through her lair, the [mummy lord](/3-Mechanics/CLI/bestiary/undead/mummy-lord-xmm.md) (see the "Valin Sarnaster" sidebar for changes to her statistics and roleplaying notes) is fully prepared to face them for a final showdown—but the characters might find fighting in this strange environment to be a challenge.
 
 > [!readaloud] 
 > 
@@ -456,18 +456,18 @@ When any character moves more than 10 feet into the room, read or paraphrase the
 
 > [!readaloud] 
 > 
-> A woman in yellow robes floats in the mote-filled void. She wears a diadem that frames her third-eye tattoo, which glows with a pulsing white light. "I have waited for so long," [Valin Sarnaster](3-Mechanics/CLI/bestiary/npc/valin-sarnaster-cm.md) says with a thin smile. "Now we will discover if you are ready."
+> A woman in yellow robes floats in the mote-filled void. She wears a diadem that frames her third-eye tattoo, which glows with a pulsing white light. "I have waited for so long," [Valin Sarnaster](/3-Mechanics/CLI/bestiary/npc/valin-sarnaster-cm.md) says with a thin smile. "Now we will discover if you are ready."
 ^469
 
 Valin challenges the characters, saying that she has already seen their defeat written in their past and future. As you like, she can share key details from your campaign's past to indicate that she has been watching the characters—and might even reveal secrets that the characters have yet to figure out. She can also offer visions of futures that might have been before the characters fell into her trap. You can have the oracle describe a key encounter or challenge you expect to play a part in your campaign's future, or use the Adventure Climax table in the "Dungeon Master's Guide" to come up with an idea you can then direct the campaign toward.
 
 > [!note] Valin Sarnaster
 > 
-> [Valin Sarnaster](3-Mechanics/CLI/bestiary/npc/valin-sarnaster-cm.md) has been thoroughly corrupted by visions of a future in which she sees herself as the immortal heir of Savras's realm. *The Canopic Being* came into her possession years ago, and an obsession with the dark rituals therein set the oracle on her present course.
+> [Valin Sarnaster](/3-Mechanics/CLI/bestiary/npc/valin-sarnaster-cm.md) has been thoroughly corrupted by visions of a future in which she sees herself as the immortal heir of Savras's realm. *The Canopic Being* came into her possession years ago, and an obsession with the dark rituals therein set the oracle on her present course.
 > 
-> Valin has become a powerful undead as the first step on her path to godhood, and is now a [mummy lord](3-Mechanics/CLI/bestiary/undead/mummy-lord-xmm.md) with these changes:
+> Valin has become a powerful undead as the first step on her path to godhood, and is now a [mummy lord](/3-Mechanics/CLI/bestiary/undead/mummy-lord-xmm.md) with these changes:
 > 
-> - She has the [clairvoyance](3-Mechanics/CLI/spells/clairvoyance-xphb.md), [dimension door](3-Mechanics/CLI/spells/dimension-door-xphb.md), and [scrying](3-Mechanics/CLI/spells/scrying-xphb.md) spells prepared instead of [animate dead](3-Mechanics/CLI/spells/animate-dead-xphb.md), [guardian of faith](3-Mechanics/CLI/spells/guardian-of-faith-xphb.md), and [insect plague](3-Mechanics/CLI/spells/insect-plague-xphb.md).  
+> - She has the [clairvoyance](/3-Mechanics/CLI/spells/clairvoyance-xphb.md), [dimension door](/3-Mechanics/CLI/spells/dimension-door-xphb.md), and [scrying](/3-Mechanics/CLI/spells/scrying-xphb.md) spells prepared instead of [animate dead](/3-Mechanics/CLI/spells/animate-dead-xphb.md), [guardian of faith](/3-Mechanics/CLI/spells/guardian-of-faith-xphb.md), and [insect plague](/3-Mechanics/CLI/spells/insect-plague-xphb.md).  
 > - While her heart remains in Alessia's body, Valin's Rejuvenation trait causes her to re-form inside the sarcophagus in area T6.  
 > - Valin can use her lair actions in any area of the tomb.  
 > 
@@ -506,11 +506,11 @@ The validity of Valin's threat is up to you and the needs of your campaign.
 
 ##### Treasure
 
-Valin's diadem remains behind when she turns to dust. It functions as a [hat of disguise](3-Mechanics/CLI/items/hat-of-disguise-xdmg.md). A search of the dust that was Valin's body also turns up a large adamantine key (50 gp) that opens the door to area T10.
+Valin's diadem remains behind when she turns to dust. It functions as a [hat of disguise](/3-Mechanics/CLI/items/hat-of-disguise-xdmg.md). A search of the dust that was Valin's body also turns up a large adamantine key (50 gp) that opens the door to area T10.
 
 #### T10. Treasure Room
 
-The door to this room is locked and can be opened with the key in Valin's possession (see area T9). A [glyph of warding](3-Mechanics/CLI/spells/glyph-of-warding-xphb.md) cast on the door triggers if the door is opened any other way. A character who searches the door for traps spots the tiny glyph with a successful DC 17 Intelligence ([Investigation](3-Mechanics/CLI/rules/skills.md#Investigation)) check. When triggered, the glyph erupts with magical energy in a 20-foot-radius sphere centered on it. The sphere spreads around corners. Each creature in the area must make a DC 17 Dexterity saving throw, taking (31) `7d8` thunder damage on a failed save, or half as much damage on a successful one.
+The door to this room is locked and can be opened with the key in Valin's possession (see area T9). A [glyph of warding](/3-Mechanics/CLI/spells/glyph-of-warding-xphb.md) cast on the door triggers if the door is opened any other way. A character who searches the door for traps spots the tiny glyph with a successful DC 17 Intelligence ([Investigation](/3-Mechanics/CLI/skills.md#Investigation)) check. When triggered, the glyph erupts with magical energy in a 20-foot-radius sphere centered on it. The sphere spreads around corners. Each creature in the area must make a DC 17 Dexterity saving throw, taking (31) `dice:7d8|noform|noparens|avg` (`7d8`) thunder damage on a failed save, or half as much damage on a successful one.
 
 > [!readaloud] 
 > 
@@ -519,9 +519,9 @@ The door to this room is locked and can be opened with the key in Valin's posses
 
 ##### Treasure
 
-Though most of the crystals piled in the corner are of no value, a 10-minute search of the pile yields ten fine gemstones worth 500 gp each. One of these crystals radiates an aura of transmutation magic under the scrutiny of a [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md) spell. If this crystal is crushed (destroying it), its powdered remains magically coalesce into a [ring of spell storing](3-Mechanics/CLI/items/ring-of-spell-storing-xdmg.md) that holds the spells [bless](3-Mechanics/CLI/spells/bless-xphb.md) and [revivify](3-Mechanics/CLI/spells/revivify-xphb.md).
+Though most of the crystals piled in the corner are of no value, a 10-minute search of the pile yields ten fine gemstones worth 500 gp each. One of these crystals radiates an aura of transmutation magic under the scrutiny of a [detect magic](/3-Mechanics/CLI/spells/detect-magic-xphb.md) spell. If this crystal is crushed (destroying it), its powdered remains magically coalesce into a [ring of spell storing](/3-Mechanics/CLI/items/ring-of-spell-storing-xdmg.md) that holds the spells [bless](/3-Mechanics/CLI/spells/bless-xphb.md) and [revivify](/3-Mechanics/CLI/spells/revivify-xphb.md).
 
-The objects hovering in the middle of the room cease to float as soon as they are grasped. The blue rhomboid is an [Ioun stone (awareness)](3-Mechanics/CLI/items/ioun-stone-awareness-xdmg.md). The crystal staff is a [staff of fate](3-Mechanics/CLI/items/staff-of-fate-cm.md), and the embossed steel helm is a [watchful helm](3-Mechanics/CLI/items/watchful-helm-cm.md) (see the "New Magic Items" section for descriptions of these two items).
+The objects hovering in the middle of the room cease to float as soon as they are grasped. The blue rhomboid is an [Ioun stone (awareness)](/3-Mechanics/CLI/items/ioun-stone-awareness-xdmg.md). The crystal staff is a [staff of fate](/3-Mechanics/CLI/items/staff-of-fate-cm.md), and the embossed steel helm is a [watchful helm](/3-Mechanics/CLI/items/watchful-helm-cm.md) (see the "New Magic Items" section for descriptions of these two items).
 
 #### T11. Observatory of History
 
@@ -536,14 +536,14 @@ Creatures that enter this area feel their feet begin to lift gently off the floo
 
 The images that begin to flow and ebb along the spherical wall of the chamber are random at first—creatures and places unfamiliar to the characters. But any creature that remains in this area for 1 minute feels their mind open up as the room establishes a connection with them.
 
-As an action, a character can use the room to replay up to 10 minutes of any past event they are aware of, whether personal or historical. The event plays back in perfect detail along the wall of the chamber for all to see and hear. When the vision ends, the character must make a DC 20 Intelligence saving throw. On a failed save, the character gains the following flaw, which lasts until removed with a [greater restoration](3-Mechanics/CLI/spells/greater-restoration-xphb.md) spell or similar magic: "I obsess about the past, and I'm constantly trying to go back to undo my mistakes."
+As an action, a character can use the room to replay up to 10 minutes of any past event they are aware of, whether personal or historical. The event plays back in perfect detail along the wall of the chamber for all to see and hear. When the vision ends, the character must make a DC 20 Intelligence saving throw. On a failed save, the character gains the following flaw, which lasts until removed with a [greater restoration](/3-Mechanics/CLI/spells/greater-restoration-xphb.md) spell or similar magic: "I obsess about the past, and I'm constantly trying to go back to undo my mistakes."
 
 ### New Magic Items
 
 The new magic items described below wait to be claimed in area T10 of Valin's tomb.
 
-- [Staff of Fate](3-Mechanics/CLI/items/staff-of-fate-cm.md)  
-- [Watchful Helm](3-Mechanics/CLI/items/watchful-helm-cm.md)  
+- [Staff of Fate](/3-Mechanics/CLI/items/staff-of-fate-cm.md)  
+- [Watchful Helm](/3-Mechanics/CLI/items/watchful-helm-cm.md)  
 
 ## Conclusion
 
@@ -551,17 +551,17 @@ Although the treasures in Valin's tomb technically belong to the House of the Al
 
 ### Destroying Valin
 
-[Valin](3-Mechanics/CLI/bestiary/npc/valin-sarnaster-cm.md) is permanently destroyed only if the characters reduce her to 0 hit points and also destroy her heart before she re-forms. Once Valin is destroyed, the priests of the House of the All-Seeing Orb can convert the tomb back into the temple it once was. If the characters can't find Valin's heart, spells such as [commune](3-Mechanics/CLI/spells/commune-xphb.md) or [divination](3-Mechanics/CLI/spells/divination-xphb.md) can lead them to the truth about Alessia Baseer.
+[Valin](/3-Mechanics/CLI/bestiary/npc/valin-sarnaster-cm.md) is permanently destroyed only if the characters reduce her to 0 hit points and also destroy her heart before she re-forms. Once Valin is destroyed, the priests of the House of the All-Seeing Orb can convert the tomb back into the temple it once was. If the characters can't find Valin's heart, spells such as [commune](/3-Mechanics/CLI/spells/commune-xphb.md) or [divination](/3-Mechanics/CLI/spells/divination-xphb.md) can lead them to the truth about Alessia Baseer.
 
 ### Valin's Vengeance
 
-If [Valin's](3-Mechanics/CLI/bestiary/npc/valin-sarnaster-cm.md) heart is not destroyed, the mummy lord re-forms 24 hours after her defeat, appearing in the sarcophagus in area T6. If the characters are still in the tomb at that point, you can set up the terms of the rematch. As soon as she is restored, Valin is able to see through the eyes of Savras throughout the tomb, and she uses [dimension door](3-Mechanics/CLI/spells/dimension-door-xphb.md) to move directly from her sarcophagus to the characters' location provided they're still in the tomb.
+If [Valin's](/3-Mechanics/CLI/bestiary/npc/valin-sarnaster-cm.md) heart is not destroyed, the mummy lord re-forms 24 hours after her defeat, appearing in the sarcophagus in area T6. If the characters are still in the tomb at that point, you can set up the terms of the rematch. As soon as she is restored, Valin is able to see through the eyes of Savras throughout the tomb, and she uses [dimension door](/3-Mechanics/CLI/spells/dimension-door-xphb.md) to move directly from her sarcophagus to the characters' location provided they're still in the tomb.
 
 If the characters leave the tomb before Valin re-forms, the mummy lord oracle might hunt them down, becoming a recurring villain. If the characters bring Alessia with them but don't remove Valin's heart from her, the vengeful mummy lord tries to recover her heart by the most direct means.
 
 ### Mayastan Sadaar
 
-Word of Mayastan Sadaar's death hits the scholars of Candlekeep hard. At your discretion, the characters can return the scholar's body to Candlekeep so that she can be returned to life (perhaps with the characters performing the rites). Alternatively, you might decide that the nature of Valin's ritual prevents Mayastan from being restored to life even with a [resurrection](3-Mechanics/CLI/spells/resurrection-xphb.md) spell. The characters might thus be charged with a side quest to learn more about the ritual, with the knowledge they gain eventually allowing the sage to be resurrected.
+Word of Mayastan Sadaar's death hits the scholars of Candlekeep hard. At your discretion, the characters can return the scholar's body to Candlekeep so that she can be returned to life (perhaps with the characters performing the rites). Alternatively, you might decide that the nature of Valin's ritual prevents Mayastan from being restored to life even with a [resurrection](/3-Mechanics/CLI/spells/resurrection-xphb.md) spell. The characters might thus be charged with a side quest to learn more about the ritual, with the knowledge they gain eventually allowing the sage to be resurrected.
 
 ### Alessia
 

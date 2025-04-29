@@ -10,9 +10,9 @@ aliases:
 ---
 # Ring of Invisibility
 *Legendary (requires attunement)*  
-![](3-Mechanics/CLI/items/img/ring-of-invisibility.webp#right)
+![](/3-Mechanics/CLI/items/img/ring-of-invisibility.webp#right)
 
 
-While wearing this ring, you can take a [Magic](3-Mechanics/CLI/rules/actions.md#Magic) action to give yourself the [Invisible](3-Mechanics/CLI/rules/conditions.md#Invisible) condition. You remain [Invisible](3-Mechanics/CLI/rules/conditions.md#Invisible) until the ring is removed or until you take a [Bonus Action](3-Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md) to become visible again.
+While wearing this ring, you can take a [Magic](/3-Mechanics/CLI/actions.md#Magic) action to give yourself the [Invisible](/3-Mechanics/CLI/conditions.md#Invisible) condition. You remain [Invisible](/3-Mechanics/CLI/conditions.md#Invisible) until the ring is removed or until you take a [Bonus Action](/3-Mechanics/CLI/variant-rules/bonus-action-xphb.md) to become visible again.
 
-*Source: Dungeon Master's Guide (2024) p. 293*
+*Source: Dungeon Master's Guide (2024) p. 293. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*

@@ -9,4 +9,4 @@ aliases: ["Spells for Visions of Distant Realms"]
 
 ## 4th Level
 
-- [Arcane Eye](3-Mechanics/CLI/spells/arcane-eye-xphb.md "XPHB")
+- [Arcane Eye](/3-Mechanics/CLI/spells/arcane-eye-xphb.md "XPHB")

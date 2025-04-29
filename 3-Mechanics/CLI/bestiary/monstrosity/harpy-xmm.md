@@ -14,7 +14,7 @@ statblock: inline
 aliases: ["Harpy"]
 ---
 # [Harpy](3-Mechanics\CLI\bestiary\monstrosity/harpy-xmm.md)
-*Source: Monster Manual (2024) p. 164*  
+*Source: Monster Manual (2024) p. 164. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
 
 ## Harpy
 
@@ -51,13 +51,13 @@ Every harpy sings a distinct song. While some songs are said to be heartbreaking
 "actions":
 - "desc": "Melee Attack Roll: +3, reach 5 ft. Hit: 6 (2d4 + 1) Slashing damage."
   "name": "Claw"
-- "desc": "The harpy sings a magical melody, which lasts until the harpy's [Concentration](3-Mechanics/CLI/rules/conditions.md#Concentration)\
+- "desc": "The harpy sings a magical melody, which lasts until the harpy's [Concentration](/3-Mechanics/CLI/conditions.md#Concentration)\
     \ ends on it. Wisdom Saving Throw: DC 11, each Humanoid and Giant in a 300-foot\
-    \ [Emanation](3-Mechanics/CLI/rules/variant-rules/emanation-area-of-effect-xphb.md)\
+    \ [Emanation](/3-Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md)\
     \ originating from the harpy when the song starts. Failure: The target has the\
-    \ [Charmed](3-Mechanics/CLI/rules/conditions.md#Charmed) condition until the song\
-    \ ends and repeats the save at the end of each of its turns. While [Charmed](3-Mechanics/CLI/rules/conditions.md#Charmed),\
-    \ the target has the [Incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated)\
+    \ [Charmed](/3-Mechanics/CLI/conditions.md#Charmed) condition until the song ends\
+    \ and repeats the save at the end of each of its turns. While [Charmed](/3-Mechanics/CLI/conditions.md#Charmed),\
+    \ the target has the [Incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated)\
     \ condition and ignores the Luring Song of other harpies. If the target is more\
     \ than 5 feet from the harpy, the target moves on its turn toward the harpy by\
     \ the most direct route, trying to get within 5 feet of the harpy. It doesn't\
@@ -68,7 +68,7 @@ Every harpy sings a distinct song. While some songs are said to be heartbreaking
   "name": "Luring Song"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/monstrosity/token/harpy-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/harpy-xmm.webp"
 ```
 ^statblock
 

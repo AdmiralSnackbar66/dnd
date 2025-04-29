@@ -15,7 +15,7 @@ statblock: inline
 aliases: ["Bugbear Warrior"]
 ---
 # [Bugbear Warrior](3-Mechanics\CLI\bestiary\fey/bugbear-warrior-xmm.md)
-*Source: Monster Manual (2024) p. 62*  
+*Source: Monster Manual (2024) p. 62. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
 
 Bugbear warriors serve those who offer them treasure, food, or the chance to hunt challenging prey.
 
@@ -55,18 +55,17 @@ Bugbears embody fear of the wilds and the menace of natural places. They're noto
 - "desc": "The bugbear needn't spend extra movement to move a creature it is grappling."
   "name": "Abduct"
 "actions":
-- "desc": "Melee Attack Roll: +4, reach 10 ft. Hit: 9 (2d6 + 2) Bludgeoning\
-    \ damage. If the target is a Medium or smaller creature, it has the [Grappled](3-Mechanics/CLI/rules/conditions.md#Grappled)\
+- "desc": "Melee Attack Roll: +4, reach 10 ft. Hit: 9 (2d6 + 2) Bludgeoning damage.\
+    \ If the target is a Medium or smaller creature, it has the [Grappled](/3-Mechanics/CLI/conditions.md#Grappled)\
     \ condition (escape DC 12)."
   "name": "Grab"
-- "desc": "Melee or Ranged Attack Roll: +4 (with [Advantage](3-Mechanics/CLI/rules/variant-rules/advantage-xphb.md)\
-    \ if the target is [Grappled](3-Mechanics/CLI/rules/conditions.md#Grappled) by\
-    \ the bugbear), reach 10 ft. or range 20/60 ft. Hit: 9 (3d4 + 2) Bludgeoning\
-    \ damage."
+- "desc": "Melee or Ranged Attack Roll: +4 (with [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
+    \ if the target is [Grappled](/3-Mechanics/CLI/conditions.md#Grappled) by the\
+    \ bugbear), reach 10 ft. or range 20/60 ft. Hit: 9 (3d4 + 2) Bludgeoning damage."
   "name": "Light Hammer"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/fey/token/bugbear-warrior-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/fey/token/bugbear-warrior-xmm.webp"
 ```
 ^statblock
 

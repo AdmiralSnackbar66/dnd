@@ -9,6 +9,8 @@ tags:
 - ttrpg-cli/spell/level/2nd-level
 - ttrpg-cli/spell/school/enchantment
 - ttrpg-cli/spell/subclass/college-of-lore
+- ttrpg-cli/spell/subclass/divine-soul
+- ttrpg-cli/spell/subclass/monster-slayer
 - ttrpg-cli/spell/subclass/oath-of-devotion
 classes:
 - Bard
@@ -16,6 +18,8 @@ classes:
 - Cleric
 - Paladin
 - Paladin (Oath of Devotion)
+- Ranger (Monster Slayer)
+- Sorcerer (Divine Soul)
 aliases: ["Zone of Truth"]
 ---
 # Zone of Truth
@@ -31,6 +35,6 @@ You create a magical zone that guards against deception in a 15-foot-radius Sphe
 
 An affected creature is aware of the spell and can avoid answering questions to which it would normally respond with a lie. Such a creature can be evasive yet must be truthful.
 
-**Classes**: [Cleric](3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Bard (College of Lore)](3-Mechanics/CLI/lists/list-spells-classes-bard-xphb-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Paladin](3-Mechanics/CLI/lists/list-spells-classes-paladin.md); [Paladin (Oath of Devotion)](3-Mechanics/CLI/lists/list-spells-classes-paladin-xphb-oath-of-devotion-xphb.md "subclass=XPHB;class=XPHB")
+**Classes**: [Paladin (Oath of Devotion)](/3-Mechanics/CLI/lists/list-spells-classes-paladin-xphb-oath-of-devotion-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer (Divine Soul)](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer-xphb-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Ranger (Monster Slayer)](/3-Mechanics/CLI/lists/list-spells-classes-ranger-xphb-monster-slayer-xge.md "subclass=XGE;class=XPHB"); [Paladin](/3-Mechanics/CLI/lists/list-spells-classes-paladin.md); [Bard (College of Lore)](/3-Mechanics/CLI/lists/list-spells-classes-bard-xphb-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md)
 
-*Source: Player's Handbook (2024) p. 343. Available in the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 343. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*

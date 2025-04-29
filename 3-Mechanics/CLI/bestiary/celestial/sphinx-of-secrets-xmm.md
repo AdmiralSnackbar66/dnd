@@ -65,35 +65,35 @@ Sphinxes typically dwell in places that hold great knowledge or prophetic magic.
   "History": !!int "7"
 "damage_resistances": "necrotic, radiant"
 "damage_immunities": "psychic"
-"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened)"
+"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [frightened](/3-Mechanics/CLI/conditions.md#Frightened)"
 "senses": "truesight 60 ft., passive Perception 17"
 "languages": "Celestial, Common"
 "cr": "8"
 "traits":
 - "desc": "The sphinx casts one of the following spells, requiring no Material components\
     \ and using Intelligence as the spellcasting ability (spell save DC 15):\n\nAt\
-    \ will: [Detect Magic](3-Mechanics/CLI/spells/detect-magic-xphb.md), [Identify](3-Mechanics/CLI/spells/identify-xphb.md),\
-    \ [Prestidigitation](3-Mechanics/CLI/spells/prestidigitation-xphb.md)\n\n1/day\
-    \ each: [Locate Object](3-Mechanics/CLI/spells/locate-object-xphb.md), [Remove\
-    \ Curse](3-Mechanics/CLI/spells/remove-curse-xphb.md)"
+    \ will: [Detect Magic](/3-Mechanics/CLI/spells/detect-magic-xphb.md), [Identify](/3-Mechanics/CLI/spells/identify-xphb.md),\
+    \ [Prestidigitation](/3-Mechanics/CLI/spells/prestidigitation-xphb.md)\n\n1/day\
+    \ each: [Locate Object](/3-Mechanics/CLI/spells/locate-object-xphb.md), [Remove\
+    \ Curse](/3-Mechanics/CLI/spells/remove-curse-xphb.md)"
   "name": "Spellcasting"
 - "desc": "No magic can observe the sphinx remotely or detect its thoughts without\
-    \ its permission. Wisdom ([Insight](3-Mechanics/CLI/rules/skills.md#Insight))\
-    \ checks made to ascertain its intentions or sincerity are made with [Disadvantage](3-Mechanics/CLI/rules/variant-rules/disadvantage-xphb.md)."
+    \ its permission. Wisdom ([Insight](/3-Mechanics/CLI/skills.md#Insight)) checks\
+    \ made to ascertain its intentions or sincerity are made with [Disadvantage](/3-Mechanics/CLI/variant-rules/disadvantage-xphb.md)."
   "name": "Inscrutable"
-- "desc": "The sphinx has [Advantage](3-Mechanics/CLI/rules/variant-rules/advantage-xphb.md)\
+- "desc": "The sphinx has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
     \ on saving throws against spells and other magical effects."
   "name": "Magic Resistance"
 "actions":
 - "desc": "The sphinx makes three Claw attacks. It can replace one attack with a use\
-    \ of [Curse](3-Mechanics/CLI/rules/variant-rules/curses-xphb.md) of the Riddle."
+    \ of [Curse](/3-Mechanics/CLI/variant-rules/curses-xphb.md) of the Riddle."
   "name": "Multiattack"
 - "desc": "Melee Attack Roll: +7, reach 5 ft. Hit: 13 (2d8 + 4) Slashing damage\
     \ plus 7 (2d6) Radiant damage."
   "name": "Claw"
 - "desc": "Intelligence Saving Throw: DC 15, one creature the sphinx can see within\
-    \ 60 feet. Failure: 21 (6d6) Psychic damage, and the target is cursed with\
-    \ a riddle. The cursed target has [Disadvantage](3-Mechanics/CLI/rules/variant-rules/disadvantage-xphb.md)\
+    \ 60 feet. Failure: 21 (6d6) Psychic damage, and the target is cursed with a\
+    \ riddle. The cursed target has [Disadvantage](/3-Mechanics/CLI/variant-rules/disadvantage-xphb.md)\
     \ on ability checks and attack rolls. In addition, if it takes the Magic action,\
     \ it must succeed on a DC 15 Intelligence saving throw or that action is wasted.\
     \ The cursed target can take a Study action to make a DC 15 Intelligence check,\
@@ -102,7 +102,7 @@ Sphinxes typically dwell in places that hold great knowledge or prophetic magic.
   "name": "Curse of the Riddle"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/celestial/token/sphinx-of-secrets-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/celestial/token/sphinx-of-secrets-xmm.webp"
 ```
 ^statblock
 

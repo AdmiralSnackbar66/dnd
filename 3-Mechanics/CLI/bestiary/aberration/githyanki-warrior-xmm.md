@@ -59,13 +59,13 @@ When Gith perished, her adviser, Vlaakith, assumed rule of the githyanki. Vlaaki
 "cr": "3"
 "traits":
 - "desc": "The githyanki casts one of the following spells, requiring no spell components\
-    \ and using Intelligence as the spellcasting ability:\n\nAt will: [Mage Hand](3-Mechanics/CLI/spells/mage-hand-xphb.md)\
-    \ (the hand is Invisible)\n\n2/day: [Nondetection](3-Mechanics/CLI/spells/nondetection-xphb.md)\
+    \ and using Intelligence as the spellcasting ability:\n\nAt will: [Mage Hand](/3-Mechanics/CLI/spells/mage-hand-xphb.md)\
+    \ (the hand is Invisible)\n\n2/day: [Nondetection](/3-Mechanics/CLI/spells/nondetection-xphb.md)\
     \ (self only)"
   "name": "Spellcasting"
-- "desc": "The githyanki casts [Misty Step](3-Mechanics/CLI/spells/misty-step-xphb.md),\
+- "desc": "The githyanki casts [Misty Step](/3-Mechanics/CLI/spells/misty-step-xphb.md),\
     \ requiring no spell components and using the same spellcasting ability as Spellcasting.\n\
-    \n2/day: [Misty Step](3-Mechanics/CLI/spells/misty-step-xphb.md)"
+    \n2/day: [Misty Step](/3-Mechanics/CLI/spells/misty-step-xphb.md)"
   "name": "Misty Step (2/Day)"
 "actions":
 - "desc": "The githyanki makes two Psi Blade attacks."
@@ -75,7 +75,7 @@ When Gith perished, her adviser, Vlaakith, assumed rule of the githyanki. Vlaaki
   "name": "Psi Blade"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/aberration/token/githyanki-warrior-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/aberration/token/githyanki-warrior-xmm.webp"
 ```
 ^statblock
 

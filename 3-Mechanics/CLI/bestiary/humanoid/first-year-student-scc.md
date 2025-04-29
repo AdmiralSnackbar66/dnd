@@ -36,9 +36,9 @@ A student who has not yet chosen one of Strixhaven's five mystic colleges is ref
 "cr": "1/2"
 "traits":
 - "desc": "The student casts one of the following spells, using Intelligence as the\
-    \ spellcasting ability (spell save DC 11):\n\nAt will: [mage hand](3-Mechanics/CLI/spells/mage-hand-xphb.md),\
-    \ [prestidigitation](3-Mechanics/CLI/spells/prestidigitation-xphb.md)\n\n1/day:\
-    \ [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md)"
+    \ spellcasting ability (spell save DC 11):\n\nAt will: [mage hand](/3-Mechanics/CLI/spells/mage-hand-xphb.md),\
+    \ [prestidigitation](/3-Mechanics/CLI/spells/prestidigitation-xphb.md)\n\n1/day:\
+    \ [detect magic](/3-Mechanics/CLI/spells/detect-magic-xphb.md)"
   "name": "Spellcasting"
 - "desc": "The student has advantage on initiative rolls."
   "name": "Excited to Be Here"
@@ -47,11 +47,11 @@ A student who has not yet chosen one of Strixhaven's five mystic colleges is ref
     \ one target. Hit: 7 (1d12 + 1) force damage."
   "name": "Magic Flare"
 "reactions":
-- "desc": "When the student fails a saving throw, it can reroll the d20. It must\
-    \ use the new roll."
+- "desc": "When the student fails a saving throw, it can reroll the d20. It must use\
+    \ the new roll."
   "name": "Beginner's Luck (2/Day)"
 "source":
 - "SCC"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/first-year-student-scc.webp"
+"image": "/3-Mechanics/CLI/bestiary/humanoid/token/first-year-student-scc.webp"
 ```
 ^statblock

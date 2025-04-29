@@ -61,9 +61,9 @@ Jackalweres dwell in inhospitable wildernesses and pride themselves on their cle
 "languages": "Common"
 "cr": "1/2"
 "traits":
-- "desc": "The jackalwere has [Advantage](3-Mechanics/CLI/rules/variant-rules/advantage-xphb.md)\
+- "desc": "The jackalwere has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
     \ on an attack roll against a creature if at least one of the jackalwere's allies\
-    \ is within 5 feet of the creature and the ally doesn't have the [Incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated)\
+    \ is within 5 feet of the creature and the ally doesn't have the [Incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated)\
     \ condition."
   "name": "Pack Tactics"
 "actions":
@@ -71,12 +71,11 @@ Jackalweres dwell in inhospitable wildernesses and pride themselves on their cle
   "name": "Multiattack"
 - "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 5 (1d6 + 2) Piercing damage."
   "name": "Rend (Jackal or Hybrid Form Only)"
-- "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 4 (1d4 + 2) Bludgeoning\
-    \ damage."
+- "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 4 (1d4 + 2) Bludgeoning damage."
   "name": "Slam (Human or Hybrid Form Only)"
 - "desc": "Wisdom Saving Throw: DC 10, one creature the jackalwere can see within\
     \ 30 feet (Constructs and Undead succeed automatically). Failure: The target\
-    \ has the [Unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious) condition\
+    \ has the [Unconscious](/3-Mechanics/CLI/conditions.md#Unconscious) condition\
     \ for 10 minutes or until it takes damage or a creature within 5 feet of it takes\
     \ an action to wake it. Success: The target is immune to this jackalwere's Sleep\
     \ Gaze for 24 hours."
@@ -89,7 +88,7 @@ Jackalweres dwell in inhospitable wildernesses and pride themselves on their cle
   "name": "Shape-Shift"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/fiend/token/jackalwere-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/fiend/token/jackalwere-xmm.webp"
 ```
 ^statblock
 

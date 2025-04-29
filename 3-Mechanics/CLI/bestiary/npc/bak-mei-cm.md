@@ -52,15 +52,15 @@ Bak Mei is an old man with a long white beard and bushy eyebrows. Like the other
   "Religion": !!int "6"
   "Acrobatics": !!int "9"
 "damage_resistances": "poison, thunder"
-"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened),\
-  \ [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed)"
+"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [frightened](/3-Mechanics/CLI/conditions.md#Frightened),\
+  \ [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed)"
 "senses": "passive Perception 13"
 "languages": "Auran, Common"
 "cr": "13"
 "traits":
 - "desc": "If Bak Mei fails a saving throw, he can choose to succeed instead."
   "name": "Legendary Resistance (2/Day)"
-- "desc": "Bak Mei carries a [staff of striking](3-Mechanics/CLI/items/staff-of-striking-xdmg.md)\
+- "desc": "Bak Mei carries a [staff of striking](/3-Mechanics/CLI/items/staff-of-striking-xdmg.md)\
     \ with 10 charges."
   "name": "Special Equipment"
 - "desc": "While Bak Mei is wearing no armor and wielding no shield, his AC includes\
@@ -70,18 +70,18 @@ Bak Mei is an old man with a long white beard and bushy eyebrows. Like the other
 - "desc": "Bak Mei attacks three times: twice with Thunder Strike and once with his\
     \ staff of striking."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 15\
-    \ (2d10 + 4) thunder damage, and if the target is a creature, it must succeed\
-    \ on a DC 17 Constitution saving throw or be [deafened](3-Mechanics/CLI/rules/conditions.md#Deafened)\
-    \ and [stunned](3-Mechanics/CLI/rules/conditions.md#Stunned) until the start of\
-    \ Bak Mei's next turn."
+- "desc": "Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 15 (2d10\
+    \ + 4) thunder damage, and if the target is a creature, it must succeed on a DC\
+    \ 17 Constitution saving throw or be [deafened](/3-Mechanics/CLI/conditions.md#Deafened)\
+    \ and [stunned](/3-Mechanics/CLI/conditions.md#Stunned) until the start of Bak\
+    \ Mei's next turn."
   "name": "Thunder Strike"
 - "desc": "Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 3 (1d6)\
     \ bludgeoning damage, or 4 (1d8) bludgeoning damage when used with two hands,\
     \ and Bak Mei can expend up to 3 of the staff's charges. For each expended charge,\
     \ the target takes an extra 1d6 force damage."
   "name": "Staff of Striking"
-- "desc": "Bak Mei regains 2d8 + 4 hit points, and all levels of [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion)\
+- "desc": "Bak Mei regains 2d8 + 4 hit points, and all levels of [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion)\
     \ end on him."
   "name": "Heal Self (Recharges after a Long Rest)"
 "bonus_actions":
@@ -101,6 +101,6 @@ Bak Mei is an old man with a long white beard and bushy eyebrows. Like the other
   "name": "Thunder Strike (Costs 2 Actions)"
 "source":
 - "CM"
-"image": "3-Mechanics/CLI/bestiary/npc/token/bak-mei-cm.webp"
+"image": "/3-Mechanics/CLI/bestiary/npc/token/bak-mei-cm.webp"
 ```
 ^statblock

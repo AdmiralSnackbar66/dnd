@@ -48,18 +48,18 @@ The scholars of Quandrix College focus on the mathematical principles that gover
 "traits":
 - "desc": "The pledgemage casts one of the following spells, requiring no material\
     \ components and using Intelligence as the spellcasting ability (spell save DC\
-    \ 13):\n\nAt will: [guidance](3-Mechanics/CLI/spells/guidance-xphb.md), [mage\
-    \ hand](3-Mechanics/CLI/spells/mage-hand-xphb.md)\n\n1/day each: [dimension\
-    \ door](3-Mechanics/CLI/spells/dimension-door-xphb.md), [enlarge/reduce](3-Mechanics/CLI/spells/enlarge-reduce-xphb.md),\
-    \ [mage armor](3-Mechanics/CLI/spells/mage-armor-xphb.md), [plant growth](3-Mechanics/CLI/spells/plant-growth-xphb.md)"
+    \ 13):\n\nAt will: [guidance](/3-Mechanics/CLI/spells/guidance-xphb.md), [mage\
+    \ hand](/3-Mechanics/CLI/spells/mage-hand-xphb.md)\n\n1/day each: [dimension\
+    \ door](/3-Mechanics/CLI/spells/dimension-door-xphb.md), [enlarge/reduce](/3-Mechanics/CLI/spells/enlarge-reduce-xphb.md),\
+    \ [mage armor](/3-Mechanics/CLI/spells/mage-armor-xphb.md), [plant growth](/3-Mechanics/CLI/spells/plant-growth-xphb.md)"
   "name": "Spellcasting"
 "actions":
 - "desc": "The pledgemage makes two Exponential Lash attacks."
   "name": "Multiattack"
 - "desc": "Melee or Ranged Spell Attack: +5 to hit, reach 5 ft. or range 60 ft.,\
-    \ one target. Hit: 6 (1d6 + 3) force damage, and the pledgemage can cause\
-    \ one creature it can see within 30 feet of the target to take 10 (2d6 + 3)\
-    \ force damage."
+    \ one target. Hit: 6 (1d6 + 3) force damage, and the pledgemage can cause one\
+    \ creature it can see within 30 feet of the target to take 10 (2d6 + 3) force\
+    \ damage."
   "name": "Exponential Lash"
 "bonus_actions":
 - "desc": "The pledgemage teleports, along with any equipment it is wearing or carrying,\
@@ -71,6 +71,6 @@ The scholars of Quandrix College focus on the mathematical principles that gover
   "name": "Vortex Calculus (Recharge 4-6)"
 "source":
 - "SCC"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/quandrix-pledgemage-scc.webp"
+"image": "/3-Mechanics/CLI/bestiary/humanoid/token/quandrix-pledgemage-scc.webp"
 ```
 ^statblock

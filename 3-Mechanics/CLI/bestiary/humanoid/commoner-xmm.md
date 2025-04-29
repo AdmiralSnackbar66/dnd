@@ -11,7 +11,7 @@ statblock: inline
 aliases: ["Commoner"]
 ---
 # [Commoner](3-Mechanics\CLI\bestiary\humanoid/commoner-xmm.md)
-*Source: Monster Manual (2024) p. 77*  
+*Source: Monster Manual (2024) p. 77. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
 
 ## Commoner
 
@@ -120,7 +120,7 @@ Youngster
 "languages": "Common"
 "cr": "0"
 "traits":
-- "desc": "The commoner has proficiency in one skill of the DM's choice and has [Advantage](3-Mechanics/CLI/rules/variant-rules/advantage-xphb.md)\
+- "desc": "The commoner has proficiency in one skill of the DM's choice and has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
     \ whenever it makes an ability check using that skill."
   "name": "Training"
 "actions":
@@ -128,7 +128,7 @@ Youngster
   "name": "Club"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/commoner-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/humanoid/token/commoner-xmm.webp"
 ```
 ^statblock
 

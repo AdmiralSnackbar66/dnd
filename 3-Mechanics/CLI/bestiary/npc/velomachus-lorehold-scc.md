@@ -53,9 +53,9 @@ Velomachus's spells, legendary actions, and breath weapon are accompanied by vis
 "traits":
 - "desc": "Velomachus casts one of the following spells, requiring no material components\
     \ and using Intelligence as the spellcasting ability:\n\n1/day each: [contact\
-    \ other plane](3-Mechanics/CLI/spells/contact-other-plane-xphb.md) (as an action,\
-    \ contacting a long-dead spirit), [divination](3-Mechanics/CLI/spells/divination-xphb.md),\
-    \ [move earth](3-Mechanics/CLI/spells/move-earth-xphb.md), [wall of force](3-Mechanics/CLI/spells/wall-of-force-xphb.md)"
+    \ other plane](/3-Mechanics/CLI/spells/contact-other-plane-xphb.md) (as an action,\
+    \ contacting a long-dead spirit), [divination](/3-Mechanics/CLI/spells/divination-xphb.md),\
+    \ [move earth](/3-Mechanics/CLI/spells/move-earth-xphb.md), [wall of force](/3-Mechanics/CLI/spells/wall-of-force-xphb.md)"
   "name": "Spellcasting"
 - "desc": "If Velomachus fails a saving throw, she can choose to succeed instead."
   "name": "Legendary Resistance (3/Day)"
@@ -67,15 +67,15 @@ Velomachus's spells, legendary actions, and breath weapon are accompanied by vis
   "name": "Bite"
 - "desc": "Melee Weapon Attack: +18 to hit, reach 10 ft., one target. Hit: 13\
     \ (1d6 + 10) slashing damage. If the target is a Huge or smaller creature, it\
-    \ is knocked [prone](3-Mechanics/CLI/rules/conditions.md#Prone)."
+    \ is knocked [prone](/3-Mechanics/CLI/conditions.md#Prone)."
   "name": "Claw"
 - "desc": "Velomachus exhales thunderous sound in a 90-foot cone. Each creature in\
     \ that area must make a DC 25 Constitution saving throw. On a failure, a creature\
-    \ takes 45 (7d12) force damage and 45 (7d12) thunder damage and is pushed\
-    \ up to 20 feet in a horizontal direction of Velomachus' choice. On a success,\
-    \ the creature takes half as much damage and isn't pushed. Objects that aren't\
-    \ being worn or carried take the damage and are pushed as if they were creatures\
-    \ that failed the saving throw."
+    \ takes 45 (7d12) force damage and 45 (7d12) thunder damage and is pushed up to\
+    \ 20 feet in a horizontal direction of Velomachus' choice. On a success, the creature\
+    \ takes half as much damage and isn't pushed. Objects that aren't being worn or\
+    \ carried take the damage and are pushed as if they were creatures that failed\
+    \ the saving throw."
   "name": "Battle Tide Breath (Recharge 5-6)"
 "legendary_actions":
 - "desc": "Velomachus makes one Claw attack."
@@ -84,17 +84,17 @@ Velomachus's spells, legendary actions, and breath weapon are accompanied by vis
     \ her with an opportunity attack during this move, the attacker takes 19 (3d12)\
     \ thunder damage."
   "name": "Chaotic Flow (Costs 2 Actions)"
-- "desc": "Velomachus magically summons 1d4 [statue mascots](3-Mechanics/CLI/bestiary/construct/spirit-statue-mascot-scc.md)\
+- "desc": "Velomachus magically summons 1d4 [statue mascots](/3-Mechanics/CLI/bestiary/construct/spirit-statue-mascot-scc.md)\
     \ in unoccupied spaces she can see within 60 feet of herself. The spirit statues\
     \ obey her commands and take their turns immediately after hers. Any creature,\
-    \ other than a spirit statue or Velomachus, is [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained)\
+    \ other than a spirit statue or Velomachus, is [restrained](/3-Mechanics/CLI/conditions.md#Restrained)\
     \ if it starts its turn within 5 feet of one or more of these spirit statues.\
-    \ This [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained) condition\
-    \ lasts until the end of the creature's turn. These spirit statues disappear after\
-    \ 10 minutes, when Velomachus dies, or when she uses this action again."
+    \ This [restrained](/3-Mechanics/CLI/conditions.md#Restrained) condition lasts\
+    \ until the end of the creature's turn. These spirit statues disappear after 10\
+    \ minutes, when Velomachus dies, or when she uses this action again."
   "name": "Repeating History (Costs 3 Actions)"
 "source":
 - "SCC"
-"image": "3-Mechanics/CLI/bestiary/npc/token/velomachus-lorehold-scc.webp"
+"image": "/3-Mechanics/CLI/bestiary/npc/token/velomachus-lorehold-scc.webp"
 ```
 ^statblock

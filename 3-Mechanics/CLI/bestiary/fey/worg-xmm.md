@@ -15,7 +15,7 @@ statblock: inline
 aliases: ["Worg"]
 ---
 # [Worg](3-Mechanics\CLI\bestiary\fey/worg-xmm.md)
-*Source: Monster Manual (2024) p. 335*  
+*Source: Monster Manual (2024) p. 335. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
 
 Packs of worgs roam harsh frontiers and cursed lands. They sometimes conspire with goblinoids and gnolls and might serve them as mounts.
 
@@ -52,11 +52,11 @@ Sometimes mistaken at first for giant wolves, worgs are vicious hunters. These s
 "actions":
 - "desc": "Melee Attack Roll: +5, reach 5 ft. Hit: 7 (1d8 + 3) Piercing damage,\
     \ and the next attack roll made against the target before the start of the worg's\
-    \ next turn has [Advantage](3-Mechanics/CLI/rules/variant-rules/advantage-xphb.md)."
+    \ next turn has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)."
   "name": "Bite"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/fey/token/worg-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/fey/token/worg-xmm.webp"
 ```
 ^statblock
 

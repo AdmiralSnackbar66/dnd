@@ -15,9 +15,9 @@ aliases:
 
 **Items in this group:**
 
-- [Ring of Elemental Command (Air)](3-Mechanics/CLI/items/ring-of-elemental-command-air-xdmg.md)
-- [Ring of Elemental Command (Earth)](3-Mechanics/CLI/items/ring-of-elemental-command-earth-xdmg.md)
-- [Ring of Elemental Command (Fire)](3-Mechanics/CLI/items/ring-of-elemental-command-fire-xdmg.md)
-- [Ring of Elemental Command (Water)](3-Mechanics/CLI/items/ring-of-elemental-command-water-xdmg.md)
+- [Ring of Elemental Command (Air)](/3-Mechanics/CLI/items/ring-of-elemental-command-air-xdmg.md)
+- [Ring of Elemental Command (Earth)](/3-Mechanics/CLI/items/ring-of-elemental-command-earth-xdmg.md)
+- [Ring of Elemental Command (Fire)](/3-Mechanics/CLI/items/ring-of-elemental-command-fire-xdmg.md)
+- [Ring of Elemental Command (Water)](/3-Mechanics/CLI/items/ring-of-elemental-command-water-xdmg.md)
 
 *Source: Dungeon Master's Guide (2024) p. 292*

@@ -13,6 +13,6 @@ aliases:
 
 - **Weight**: 1.0 lbs.
 
-This small sphere of thick glass weighs 1 pound. If you are within 60 feet of it, you can speak its command word and cause it to emanate the [light](3-Mechanics/CLI/spells/light-xphb.md) spell.
+This small sphere of thick glass weighs 1 pound. If you are within 60 feet of it, you can speak its command word and cause it to emanate the [light](/3-Mechanics/CLI/spells/light-xphb.md) spell.
 
 *Source: Candlekeep Mysteries p. 110*

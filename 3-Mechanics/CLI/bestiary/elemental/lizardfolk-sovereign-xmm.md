@@ -47,7 +47,7 @@ Lizardfolk dwell in wildernesses suffused with primal magic. While many lizardfo
 "skillsaves":
   "Stealth": !!int "5"
   "Perception": !!int "4"
-"condition_immunities": "[frightened](3-Mechanics/CLI/rules/conditions.md#Frightened)"
+"condition_immunities": "[frightened](/3-Mechanics/CLI/conditions.md#Frightened)"
 "senses": "darkvision 60 ft., passive Perception 14"
 "languages": "Draconic, Primordial (Terran)"
 "cr": "4"
@@ -56,21 +56,21 @@ Lizardfolk dwell in wildernesses suffused with primal magic. While many lizardfo
   "name": "Multiattack"
 - "desc": "Melee Attack Roll: +5, reach 5 ft. Hit: 8 (1d10 + 3) Piercing damage.\
     \ If the target is a creature that isn't a Construct or an Undead, the lizardfolk\
-    \ gains [Temporary Hit Points](3-Mechanics/CLI/rules/variant-rules/temporary-hit-points-xphb.md)\
+    \ gains [Temporary Hit Points](/3-Mechanics/CLI/variant-rules/temporary-hit-points-xphb.md)\
     \ equal to the damage dealt."
   "name": "Bite"
-- "desc": "Melee Attack Roll: +5, reach 5 ft. Hit: 10 (2d6 + 3) Bludgeoning\
-    \ damage. If the target is a Medium or smaller creature, it has the [Prone](3-Mechanics/CLI/rules/conditions.md#Prone)\
+- "desc": "Melee Attack Roll: +5, reach 5 ft. Hit: 10 (2d6 + 3) Bludgeoning damage.\
+    \ If the target is a Medium or smaller creature, it has the [Prone](/3-Mechanics/CLI/conditions.md#Prone)\
     \ condition."
   "name": "Earthen Maul"
 "bonus_actions":
-- "desc": "The lizardfolk moves up to its [Speed](3-Mechanics/CLI/rules/variant-rules/speed-xphb.md)\
-    \ or [Swim Speed](3-Mechanics/CLI/rules/variant-rules/swim-speed-xphb.md) straight\
+- "desc": "The lizardfolk moves up to its [Speed](/3-Mechanics/CLI/variant-rules/speed-xphb.md)\
+    \ or [Swim Speed](/3-Mechanics/CLI/variant-rules/swim-speed-xphb.md) straight\
     \ toward an enemy it can see."
   "name": "Charge"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/elemental/token/lizardfolk-sovereign-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/elemental/token/lizardfolk-sovereign-xmm.webp"
 ```
 ^statblock
 

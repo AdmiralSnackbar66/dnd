@@ -45,19 +45,19 @@ The current Oracle is an elderly human named Jadzi. A graduate of Quandrix Colle
   "Insight": !!int "15"
   "Perception": !!int "10"
   "Arcana": !!int "15"
-"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened)"
+"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [frightened](/3-Mechanics/CLI/conditions.md#Frightened)"
 "senses": "passive Perception 20"
 "languages": "all"
 "cr": "15"
 "traits":
 - "desc": "The Oracle casts one of the following spells, requiring no material components\
     \ and using Intelligence as the spellcasting ability (spell save DC 18):\n\nAt\
-    \ will: [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md)\n\n1/day\
-    \ each: [power word stun](3-Mechanics/CLI/spells/power-word-stun-xphb.md), [scrying](3-Mechanics/CLI/spells/scrying-xphb.md)\
-    \ (as an action), [wall of force](3-Mechanics/CLI/spells/wall-of-force-xphb.md)\n\
-    \n2/day each: [dispel magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md),\
-    \ [mage armor](3-Mechanics/CLI/spells/mage-armor-xphb.md), [remove curse](3-Mechanics/CLI/spells/remove-curse-xphb.md),\
-    \ [sending](3-Mechanics/CLI/spells/sending-xphb.md)"
+    \ will: [detect magic](/3-Mechanics/CLI/spells/detect-magic-xphb.md)\n\n1/day\
+    \ each: [power word stun](/3-Mechanics/CLI/spells/power-word-stun-xphb.md),\
+    \ [scrying](/3-Mechanics/CLI/spells/scrying-xphb.md) (as an action), [wall of\
+    \ force](/3-Mechanics/CLI/spells/wall-of-force-xphb.md)\n\n2/day each: [dispel\
+    \ magic](/3-Mechanics/CLI/spells/dispel-magic-xphb.md), [mage armor](/3-Mechanics/CLI/spells/mage-armor-xphb.md),\
+    \ [remove curse](/3-Mechanics/CLI/spells/remove-curse-xphb.md), [sending](/3-Mechanics/CLI/spells/sending-xphb.md)"
   "name": "Spellcasting"
 - "desc": "If the Oracle fails a saving throw, she can choose to succeed instead."
   "name": "Legendary Resistance (3/Day)"
@@ -93,6 +93,6 @@ The current Oracle is an elderly human named Jadzi. A graduate of Quandrix Colle
   "name": "Vortex Jaunt (Costs 2 Actions)"
 "source":
 - "SCC"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/oracle-of-strixhaven-scc.webp"
+"image": "/3-Mechanics/CLI/bestiary/humanoid/token/oracle-of-strixhaven-scc.webp"
 ```
 ^statblock

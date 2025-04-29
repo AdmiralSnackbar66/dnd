@@ -12,7 +12,7 @@ You gain the following benefits.
 
 ## Battle Medic
 
-If you have a Healer's Kit, you can expend one use of it and tend to a creature within 5 feet of yourself as a [Utilize](3-Mechanics/CLI/rules/actions.md#Utilize) action. That creature can expend one of its Hit Point Dice, and you then roll that die. The creature regains a number of Hit Points equal to the roll plus your Proficiency Bonus.
+If you have a Healer's Kit, you can expend one use of it and tend to a creature within 5 feet of yourself as a [Utilize](/3-Mechanics/CLI/actions.md#Utilize) action. That creature can expend one of its Hit Point Dice, and you then roll that die. The creature regains a number of Hit Points equal to the roll plus your Proficiency Bonus.
 
 ## Healing Rerolls
 

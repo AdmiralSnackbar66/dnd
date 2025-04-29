@@ -15,8 +15,8 @@ aliases:
 
 **Items in this group:**
 
-- [Sprig of mistletoe](3-Mechanics/CLI/items/sprig-of-mistletoe-xphb.md)
-- [Wooden staff](3-Mechanics/CLI/items/wooden-staff-xphb.md)
-- [Yew wand](3-Mechanics/CLI/items/yew-wand-xphb.md)
+- [Sprig of mistletoe](/3-Mechanics/CLI/items/sprig-of-mistletoe-xphb.md)
+- [Wooden staff](/3-Mechanics/CLI/items/wooden-staff-xphb.md)
+- [Yew wand](/3-Mechanics/CLI/items/yew-wand-xphb.md)
 
 *Source: Player's Handbook (2024) p. 225*

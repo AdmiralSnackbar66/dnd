@@ -25,10 +25,10 @@ aliases: ["Synaptic Static"]
 - **Components:** V, S
 - **Duration:** Instantaneous
 
-You cause psychic energy to erupt at a point within range. Each creature in a 20-foot-radius Sphere centered on that point makes an Intelligence saving throw, taking `8d6` Psychic damage on a failed save or half as much damage on a successful one.
+You cause psychic energy to erupt at a point within range. Each creature in a 20-foot-radius Sphere centered on that point makes an Intelligence saving throw, taking `dice:8d6|noform|noparens|avg` (`8d6`) Psychic damage on a failed save or half as much damage on a successful one.
 
-On a failed save, a target also has muddled thoughts for 1 minute. During that time, it subtracts `1d6` from all its attack rolls and ability checks, as well as any Constitution saving throws to maintain [Concentration](3-Mechanics/CLI/rules/conditions.md#Concentration). The target makes an Intelligence saving throw at the end of each of its turns, ending the effect on itself on a success.
+On a failed save, a target also has muddled thoughts for 1 minute. During that time, it subtracts `dice:1d6|noform|noparens|avg` (`1d6`) from all its attack rolls and ability checks, as well as any Constitution saving throws to maintain [Concentration](/3-Mechanics/CLI/conditions.md#Concentration). The target makes an Intelligence saving throw at the end of each of its turns, ending the effect on itself on a success.
 
-**Classes**: [Sorcerer](3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Bard](3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Warlock](3-Mechanics/CLI/lists/list-spells-classes-warlock.md); [Wizard](3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Warlock](/3-Mechanics/CLI/lists/list-spells-classes-warlock.md); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
 *Source: Player's Handbook (2024) p. 330*

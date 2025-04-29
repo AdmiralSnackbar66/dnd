@@ -13,7 +13,7 @@ statblock: inline
 aliases: ["Hippogriff"]
 ---
 # [Hippogriff](3-Mechanics\CLI\bestiary\monstrosity/hippogriff-xmm.md)
-*Source: Monster Manual (2024) p. 169*  
+*Source: Monster Manual (2024) p. 169. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
 
 ## Hippogriff
 
@@ -72,7 +72,7 @@ Hippogriff migrations might take months or years, and sages frequently predict t
   "name": "Rend"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/monstrosity/token/hippogriff-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/hippogriff-xmm.webp"
 ```
 ^statblock
 

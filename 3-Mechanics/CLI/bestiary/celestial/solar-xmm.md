@@ -12,7 +12,7 @@ statblock: inline
 aliases: ["Solar"]
 ---
 # [Solar](3-Mechanics\CLI\bestiary\celestial/solar-xmm.md)
-*Source: Monster Manual (2024) p. 288*  
+*Source: Monster Manual (2024) p. 288. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
 
 ## Solar
 
@@ -45,35 +45,35 @@ Solars can resurrect the dead and often use that power to enlist mortal aid. The
 "skillsaves":
   "Perception": !!int "14"
 "damage_immunities": "poison, radiant"
-"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
-  \ [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened), [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
+  \ [frightened](/3-Mechanics/CLI/conditions.md#Frightened), [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
 "senses": "truesight 120 ft., passive Perception 24"
 "languages": "all; telepathy 120 ft."
 "cr": "21"
 "traits":
 - "desc": "The solar casts one of the following spells, requiring no Material components\
     \ and using Charisma as the spellcasting ability (spell save DC 25):\n\nAt will:\
-    \ [Detect Evil and Good](3-Mechanics/CLI/spells/detect-evil-and-good-xphb.md)\n\
-    \n1/day each: [Commune](3-Mechanics/CLI/spells/commune-xphb.md), [Control\
-    \ Weather](3-Mechanics/CLI/spells/control-weather-xphb.md), [Dispel Evil and Good](3-Mechanics/CLI/spells/dispel-evil-and-good-xphb.md),\
-    \ [Resurrection](3-Mechanics/CLI/spells/resurrection-xphb.md)"
+    \ [Detect Evil and Good](/3-Mechanics/CLI/spells/detect-evil-and-good-xphb.md)\n\
+    \n1/day each: [Commune](/3-Mechanics/CLI/spells/commune-xphb.md), [Control\
+    \ Weather](/3-Mechanics/CLI/spells/control-weather-xphb.md), [Dispel Evil and\
+    \ Good](/3-Mechanics/CLI/spells/dispel-evil-and-good-xphb.md), [Resurrection](/3-Mechanics/CLI/spells/resurrection-xphb.md)"
   "name": "Spellcasting"
-- "desc": "The solar casts [Cure Wounds](3-Mechanics/CLI/spells/cure-wounds-xphb.md)\
-    \ (level 2 version), [Lesser Restoration](3-Mechanics/CLI/spells/lesser-restoration-xphb.md),\
-    \ or [Remove Curse](3-Mechanics/CLI/spells/remove-curse-xphb.md), using the same\
-    \ spellcasting ability as Spellcasting.\n\n3/day: [Cure Wounds](3-Mechanics/CLI/spells/cure-wounds-xphb.md)\
-    \ (level 2 version), [Lesser Restoration](3-Mechanics/CLI/spells/lesser-restoration-xphb.md),\
-    \ [Remove Curse](3-Mechanics/CLI/spells/remove-curse-xphb.md)"
+- "desc": "The solar casts [Cure Wounds](/3-Mechanics/CLI/spells/cure-wounds-xphb.md)\
+    \ (level 2 version), [Lesser Restoration](/3-Mechanics/CLI/spells/lesser-restoration-xphb.md),\
+    \ or [Remove Curse](/3-Mechanics/CLI/spells/remove-curse-xphb.md), using the same\
+    \ spellcasting ability as Spellcasting.\n\n3/day: [Cure Wounds](/3-Mechanics/CLI/spells/cure-wounds-xphb.md)\
+    \ (level 2 version), [Lesser Restoration](/3-Mechanics/CLI/spells/lesser-restoration-xphb.md),\
+    \ [Remove Curse](/3-Mechanics/CLI/spells/remove-curse-xphb.md)"
   "name": "Divine Aid (3/Day)"
 - "desc": "The solar knows if it hears a lie."
   "name": "Divine Awareness"
 - "desc": "If the solar dies outside Mount Celestia, its body disappears, and it gains\
-    \ a new body instantly, reviving with all its [Hit Points](3-Mechanics/CLI/rules/variant-rules/hit-points-xphb.md)\
+    \ a new body instantly, reviving with all its [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)\
     \ somewhere in Mount Celestia."
   "name": "Exalted Restoration"
 - "desc": "If the solar fails a saving throw, it can choose to succeed instead."
   "name": "Legendary Resistance (4/Day)"
-- "desc": "The solar has [Advantage](3-Mechanics/CLI/rules/variant-rules/advantage-xphb.md)\
+- "desc": "The solar has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
     \ on saving throws against spells and other magical effects."
   "name": "Magic Resistance"
 "actions":
@@ -81,29 +81,29 @@ Solars can resurrect the dead and often use that power to enlist mortal aid. The
     \ a use of Slaying Bow."
   "name": "Multiattack"
 - "desc": "Melee or Ranged Attack Roll: +15, reach 10 ft. or range 120 ft. Hit:\
-    \ 22 (4d6 + 8) Slashing damage plus 36 (8d8) Radiant damage. Hit or Miss:\
-    \ The sword magically returns to the solar's hand or hovers within 5 feet of the\
-    \ solar immediately after a ranged attack."
+    \ 22 (4d6 + 8) Slashing damage plus 36 (8d8) Radiant damage. Hit or Miss: The\
+    \ sword magically returns to the solar's hand or hovers within 5 feet of the solar\
+    \ immediately after a ranged attack."
   "name": "Flying Sword"
 - "desc": "Dexterity Saving Throw: DC 21, one creature the solar can see within\
-    \ 600 feet. Failure: If the creature has 100 [Hit Points](3-Mechanics/CLI/rules/variant-rules/hit-points-xphb.md)\
-    \ or fewer, it dies. It otherwise takes 24 (4d8 + 6) Piercing damage plus 36\
-    \ (8d8) Radiant damage."
+    \ 600 feet. Failure: If the creature has 100 [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)\
+    \ or fewer, it dies. It otherwise takes 24 (4d8 + 6) Piercing damage plus 36 (8d8)\
+    \ Radiant damage."
   "name": "Slaying Bow"
 "legendary_actions":
 - "desc": "Constitution Saving Throw: DC 25, one creature the solar can see within\
-    \ 120 feet. Failure: The target has the [Blinded](3-Mechanics/CLI/rules/conditions.md#Blinded)\
+    \ 120 feet. Failure: The target has the [Blinded](/3-Mechanics/CLI/conditions.md#Blinded)\
     \ condition for 1 minute. Failure or Success: The solar can't take this action\
     \ again until the start of its next turn."
   "name": "Blinding Gaze"
 - "desc": "The solar teleports up to 60 feet to an unoccupied space it can see. Dexterity\
-    \ Saving Throw: DC 25, each creature in a 10-foot [Emanation](3-Mechanics/CLI/rules/variant-rules/emanation-area-of-effect-xphb.md)\
-    \ originating from the solar at its destination space. Failure: 11 (2d10)\
-    \ Radiant damage. Success: Half damage."
+    \ Saving Throw: DC 25, each creature in a 10-foot [Emanation](/3-Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md)\
+    \ originating from the solar at its destination space. Failure: 11 (2d10) Radiant\
+    \ damage. Success: Half damage."
   "name": "Radiant Teleport"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/celestial/token/solar-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/celestial/token/solar-xmm.webp"
 ```
 ^statblock
 

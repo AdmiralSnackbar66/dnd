@@ -14,11 +14,11 @@ statblock: inline
 aliases: ["Giant Rat"]
 ---
 # [Giant Rat](3-Mechanics\CLI\bestiary\beast/giant-rat-xmm.md)
-*Source: Monster Manual (2024) p. 358*  
+*Source: Monster Manual (2024) p. 358. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
 
 ## Animals
 
-Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [Panther](3-Mechanics/CLI/bestiary/beast/panther-xmm.md) stat block can also represent a mountain lion, while the [Giant Goat](3-Mechanics/CLI/bestiary/beast/giant-goat-xmm.md) stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
+Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [Panther](/3-Mechanics/CLI/bestiary/beast/panther-xmm.md) stat block can also represent a mountain lion, while the [Giant Goat](/3-Mechanics/CLI/bestiary/beast/giant-goat-xmm.md) stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
 
 ```statblock
 "name": "Giant Rat (XMM)"
@@ -44,18 +44,17 @@ Use these stat blocks to represent the creatures they're named for or other simi
 "languages": ""
 "cr": "1/8"
 "traits":
-- "desc": "The rat has [Advantage](3-Mechanics/CLI/rules/variant-rules/advantage-xphb.md)\
+- "desc": "The rat has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
     \ on an attack roll against a creature if at least one of the rat's allies is\
-    \ within 5 feet of the creature and the ally doesn't have the [Incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated)\
+    \ within 5 feet of the creature and the ally doesn't have the [Incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated)\
     \ condition."
   "name": "Pack Tactics"
 "actions":
-- "desc": "Melee Attack Roll: +5, reach 5 feet. Hit: 5 (1d4 + 3) Piercing\
-    \ damage."
+- "desc": "Melee Attack Roll: +5, reach 5 feet. Hit: 5 (1d4 + 3) Piercing damage."
   "name": "Bite"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/beast/token/giant-rat-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/beast/token/giant-rat-xmm.webp"
 ```
 ^statblock
 

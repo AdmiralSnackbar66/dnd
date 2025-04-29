@@ -40,7 +40,7 @@ Many a Strixhaven student wandering the bayou has stepped on a seemingly mundane
 "traits":
 - "desc": "If the groff is motionless at the start of combat, it has advantage on\
     \ its initiative roll. Moreover, if a creature hasn't observed the groff move\
-    \ or act, that creature must succeed on a DC 18 Intelligence ([Investigation](3-Mechanics/CLI/rules/skills.md#Investigation))\
+    \ or act, that creature must succeed on a DC 18 Intelligence ([Investigation](/3-Mechanics/CLI/skills.md#Investigation))\
     \ check to discern that the groff isn't an ordinary moss-covered bog patch."
   "name": "False Appearance"
 - "desc": "The groff can hold its breath for up to 1 hour."
@@ -54,7 +54,7 @@ Many a Strixhaven student wandering the bayou has stepped on a seemingly mundane
 - "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 8 (1d6\
     \ + 5) slashing damage. If the target is a Medium or smaller creature, it must\
     \ succeed on a DC 15 Strength saving throw or become engulfed by the groff. While\
-    \ engulfed, the target can't breathe, is [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained),\
+    \ engulfed, the target can't breathe, is [restrained](/3-Mechanics/CLI/conditions.md#Restrained),\
     \ and takes 10 (3d6) poison damage at the start of each of its turns. When the\
     \ groff moves, the engulfed target moves with it. The groff can have only one\
     \ target engulfed at a time.\n\nAn engulfed target can repeat the saving throw\
@@ -63,6 +63,6 @@ Many a Strixhaven student wandering the bayou has stepped on a seemingly mundane
   "name": "Swamp Claw"
 "source":
 - "SCC"
-"image": "3-Mechanics/CLI/bestiary/plant/token/groff-scc.webp"
+"image": "/3-Mechanics/CLI/bestiary/plant/token/groff-scc.webp"
 ```
 ^statblock

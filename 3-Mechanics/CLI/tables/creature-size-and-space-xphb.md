@@ -6,7 +6,7 @@ tags:
 aliases: ["Creature Size and Space"]
 ---
 # Creature Size and Space
-*Source: Player's Handbook (2024) p. 25* 
+*Source: Player's Handbook (2024) p. 25. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>* 
 
 **Creature Size and Space**
 

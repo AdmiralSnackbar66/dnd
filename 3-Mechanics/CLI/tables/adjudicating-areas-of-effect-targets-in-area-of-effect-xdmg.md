@@ -26,4 +26,4 @@ aliases: ["Adjudicating Areas of Effect; Targets in Area of Effect"]
 | — | 50-foot | 30-foot-radius | — | 20 |
 ^targets-in-area-of-effect
 
-*Use this column for [Cylinders](3-Mechanics/CLI/rules/variant-rules/cylinder-area-of-effect-xphb.md), [Emanations](3-Mechanics/CLI/rules/variant-rules/emanation-area-of-effect-xphb.md) (using the size of the Emanation rather than its radius), and [Spheres](3-Mechanics/CLI/rules/variant-rules/sphere-area-of-effect-xphb.md).
+*Use this column for [Cylinders](/3-Mechanics/CLI/variant-rules/cylinder-area-of-effect-xphb.md), [Emanations](/3-Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md) (using the size of the Emanation rather than its radius), and [Spheres](/3-Mechanics/CLI/variant-rules/sphere-area-of-effect-xphb.md).

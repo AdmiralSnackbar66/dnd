@@ -45,13 +45,13 @@ aliases: ["Immortal Lotus Monk"]
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d8\
     \ + 3) force damage, and if the target is a creature, it must succeed on a DC\
-    \ 14 Dexterity saving throw or be knocked [prone](3-Mechanics/CLI/rules/conditions.md#Prone)."
+    \ 14 Dexterity saving throw or be knocked [prone](/3-Mechanics/CLI/conditions.md#Prone)."
   "name": "Force Strike"
 - "desc": "Ranged Weapon Attack: +6 to hit, range 20/60 ft., one target. Hit:\
     \ 5 (1d4 + 3) piercing damage."
   "name": "Dart"
 "source":
 - "CM"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/immortal-lotus-monk-cm.webp"
+"image": "/3-Mechanics/CLI/bestiary/humanoid/token/immortal-lotus-monk-cm.webp"
 ```
 ^statblock

@@ -26,17 +26,17 @@ aliases: ["Ice Knife"]
 ---
 # Ice Knife
 *1st-level, Conjuration*  
-![](3-Mechanics/CLI/spells/img/ice-knife.webp#right)
+![](/3-Mechanics/CLI/spells/img/ice-knife.webp#right)
 
 - **Casting time:** 1 Action
 - **Range:** 60 feet
 - **Components:** S, M (a drop of water or a piece of ice)
 - **Duration:** Instantaneous
 
-You create a shard of ice and fling it at one creature within range. Make a ranged spell attack against the target. On a hit, the target takes `1d10` Piercing damage. Hit or miss, the shard then explodes. The target and each creature within 5 feet of it must succeed on a Dexterity saving throw or take `2d6` Cold damage.
+You create a shard of ice and fling it at one creature within range. Make a ranged spell attack against the target. On a hit, the target takes `dice:1d10|noform|noparens|avg` (`1d10`) Piercing damage. Hit or miss, the shard then explodes. The target and each creature within 5 feet of it must succeed on a Dexterity saving throw or take `dice:2d6|noform|noparens|avg` (`2d6`) Cold damage.
 
-**Using a Higher-Level Spell Slot.** The Cold damage increases by `1d6` for each spell slot level above 1.
+**Using a Higher-Level Spell Slot.** The Cold damage increases by `dice:1d6|noform|noparens|avg|text(1d6)` for each spell slot level above 1.
 
-**Classes**: [Sorcerer](3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Rogue (Arcane Trickster)](3-Mechanics/CLI/lists/list-spells-classes-rogue-xphb-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Bard (College of Lore)](3-Mechanics/CLI/lists/list-spells-classes-bard-xphb-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Fighter (Eldritch Knight)](3-Mechanics/CLI/lists/list-spells-classes-fighter-xphb-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Bard](3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Druid](3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Wizard](3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Rogue (Arcane Trickster)](/3-Mechanics/CLI/lists/list-spells-classes-rogue-xphb-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Fighter (Eldritch Knight)](/3-Mechanics/CLI/lists/list-spells-classes-fighter-xphb-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Bard (College of Lore)](/3-Mechanics/CLI/lists/list-spells-classes-bard-xphb-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 287*
+*Source: Player's Handbook (2024) p. 287. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*

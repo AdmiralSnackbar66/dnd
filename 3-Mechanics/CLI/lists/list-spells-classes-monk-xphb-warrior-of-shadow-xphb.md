@@ -9,8 +9,8 @@ aliases: ["Spells for Warrior of Shadow"]
 
 ## Cantrip
 
-- [Minor Illusion](3-Mechanics/CLI/spells/minor-illusion-xphb.md "XPHB") at class level 3
+- [Minor Illusion](/3-Mechanics/CLI/spells/minor-illusion-xphb.md "XPHB") at class level 3
 
 ## 2nd Level
 
-- [Darkness](3-Mechanics/CLI/spells/darkness-xphb.md "XPHB") at class level 3
+- [Darkness](/3-Mechanics/CLI/spells/darkness-xphb.md "XPHB") at class level 3

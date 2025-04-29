@@ -7,6 +7,6 @@ tags:
 aliases: ["Ascendant Step"]
 ---
 # Ascendant Step
-*Source: Player's Handbook (2024) p. 155*  
+*Source: Player's Handbook (2024) p. 155. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
 **Prerequisite**: 5th Warlock
-You can cast [Levitate](3-Mechanics/CLI/spells/levitate-xphb.md) on yourself without expending a spell slot.
+You can cast [Levitate](/3-Mechanics/CLI/spells/levitate-xphb.md) on yourself without expending a spell slot.

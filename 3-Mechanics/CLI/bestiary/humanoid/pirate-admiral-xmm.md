@@ -77,11 +77,11 @@ To terrify opponents and spread their reputations, pirate crews fly distinctive 
 "actions":
 - "desc": "The pirate makes three attacks, using Scimitar or Pistol in any combination."
   "name": "Multiattack"
-- "desc": "Melee Attack Roll: +10, reach 5 ft. Hit: 16 (3d6 + 6) Slashing\
-    \ damage plus 7 (2d6) Poison damage, and the target suffers one of the following\
-    \ effects of the pirate's choice:\n\n- Awestruck. The target has the [Charmed](3-Mechanics/CLI/rules/conditions.md#Charmed)\
+- "desc": "Melee Attack Roll: +10, reach 5 ft. Hit: 16 (3d6 + 6) Slashing damage\
+    \ plus 7 (2d6) Poison damage, and the target suffers one of the following effects\
+    \ of the pirate's choice:\n\n- Awestruck. The target has the [Charmed](/3-Mechanics/CLI/conditions.md#Charmed)\
     \ condition until the start of the pirate's next turn.  \n- Poison. The target\
-    \ has the [Poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned) condition until\
+    \ has the [Poisoned](/3-Mechanics/CLI/conditions.md#Poisoned) condition until\
     \ the start of the pirate's next turn.  "
   "name": "Scimitar"
 - "desc": "Ranged Attack Roll: +10, range 30/90 ft. Hit: 28 (4d10 + 6) Piercing\
@@ -89,7 +89,7 @@ To terrify opponents and spread their reputations, pirate crews fly distinctive 
   "name": "Pistol"
 "bonus_actions":
 - "desc": "The pirate chooses up to three other creatures it can see within 30 feet.\
-    \ Until the start of the pirate's next turn, the targets have [Advantage](3-Mechanics/CLI/rules/variant-rules/advantage-xphb.md)\
+    \ Until the start of the pirate's next turn, the targets have [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
     \ on attack rolls and saving throws."
   "name": "Rally (1/Day)"
 "reactions":
@@ -100,7 +100,7 @@ To terrify opponents and spread their reputations, pirate crews fly distinctive 
   "name": "Defensive Stance"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/pirate-admiral-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/humanoid/token/pirate-admiral-xmm.webp"
 ```
 ^statblock
 

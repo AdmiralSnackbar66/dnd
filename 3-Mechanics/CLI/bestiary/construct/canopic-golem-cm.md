@@ -36,10 +36,10 @@ A mummy lord's organs, normally stored in sacred canopic jars during mummificati
   "Wisdom": !!int "5"
   "Intelligence": !!int "3"
 "damage_immunities": "poison"
-"condition_immunities": "[blinded](3-Mechanics/CLI/rules/conditions.md#Blinded), [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed),\
-  \ [deafened](3-Mechanics/CLI/rules/conditions.md#Deafened), [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
-  \ [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened), [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed),\
-  \ [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified), [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"condition_immunities": "[blinded](/3-Mechanics/CLI/conditions.md#Blinded), [charmed](/3-Mechanics/CLI/conditions.md#Charmed),\
+  \ [deafened](/3-Mechanics/CLI/conditions.md#Deafened), [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
+  \ [frightened](/3-Mechanics/CLI/conditions.md#Frightened), [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed),\
+  \ [petrified](/3-Mechanics/CLI/conditions.md#Petrified), [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
 "senses": "darkvision 120 ft., passive Perception 10"
 "languages": ""
 "cr": "13"
@@ -52,11 +52,11 @@ A mummy lord's organs, normally stored in sacred canopic jars during mummificati
 "actions":
 - "desc": "The golem makes two attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 27\
-    \ (4d10 + 5) force damage."
+- "desc": "Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 27 (4d10\
+    \ + 5) force damage."
   "name": "Slam"
-- "desc": "Ranged Weapon Attack: +10 to hit, range 120 ft., one target. Hit:\
-    \ 14 (2d8 + 5) force damage."
+- "desc": "Ranged Weapon Attack: +10 to hit, range 120 ft., one target. Hit: 14\
+    \ (2d8 + 5) force damage."
   "name": "Crystal Dart"
 "reactions":
 - "desc": "In response to a spell attack missing the golem, it causes that spell to\
@@ -64,6 +64,6 @@ A mummy lord's organs, normally stored in sacred canopic jars during mummificati
   "name": "Spell Deflection"
 "source":
 - "CM"
-"image": "3-Mechanics/CLI/bestiary/construct/token/canopic-golem-cm.webp"
+"image": "/3-Mechanics/CLI/bestiary/construct/token/canopic-golem-cm.webp"
 ```
 ^statblock

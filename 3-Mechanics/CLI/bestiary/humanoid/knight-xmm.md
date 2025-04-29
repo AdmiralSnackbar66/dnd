@@ -11,7 +11,7 @@ statblock: inline
 aliases: ["Knight"]
 ---
 # [Knight](3-Mechanics\CLI\bestiary\humanoid/knight-xmm.md)
-*Source: Monster Manual (2024) p. 184*  
+*Source: Monster Manual (2024) p. 184. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
 
 Knights frequently lead troops in combat or work in units that dominate the battlefield. They're often attended by squires, who might be less skilled soldiers or commoners.
 
@@ -43,7 +43,7 @@ Knights are skilled warriors trained for war and tested in battle. Many serve th
 "saves":
   "Wisdom": !!int "2"
   "Constitution": !!int "4"
-"condition_immunities": "[frightened](3-Mechanics/CLI/rules/conditions.md#Frightened)"
+"condition_immunities": "[frightened](/3-Mechanics/CLI/conditions.md#Frightened)"
 "senses": "passive Perception 10"
 "languages": "Common plus one other language"
 "cr": "3"
@@ -54,8 +54,8 @@ Knights are skilled warriors trained for war and tested in battle. Many serve th
 - "desc": "Melee Attack Roll: +5, reach 5 ft. Hit: 10 (2d6 + 3) Slashing damage\
     \ plus 4 (1d8) Radiant damage."
   "name": "Greatsword"
-- "desc": "Ranged Attack Roll: +2, range 100/400 ft. Hit: 11 (2d10) Piercing\
-    \ damage plus 4 (1d8) Radiant damage."
+- "desc": "Ranged Attack Roll: +2, range 100/400 ft. Hit: 11 (2d10) Piercing damage\
+    \ plus 4 (1d8) Radiant damage."
   "name": "Heavy Crossbow"
 "reactions":
 - "desc": "Trigger: The knight is hit by a melee attack roll while holding a weapon.\
@@ -64,7 +64,7 @@ Knights are skilled warriors trained for war and tested in battle. Many serve th
   "name": "Parry"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/knight-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/humanoid/token/knight-xmm.webp"
 ```
 ^statblock
 

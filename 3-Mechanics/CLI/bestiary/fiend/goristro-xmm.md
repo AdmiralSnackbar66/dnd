@@ -57,16 +57,16 @@ Goristros resemble hunched, primeval minotaurs bearing the scars of Abyssal wars
   "Survival": !!int "7"
 "damage_resistances": "cold, fire, lightning"
 "damage_immunities": "poison"
-"condition_immunities": "[poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"condition_immunities": "[poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
 "senses": "darkvision 120 ft., passive Perception 17"
 "languages": "Abyssal"
 "cr": "17"
 "traits":
 - "desc": "If the goristro dies outside the Abyss, its body dissolves into ichor,\
-    \ and it gains a new body instantly, reviving with all its [Hit Points](3-Mechanics/CLI/rules/variant-rules/hit-points-xphb.md)\
+    \ and it gains a new body instantly, reviving with all its [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)\
     \ somewhere in the Abyss."
   "name": "Demonic Restoration"
-- "desc": "The goristro has [Advantage](3-Mechanics/CLI/rules/variant-rules/advantage-xphb.md)\
+- "desc": "The goristro has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
     \ on saving throws against spells and other magical effects."
   "name": "Magic Resistance"
 - "desc": "The goristro deals double damage to objects and structures."
@@ -74,21 +74,21 @@ Goristros resemble hunched, primeval minotaurs bearing the scars of Abyssal wars
 "actions":
 - "desc": "The goristro makes one Brutal Gore attack and two Slam attacks."
   "name": "Multiattack"
-- "desc": "Melee Attack Roll: +13, reach 10 ft. Hit: 40 (6d10 + 7) Piercing\
-    \ damage. If the target is a Huge or smaller creature, it is pushed up to 20 feet\
-    \ straight away from the goristro and has the [Prone](3-Mechanics/CLI/rules/conditions.md#Prone)\
+- "desc": "Melee Attack Roll: +13, reach 10 ft. Hit: 40 (6d10 + 7) Piercing damage.\
+    \ If the target is a Huge or smaller creature, it is pushed up to 20 feet straight\
+    \ away from the goristro and has the [Prone](/3-Mechanics/CLI/conditions.md#Prone)\
     \ condition."
   "name": "Brutal Gore"
 - "desc": "Melee Attack Roll: +13, reach 10 ft. Hit: 29 (4d10 + 7) Bludgeoning\
     \ damage."
   "name": "Slam"
 "bonus_actions":
-- "desc": "The goristro moves up to half its [Speed](3-Mechanics/CLI/rules/variant-rules/speed-xphb.md)\
+- "desc": "The goristro moves up to half its [Speed](/3-Mechanics/CLI/variant-rules/speed-xphb.md)\
     \ straight toward an enemy it can see."
   "name": "Charge"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/fiend/token/goristro-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/fiend/token/goristro-xmm.webp"
 ```
 ^statblock
 

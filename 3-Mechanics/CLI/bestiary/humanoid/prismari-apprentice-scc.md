@@ -50,9 +50,9 @@ The scholars of Prismari College believe that art is the truest form of spellcra
 "traits":
 - "desc": "The apprentice casts one of the following spells, requiring no material\
     \ components and using Charisma as the spellcasting ability (spell save DC 12):\n\
-    \nAt will: [minor illusion](3-Mechanics/CLI/spells/minor-illusion-xphb.md)\n\
-    \n1/day each: [gust of wind](3-Mechanics/CLI/spells/gust-of-wind-xphb.md),\
-    \ [mage armor](3-Mechanics/CLI/spells/mage-armor-xphb.md), [silent image](3-Mechanics/CLI/spells/silent-image-xphb.md)"
+    \nAt will: [minor illusion](/3-Mechanics/CLI/spells/minor-illusion-xphb.md)\n\
+    \n1/day each: [gust of wind](/3-Mechanics/CLI/spells/gust-of-wind-xphb.md),\
+    \ [mage armor](/3-Mechanics/CLI/spells/mage-armor-xphb.md), [silent image](/3-Mechanics/CLI/spells/silent-image-xphb.md)"
   "name": "Spellcasting"
 "actions":
 - "desc": "Melee or Ranged Spell Attack: +4 to hit, reach 5 ft. or range 60 ft.,\
@@ -63,12 +63,12 @@ The scholars of Prismari College believe that art is the truest form of spellcra
     \ magic as it moves. Until the end of its turn, the apprentice can move through\
     \ the space of other creatures. The first time the apprentice enters a creature's\
     \ space on a turn, that creature must succeed on a DC 12 Dexterity saving throw\
-    \ or be knocked [prone](3-Mechanics/CLI/rules/conditions.md#Prone). If the apprentice\
+    \ or be knocked [prone](/3-Mechanics/CLI/conditions.md#Prone). If the apprentice\
     \ ends its turn in another creature's space, the apprentice takes 5 (1d10) force\
     \ damage and is pushed into the nearest unoccupied space."
   "name": "Surge of Artistry (Recharge 4-6)"
 "source":
 - "SCC"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/prismari-apprentice-scc.webp"
+"image": "/3-Mechanics/CLI/bestiary/humanoid/token/prismari-apprentice-scc.webp"
 ```
 ^statblock

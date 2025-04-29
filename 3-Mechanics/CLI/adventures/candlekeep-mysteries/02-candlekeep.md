@@ -8,7 +8,7 @@ aliases: ["Candlekeep"]
 # Candlekeep
 *Source: Candlekeep Mysteries, p. 6* 
 
-![Book of the Avowed](3-Mechanics/CLI/adventures/candlekeep-mysteries/img/001-01-001-book-of-the-avowed.webp#center)
+![Book of the Avowed](/3-Mechanics/CLI/adventures/candlekeep-mysteries/img/001-01-001-book-of-the-avowed.webp#center)
 
 **Written by Chris Lindsay**  
 **Edited by Michele Carter and Hannah Rose**  
@@ -29,13 +29,13 @@ The required entrance fee for admission into Candlekeep is a work of writing not
 
 The enormous double gates of Candlekeep are three times the height of a human and wrought of black metal magically warded to foil attempts to damage them. Both doors are emblazoned with the sigil of Candlekeep. One of the two gates stands open far enough to admit visitors during the day, and the other is kept shut.
 
-Bedecked in purple vestments, five Avowed [priests](3-Mechanics/CLI/bestiary/humanoid/priest-xmm.md) of Deneir (god of writing) oversee the front gates, examining and discussing written works presented by hopefuls trying to gain entrance. If a question arises, the Avowed send a runner to consult with a sage in the library. The runner eventually returns bearing a missive of acceptance or denial. Visiting scholars experienced in this procedure often bring a selection of possible donations to ensure admittance. Despite the stringent entrance requirements, the Avowed do accept rare editions of tomes already in the collection, journals of those who recount unique or insightful experiences, or the odd work that has been annotated by a prominent scholar outside the library. Once granted admission, visitors quickly discover that it's wise to assemble a "wish list" of works that members of the senior staff are interested in collecting, potentially reducing the guesswork of readmission on future visits.
+Bedecked in purple vestments, five Avowed [priests](/3-Mechanics/CLI/bestiary/humanoid/priest-xmm.md) of Deneir (god of writing) oversee the front gates, examining and discussing written works presented by hopefuls trying to gain entrance. If a question arises, the Avowed send a runner to consult with a sage in the library. The runner eventually returns bearing a missive of acceptance or denial. Visiting scholars experienced in this procedure often bring a selection of possible donations to ensure admittance. Despite the stringent entrance requirements, the Avowed do accept rare editions of tomes already in the collection, journals of those who recount unique or insightful experiences, or the odd work that has been annotated by a prominent scholar outside the library. Once granted admission, visitors quickly discover that it's wise to assemble a "wish list" of works that members of the senior staff are interested in collecting, potentially reducing the guesswork of readmission on future visits.
 
 Those admitted to Candlekeep, referred to as seekers, can request the assistance of an Avowed adjutant who acts as a guide and research assistant for the duration of their visit. This guide has access to all the resources of the library, with the exception of the vaults that contain the rarest and most dangerous works. Seekers can appeal to higher-ranking Avowed for permission to peruse these off-limits works.
 
 ### Securing a Guide
 
-If the adventurers require a guide, roll a `d8` and consult the Avowed Adjutants table to determine the adjutant who is assigned to them, or choose one that you like.
+If the adventurers require a guide, roll a `dice:d8|noform|noparens|avg` (`d8`) and consult the Avowed Adjutants table to determine the adjutant who is assigned to them, or choose one that you like.
 
 **Avowed Adjutants**
 
@@ -55,7 +55,7 @@ If the adventurers require a guide, roll a `d8` and consult the Avowed Adjutants
 
 ## Defenses and Decorum
 
-Candlekeep is fortified by a fifty-foot-tall, fifteen-foot-thick, iron-reinforced stone wall with a double gate facing east. Although most of the Avowed are humble scholars, a number of potent spellcasters fill critical posts. If trouble occurs, the Gatewarden (an [archmage](3-Mechanics/CLI/bestiary/humanoid/archmage-xmm.md)) and up to four [mages](3-Mechanics/CLI/bestiary/humanoid/mage-xmm.md) arrive to investigate immediately. If they can't bring the situation under control in short order, up to four additional [archmages](3-Mechanics/CLI/bestiary/humanoid/archmage-xmm.md) arrive to lend assistance.
+Candlekeep is fortified by a fifty-foot-tall, fifteen-foot-thick, iron-reinforced stone wall with a double gate facing east. Although most of the Avowed are humble scholars, a number of potent spellcasters fill critical posts. If trouble occurs, the Gatewarden (an [archmage](/3-Mechanics/CLI/bestiary/humanoid/archmage-xmm.md)) and up to four [mages](/3-Mechanics/CLI/bestiary/humanoid/mage-xmm.md) arrive to investigate immediately. If they can't bring the situation under control in short order, up to four additional [archmages](/3-Mechanics/CLI/bestiary/humanoid/archmage-xmm.md) arrive to lend assistance.
 
 ### Wards
 
@@ -81,7 +81,7 @@ This ward also has a flaw that the Avowed don't discuss with outsiders. If pages
 
 From any location in Candlekeep, the Keeper of Tomes (see "The Avowed" later in this section) can activate a mythal—an exceptional, unbreakable magical effect—that envelops all of Candlekeep in a protective shield through which nothing but air and sound can pass.
 
-![Bird's-eye View of Candlekeep](3-Mechanics/CLI/adventures/candlekeep-mysteries/img/002-01-002-birds-eye-view-of-candlekeep.webp#center)
+![Bird's-eye View of Candlekeep](/3-Mechanics/CLI/adventures/candlekeep-mysteries/img/002-01-002-birds-eye-view-of-candlekeep.webp#center)
 
 ### Orders of Accordance
 
@@ -110,13 +110,13 @@ This rule doesn't apply to privately owned books, scrolls, and other documents t
 
 ## Sages and Master Sages
 
-Candlekeep's resident lore experts are [master sages](3-Mechanics/CLI/bestiary/humanoid/master-sage-cm.md) and [sages](3-Mechanics/CLI/bestiary/humanoid/sage-cm.md) who dedicate themselves to scholarship above all. Stat blocks for the master sage and the sage appear below.
+Candlekeep's resident lore experts are [master sages](/3-Mechanics/CLI/bestiary/humanoid/master-sage-cm.md) and [sages](/3-Mechanics/CLI/bestiary/humanoid/sage-cm.md) who dedicate themselves to scholarship above all. Stat blocks for the master sage and the sage appear below.
 
-![Sage](3-Mechanics/CLI/adventures/candlekeep-mysteries/img/003-637514193172693473.webp#center)
+![Sage](/3-Mechanics/CLI/adventures/candlekeep-mysteries/img/003-637514193172693473.webp#center)
 
 ## The Avowed
 
-Roughly three hundred Avowed live in Candlekeep. The majority of them are low-level assistants, newcomers to the order, or scribes who handle the everyday work in the keep (use the [commoner](3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md) stat block to represent them).
+Roughly three hundred Avowed live in Candlekeep. The majority of them are low-level assistants, newcomers to the order, or scribes who handle the everyday work in the keep (use the [commoner](/3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md) stat block to represent them).
 
 High-ranking members of the Avowed include the individuals described below.
 
@@ -126,7 +126,7 @@ The Keeper is the highest-ranking member of the Avowed and the governor of Candl
 
 A Keeper of Tomes chooses their own replacement. If a Keeper dies or departs before making that choice, the council of Great Readers votes to determine who among them is elevated to the position. Tie votes are broken by the First Reader.
 
-In 1492 DR, the Keeper of Tomes is the human [archmage](3-Mechanics/CLI/bestiary/humanoid/archmage-xmm.md) Janussi, a devoted follower of Deneir.
+In 1492 DR, the Keeper of Tomes is the human [archmage](/3-Mechanics/CLI/bestiary/humanoid/archmage-xmm.md) Janussi, a devoted follower of Deneir.
 
 ### Readers
 
@@ -136,46 +136,46 @@ The Keeper of Tomes appoints individuals to fill key roles, as described in the 
 
 The First Reader constantly expands Candlekeep's literary resources and base of knowledge. Acquiring unique tomes and scrolls falls under the First Reader's purview.
 
-In 1492 DR, the First Reader is Bookwyrm, a dragonborn [master sage](3-Mechanics/CLI/bestiary/humanoid/master-sage-cm.md) of green dragon ancestry. Bookwyrm's real name is Skoda Valanaster.
+In 1492 DR, the First Reader is Bookwyrm, a dragonborn [master sage](/3-Mechanics/CLI/bestiary/humanoid/master-sage-cm.md) of green dragon ancestry. Bookwyrm's real name is Skoda Valanaster.
 
 #### Great Readers
 
-Candlekeep maintains a council of eight Great Readers, senior Avowed who oversee day-to-day operations. These erudite scholars and gifted spellcasters are chosen from the ranks of Master Readers. Each is acknowledged as Candlekeep's foremost expert on a particular area of study. Many of them use the [master sage](3-Mechanics/CLI/bestiary/humanoid/master-sage-cm.md) stat block presented earlier in this section.
+Candlekeep maintains a council of eight Great Readers, senior Avowed who oversee day-to-day operations. These erudite scholars and gifted spellcasters are chosen from the ranks of Master Readers. Each is acknowledged as Candlekeep's foremost expert on a particular area of study. Many of them use the [master sage](/3-Mechanics/CLI/bestiary/humanoid/master-sage-cm.md) stat block presented earlier in this section.
 
 In 1492 DR, the Great Readers are:
 
-- A'lai Aivenmore, a human [master sage](3-Mechanics/CLI/bestiary/humanoid/master-sage-cm.md) and worshiper of Oghma (god of knowledge). Primary expertise: divinity (the gods and the nature of the divine).  
-- Alkrist, a dragonborn [master sage](3-Mechanics/CLI/bestiary/humanoid/master-sage-cm.md) of bronze dragon ancestry. Primary expertise: politics, military strategy, and significant battles of Toril.  
-- Daral Yashenti, a human [master sage](3-Mechanics/CLI/bestiary/humanoid/master-sage-cm.md) and poet. Primary expertise: music, poetry, and literature.  
-- Fheminor Scrivenbark, a lightfoot halfling [master sage](3-Mechanics/CLI/bestiary/humanoid/master-sage-cm.md). Primary expertise: history, folklore, and the cultures of Toril (past and present).  
-- Kazryn Nyantani, a human [master sage](3-Mechanics/CLI/bestiary/humanoid/master-sage-cm.md). Primary expertise: the natural world and celestial navigation.  
-- Sylvira Savikas, a tiefling [archmage](3-Mechanics/CLI/bestiary/humanoid/archmage-xmm.md). Primary expertise: the Great Wheel of the planes.  
-- Teles Ahvoste, a human [archmage](3-Mechanics/CLI/bestiary/humanoid/archmage-xmm.md). Primary expertise: magic items, curses, and the Weave.  
-- V'ziir-Ag, a githzerai [master sage](3-Mechanics/CLI/bestiary/humanoid/master-sage-cm.md). Primary expertise: all things unnatural (including aberrations, undead, and the Far Realm).  
+- A'lai Aivenmore, a human [master sage](/3-Mechanics/CLI/bestiary/humanoid/master-sage-cm.md) and worshiper of Oghma (god of knowledge). Primary expertise: divinity (the gods and the nature of the divine).  
+- Alkrist, a dragonborn [master sage](/3-Mechanics/CLI/bestiary/humanoid/master-sage-cm.md) of bronze dragon ancestry. Primary expertise: politics, military strategy, and significant battles of Toril.  
+- Daral Yashenti, a human [master sage](/3-Mechanics/CLI/bestiary/humanoid/master-sage-cm.md) and poet. Primary expertise: music, poetry, and literature.  
+- Fheminor Scrivenbark, a lightfoot halfling [master sage](/3-Mechanics/CLI/bestiary/humanoid/master-sage-cm.md). Primary expertise: history, folklore, and the cultures of Toril (past and present).  
+- Kazryn Nyantani, a human [master sage](/3-Mechanics/CLI/bestiary/humanoid/master-sage-cm.md). Primary expertise: the natural world and celestial navigation.  
+- Sylvira Savikas, a tiefling [archmage](/3-Mechanics/CLI/bestiary/humanoid/archmage-xmm.md). Primary expertise: the Great Wheel of the planes.  
+- Teles Ahvoste, a human [archmage](/3-Mechanics/CLI/bestiary/humanoid/archmage-xmm.md). Primary expertise: magic items, curses, and the Weave.  
+- V'ziir-Ag, a githzerai [master sage](/3-Mechanics/CLI/bestiary/humanoid/master-sage-cm.md). Primary expertise: all things unnatural (including aberrations, undead, and the Far Realm).  
 
 #### Master Readers
 
-Master Readers ([sages](3-Mechanics/CLI/bestiary/humanoid/sage-cm.md) and [master sages](3-Mechanics/CLI/bestiary/humanoid/master-sage-cm.md)) oversee the scribes and teach the adjutants. These learned Avowed possess tremendous institutional knowledge.
+Master Readers ([sages](/3-Mechanics/CLI/bestiary/humanoid/sage-cm.md) and [master sages](/3-Mechanics/CLI/bestiary/humanoid/master-sage-cm.md)) oversee the scribes and teach the adjutants. These learned Avowed possess tremendous institutional knowledge.
 
 #### Chanter
 
 A chosen group of Avowed maintains a constant recitation of the prophecies of Alaundo the Seer. The Endless Chant, as it is called, travels throughout the keep day and night. It's led by either the Chanter or a hand-picked subordinate.
 
-In 1492 DR, the Chanter is a middle-aged shield dwarf [priest](3-Mechanics/CLI/bestiary/humanoid/priest-xmm.md) of Milil (god of poetry and song) named Benedora Stoneforge.
+In 1492 DR, the Chanter is a middle-aged shield dwarf [priest](/3-Mechanics/CLI/bestiary/humanoid/priest-xmm.md) of Milil (god of poetry and song) named Benedora Stoneforge.
 
 ### Gatewarden
 
 The Gatewarden maintains security at the front gates, through which all visitors must enter.
 
-In 1492 DR, the Gatewarden is Kalan Strongbranch, a human [archmage](3-Mechanics/CLI/bestiary/humanoid/archmage-xmm.md).
+In 1492 DR, the Gatewarden is Kalan Strongbranch, a human [archmage](/3-Mechanics/CLI/bestiary/humanoid/archmage-xmm.md).
 
 ## Candlekeep Locations
 
 From the fabled Emerald Door to the deepest catacombs, Candlekeep contains wonders for those with the patience to find them.
 
 > [!gallery]
-> ![Map 1.1: Candlekeep](3-Mechanics/CLI/adventures/candlekeep-mysteries/img/004-map-1-01-candlekeep.webp#gallery)
-> ![Player Version](3-Mechanics/CLI/adventures/candlekeep-mysteries/img/005-map-1-01-candlekeep-player.webp#gallery)
+> ![Map 1.1: Candlekeep](/3-Mechanics/CLI/adventures/candlekeep-mysteries/img/004-map-1-01-candlekeep.webp#gallery)
+> ![Player Version](/3-Mechanics/CLI/adventures/candlekeep-mysteries/img/005-map-1-01-candlekeep-player.webp#gallery)
 
 ### Court of Air
 
@@ -185,7 +185,7 @@ This wide courtyard has nary a tree nor a well cluttering its cobblestone expans
 
 This three-story bunkhouse in the Court of Air provides seekers with a place to rest and store their gear. The rustic accommodations include both private rooms and common rooms. In addition to comfortable lodgings, the House of Rest offers guests peace and quiet. Noisy patrons are directed to the Hearth if they want to continue their revels.
 
-The House of Rest can hold up to fifty guests comfortably. If more space is needed, extradimensional spaces are created using [Mordenkainen's magnificent mansion](3-Mechanics/CLI/spells/mordenkainens-magnificent-mansion-xphb.md) spells, the doorways to which are located at the ends of the upstairs hallways. Beneath the House of Rest is an extension of the library known as the Firefly Cellar (see "Shemshime's Bedtime Rhyme" later in this book for details).
+The House of Rest can hold up to fifty guests comfortably. If more space is needed, extradimensional spaces are created using [Mordenkainen's magnificent mansion](/3-Mechanics/CLI/spells/mordenkainens-magnificent-mansion-xphb.md) spells, the doorways to which are located at the ends of the upstairs hallways. Beneath the House of Rest is an extension of the library known as the Firefly Cellar (see "Shemshime's Bedtime Rhyme" later in this book for details).
 
 #### The Hearth
 
@@ -211,7 +211,7 @@ Each of the shrines is outfitted with a simple wooden altar, tables and benches 
 
 > [!note] Little One
 > 
-> One of Candlekeep's guests stands out from the rest of the crowd: a chaotic good [ogre](3-Mechanics/CLI/bestiary/giant/ogre-xmm.md) wearing a [headband of intellect](3-Mechanics/CLI/items/headband-of-intellect-xdmg.md). He's most often found sitting by himself in a corner of the Hearth's taproom, reading a book.
+> One of Candlekeep's guests stands out from the rest of the crowd: a chaotic good [ogre](/3-Mechanics/CLI/bestiary/giant/ogre-xmm.md) wearing a [headband of intellect](/3-Mechanics/CLI/items/headband-of-intellect-xdmg.md). He's most often found sitting by himself in a corner of the Hearth's taproom, reading a book.
 > 
 > A few years ago, the ogre was like many others of his kind—brutish and cruel. He met a halfling adventurer wearing the shiny gold headband and killed the puny runt for it. When the ogre attuned to it, the headband grew in size, enabling him to wear it. With an improved ability to reason and ponder, the ogre felt compelled to appreciate the error of his ways and seek out a better life. He adopted the name Little One, to honor the halfling whose life he cut short.
 > 
@@ -242,43 +242,43 @@ Each year, Candlekeep releases a small book stamped with the sigil of the librar
 
 #### Pillars of Pedagogy
 
-Seekers engage in quiet study and research within this austere cluster of closely huddled, flat-topped towers of varying heights. Each tower contains private rooms, available by reservation only, that feature permanent [silence](3-Mechanics/CLI/spells/silence-xphb.md) spells, allowing their occupants to read without disturbance.
+Seekers engage in quiet study and research within this austere cluster of closely huddled, flat-topped towers of varying heights. Each tower contains private rooms, available by reservation only, that feature permanent [silence](/3-Mechanics/CLI/spells/silence-xphb.md) spells, allowing their occupants to read without disturbance.
 
 Most research conducted by seekers happens in these towers. Seekers at the Pillars must rely on their Avowed guides to retrieve or return specific works from the Great Library to assist with their research. Most seekers never pass through the Emerald Door into the library proper.
 
 #### Temple of Oghma
 
-This modest stone temple is dedicated to the god of knowledge. Its bronze bell announces the beginning of services. Four large stone gargoyles perch on the cornices and gaze down protectively; these seemingly inert statues are [stone golems](3-Mechanics/CLI/bestiary/construct/stone-golem-xmm.md) charged with defending the temple. If called to service, they glide gently to the ground using a programmed effect similar to a [feather fall](3-Mechanics/CLI/spells/feather-fall-xphb.md) spell.
+This modest stone temple is dedicated to the god of knowledge. Its bronze bell announces the beginning of services. Four large stone gargoyles perch on the cornices and gaze down protectively; these seemingly inert statues are [stone golems](/3-Mechanics/CLI/bestiary/construct/stone-golem-xmm.md) charged with defending the temple. If called to service, they glide gently to the ground using a programmed effect similar to a [feather fall](/3-Mechanics/CLI/spells/feather-fall-xphb.md) spell.
 
-The caretaker of the temple in 1492 DR is a human [priest](3-Mechanics/CLI/bestiary/humanoid/priest-xmm.md) of Shou descent named Lorekeeper Kei Tigersteel. Though not officially an Avowed, the Lorekeeper enjoys the privilege of entering the library unaccompanied.
+The caretaker of the temple in 1492 DR is a human [priest](/3-Mechanics/CLI/bestiary/humanoid/priest-xmm.md) of Shou descent named Lorekeeper Kei Tigersteel. Though not officially an Avowed, the Lorekeeper enjoys the privilege of entering the library unaccompanied.
 
 #### Erudite Outfitters & Clothiers
 
 Seekers and members of the Avowed can buy new robes or have their well-worn clothes mended at this modest exchange.
 
-In 1492 DR, the exchange is managed by Feldmar Bisset III, a human [acolyte](3-Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm.md) of Gond, an expert tailor, and a sericulture hobbyist. He and his family fashioned a place among the Avowed, crafting robes and other garments upon request. Feldmar teaches a compulsory class on simple stitching to adjutants in an effort to reduce the amount of basic patchwork he and his family do to keep the Avowed neatly clothed.
+In 1492 DR, the exchange is managed by Feldmar Bisset III, a human [acolyte](/3-Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm.md) of Gond, an expert tailor, and a sericulture hobbyist. He and his family fashioned a place among the Avowed, crafting robes and other garments upon request. Feldmar teaches a compulsory class on simple stitching to adjutants in an effort to reduce the amount of basic patchwork he and his family do to keep the Avowed neatly clothed.
 
 Next to the workshop is an atrium where Feldmar indulges his hobby of raising silkworms and harvesting their cocoons to weave small amounts of the precious cloth.
 
 #### Smithy and Stables
 
-A gold dwarf [veteran](3-Mechanics/CLI/bestiary/humanoid/warrior-veteran-xmm.md) named Khe'ril Hammerbind oversees the smithy, which adjoins the stables. Khe'ril and his apprentices produce shoes for horses and other mounts here. The heat from the forge provides warmth when winter comes calling.
+A gold dwarf [veteran](/3-Mechanics/CLI/bestiary/humanoid/warrior-veteran-xmm.md) named Khe'ril Hammerbind oversees the smithy, which adjoins the stables. Khe'ril and his apprentices produce shoes for horses and other mounts here. The heat from the forge provides warmth when winter comes calling.
 
 The stables accommodate a wide range of mounts. Most of the stalls are designed for horses and ponies, but specialized stalls offer secure lodging and care for hippogriffs, griffons, and wyverns as well.
 
 #### Emerald Door
 
-The Emerald Door—the main point of access to the Inner Ward—stands at the western end of the Court of Air. It is fifteen feet tall and made of a translucent dark green stone that glows with an inner light. An [arcane lock](3-Mechanics/CLI/spells/arcane-lock-xphb.md) spell seals the door, which is further warded against all damage. Here, a Keeper of the Emerald Door (a [mage](3-Mechanics/CLI/bestiary/humanoid/mage-xmm.md)) stands at all times to welcome newly arrived seekers. The Keeper uses runners to help seekers secure lodgings at the House of Rest and places to study in the Pillars of Pedagogy.
+The Emerald Door—the main point of access to the Inner Ward—stands at the western end of the Court of Air. It is fifteen feet tall and made of a translucent dark green stone that glows with an inner light. An [arcane lock](/3-Mechanics/CLI/spells/arcane-lock-xphb.md) spell seals the door, which is further warded against all damage. Here, a Keeper of the Emerald Door (a [mage](/3-Mechanics/CLI/bestiary/humanoid/mage-xmm.md)) stands at all times to welcome newly arrived seekers. The Keeper uses runners to help seekers secure lodgings at the House of Rest and places to study in the Pillars of Pedagogy.
 
 Keepers of the Emerald Door politely dispel any mistaken notions seekers might have about passing through the Emerald Door and exploring the Great Library beyond. The Inner Ward is off limits to seekers without special dispensation, which must come from the Keeper of Tomes, the First Reader, or one of the eight Great Readers. When permission to enter the Inner Ward is granted by such an individual, it's customary for the beneficiary of this consent to receive a signed and sealed letter of admittance. The wax seal must be intact and unbroken when the letter is presented to the Keeper of the Emerald Door. The Keeper determines the letter's authenticity by opening and reading it. If the letter passes muster, the Keeper returns it, opens the Emerald Door, and allows the letter's owner to enter the Inner Ward. Unless a shorter or longer duration is specified in the letter, permission to occupy the Inner Ward lasts for a tenday, during which time the letter's recipient can come and go as they please.
 
-A Keeper can spot a forged letter of admittance with a successful Wisdom ([Insight](3-Mechanics/CLI/rules/skills.md#Insight)) check contested by the forger's Dexterity ([Deception](3-Mechanics/CLI/rules/skills.md#Deception)) check. Anyone caught presenting a forged letter is denied access to the Inner Ward indefinitely.
+A Keeper can spot a forged letter of admittance with a successful Wisdom ([Insight](/3-Mechanics/CLI/skills.md#Insight)) check contested by the forger's Dexterity ([Deception](/3-Mechanics/CLI/skills.md#Deception)) check. Anyone caught presenting a forged letter is denied access to the Inner Ward indefinitely.
 
 A seeker who is denied entry to the Inner Ward can still enjoy the bulk of Candlekeep's collected works. The seeker need only ask an Avowed adjutant to fetch the desired works and deliver them to the seeker's preferred place of study in Candlekeep (usually a chamber in the Pillars of Pedagogy). Not all books in the collection can be checked out in this manner, however; the rarest and most dangerous tomes can be accessed only by creatures who are granted passage through the Emerald Door.
 
 If a request is made for a work that has been checked out by another Candlekeep resident, it could be days or weeks before that work becomes available.
 
-![The Emerald Door](3-Mechanics/CLI/adventures/candlekeep-mysteries/img/006-01-004-the-emerald-door.webp#center)
+![The Emerald Door](/3-Mechanics/CLI/adventures/candlekeep-mysteries/img/006-01-004-the-emerald-door.webp#center)
 
 ### Inner Ward
 
@@ -286,7 +286,7 @@ The poster map included with this book shows the Inner Ward, which contains the 
 
 > [!note] Extradimensional Spaces
 > 
-> Candlekeep has invisible doorways to dozens of permanent extradimensional spaces, some as small as a room at an inn and others as large as the space created by a [demiplane](3-Mechanics/CLI/spells/demiplane-xphb.md) or [Mordenkainen's magnificent mansion](3-Mechanics/CLI/spells/mordenkainens-magnificent-mansion-xphb.md) spell. The Avowed try to keep track of all the extradimensional spaces in Candlekeep, but a few forgotten doorways lurk in the library, their locations or access requirements lost. Valuable books, scrolls, and other items might be trapped inside these extradimensional spaces.
+> Candlekeep has invisible doorways to dozens of permanent extradimensional spaces, some as small as a room at an inn and others as large as the space created by a [demiplane](/3-Mechanics/CLI/spells/demiplane-xphb.md) or [Mordenkainen's magnificent mansion](/3-Mechanics/CLI/spells/mordenkainens-magnificent-mansion-xphb.md) spell. The Avowed try to keep track of all the extradimensional spaces in Candlekeep, but a few forgotten doorways lurk in the library, their locations or access requirements lost. Valuable books, scrolls, and other items might be trapped inside these extradimensional spaces.
 > 
 > When an extradimensional space is rediscovered, it must be thoroughly explored, the resources within cataloged, and the space tested for its stability. When an extradimensional space is no longer needed or desired, the archmages of Candlekeep dispel it.
 ^extradimensional-spaces
@@ -295,13 +295,13 @@ The poster map included with this book shows the Inner Ward, which contains the 
 
 The Avowed transported the towers of the Great Library piecemeal from other locations and painstakingly reassembled them, creating a skyline of bristling spires in a panoply of architectural styles. Among the stone structures are a few towers made of stranger materials, such as infernal iron and the bones of a long-dead colossal red dragon.
 
-Non-Avowed rarely enter the Great Library, but senior staff members occasionally bestow letters of admittance upon individuals of remarkable talent and impeccable reputation (including adventurers). These visitors may peruse the contents within, with an Avowed adjutant (a [commoner](3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md)) serving as their guide. Visitors are required to stay with their guide, since those unfamiliar with the library might become lost in its labyrinthine halls and extradimensional spaces.
+Non-Avowed rarely enter the Great Library, but senior staff members occasionally bestow letters of admittance upon individuals of remarkable talent and impeccable reputation (including adventurers). These visitors may peruse the contents within, with an Avowed adjutant (a [commoner](/3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md)) serving as their guide. Visitors are required to stay with their guide, since those unfamiliar with the library might become lost in its labyrinthine halls and extradimensional spaces.
 
-The oldest of the library's buildings are soaring stone affairs with floors crafted from lustrous dark wood and floor-to-ceiling shelves. Ceiling heights vary, ranging from as low as ten feet to as high as one hundred feet in the tallest towers. The Avowed use floating disks, each one large enough to hold three Medium creatures, to reach the highest shelves. [Continual flame](3-Mechanics/CLI/spells/continual-flame-xphb.md) spells light the well-traveled areas, and the Avowed employ [driftglobes](3-Mechanics/CLI/items/driftglobe-xdmg.md) when visiting remote sections. An intricate arrangement of mounted mirrors lights the upper reaches of the tallest chambers, reflecting sunlight by day or a [continual flame](3-Mechanics/CLI/spells/continual-flame-xphb.md) spell on cloudy days or at nights.
+The oldest of the library's buildings are soaring stone affairs with floors crafted from lustrous dark wood and floor-to-ceiling shelves. Ceiling heights vary, ranging from as low as ten feet to as high as one hundred feet in the tallest towers. The Avowed use floating disks, each one large enough to hold three Medium creatures, to reach the highest shelves. [Continual flame](/3-Mechanics/CLI/spells/continual-flame-xphb.md) spells light the well-traveled areas, and the Avowed employ [driftglobes](/3-Mechanics/CLI/items/driftglobe-xdmg.md) when visiting remote sections. An intricate arrangement of mounted mirrors lights the upper reaches of the tallest chambers, reflecting sunlight by day or a [continual flame](/3-Mechanics/CLI/spells/continual-flame-xphb.md) spell on cloudy days or at nights.
 
 ##### Modrons
 
-Candlekeep is a haven for thirteen rogue modrons ([monodrones](3-Mechanics/CLI/bestiary/construct/modron-monodrone-xmm.md)) that escaped from Mechanus. The Avowed struck a deal with the creatures, and they've been part of the library staff ever since. Working alongside the Avowed, the modrons catalog and shelve books, though each of them can manage only one book at a time.
+Candlekeep is a haven for thirteen rogue modrons ([monodrones](/3-Mechanics/CLI/bestiary/construct/modron-monodrone-xmm.md)) that escaped from Mechanus. The Avowed struck a deal with the creatures, and they've been part of the library staff ever since. Working alongside the Avowed, the modrons catalog and shelve books, though each of them can manage only one book at a time.
 
 #### Exaltation
 
@@ -313,7 +313,7 @@ The halls of Exaltation connect to its classrooms, kitchens, bakeries, dining ha
 
 Bells rung at dawn mark the beginning of everyone's daily routine, and bells rung at highsun and sundown signal the serving of lunch and dinner. These bells also denote the changing of the guard at the eastern gatehouse and the Emerald Door.
 
-![Miirym The Sentinel Wyrm](3-Mechanics/CLI/adventures/candlekeep-mysteries/img/007-01-005-miirym-the-sentinel-wyrm.webp#center)
+![Miirym The Sentinel Wyrm](/3-Mechanics/CLI/adventures/candlekeep-mysteries/img/007-01-005-miirym-the-sentinel-wyrm.webp#center)
 
 ### Beneath Candlekeep
 
@@ -321,13 +321,13 @@ Secret staircases abound in Candlekeep, leading down to dusty vaults and catacom
 
 #### Miirym the Sentinel Wyrm
 
-Well over 1,500 years ago, the silver dragon [Miirym](3-Mechanics/CLI/bestiary/npc/miirym-cm.md) broke into Candlekeep, intent on adding its riches to her hoard. She devoured scholars and destroyed a score of irreplaceable books before she was confronted by an archmage and bound into service to protect Candlekeep as penance for her misdeeds. The wizard passed away before [Miirym](3-Mechanics/CLI/bestiary/npc/miirym-cm.md)'s sentence had been served, and other spellcasters were unable to break the enchantment that bound her.
+Well over 1,500 years ago, the silver dragon [Miirym](/3-Mechanics/CLI/bestiary/npc/miirym-cm.md) broke into Candlekeep, intent on adding its riches to her hoard. She devoured scholars and destroyed a score of irreplaceable books before she was confronted by an archmage and bound into service to protect Candlekeep as penance for her misdeeds. The wizard passed away before [Miirym](/3-Mechanics/CLI/bestiary/npc/miirym-cm.md)'s sentence had been served, and other spellcasters were unable to break the enchantment that bound her.
 
-Time passed and so did [Miirym](3-Mechanics/CLI/bestiary/npc/miirym-cm.md), whose corpse has long since crumbled into dust. Unfortunately for [Miirym](3-Mechanics/CLI/bestiary/npc/miirym-cm.md), the enchantment remains in effect on her spirit. The spectral dragon—what's left of her—dwells in the catacombs and caves under the library. Those who have visited the depths describe [Miirym](3-Mechanics/CLI/bestiary/npc/miirym-cm.md) as a set of immense spectral jaws whose essence roils with the promise of breath weapons and spells of destruction.
+Time passed and so did [Miirym](/3-Mechanics/CLI/bestiary/npc/miirym-cm.md), whose corpse has long since crumbled into dust. Unfortunately for [Miirym](/3-Mechanics/CLI/bestiary/npc/miirym-cm.md), the enchantment remains in effect on her spirit. The spectral dragon—what's left of her—dwells in the catacombs and caves under the library. Those who have visited the depths describe [Miirym](/3-Mechanics/CLI/bestiary/npc/miirym-cm.md) as a set of immense spectral jaws whose essence roils with the promise of breath weapons and spells of destruction.
 
-Adventurers who explore the passages beneath Candlekeep might encounter [Miirym](3-Mechanics/CLI/bestiary/npc/miirym-cm.md), who's more interested in news of present-day Faerûn than in fighting. Indeed, [Miirym](3-Mechanics/CLI/bestiary/npc/miirym-cm.md) is an engaging conversationalist if one has the inclination to chat with her.
+Adventurers who explore the passages beneath Candlekeep might encounter [Miirym](/3-Mechanics/CLI/bestiary/npc/miirym-cm.md), who's more interested in news of present-day Faerûn than in fighting. Indeed, [Miirym](/3-Mechanics/CLI/bestiary/npc/miirym-cm.md) is an engaging conversationalist if one has the inclination to chat with her.
 
-[Miirym](3-Mechanics/CLI/bestiary/npc/miirym-cm.md) doesn't have a treasure hoard. Instead, she protects the books and scrolls kept in her subterranean domain. The Sentinel Wyrm can be summoned by the Keeper of Tomes and called upon to defend Candlekeep from invaders who would plunder or destroy it. In her role as Candlekeep's defender, [Miirym](3-Mechanics/CLI/bestiary/npc/miirym-cm.md) can move anywhere within the library fortress, passing through walls and other solid barriers. She can't enter extradimensional spaces, since they are not on the same plane of existence as Candlekeep. [Miirym](3-Mechanics/CLI/bestiary/npc/miirym-cm.md)'s stat block appears at the end of this section.
+[Miirym](/3-Mechanics/CLI/bestiary/npc/miirym-cm.md) doesn't have a treasure hoard. Instead, she protects the books and scrolls kept in her subterranean domain. The Sentinel Wyrm can be summoned by the Keeper of Tomes and called upon to defend Candlekeep from invaders who would plunder or destroy it. In her role as Candlekeep's defender, [Miirym](/3-Mechanics/CLI/bestiary/npc/miirym-cm.md) can move anywhere within the library fortress, passing through walls and other solid barriers. She can't enter extradimensional spaces, since they are not on the same plane of existence as Candlekeep. [Miirym](/3-Mechanics/CLI/bestiary/npc/miirym-cm.md)'s stat block appears at the end of this section.
 
 #### Echoes of Alaundo
 
@@ -337,6 +337,6 @@ Alaundo's prophecies are easily misinterpreted, which is why First Readers and K
 
 #### Chamber of Lost Lore
 
-Deep beneath Candlekeep, past [Miirym](3-Mechanics/CLI/bestiary/npc/miirym-cm.md) and the echoes, is a rough-hewn chamber lit by [continual flame](3-Mechanics/CLI/spells/continual-flame-xphb.md) spells. Here, one can gain the power to contact the spirits of long-dead sages that are willing to share their insights and knowledge. High-ranking members of the Avowed make use of this chamber, but few seekers know of it.
+Deep beneath Candlekeep, past [Miirym](/3-Mechanics/CLI/bestiary/npc/miirym-cm.md) and the echoes, is a rough-hewn chamber lit by [continual flame](/3-Mechanics/CLI/spells/continual-flame-xphb.md) spells. Here, one can gain the power to contact the spirits of long-dead sages that are willing to share their insights and knowledge. High-ranking members of the Avowed make use of this chamber, but few seekers know of it.
 
-Any creature that has an Intelligence of 8 or higher that spends 1 hour meditating in the chamber gains the ability to cast the [contact other plane](3-Mechanics/CLI/spells/contact-other-plane-xphb.md) spell once, allowing the creature to commune with a spirit. The spell doesn't need to be cast right away, nor does it need to be cast in the chamber. If the spell is not cast within 24 hours, however, it is lost.
+Any creature that has an Intelligence of 8 or higher that spends 1 hour meditating in the chamber gains the ability to cast the [contact other plane](/3-Mechanics/CLI/spells/contact-other-plane-xphb.md) spell once, allowing the creature to commune with a spirit. The spell doesn't need to be cast right away, nor does it need to be cast in the chamber. If the spell is not cast within 24 hours, however, it is lost.

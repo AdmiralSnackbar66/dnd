@@ -27,7 +27,7 @@ Witherbloom College studies the magic inherent in the natural cycle of life and 
 "subtype": "druid"
 "alignment": "Any alignment"
 "ac": !!int "13"
-"ac_class": "[hide armor](3-Mechanics/CLI/items/hide-armor-xphb.md)"
+"ac_class": "[hide armor](/3-Mechanics/CLI/items/hide-armor-xphb.md)"
 "hp": !!int "112"
 "hit_dice": "15d8 + 45"
 "stats":
@@ -49,27 +49,26 @@ Witherbloom College studies the magic inherent in the natural cycle of life and 
   "Arcana": !!int "6"
   "Survival": !!int "7"
 "damage_resistances": "poison"
-"condition_immunities": "[poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"condition_immunities": "[poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
 "senses": "passive Perception 14"
 "languages": "Common plus any four languages"
 "cr": "7"
 "traits":
 - "desc": "The professor casts one of the following spells, requiring no material\
-    \ components and using Wisdom as the spellcasting ability:\n\nAt will: [druidcraft](3-Mechanics/CLI/spells/druidcraft-xphb.md),\
-    \ [spare the dying](3-Mechanics/CLI/spells/spare-the-dying-xphb.md)\n\n1/day\
-    \ each: [greater restoration](3-Mechanics/CLI/spells/greater-restoration-xphb.md),\
-    \ [lesser restoration](3-Mechanics/CLI/spells/lesser-restoration-xphb.md), [mass\
-    \ cure wounds](3-Mechanics/CLI/spells/mass-cure-wounds-xphb.md), [pass without\
-    \ trace](3-Mechanics/CLI/spells/pass-without-trace-xphb.md), [plant growth](3-Mechanics/CLI/spells/plant-growth-xphb.md),\
-    \ [revivify](3-Mechanics/CLI/spells/revivify-xphb.md)"
+    \ components and using Wisdom as the spellcasting ability:\n\nAt will: [druidcraft](/3-Mechanics/CLI/spells/druidcraft-xphb.md),\
+    \ [spare the dying](/3-Mechanics/CLI/spells/spare-the-dying-xphb.md)\n\n1/day\
+    \ each: [greater restoration](/3-Mechanics/CLI/spells/greater-restoration-xphb.md),\
+    \ [lesser restoration](/3-Mechanics/CLI/spells/lesser-restoration-xphb.md), [mass\
+    \ cure wounds](/3-Mechanics/CLI/spells/mass-cure-wounds-xphb.md), [pass without\
+    \ trace](/3-Mechanics/CLI/spells/pass-without-trace-xphb.md), [plant growth](/3-Mechanics/CLI/spells/plant-growth-xphb.md),\
+    \ [revivify](/3-Mechanics/CLI/spells/revivify-xphb.md)"
   "name": "Spellcasting"
 "actions":
 - "desc": "The professor makes two Verdant Lash attacks."
   "name": "Multiattack"
-- "desc": "Melee Spell Attack: +7 to hit, reach 30 ft., one target. Hit: 11\
-    \ (2d6 + 4) piercing damage plus 7 (2d6) poison damage, and the target must\
-    \ succeed on a DC 15 Strength saving throw or be pulled up to 10 feet closer to\
-    \ the professor."
+- "desc": "Melee Spell Attack: +7 to hit, reach 30 ft., one target. Hit: 11 (2d6\
+    \ + 4) piercing damage plus 7 (2d6) poison damage, and the target must succeed\
+    \ on a DC 15 Strength saving throw or be pulled up to 10 feet closer to the professor."
   "name": "Verdant Lash"
 - "desc": "The professor magically summons a Groff. The groff appears in an unoccupied\
     \ space within 60 feet of the professor, acts as the professor's ally, and takes\
@@ -79,6 +78,6 @@ Witherbloom College studies the magic inherent in the natural cycle of life and 
   "name": "Summon Nature's Avatar (Recharges after a Short or Long Rest)"
 "source":
 - "SCC"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/witherbloom-professor-of-growth-scc.webp"
+"image": "/3-Mechanics/CLI/bestiary/humanoid/token/witherbloom-professor-of-growth-scc.webp"
 ```
 ^statblock

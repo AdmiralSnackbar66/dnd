@@ -12,7 +12,7 @@ statblock: inline
 aliases: ["Grick"]
 ---
 # [Grick](3-Mechanics\CLI\bestiary\aberration/grick-xmm.md)
-*Source: Monster Manual (2024) p. 158*  
+*Source: Monster Manual (2024) p. 158. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
 
 Gricks tend to be solitary hunters, but young gricks might lurk near dozens of their brood mates for years before gradually drifting apart.
 
@@ -54,12 +54,12 @@ Gricks' origins are unclear, but some suggest these creatures arise from natural
 - "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 9 (2d6 + 2) Piercing damage."
   "name": "Beak"
 - "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 7 (1d10 + 2) Slashing damage.\
-    \ If the target is a Medium or smaller creature, it has the [Grappled](3-Mechanics/CLI/rules/conditions.md#Grappled)\
+    \ If the target is a Medium or smaller creature, it has the [Grappled](/3-Mechanics/CLI/conditions.md#Grappled)\
     \ condition (escape DC 12) from all four tentacles."
   "name": "Tentacles"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/aberration/token/grick-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/aberration/token/grick-xmm.webp"
 ```
 ^statblock
 

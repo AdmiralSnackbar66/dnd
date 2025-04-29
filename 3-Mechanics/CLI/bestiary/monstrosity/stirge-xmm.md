@@ -18,7 +18,7 @@ statblock: inline
 aliases: ["Stirge"]
 ---
 # [Stirge](3-Mechanics\CLI\bestiary\monstrosity/stirge-xmm.md)
-*Source: Monster Manual (2024) p. 299*  
+*Source: Monster Manual (2024) p. 299. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
 
 A single stirge is usually little more than an annoyance, but several can be deadly if they attach faster than a victim can remove them.
 
@@ -72,7 +72,7 @@ Stirges are bat-size vermin with dagger-length proboscises that attach to other 
   "name": "Proboscis"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/monstrosity/token/stirge-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/stirge-xmm.webp"
 ```
 ^statblock
 

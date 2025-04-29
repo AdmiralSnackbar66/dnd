@@ -12,7 +12,7 @@ aliases: ["Sample Mental Stress Effects"]
 
 | Example | Save DC | Psychic Damage |
 |---------|---------|----------------|
-| A character ingests a hallucinogenic substance that distorts the character's perception of reality. | 10 | `1d6` |
-| A character touches a fiendish idol that tears at the character's mind, threatening to shatter it. | 15 | `3d6` |
-| A magical trap flings a character into the Far Realm until the end of that character's next turn. | 20 | `9d6` |
+| A character ingests a hallucinogenic substance that distorts the character's perception of reality. | 10 | `dice:1d6\|noform\|noparens\|avg` (`1d6`) |
+| A character touches a fiendish idol that tears at the character's mind, threatening to shatter it. | 15 | `dice:3d6\|noform\|noparens\|avg` (`3d6`) |
+| A magical trap flings a character into the Far Realm until the end of that character's next turn. | 20 | `dice:9d6\|noform\|noparens\|avg` (`9d6`) |
 ^sample-mental-stress-effects

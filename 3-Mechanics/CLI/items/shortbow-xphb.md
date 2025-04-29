@@ -11,12 +11,12 @@ aliases:
 ---
 # Shortbow
 *Weapon*  
-![](3-Mechanics/CLI/items/img/shortbow.webp#right)
+![](/3-Mechanics/CLI/items/img/shortbow.webp#right)
 
 - **Damage**: 1d6 piercing
 - **Range**: 80/320
-- **Properties**: [Ammunition](3-Mechanics/CLI/rules/item-properties.md#Ammunition), [Two-Handed](3-Mechanics/CLI/rules/item-properties.md#Two-Handed)
+- **Properties**: [Ammunition](/3-Mechanics/CLI/item-properties.md#Ammunition), [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed)
 - **Cost**: 25 gp
 - **Weight**: 2.0 lbs.
 
-*Source: Player's Handbook (2024) p. 215. Available in the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 215. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*

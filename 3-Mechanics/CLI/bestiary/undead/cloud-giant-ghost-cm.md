@@ -36,19 +36,19 @@ aliases: ["Cloud Giant Ghost"]
   "Perception": !!int "7"
 "damage_resistances": "cold"
 "damage_immunities": "necrotic, poison"
-"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
-  \ [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened), [grappled](3-Mechanics/CLI/rules/conditions.md#Grappled),\
-  \ [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed), [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified),\
-  \ [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned), [prone](3-Mechanics/CLI/rules/conditions.md#Prone),\
-  \ [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained)"
+"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
+  \ [frightened](/3-Mechanics/CLI/conditions.md#Frightened), [grappled](/3-Mechanics/CLI/conditions.md#Grappled),\
+  \ [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed), [petrified](/3-Mechanics/CLI/conditions.md#Petrified),\
+  \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned), [prone](/3-Mechanics/CLI/conditions.md#Prone),\
+  \ [restrained](/3-Mechanics/CLI/conditions.md#Restrained)"
 "senses": "darkvision 120 ft., passive Perception 17"
 "languages": "Common, Giant"
 "cr": "9"
 "traits":
 - "desc": "The ghost casts one of the following spells, using Charisma as the spellcasting\
-    \ ability and requiring no material components:\n\nAt will: [fog cloud](3-Mechanics/CLI/spells/fog-cloud-xphb.md)\n\
-    \n1/day: [control weather](3-Mechanics/CLI/spells/control-weather-xphb.md)\n\
-    \n3/day: [telekinesis](3-Mechanics/CLI/spells/telekinesis-xphb.md)"
+    \ ability and requiring no material components:\n\nAt will: [fog cloud](/3-Mechanics/CLI/spells/fog-cloud-xphb.md)\n\
+    \n1/day: [control weather](/3-Mechanics/CLI/spells/control-weather-xphb.md)\n\
+    \n3/day: [telekinesis](/3-Mechanics/CLI/spells/telekinesis-xphb.md)"
   "name": "Spellcasting"
 - "desc": "The ghost can see 120 feet into the Ethereal Plane when it is on the Material\
     \ Plane, and vice versa."
@@ -75,11 +75,11 @@ aliases: ["Cloud Giant Ghost"]
 - "desc": "The ghost emits a dreadful howl that summons a cold, biting wind. This\
     \ wind engulfs up to three creatures of the ghost's choice that it can see within\
     \ 60 feet of it. Each target is pulled up to 20 feet toward the ghost and must\
-    \ make a DC 15 Constitution saving throw, taking 16 (3d10) cold damage on a\
-    \ failed save, or half as much damage on a successful one."
+    \ make a DC 15 Constitution saving throw, taking 16 (3d10) cold damage on a failed\
+    \ save, or half as much damage on a successful one."
   "name": "Wind Howl (Recharge 6)"
 "source":
 - "CM"
-"image": "3-Mechanics/CLI/bestiary/undead/token/cloud-giant-ghost-cm.webp"
+"image": "/3-Mechanics/CLI/bestiary/undead/token/cloud-giant-ghost-cm.webp"
 ```
 ^statblock

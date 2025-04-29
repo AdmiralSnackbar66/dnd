@@ -14,7 +14,7 @@ You gain the following benefits.
 
 ## Concentration Breaker
 
-When you damage a creature that is [Concentrating](3-Mechanics/CLI/rules/conditions.md#Concentration), it has Disadvantage on the saving throw it makes to maintain [Concentration](3-Mechanics/CLI/rules/conditions.md#Concentration).
+When you damage a creature that is [Concentrating](/3-Mechanics/CLI/conditions.md#Concentration), it has Disadvantage on the saving throw it makes to maintain [Concentration](/3-Mechanics/CLI/conditions.md#Concentration).
 
 ## Guarded Mind
 

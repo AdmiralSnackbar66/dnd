@@ -11,7 +11,7 @@ statblock: inline
 aliases: ["Guard Captain"]
 ---
 # [Guard Captain](3-Mechanics\CLI\bestiary\humanoid/guard-captain-xmm.md)
-*Source: Monster Manual (2024) p. 162*  
+*Source: Monster Manual (2024) p. 162. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
 
 Guard captains often have ample professional experience. They might be accomplished bodyguards, protectors of magic treasures, veteran watch members, or similar wardens.
 
@@ -57,12 +57,11 @@ Guards protect people, places, and things, either for pay or from a sense of dut
 - "desc": "Melee or Ranged Attack Roll: +6, reach 5 ft. or range 30/120 ft. Hit:\
     \ 14 (3d6 + 4) Piercing damage."
   "name": "Javelin"
-- "desc": "Melee Attack Roll: +6, reach 5 ft. Hit: 15 (2d10 + 4) Slashing\
-    \ damage."
+- "desc": "Melee Attack Roll: +6, reach 5 ft. Hit: 15 (2d10 + 4) Slashing damage."
   "name": "Longsword"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/guard-captain-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/humanoid/token/guard-captain-xmm.webp"
 ```
 ^statblock
 

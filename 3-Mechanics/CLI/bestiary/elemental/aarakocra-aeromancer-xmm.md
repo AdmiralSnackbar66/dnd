@@ -55,24 +55,25 @@ Aarakocra are birdlike folk who soar the skies of countless worlds and the endle
 "traits":
 - "desc": "The aarakocra casts one of the following spells, requiring no Material\
     \ components and using Wisdom as the spellcasting ability (spell save DC 13):\n\
-    \nAt will: [Elementalism](3-Mechanics/CLI/spells/elementalism-xphb.md), [Gust\
-    \ of Wind](3-Mechanics/CLI/spells/gust-of-wind-xphb.md), [Mage Hand](3-Mechanics/CLI/spells/mage-hand-xphb.md),\
-    \ [Message](3-Mechanics/CLI/spells/message-xphb.md)\n\n1/day: [Lightning Bolt](3-Mechanics/CLI/spells/lightning-bolt-xphb.md)"
+    \nAt will: [Elementalism](/3-Mechanics/CLI/spells/elementalism-xphb.md), [Gust\
+    \ of Wind](/3-Mechanics/CLI/spells/gust-of-wind-xphb.md), [Mage Hand](/3-Mechanics/CLI/spells/mage-hand-xphb.md),\
+    \ [Message](/3-Mechanics/CLI/spells/message-xphb.md)\n\n1/day: [Lightning\
+    \ Bolt](/3-Mechanics/CLI/spells/lightning-bolt-xphb.md)"
   "name": "Spellcasting"
-- "desc": "The aarakocra casts [Feather Fall](3-Mechanics/CLI/spells/feather-fall-xphb.md)\
+- "desc": "The aarakocra casts [Feather Fall](/3-Mechanics/CLI/spells/feather-fall-xphb.md)\
     \ in response to that spell's trigger, using the same spellcasting ability as\
-    \ Spellcasting.\n\n1/day: [Feather Fall](3-Mechanics/CLI/spells/feather-fall-xphb.md)"
+    \ Spellcasting.\n\n1/day: [Feather Fall](/3-Mechanics/CLI/spells/feather-fall-xphb.md)"
   "name": "Feather Fall (1/Day)"
 "actions":
 - "desc": "The aarakocra makes two Wind Staff attacks, and it can use Spellcasting\
-    \ to cast [Gust of Wind](3-Mechanics/CLI/spells/gust-of-wind-xphb.md)."
+    \ to cast [Gust of Wind](/3-Mechanics/CLI/spells/gust-of-wind-xphb.md)."
   "name": "Multiattack"
 - "desc": "Melee or Ranged Attack Roll: +5, reach 5 ft. or range 120 ft. Hit:\
     \ 7 (1d8 + 3) Bludgeoning damage plus 11 (2d10) Lightning damage."
   "name": "Wind Staff"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/elemental/token/aarakocra-aeromancer-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/elemental/token/aarakocra-aeromancer-xmm.webp"
 ```
 ^statblock
 

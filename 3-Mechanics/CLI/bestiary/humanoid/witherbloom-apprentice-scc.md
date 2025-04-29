@@ -27,7 +27,7 @@ Witherbloom College studies the magic inherent in the natural cycle of life and 
 "subtype": "druid"
 "alignment": "Any alignment"
 "ac": !!int "13"
-"ac_class": "[leather armor](3-Mechanics/CLI/items/leather-armor-xphb.md)"
+"ac_class": "[leather armor](/3-Mechanics/CLI/items/leather-armor-xphb.md)"
 "hp": !!int "44"
 "hit_dice": "8d8 + 8"
 "stats":
@@ -50,9 +50,9 @@ Witherbloom College studies the magic inherent in the natural cycle of life and 
 "cr": "2"
 "traits":
 - "desc": "The apprentice casts one of the following spells, requiring no material\
-    \ components and using Wisdom as the spellcasting ability:\n\nAt will: [druidcraft](3-Mechanics/CLI/spells/druidcraft-xphb.md),\
-    \ [spare the dying](3-Mechanics/CLI/spells/spare-the-dying-xphb.md)\n\n1/day\
-    \ each: [pass without trace](3-Mechanics/CLI/spells/pass-without-trace-xphb.md)"
+    \ components and using Wisdom as the spellcasting ability:\n\nAt will: [druidcraft](/3-Mechanics/CLI/spells/druidcraft-xphb.md),\
+    \ [spare the dying](/3-Mechanics/CLI/spells/spare-the-dying-xphb.md)\n\n1/day\
+    \ each: [pass without trace](/3-Mechanics/CLI/spells/pass-without-trace-xphb.md)"
   "name": "Spellcasting"
 - "desc": "The apprentice regains 5 hit points at the start of its turn if it has\
     \ at least 1 hit point."
@@ -67,21 +67,21 @@ Witherbloom College studies the magic inherent in the natural cycle of life and 
   "name": "Verdant Talisman"
 "actions":
 - "desc": "Melee Spell Attack: +4 to hit, reach 15 ft., one target. Hit: 7 (1d10\
-    \ + 2) piercing damage plus 9 (2d8) poison damage. If the target is a Large\
-    \ or smaller creature, the apprentice can pull it up to 10 feet closer to itself."
+    \ + 2) piercing damage plus 9 (2d8) poison damage. If the target is a Large or\
+    \ smaller creature, the apprentice can pull it up to 10 feet closer to itself."
   "name": "Briar Vine"
 "reactions":
 - "desc": "When the apprentice sees a creature within 30 feet of itself drop to 0\
     \ hit points, the apprentice channels the expended life essence and targets another\
     \ creature it can see within 30 feet of itself. The target must succeed on a DC\
-    \ 12 Constitution saving throw or become [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)\
-    \ for 1 minute. While [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)\
-    \ in this way, the target takes 3 (1d6) poison damage at the start of each of\
-    \ its turns. The target can repeat the save at the end of each of its turns, ending\
-    \ the effect on itself on a success."
+    \ 12 Constitution saving throw or become [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)\
+    \ for 1 minute. While [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned) in this\
+    \ way, the target takes 3 (1d6) poison damage at the start of each of its turns.\
+    \ The target can repeat the save at the end of each of its turns, ending the effect\
+    \ on itself on a success."
   "name": "Wither Burst"
 "source":
 - "SCC"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/witherbloom-apprentice-scc.webp"
+"image": "/3-Mechanics/CLI/bestiary/humanoid/token/witherbloom-apprentice-scc.webp"
 ```
 ^statblock

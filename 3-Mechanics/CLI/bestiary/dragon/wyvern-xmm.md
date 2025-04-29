@@ -12,7 +12,7 @@ statblock: inline
 aliases: ["Wyvern"]
 ---
 # [Wyvern](3-Mechanics\CLI\bestiary\dragon/wyvern-xmm.md)
-*Source: Monster Manual (2024) p. 337*  
+*Source: Monster Manual (2024) p. 337. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
 
 ## Wyvern
 
@@ -53,13 +53,13 @@ Once wyverns overpower a quarry, they carry it to their cavernous lairs to eithe
   "name": "Multiattack"
 - "desc": "Melee Attack Roll: +7, reach 5 ft. Hit: 13 (2d8 + 4) Piercing damage."
   "name": "Bite"
-- "desc": "Melee Attack Roll: +7, reach 10 ft. Hit: 11 (2d6 + 4) Piercing\
-    \ damage plus 24 (7d6) Poison damage, and the target has the [Poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)\
+- "desc": "Melee Attack Roll: +7, reach 10 ft. Hit: 11 (2d6 + 4) Piercing damage\
+    \ plus 24 (7d6) Poison damage, and the target has the [Poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)\
     \ condition until the start of the wyvern's next turn."
   "name": "Sting"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/dragon/token/wyvern-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/dragon/token/wyvern-xmm.webp"
 ```
 ^statblock
 

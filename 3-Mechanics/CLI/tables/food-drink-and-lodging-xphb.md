@@ -6,7 +6,7 @@ tags:
 aliases: ["Food, Drink, and Lodging"]
 ---
 # Food, Drink, and Lodging
-*Source: Player's Handbook (2024) p. 231* 
+*Source: Player's Handbook (2024) p. 231. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>* 
 
 **Food, Drink, and Lodging**
 

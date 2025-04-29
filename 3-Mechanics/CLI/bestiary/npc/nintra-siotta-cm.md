@@ -40,28 +40,28 @@ Nintra's eyes burn with green fire, and she speaks in a high, musical voice. Dec
   "Deception": !!int "12"
   "Insight": !!int "7"
   "Perception": !!int "7"
-"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
-  \ [stunned](3-Mechanics/CLI/rules/conditions.md#Stunned)"
+"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
+  \ [stunned](/3-Mechanics/CLI/conditions.md#Stunned)"
 "senses": "truesight 60 ft., passive Perception 17"
 "languages": "Common, Elvish, Sylvan"
 "cr": "16"
 "traits":
 - "desc": "Nintra casts one of the following spells, using Charisma as the spellcasting\
     \ ability (save DC 20) and requiring no material components:\n\n3/day each:\
-    \ [dispel magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md), [faerie fire](3-Mechanics/CLI/spells/faerie-fire-xphb.md),\
-    \ [mirror image](3-Mechanics/CLI/spells/mirror-image-xphb.md)"
+    \ [dispel magic](/3-Mechanics/CLI/spells/dispel-magic-xphb.md), [faerie fire](/3-Mechanics/CLI/spells/faerie-fire-xphb.md),\
+    \ [mirror image](/3-Mechanics/CLI/spells/mirror-image-xphb.md)"
   "name": "Spellcasting"
 - "desc": "If Nintra fails a saving throw, she can choose to succeed instead."
   "name": "Legendary Resistance (3/Day)"
 "actions":
 - "desc": "Nintra makes two attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: +12 to hit, reach 5 ft., one target. Hit: 12\
-    \ (2d4 + 7) piercing damage."
+- "desc": "Melee Weapon Attack: +12 to hit, reach 5 ft., one target. Hit: 12 (2d4\
+    \ + 7) piercing damage."
   "name": "Claw"
-- "desc": "Ranged Spell Attack: +12 to hit, range 120 ft., one target. Hit:\
-    \ 10 (1d6 + 7) necrotic damage, and if the target is a creature, it must succeed\
-    \ on a DC 20 Constitution saving throw or be [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)\
+- "desc": "Ranged Spell Attack: +12 to hit, range 120 ft., one target. Hit: 10\
+    \ (1d6 + 7) necrotic damage, and if the target is a creature, it must succeed\
+    \ on a DC 20 Constitution saving throw or be [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)\
     \ until the end of its next turn."
   "name": "Shard of Shadow"
 - "desc": "Nintra targets a point she can see within 60 feet of her and creates a\
@@ -87,9 +87,9 @@ Nintra's eyes burn with green fire, and she speaks in a high, musical voice. Dec
   "name": ""
 - "desc": "- Nintra targets one pane of shadow glass in her lair, causing it to explode\
     \ into shards. Each creature within 20 feet of the exploding pane must make a\
-    \ DC 18 Dexterity saving throw, taking 13 (3d8) piercing damage on a failed\
-    \ save, or half as much damage on a successful one. The shards fade away to vapor\
-    \ and the pane is restored to normal at the next initiative count 20.  \n- Nintra\
+    \ DC 18 Dexterity saving throw, taking 13 (3d8) piercing damage on a failed save,\
+    \ or half as much damage on a successful one. The shards fade away to vapor and\
+    \ the pane is restored to normal at the next initiative count 20.  \n- Nintra\
     \ targets one pane of shadow glass in her lair, briefly transforming it into a\
     \ swirling vortex. One creature of her choice within 20 feet of the pane must\
     \ succeed on a DC 20 Strength saving throw or be drawn into the vortex, taking\
@@ -99,6 +99,6 @@ Nintra's eyes burn with green fire, and she speaks in a high, musical voice. Dec
   "name": ""
 "source":
 - "CM"
-"image": "3-Mechanics/CLI/bestiary/npc/token/nintra-siotta-cm.webp"
+"image": "/3-Mechanics/CLI/bestiary/npc/token/nintra-siotta-cm.webp"
 ```
 ^statblock

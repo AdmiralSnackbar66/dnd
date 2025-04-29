@@ -21,7 +21,7 @@ Redbrand ruffians are petty thugs and ruthless enforcers skilled at intimidation
 "subtype": "human"
 "alignment": "Neutral Evil"
 "ac": !!int "14"
-"ac_class": "[studded leather](3-Mechanics/CLI/items/studded-leather-armor-xphb.md)"
+"ac_class": "[studded leather](/3-Mechanics/CLI/items/studded-leather-armor-xphb.md)"
 "hp": !!int "16"
 "hit_dice": "3d8 + 3"
 "stats":
@@ -45,6 +45,6 @@ Redbrand ruffians are petty thugs and ruthless enforcers skilled at intimidation
   "name": "Shortsword"
 "source":
 - "LMoP"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/redbrand-ruffian-lmop.webp"
+"image": "/3-Mechanics/CLI/bestiary/humanoid/token/redbrand-ruffian-lmop.webp"
 ```
 ^statblock

@@ -13,11 +13,11 @@ statblock: inline
 aliases: ["Giant Elk"]
 ---
 # [Giant Elk](3-Mechanics\CLI\bestiary\celestial/giant-elk-xmm.md)
-*Source: Monster Manual (2024) p. 356*  
+*Source: Monster Manual (2024) p. 356. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
 
 ## Animals
 
-Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [Panther](3-Mechanics/CLI/bestiary/beast/panther-xmm.md) stat block can also represent a mountain lion, while the [Giant Goat](3-Mechanics/CLI/bestiary/beast/giant-goat-xmm.md) stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
+Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [Panther](/3-Mechanics/CLI/bestiary/beast/panther-xmm.md) stat block can also represent a mountain lion, while the [Giant Goat](/3-Mechanics/CLI/bestiary/beast/giant-goat-xmm.md) stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
 
 ```statblock
 "name": "Giant Elk (XMM)"
@@ -45,15 +45,15 @@ Use these stat blocks to represent the creatures they're named for or other simi
 "languages": "Celestial; understands Common, Elvish, and Sylvan but can't speak them"
 "cr": "2"
 "actions":
-- "desc": "Melee Attack Roll: +6, reach 10 ft. Hit: 11 (2d6 + 4) Bludgeoning\
-    \ damage plus 5 (2d4) Radiant damage. If the target is a Huge or smaller creature\
-    \ and the elk moved 20+ feet straight toward it immediately before the hit, the\
-    \ target takes an extra 5 (2d4) Bludgeoning damage and has the [Prone](3-Mechanics/CLI/rules/conditions.md#Prone)\
+- "desc": "Melee Attack Roll: +6, reach 10 ft. Hit: 11 (2d6 + 4) Bludgeoning damage\
+    \ plus 5 (2d4) Radiant damage. If the target is a Huge or smaller creature and\
+    \ the elk moved 20+ feet straight toward it immediately before the hit, the target\
+    \ takes an extra 5 (2d4) Bludgeoning damage and has the [Prone](/3-Mechanics/CLI/conditions.md#Prone)\
     \ condition."
   "name": "Ram"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/celestial/token/giant-elk-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/celestial/token/giant-elk-xmm.webp"
 ```
 ^statblock
 

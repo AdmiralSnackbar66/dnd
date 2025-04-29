@@ -12,7 +12,7 @@ statblock: inline
 aliases: ["Gold Dragon Wyrmling"]
 ---
 # [Gold Dragon Wyrmling](3-Mechanics\CLI\bestiary\dragon/gold-dragon-wyrmling-xmm.md)
-*Source: Monster Manual (2024) p. 144*  
+*Source: Monster Manual (2024) p. 144. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
 
 Gold dragon wyrmlings learn much from their elders, then head off to save the world. Idealistic and curious, these wyrmlings seek to right obvious wrongs and make friends among those they aid.
 
@@ -66,20 +66,20 @@ Gold dragons make their homes in places of natural and magical wonder.
   "name": "Multiattack"
 - "desc": "Melee Attack Roll: +6, reach 5 ft. Hit: 9 (1d10 + 4) Slashing damage."
   "name": "Rend"
-- "desc": "Dexterity Saving Throw: DC 13, each creature in a 15-foot [Cone](3-Mechanics/CLI/rules/variant-rules/cone-area-of-effect-xphb.md).\
+- "desc": "Dexterity Saving Throw: DC 13, each creature in a 15-foot [Cone](/3-Mechanics/CLI/variant-rules/cone-area-of-effect-xphb.md).\
     \ Failure: 22 (4d10) Fire damage. Success: Half damage."
   "name": "Fire Breath (Recharge 5-6)"
 - "desc": "Strength Saving Throw: DC 13, each creature that isn't currently affected\
-    \ by this breath in a 15-foot [Cone](3-Mechanics/CLI/rules/variant-rules/cone-area-of-effect-xphb.md).\
-    \ Failure: The target has [Disadvantage](3-Mechanics/CLI/rules/variant-rules/disadvantage-xphb.md)\
-    \ on Strength-based [D20 Tests](3-Mechanics/CLI/rules/variant-rules/d20-test-xphb.md)\
+    \ by this breath in a 15-foot [Cone](/3-Mechanics/CLI/variant-rules/cone-area-of-effect-xphb.md).\
+    \ Failure: The target has [Disadvantage](/3-Mechanics/CLI/variant-rules/disadvantage-xphb.md)\
+    \ on Strength-based [D20 Tests](/3-Mechanics/CLI/variant-rules/d20-test-xphb.md)\
     \ and subtracts 2 (1d4) from its damage rolls. It repeats the save at the end\
     \ of each of its turns, ending the effect on itself on a success. After 1 minute,\
     \ it succeeds automatically."
   "name": "Weakening Breath"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/dragon/token/gold-dragon-wyrmling-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/dragon/token/gold-dragon-wyrmling-xmm.webp"
 ```
 ^statblock
 

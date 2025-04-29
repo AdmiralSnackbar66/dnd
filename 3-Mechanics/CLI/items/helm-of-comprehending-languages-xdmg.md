@@ -9,9 +9,9 @@ aliases:
 ---
 # Helm of Comprehending Languages
 *Wondrous item, uncommon*  
-![](3-Mechanics/CLI/items/img/helm-of-comprehending-languages.webp#right)
+![](/3-Mechanics/CLI/items/img/helm-of-comprehending-languages.webp#right)
 
 
-While wearing this helm, you can cast [Comprehend Languages](3-Mechanics/CLI/spells/comprehend-languages-xphb.md) from it.
+While wearing this helm, you can cast [Comprehend Languages](/3-Mechanics/CLI/spells/comprehend-languages-xphb.md) from it.
 
-*Source: Dungeon Master's Guide (2024) p. 268. Available in the Free Rules (2024)*
+*Source: Dungeon Master's Guide (2024) p. 268. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*

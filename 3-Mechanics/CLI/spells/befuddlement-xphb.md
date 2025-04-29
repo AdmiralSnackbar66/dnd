@@ -27,10 +27,10 @@ aliases: ["Befuddlement"]
 
 You blast the mind of a creature that you can see within range. The target makes an Intelligence saving throw.
 
-On a failed save, the target takes `10d12` Psychic damage and can't cast spells or take the [Magic](3-Mechanics/CLI/rules/actions.md#Magic) action. At the end of every 30 days, the target repeats the save, ending the effect on a success. The effect can also be ended by the [Greater Restoration](3-Mechanics/CLI/spells/greater-restoration-xphb.md), [Heal](3-Mechanics/CLI/spells/heal-xphb.md), or [Wish](3-Mechanics/CLI/spells/wish-xphb.md) spell.
+On a failed save, the target takes `dice:10d12|noform|noparens|avg` (`10d12`) Psychic damage and can't cast spells or take the [Magic](/3-Mechanics/CLI/actions.md#Magic) action. At the end of every 30 days, the target repeats the save, ending the effect on a success. The effect can also be ended by the [Greater Restoration](/3-Mechanics/CLI/spells/greater-restoration-xphb.md), [Heal](/3-Mechanics/CLI/spells/heal-xphb.md), or [Wish](/3-Mechanics/CLI/spells/wish-xphb.md) spell.
 
 On a successful save, the target takes half as much damage only.
 
-**Classes**: [Bard](3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Druid](3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Warlock](3-Mechanics/CLI/lists/list-spells-classes-warlock.md); [Wizard](3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Warlock](/3-Mechanics/CLI/lists/list-spells-classes-warlock.md); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 245. Available in the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 245. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*

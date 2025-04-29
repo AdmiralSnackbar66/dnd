@@ -13,7 +13,7 @@ statblock: inline
 aliases: ["Wraith"]
 ---
 # [Wraith](3-Mechanics\CLI\bestiary\undead/wraith-xmm.md)
-*Source: Monster Manual (2024) p. 336*  
+*Source: Monster Manual (2024) p. 336. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
 
 ## Wraith
 
@@ -64,36 +64,36 @@ Wraiths might arise from a single powerfully evil soul or other baleful forces. 
 "speed": "5 ft., fly 60 ft. (hover)"
 "damage_resistances": "acid, bludgeoning, cold, fire, piercing, slashing"
 "damage_immunities": "necrotic, poison"
-"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
-  \ [grappled](3-Mechanics/CLI/rules/conditions.md#Grappled), [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed),\
-  \ [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified), [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned),\
-  \ [prone](3-Mechanics/CLI/rules/conditions.md#Prone), [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained),\
-  \ [unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious)"
+"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
+  \ [grappled](/3-Mechanics/CLI/conditions.md#Grappled), [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed),\
+  \ [petrified](/3-Mechanics/CLI/conditions.md#Petrified), [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned),\
+  \ [prone](/3-Mechanics/CLI/conditions.md#Prone), [restrained](/3-Mechanics/CLI/conditions.md#Restrained),\
+  \ [unconscious](/3-Mechanics/CLI/conditions.md#Unconscious)"
 "senses": "darkvision 60 ft., passive Perception 12"
 "languages": "Common plus two other languages"
 "cr": "5"
 "traits":
 - "desc": "The wraith can move through other creatures and objects as if they were\
-    \ [Difficult Terrain](3-Mechanics/CLI/rules/variant-rules/difficult-terrain-xphb.md).\
+    \ [Difficult Terrain](/3-Mechanics/CLI/variant-rules/difficult-terrain-xphb.md).\
     \ It takes 5 (1d10) Force damage if it ends its turn inside an object."
   "name": "Incorporeal Movement"
-- "desc": "While in sunlight, the wraith has [Disadvantage](3-Mechanics/CLI/rules/variant-rules/disadvantage-xphb.md)\
+- "desc": "While in sunlight, the wraith has [Disadvantage](/3-Mechanics/CLI/variant-rules/disadvantage-xphb.md)\
     \ on ability checks and attack rolls."
   "name": "Sunlight Sensitivity"
 "actions":
 - "desc": "Melee Attack Roll: +6, reach 5 ft. Hit: 21 (4d8 + 3) Necrotic damage.\
-    \ If the target is a creature, its [Hit Point](3-Mechanics/CLI/rules/variant-rules/hit-points-xphb.md)\
+    \ If the target is a creature, its [Hit Point](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)\
     \ maximum decreases by an amount equal to the damage taken."
   "name": "Life Drain"
 - "desc": "The wraith targets a Humanoid corpse within 10 feet of itself that has\
-    \ been dead for no longer than 1 minute. The target's spirit rises as a [Specter](3-Mechanics/CLI/bestiary/undead/specter-xmm.md)\
+    \ been dead for no longer than 1 minute. The target's spirit rises as a [Specter](/3-Mechanics/CLI/bestiary/undead/specter-xmm.md)\
     \ in the space of its corpse or in the nearest unoccupied space. The specter is\
     \ under the wraith's control. The wraith can have no more than seven specters\
     \ under its control at a time."
   "name": "Create Specter"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/undead/token/wraith-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/undead/token/wraith-xmm.webp"
 ```
 ^statblock
 

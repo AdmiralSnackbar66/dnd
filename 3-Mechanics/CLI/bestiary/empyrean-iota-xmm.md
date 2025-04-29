@@ -64,34 +64,34 @@ Empyreans are the spawn of deities. While not gods themselves, they possess divi
   "Perception": !!int "5"
   "History": !!int "4"
 "damage_resistances": "bludgeoning, piercing, slashing"
-"condition_immunities": "[prone](3-Mechanics/CLI/rules/conditions.md#Prone)"
+"condition_immunities": "[prone](/3-Mechanics/CLI/conditions.md#Prone)"
 "senses": "truesight 30 ft., passive Perception 15"
 "languages": "all"
 "cr": "1"
 "traits":
 - "desc": "The empyrean casts one of the following spells, requiring no Material components\
-    \ and using Wisdom as the spellcasting ability:\n\n1/day each: [Bless](3-Mechanics/CLI/spells/bless-xphb.md),\
-    \ [Lesser Restoration](3-Mechanics/CLI/spells/lesser-restoration-xphb.md) (as\
+    \ and using Wisdom as the spellcasting ability:\n\n1/day each: [Bless](/3-Mechanics/CLI/spells/bless-xphb.md),\
+    \ [Lesser Restoration](/3-Mechanics/CLI/spells/lesser-restoration-xphb.md) (as\
     \ an action)"
   "name": "Spellcasting"
-- "desc": "The empyrean casts [Healing Word](3-Mechanics/CLI/spells/healing-word-xphb.md),\
+- "desc": "The empyrean casts [Healing Word](/3-Mechanics/CLI/spells/healing-word-xphb.md),\
     \ using the same spellcasting ability as Spellcasting.\n\n1/day: [Healing\
-    \ Word](3-Mechanics/CLI/spells/healing-word-xphb.md)"
+    \ Word](/3-Mechanics/CLI/spells/healing-word-xphb.md)"
   "name": "Healing Word (1/Day)"
 - "desc": "The empyrean can move through other creatures and objects as if they were\
-    \ [Difficult Terrain](3-Mechanics/CLI/rules/variant-rules/difficult-terrain-xphb.md).\
+    \ [Difficult Terrain](/3-Mechanics/CLI/variant-rules/difficult-terrain-xphb.md).\
     \ It takes 5 (1d10) Force damage if it ends its turn inside an object."
   "name": "Incorporeal Movement"
-- "desc": "The empyrean has [Advantage](3-Mechanics/CLI/rules/variant-rules/advantage-xphb.md)\
+- "desc": "The empyrean has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
     \ on saving throws against spells and other magical effects."
   "name": "Magic Resistance"
 "actions":
-- "desc": "Melee or Ranged Attack Roll: +5, reach 5 ft. or range 30 ft. Hit:\
-    \ 7 (1d8 + 3) Necrotic or Radiant damage (empyrean's choice)."
+- "desc": "Melee or Ranged Attack Roll: +5, reach 5 ft. or range 30 ft. Hit: 7\
+    \ (1d8 + 3) Necrotic or Radiant damage (empyrean's choice)."
   "name": "Otherworldly Strike"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/token/empyrean-iota-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/token/empyrean-iota-xmm.webp"
 ```
 ^statblock
 

@@ -52,11 +52,11 @@ Fey embodiments of swamplands, bullywugs protect the murky wilds and consider th
 "cr": "4"
 "traits":
 - "desc": "The bullywug casts one of the following spells, using Wisdom as the spellcasting\
-    \ ability (spell save DC 13, +5 to hit with spell attacks):\n\nAt will:\
-    \ [Dancing Lights](3-Mechanics/CLI/spells/dancing-lights-xphb.md), [Druidcraft](3-Mechanics/CLI/spells/druidcraft-xphb.md),\
-    \ [Ray of Sickness](3-Mechanics/CLI/spells/ray-of-sickness-xphb.md)\n\n1/day\
-    \ each: [Speak with Plants](3-Mechanics/CLI/spells/speak-with-plants-xphb.md),\
-    \ [Vitriolic Sphere](3-Mechanics/CLI/spells/vitriolic-sphere-xphb.md)"
+    \ ability (spell save DC 13, +5 to hit with spell attacks):\n\nAt will: [Dancing\
+    \ Lights](/3-Mechanics/CLI/spells/dancing-lights-xphb.md), [Druidcraft](/3-Mechanics/CLI/spells/druidcraft-xphb.md),\
+    \ [Ray of Sickness](/3-Mechanics/CLI/spells/ray-of-sickness-xphb.md)\n\n1/day\
+    \ each: [Speak with Plants](/3-Mechanics/CLI/spells/speak-with-plants-xphb.md),\
+    \ [Vitriolic Sphere](/3-Mechanics/CLI/spells/vitriolic-sphere-xphb.md)"
   "name": "Spellcasting"
 - "desc": "The bullywug can breathe air and water."
   "name": "Amphibious"
@@ -65,17 +65,17 @@ Fey embodiments of swamplands, bullywugs protect the murky wilds and consider th
   "name": "Speak with Frogs and Toads"
 "actions":
 - "desc": "The bullywug makes two Bog Staff attacks. It can replace any attack with\
-    \ a use of Spellcasting to cast [Ray of Sickness](3-Mechanics/CLI/spells/ray-of-sickness-xphb.md)."
+    \ a use of Spellcasting to cast [Ray of Sickness](/3-Mechanics/CLI/spells/ray-of-sickness-xphb.md)."
   "name": "Multiattack"
-- "desc": "Melee Attack Roll: +5, reach 5 ft. Hit: 7 (1d8 + 3) Bludgeoning\
-    \ damage plus 10 (3d6) Poison damage."
+- "desc": "Melee Attack Roll: +5, reach 5 ft. Hit: 7 (1d8 + 3) Bludgeoning damage\
+    \ plus 10 (3d6) Poison damage."
   "name": "Bog Staff"
 "bonus_actions":
 - "desc": "The bullywug can jump up to 30 feet by spending 10 feet of movement."
   "name": "Leap"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/fey/token/bullywug-bog-sage-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/fey/token/bullywug-bog-sage-xmm.webp"
 ```
 ^statblock
 

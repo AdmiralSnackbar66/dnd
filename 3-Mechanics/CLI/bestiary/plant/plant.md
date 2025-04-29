@@ -4,13 +4,8 @@ cssclasses: json5e-note
 ---
 # Index of Plant
 
-- [Aartuk Elder](./aartuk-elder-bam.md)
-- [Aartuk Starhorror](./aartuk-starhorror-bam.md)
-- [Aartuk Weedling](./aartuk-weedling-bam.md)
-- [Astral Blight](./astral-blight-lox.md)
 - [Awakened Shrub](./awakened-shrub-xmm.md)
 - [Awakened Tree](./awakened-tree-xmm.md)
-- [Blighted Sapling](./blighted-sapling-tdcsr.md)
 - [Brackish Trudge](./brackish-trudge-scc.md)
 - [Gas Spore Fungus](./gas-spore-fungus-xmm.md)
 - [Groff](./groff-scc.md)
@@ -28,4 +23,3 @@ cssclasses: json5e-note
 - [Vine Blight](./vine-blight-xmm.md)
 - [Violet Fungus Necrohulk](./violet-fungus-necrohulk-xmm.md)
 - [Violet Fungus](./violet-fungus-xmm.md)
-- [Wraithroot Tree](./wraithroot-tree-tdcsr.md)

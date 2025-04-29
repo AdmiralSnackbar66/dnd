@@ -44,9 +44,9 @@ The lowest form of demons, manes appear when truly loathsome souls are condemned
 "speed": "30 ft."
 "damage_resistances": "cold, fire, lightning"
 "damage_immunities": "poison"
-"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
-  \ [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened), [grappled](3-Mechanics/CLI/rules/conditions.md#Grappled),\
-  \ [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned), [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained)"
+"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
+  \ [frightened](/3-Mechanics/CLI/conditions.md#Frightened), [grappled](/3-Mechanics/CLI/conditions.md#Grappled),\
+  \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned), [restrained](/3-Mechanics/CLI/conditions.md#Restrained)"
 "senses": "darkvision 60 ft., passive Perception 9"
 "languages": "understands Abyssal but can't speak"
 "cr": "1"
@@ -54,9 +54,9 @@ The lowest form of demons, manes appear when truly loathsome souls are condemned
 - "desc": "The manes can move through a space as narrow as 1 inch without expending\
     \ extra movement to do so."
   "name": "Contortionist"
-- "desc": "Constitution Saving Throw: DC 12, each creature in a 5-foot [Emanation](3-Mechanics/CLI/rules/variant-rules/emanation-area-of-effect-xphb.md)\
+- "desc": "Constitution Saving Throw: DC 12, each creature in a 5-foot [Emanation](/3-Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md)\
     \ originating from the manes at the end of the manes's turn. Failure: The target\
-    \ has the [Incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated) condition\
+    \ has the [Incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated) condition\
     \ until the end of its next turn. Success: The target is immune to this manes's\
     \ Sickening Vapors for 24 hours."
   "name": "Sickening Vapors"
@@ -65,13 +65,13 @@ The lowest form of demons, manes appear when truly loathsome souls are condemned
     \ plus 5 (2d4) Necrotic damage."
   "name": "Claw"
 "bonus_actions":
-- "desc": "While in [Dim Light](3-Mechanics/CLI/rules/variant-rules/dim-light-xphb.md)\
-    \ or [Darkness](3-Mechanics/CLI/rules/variant-rules/darkness-xphb.md), the manes\
-    \ takes the Hide action."
+- "desc": "While in [Dim Light](/3-Mechanics/CLI/variant-rules/dim-light-xphb.md)\
+    \ or [Darkness](/3-Mechanics/CLI/variant-rules/darkness-xphb.md), the manes takes\
+    \ the Hide action."
   "name": "Shadow Stealth"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/fiend/token/manes-vaporspawn-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/fiend/token/manes-vaporspawn-xmm.webp"
 ```
 ^statblock
 

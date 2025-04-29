@@ -49,12 +49,12 @@ As long as Quill remains in Wisteria Vale, he is immune to all damage and automa
 "cr": "11"
 "traits":
 - "desc": "Quill casts one of the following spells using Charisma as the spellcasting\
-    \ ability (save DC 17):\n\nAt will: [light](3-Mechanics/CLI/spells/light-xphb.md),\
-    \ [mage hand](3-Mechanics/CLI/spells/mage-hand-xphb.md), [prestidigitation](3-Mechanics/CLI/spells/prestidigitation-xphb.md)\n\
-    \n1/day each: [mind blank](3-Mechanics/CLI/spells/mind-blank-xphb.md), [teleport](3-Mechanics/CLI/spells/teleport-xphb.md)\n\
-    \n3/day each: [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md),\
-    \ [dispel magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md), [faerie fire](3-Mechanics/CLI/spells/faerie-fire-xphb.md),\
-    \ [hold monster](3-Mechanics/CLI/spells/hold-monster-xphb.md)"
+    \ ability (save DC 17):\n\nAt will: [light](/3-Mechanics/CLI/spells/light-xphb.md),\
+    \ [mage hand](/3-Mechanics/CLI/spells/mage-hand-xphb.md), [prestidigitation](/3-Mechanics/CLI/spells/prestidigitation-xphb.md)\n\
+    \n1/day each: [mind blank](/3-Mechanics/CLI/spells/mind-blank-xphb.md), [teleport](/3-Mechanics/CLI/spells/teleport-xphb.md)\n\
+    \n3/day each: [detect magic](/3-Mechanics/CLI/spells/detect-magic-xphb.md),\
+    \ [dispel magic](/3-Mechanics/CLI/spells/dispel-magic-xphb.md), [faerie fire](/3-Mechanics/CLI/spells/faerie-fire-xphb.md),\
+    \ [hold monster](/3-Mechanics/CLI/spells/hold-monster-xphb.md)"
   "name": "Spellcasting"
 "actions":
 - "desc": "Quill makes two attacks with his dagger and uses Supreme Mockery."
@@ -64,17 +64,17 @@ As long as Quill remains in Wisteria Vale, he is immune to all damage and automa
   "name": "Dagger"
 - "desc": "Quill utters a short fable while targeting up to five creatures within\
     \ 30 feet of him that he can see. Each target that can hear Quill's magical fable\
-    \ must make a DC 17 Wisdom saving throw, taking 36 (8d8) psychic damage on a\
-    \ failed save, or half as much damage on a successful one."
+    \ must make a DC 17 Wisdom saving throw, taking 36 (8d8) psychic damage on a failed\
+    \ save, or half as much damage on a successful one."
   "name": "Quill's Fable (Recharge 6)"
 - "desc": "Quill hurls a string of insults laced with enchantments at a creature he\
     \ can see within 60 feet of him. If the creature can hear Quill (though it need\
     \ not understand him), it must succeed on a DC 17 Wisdom saving throw or take\
-    \ 66 (12d10) psychic damage and have disadvantage on the next attack roll it\
-    \ makes before the end of its next turn."
+    \ 66 (12d10) psychic damage and have disadvantage on the next attack roll it makes\
+    \ before the end of its next turn."
   "name": "Supreme Mockery"
 "source":
 - "CM"
-"image": "3-Mechanics/CLI/bestiary/npc/token/arrant-quill-cm.webp"
+"image": "/3-Mechanics/CLI/bestiary/npc/token/arrant-quill-cm.webp"
 ```
 ^statblock

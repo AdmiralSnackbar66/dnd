@@ -12,7 +12,7 @@ statblock: inline
 aliases: ["Nightmare"]
 ---
 # [Nightmare](3-Mechanics\CLI\bestiary\fiend/nightmare-xmm.md)
-*Source: Monster Manual (2024) p. 226*  
+*Source: Monster Manual (2024) p. 226. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
 
 ## Nightmare
 
@@ -60,23 +60,23 @@ Nightmares' speed, resilience, and ability to gallop between planes of existence
 "languages": "understands Abyssal, Common, and Infernal but can't speak"
 "cr": "3"
 "traits":
-- "desc": "The nightmare can grant [Resistance](3-Mechanics/CLI/rules/variant-rules/resistance-xphb.md)\
+- "desc": "The nightmare can grant [Resistance](/3-Mechanics/CLI/variant-rules/resistance-xphb.md)\
     \ to Fire damage to a rider while it is on the nightmare."
   "name": "Confer Fire Resistance"
-- "desc": "The nightmare sheds [Bright Light](3-Mechanics/CLI/rules/variant-rules/bright-light-xphb.md)\
-    \ in a 10-foot radius and [Dim Light](3-Mechanics/CLI/rules/variant-rules/dim-light-xphb.md)\
+- "desc": "The nightmare sheds [Bright Light](/3-Mechanics/CLI/variant-rules/bright-light-xphb.md)\
+    \ in a 10-foot radius and [Dim Light](/3-Mechanics/CLI/variant-rules/dim-light-xphb.md)\
     \ for an additional 10 feet."
   "name": "Illumination"
 "actions":
-- "desc": "Melee Attack Roll: +6, reach 5 ft. Hit: 13 (2d8 + 4) Bludgeoning\
-    \ damage plus 10 (3d6) Fire damage."
+- "desc": "Melee Attack Roll: +6, reach 5 ft. Hit: 13 (2d8 + 4) Bludgeoning damage\
+    \ plus 10 (3d6) Fire damage."
   "name": "Hooves"
 - "desc": "The nightmare and up to three willing creatures within 5 feet of it teleport\
     \ to the Ethereal Plane from the Material Plane or vice versa."
   "name": "Ethereal Stride"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/fiend/token/nightmare-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/fiend/token/nightmare-xmm.webp"
 ```
 ^statblock
 

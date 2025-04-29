@@ -9,4 +9,4 @@ aliases: ["Spells for Gift of the Depths"]
 
 ## 3rd Level
 
-- [Water Breathing](3-Mechanics/CLI/spells/water-breathing-xphb.md "XPHB")
+- [Water Breathing](/3-Mechanics/CLI/spells/water-breathing-xphb.md "XPHB")

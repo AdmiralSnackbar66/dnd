@@ -6,7 +6,7 @@ tags:
 aliases: ["Scribing Spell Scrolls; Spell Scroll Costs"]
 ---
 # Scribing Spell Scrolls; Spell Scroll Costs
-*Source: Player's Handbook (2024) p. 233* 
+*Source: Player's Handbook (2024) p. 233. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>* 
 
 **Spell Scroll Costs**
 

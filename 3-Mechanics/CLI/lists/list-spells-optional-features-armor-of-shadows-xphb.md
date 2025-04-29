@@ -9,4 +9,4 @@ aliases: ["Spells for Armor of Shadows"]
 
 ## 1st Level
 
-- [Mage Armor](3-Mechanics/CLI/spells/mage-armor-xphb.md "XPHB")
+- [Mage Armor](/3-Mechanics/CLI/spells/mage-armor-xphb.md "XPHB")

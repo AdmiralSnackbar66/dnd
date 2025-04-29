@@ -17,7 +17,7 @@ statblock: inline
 aliases: ["Goblin Minion"]
 ---
 # [Goblin Minion](3-Mechanics\CLI\bestiary\fey/goblin-minion-xmm.md)
-*Source: Monster Manual (2024) p. 142*  
+*Source: Monster Manual (2024) p. 142. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
 
 Goblin minions enjoy participating in the disruptive schemes of clever leaders but are quick to flee when confronted by their comeuppance.
 
@@ -70,7 +70,7 @@ The deity Maglubiyet claims to be the god of goblins, hobgoblins, and bugbears, 
   "name": "Nimble Escape"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/fey/token/goblin-minion-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/fey/token/goblin-minion-xmm.webp"
 ```
 ^statblock
 

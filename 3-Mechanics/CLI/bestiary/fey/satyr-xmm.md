@@ -13,7 +13,7 @@ statblock: inline
 aliases: ["Satyr"]
 ---
 # [Satyr](3-Mechanics\CLI\bestiary\fey/satyr-xmm.md)
-*Source: Monster Manual (2024) p. 268*  
+*Source: Monster Manual (2024) p. 268. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
 
 Satyrs enjoy demonstrating their physicality through contests, evicting party poopers, and defending Fey realms.
 
@@ -50,20 +50,20 @@ Satyrs embody the untamed joys of the wilderness. They indulge in sprees of merr
 "languages": "Common, Elvish, Sylvan"
 "cr": "1/2"
 "traits":
-- "desc": "The satyr has [Advantage](3-Mechanics/CLI/rules/variant-rules/advantage-xphb.md)\
+- "desc": "The satyr has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
     \ on saving throws against spells and other magical effects."
   "name": "Magic Resistance"
 "actions":
-- "desc": "Melee Attack Roll: +5, reach 5 ft. Hit: 5 (1d4 + 3) Bludgeoning\
-    \ damage. If the target is a Medium or smaller creature, the satyr pushes the\
-    \ target up to 10 feet straight away from itself."
+- "desc": "Melee Attack Roll: +5, reach 5 ft. Hit: 5 (1d4 + 3) Bludgeoning damage.\
+    \ If the target is a Medium or smaller creature, the satyr pushes the target up\
+    \ to 10 feet straight away from itself."
   "name": "Hooves"
 - "desc": "Wisdom Saving Throw: DC 12, one creature the satyr can see within 90\
     \ feet. Failure: 5 (1d6 + 2) Psychic damage."
   "name": "Mockery"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/fey/token/satyr-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/fey/token/satyr-xmm.webp"
 ```
 ^statblock
 

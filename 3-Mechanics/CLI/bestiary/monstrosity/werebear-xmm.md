@@ -13,7 +13,7 @@ statblock: inline
 aliases: ["Werebear"]
 ---
 # [Werebear](3-Mechanics\CLI\bestiary\monstrosity/werebear-xmm.md)
-*Source: Monster Manual (2024) p. 324*  
+*Source: Monster Manual (2024) p. 324. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
 
 ## Werebear
 
@@ -49,11 +49,11 @@ When threatened or compelled by magic, werebears shape-shift from their humanoid
 - "desc": "The werebear makes two attacks, using Handaxe or Rend in any combination.\
     \ It can replace one attack with a Bite attack."
   "name": "Multiattack"
-- "desc": "Melee Attack Roll: +7, reach 5 ft. Hit: 17 (2d12 + 4) Piercing\
-    \ damage. If the target is a Humanoid, it is subjected to the following effect.\
-    \ Constitution Saving Throw: DC 14. Failure: The target is cursed. If the\
-    \ cursed target drops to 0 [Hit Points](3-Mechanics/CLI/rules/variant-rules/hit-points-xphb.md),\
-    \ it instead becomes a Werebear under the DM's control and has 10 [Hit Points](3-Mechanics/CLI/rules/variant-rules/hit-points-xphb.md).\
+- "desc": "Melee Attack Roll: +7, reach 5 ft. Hit: 17 (2d12 + 4) Piercing damage.\
+    \ If the target is a Humanoid, it is subjected to the following effect. Constitution\
+    \ Saving Throw: DC 14. Failure: The target is cursed. If the cursed target\
+    \ drops to 0 [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md),\
+    \ it instead becomes a Werebear under the DM's control and has 10 [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md).\
     \ Success: The target is immune to this werebear's curse for 24 hours."
   "name": "Bite (Bear or Hybrid Form Only)"
 - "desc": "Melee or Ranged Attack Roll: +7, reach 5 ft or range 20/60 ft. Hit:\
@@ -69,7 +69,7 @@ When threatened or compelled by magic, werebears shape-shift from their humanoid
   "name": "Shape-Shift"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/monstrosity/token/werebear-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/werebear-xmm.webp"
 ```
 ^statblock
 

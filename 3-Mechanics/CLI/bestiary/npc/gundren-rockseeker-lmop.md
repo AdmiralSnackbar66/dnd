@@ -42,6 +42,6 @@ aliases: ["Gundren Rockseeker"]
   "name": "Club"
 "source":
 - "LMoP"
-"image": "3-Mechanics/CLI/bestiary/npc/token/gundren-rockseeker-lmop.webp"
+"image": "/3-Mechanics/CLI/bestiary/npc/token/gundren-rockseeker-lmop.webp"
 ```
 ^statblock

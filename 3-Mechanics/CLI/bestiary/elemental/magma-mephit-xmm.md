@@ -12,7 +12,7 @@ statblock: inline
 aliases: ["Magma Mephit"]
 ---
 # [Magma Mephit](3-Mechanics\CLI\bestiary\elemental/magma-mephit-xmm.md)
-*Source: Monster Manual (2024) p. 207*  
+*Source: Monster Manual (2024) p. 207. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
 
 These mephits embody the merging of earth and fire as glowing magma. They love melting things, but they loathe magmins and attack them on sight.
 
@@ -52,14 +52,14 @@ Mephits resent leaving the elemental extremes where they make their homes. If lo
   "Stealth": !!int "3"
 "damage_vulnerabilities": "cold"
 "damage_immunities": "fire, poison"
-"condition_immunities": "[exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
-  \ [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"condition_immunities": "[exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
+  \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": "Primordial (Ignan, Terran)"
 "cr": "1/2"
 "traits":
 - "desc": "The mephit explodes when it dies. Dexterity Saving Throw: DC 11, each\
-    \ creature in a 5-foot [Emanation](3-Mechanics/CLI/rules/variant-rules/emanation-area-of-effect-xphb.md)\
+    \ creature in a 5-foot [Emanation](/3-Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md)\
     \ originating from the mephit. Failure: 7 (2d6) Fire damage. Success: Half\
     \ damage."
   "name": "Death Burst"
@@ -67,12 +67,12 @@ Mephits resent leaving the elemental extremes where they make their homes. If lo
 - "desc": "Melee Attack Roll: +3, reach 5 ft. Hit: 3 (1d4 + 1) Slashing damage\
     \ plus 3 (1d6) Fire damage."
   "name": "Claw"
-- "desc": "Dexterity Saving Throw: DC 11, each creature in a 15-foot [Cone](3-Mechanics/CLI/rules/variant-rules/cone-area-of-effect-xphb.md).\
+- "desc": "Dexterity Saving Throw: DC 11, each creature in a 15-foot [Cone](/3-Mechanics/CLI/variant-rules/cone-area-of-effect-xphb.md).\
     \ Failure: 7 (2d6) Fire damage. Success: Half damage."
   "name": "Fire Breath (Recharge 6)"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/elemental/token/magma-mephit-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/elemental/token/magma-mephit-xmm.webp"
 ```
 ^statblock
 

@@ -13,7 +13,7 @@ statblock: inline
 aliases: ["Chimera"]
 ---
 # [Chimera](3-Mechanics\CLI\bestiary\monstrosity/chimera-xmm.md)
-*Source: Monster Manual (2024) p. 70*  
+*Source: Monster Manual (2024) p. 70. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
 
 ## Chimera
 
@@ -52,21 +52,21 @@ Owing to their draconic instincts, chimeras are greedy creatures that hoard trea
     \ It can replace the Claw attack with a use of Fire Breath if available."
   "name": "Multiattack"
 - "desc": "Melee Attack Roll: +7, reach 5 ft. Hit: 11 (2d6 + 4) Piercing damage,\
-    \ or 18 (4d6 + 4) Piercing damage if the chimera had [Advantage](3-Mechanics/CLI/rules/variant-rules/advantage-xphb.md)\
+    \ or 18 (4d6 + 4) Piercing damage if the chimera had [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
     \ on the attack roll."
   "name": "Bite"
 - "desc": "Melee Attack Roll: +7, reach 5 ft. Hit: 7 (1d6 + 4) Slashing damage."
   "name": "Claw"
-- "desc": "Melee Attack Roll: +7, reach 5 ft. Hit: 10 (1d12 + 4) Bludgeoning\
-    \ damage. If the target is a Medium or smaller creature, it has the [Prone](3-Mechanics/CLI/rules/conditions.md#Prone)\
+- "desc": "Melee Attack Roll: +7, reach 5 ft. Hit: 10 (1d12 + 4) Bludgeoning damage.\
+    \ If the target is a Medium or smaller creature, it has the [Prone](/3-Mechanics/CLI/conditions.md#Prone)\
     \ condition."
   "name": "Ram"
-- "desc": "Dexterity Saving Throw: DC 15, each creature in a 15-foot [Cone](3-Mechanics/CLI/rules/variant-rules/cone-area-of-effect-xphb.md).\
+- "desc": "Dexterity Saving Throw: DC 15, each creature in a 15-foot [Cone](/3-Mechanics/CLI/variant-rules/cone-area-of-effect-xphb.md).\
     \ Failure: 31 (7d8) Fire damage. Success: Half damage."
   "name": "Fire Breath (Recharge 5-6)"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/monstrosity/token/chimera-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/chimera-xmm.webp"
 ```
 ^statblock
 

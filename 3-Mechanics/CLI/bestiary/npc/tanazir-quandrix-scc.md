@@ -53,10 +53,10 @@ Tanazir's spells, legendary actions, and breath weapon manifest luminous pattern
 "traits":
 - "desc": "Tanazir casts one of the following spells, requiring no material components\
     \ and using Intelligence as the spellcasting ability (spell save DC 24):\n\n1/day\
-    \ each: [divination](3-Mechanics/CLI/spells/divination-xphb.md), [enlarge/reduce](3-Mechanics/CLI/spells/enlarge-reduce-xphb.md),\
-    \ [mirage arcane](3-Mechanics/CLI/spells/mirage-arcane-xphb.md) (as an action),\
-    \ [polymorph](3-Mechanics/CLI/spells/polymorph-xphb.md), [scrying](3-Mechanics/CLI/spells/scrying-xphb.md)\
-    \ (as an action), [seeming](3-Mechanics/CLI/spells/seeming-xphb.md)"
+    \ each: [divination](/3-Mechanics/CLI/spells/divination-xphb.md), [enlarge/reduce](/3-Mechanics/CLI/spells/enlarge-reduce-xphb.md),\
+    \ [mirage arcane](/3-Mechanics/CLI/spells/mirage-arcane-xphb.md) (as an action),\
+    \ [polymorph](/3-Mechanics/CLI/spells/polymorph-xphb.md), [scrying](/3-Mechanics/CLI/spells/scrying-xphb.md)\
+    \ (as an action), [seeming](/3-Mechanics/CLI/spells/seeming-xphb.md)"
   "name": "Spellcasting"
 - "desc": "If Tanazir fails a saving throw, she can choose to succeed instead."
   "name": "Legendary Resistance (3/Day)"
@@ -72,11 +72,11 @@ Tanazir's spells, legendary actions, and breath weapon manifest luminous pattern
   "name": "Claw"
 - "desc": "Tanazir exhales a weakening equation in a 90-foot cone. Each creature in\
     \ that area must make a DC 23 Constitution saving throw. On a failed save, a creature\
-    \ takes 45 (13d6) force damage and 45 (13d6) psychic damage and is weakened\
-    \ until the start of Tanazir's next turn. While weakened, it has disadvantage\
-    \ on the following rolls that rely on Strength: attack rolls, ability checks,\
-    \ and saving throws. On a successful save, a creature takes half as much damage\
-    \ and isn't weakened."
+    \ takes 45 (13d6) force damage and 45 (13d6) psychic damage and is weakened until\
+    \ the start of Tanazir's next turn. While weakened, it has disadvantage on the\
+    \ following rolls that rely on Strength: attack rolls, ability checks, and saving\
+    \ throws. On a successful save, a creature takes half as much damage and isn't\
+    \ weakened."
   "name": "Diminution Breath (Recharge 5-6)"
 - "desc": "Tanazir teleports to an unoccupied space she can see within 100 feet of\
     \ herself."
@@ -88,7 +88,7 @@ Tanazir's spells, legendary actions, and breath weapon manifest luminous pattern
     \ she left must succeed on a DC 24 Strength saving throw or be pulled up to 30\
     \ feet closer to the center of that space and take 16 (3d10) force damage."
   "name": "Fold Space (Costs 2 Actions)"
-- "desc": "Tanazir magically summons 1d4 [fractal mascots](3-Mechanics/CLI/bestiary/construct/fractal-mascot-scc.md)\
+- "desc": "Tanazir magically summons 1d4 [fractal mascots](/3-Mechanics/CLI/bestiary/construct/fractal-mascot-scc.md)\
     \ in unoccupied spaces she can see within 120 feet of herself. The fractals obey\
     \ her commands and take their turns immediately after hers. While any of these\
     \ fractals remain, attack rolls made against Tanazir have disadvantage. A summoned\
@@ -97,6 +97,6 @@ Tanazir's spells, legendary actions, and breath weapon manifest luminous pattern
   "name": "Fractal Refraction (Costs 3 Actions)"
 "source":
 - "SCC"
-"image": "3-Mechanics/CLI/bestiary/npc/token/tanazir-quandrix-scc.webp"
+"image": "/3-Mechanics/CLI/bestiary/npc/token/tanazir-quandrix-scc.webp"
 ```
 ^statblock

@@ -18,4 +18,4 @@ You can speak telepathically to any creature you can see within 60 feet of yours
 
 ## Detect Thoughts
 
-You always have the [Detect Thoughts](3-Mechanics/CLI/spells/detect-thoughts-xphb.md) spell prepared. You can cast it without a spell slot or spell components, and you must finish a Long Rest before you can cast it in this way again. You can also cast it using spell slots you have of the appropriate level. Your spellcasting ability for the spell is the ability increased by this feat.
+You always have the [Detect Thoughts](/3-Mechanics/CLI/spells/detect-thoughts-xphb.md) spell prepared. You can cast it without a spell slot or spell components, and you must finish a Long Rest before you can cast it in this way again. You can also cast it using spell slots you have of the appropriate level. Your spellcasting ability for the spell is the ability increased by this feat.

@@ -7,7 +7,7 @@ tags:
 aliases: ["Boon of Combat Prowess"]
 ---
 # Boon of Combat Prowess
-*Source: Player's Handbook (2024) p. 210. Available in the Free Rules (2024)*  
+*Source: Player's Handbook (2024) p. 210. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
 **Prerequisite**: 19th
 **Ability Score Increase**: Increase one ability score of your choice by 1, to a maximum of 30.
 You gain the following benefits.

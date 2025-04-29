@@ -10,6 +10,7 @@ tags:
 - ttrpg-cli/spell/class/wizard
 - ttrpg-cli/spell/level/5th-level
 - ttrpg-cli/spell/school/divination
+- ttrpg-cli/spell/subclass/divine-soul
 - ttrpg-cli/spell/subclass/diviner
 - ttrpg-cli/spell/subclass/light-domain
 - ttrpg-cli/spell/subclass/oath-of-vengeance
@@ -19,6 +20,7 @@ classes:
 - Cleric (Light Domain)
 - Druid
 - Paladin (Oath of Vengeance)
+- Sorcerer (Divine Soul)
 - Warlock
 - Wizard
 - Wizard (Diviner)
@@ -26,7 +28,7 @@ aliases: ["Scrying"]
 ---
 # Scrying
 *5th-level, Divination*  
-![](3-Mechanics/CLI/spells/img/scrying.webp#right)
+![](/3-Mechanics/CLI/spells/img/scrying.webp#right)
 
 - **Casting time:** 10 minutes
 - **Range:** Self
@@ -51,10 +53,10 @@ You can see and hear a creature you choose that is on the same plane of existenc
 
 On a successful save, the target isn't affected, and you can't use this spell on it again for 24 hours.
 
-On a failed save, the spell creates an [Invisible](3-Mechanics/CLI/rules/conditions.md#Invisible), intangible sensor within 10 feet of the target. You can see and hear through the sensor as if you were there. The sensor moves with the target, remaining within 10 feet of it for the duration. If something can see the sensor, it appears as a luminous orb about the size of your fist.
+On a failed save, the spell creates an [Invisible](/3-Mechanics/CLI/conditions.md#Invisible), intangible sensor within 10 feet of the target. You can see and hear through the sensor as if you were there. The sensor moves with the target, remaining within 10 feet of it for the duration. If something can see the sensor, it appears as a luminous orb about the size of your fist.
 
 Instead of targeting a creature, you can target a location you have seen. When you do so, the sensor appears at that location and doesn't move.
 
-**Classes**: [Cleric](3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Bard](3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Druid](3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Paladin (Oath of Vengeance)](3-Mechanics/CLI/lists/list-spells-classes-paladin-xphb-oath-of-vengeance-xphb.md "subclass=XPHB;class=XPHB"); [Wizard (Diviner)](3-Mechanics/CLI/lists/list-spells-classes-wizard-xphb-diviner-xphb.md "subclass=XPHB;class=XPHB"); [Warlock](3-Mechanics/CLI/lists/list-spells-classes-warlock.md); [Wizard](3-Mechanics/CLI/lists/list-spells-classes-wizard.md); [Cleric (Light Domain)](3-Mechanics/CLI/lists/list-spells-classes-cleric-xphb-light-domain-xphb.md "subclass=XPHB;class=XPHB")
+**Classes**: [Cleric (Light Domain)](/3-Mechanics/CLI/lists/list-spells-classes-cleric-xphb-light-domain-xphb.md "subclass=XPHB;class=XPHB"); [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Sorcerer (Divine Soul)](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer-xphb-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Warlock](/3-Mechanics/CLI/lists/list-spells-classes-warlock.md); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Paladin (Oath of Vengeance)](/3-Mechanics/CLI/lists/list-spells-classes-paladin-xphb-oath-of-vengeance-xphb.md "subclass=XPHB;class=XPHB"); [Wizard (Diviner)](/3-Mechanics/CLI/lists/list-spells-classes-wizard-xphb-diviner-xphb.md "subclass=XPHB;class=XPHB"); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 313. Available in the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 313. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*

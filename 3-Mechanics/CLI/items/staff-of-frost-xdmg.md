@@ -12,15 +12,15 @@ aliases:
 ---
 # Staff of Frost
 *Staff, weapon, very rare (requires attunement by a druid, sorcerer, warlock, or wizard)*  
-![](3-Mechanics/CLI/items/img/staff-of-frost.webp#right)
+![](/3-Mechanics/CLI/items/img/staff-of-frost.webp#right)
 
 - **Damage**:
   - One-handed: 1d6 bludgeoning
   - Two-handed: 1d8 bludgeoning
-- **Properties**: [Versatile](3-Mechanics/CLI/rules/item-properties.md#Versatile)
+- **Properties**: [Versatile](/3-Mechanics/CLI/item-properties.md#Versatile)
 - **Weight**: 4.0 lbs.
 
-You have [Resistance](3-Mechanics/CLI/rules/variant-rules/resistance-xphb.md) to Cold damage while you hold this staff.
+You have [Resistance](/3-Mechanics/CLI/variant-rules/resistance-xphb.md) to Cold damage while you hold this staff.
 
 ## Spells
 
@@ -28,14 +28,14 @@ The staff has 10 charges. While holding the staff, you can cast one of the spell
 
 | Spell | Charge Cost |
 |-------|-------------|
-| [Cone of Cold](3-Mechanics/CLI/spells/cone-of-cold-xphb.md) | 5 |
-| [Fog Cloud](3-Mechanics/CLI/spells/fog-cloud-xphb.md) | 1 |
-| [Ice Storm](3-Mechanics/CLI/spells/ice-storm-xphb.md) | 4 |
-| [Wall of Ice](3-Mechanics/CLI/spells/wall-of-ice-xphb.md) | 4 |
+| [Cone of Cold](/3-Mechanics/CLI/spells/cone-of-cold-xphb.md) | 5 |
+| [Fog Cloud](/3-Mechanics/CLI/spells/fog-cloud-xphb.md) | 1 |
+| [Ice Storm](/3-Mechanics/CLI/spells/ice-storm-xphb.md) | 4 |
+| [Wall of Ice](/3-Mechanics/CLI/spells/wall-of-ice-xphb.md) | 4 |
 ^spell-charge-cost
 
 ## Regaining Charges
 
-The staff regains `1d6 + 4` expended charges daily at dawn. If you expend the last charge, roll `d20`. On a 1, the staff turns to water and is destroyed.
+The staff regains `dice:1d6+4|noform|noparens|avg` (`1d6 + 4`) expended charges daily at dawn. If you expend the last charge, roll `dice:1d20|noform|noparens|avg` (`d20`). On a 1, the staff turns to water and is destroyed.
 
-*Source: Dungeon Master's Guide (2024) p. 308*
+*Source: Dungeon Master's Guide (2024) p. 308. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*

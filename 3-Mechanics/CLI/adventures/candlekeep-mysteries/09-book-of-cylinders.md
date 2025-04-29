@@ -8,7 +8,7 @@ aliases: ["Book of Cylinders"]
 # Book of Cylinders
 *Source: Candlekeep Mysteries, p. 91* 
 
-![Book of Cylinders](3-Mechanics/CLI/adventures/candlekeep-mysteries/img/058-08-001-book-of-cylinders.webp#center)
+![Book of Cylinders](/3-Mechanics/CLI/adventures/candlekeep-mysteries/img/058-08-001-book-of-cylinders.webp#center)
 
 **An Adventure for 6th-level Characters**  
 **Developed & Edited by Kim Mohan**  
@@ -25,7 +25,7 @@ While the characters are conducting research or relaxing in Candlekeep, a member
 > A robed dragonborn clears her throat as she approaches you. Cradled in her arms is a green book. "Please forgive the interruption," she says. "My name is Pelk, and I speak for the Avowed. You're adventurers, are you not?"
 ^251
 
-Pelk is a dragonborn [commoner](3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md) of copper dragon ancestry and a member of the Avowed. Her superiors have authorized her to brief the characters on a situation requiring their unique talents:
+Pelk is a dragonborn [commoner](/3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md) of copper dragon ancestry and a member of the Avowed. Her superiors have authorized her to brief the characters on a situation requiring their unique talents:
 
 > [!readaloud] 
 > 
@@ -47,7 +47,7 @@ If the characters agree to undertake the quest, Pelk hands them the *Book of Cyl
 
 Pelk allows the characters to inspect the book. It is surprisingly light, and brief examination shows it to be a cunningly contrived container. Its covering is made of supple leather reinforced with thicker strips of hide. Opening the cover reveals three intricately carved, hollow wooden cylinders and a linen bag of dry clay artfully decorated with a drop of water.
 
-![Wooden Cylinders](3-Mechanics/CLI/adventures/candlekeep-mysteries/img/059-08-002-wooden-cylinders.webp#center)
+![Wooden Cylinders](/3-Mechanics/CLI/adventures/candlekeep-mysteries/img/059-08-002-wooden-cylinders.webp#center)
 
 The outside of each cylinder is covered with writing and simple images, apparently telling a story in three parts. If the characters can't figure out what the cylinders have to say, Pelk or another staff member at Candlekeep can give them instructions.
 
@@ -76,7 +76,7 @@ It should be apparent to the characters, from whatever information they have gle
 
 ### Sea Voyage
 
-If the characters need further persuasion, Mitor Jans tells them that he and his ship, the *Dog Ear*, have made the trip from Candlekeep to the trading post and back again more times than he can count. He and his crew know exactly where to sail to avoid undersea hazards and stay on the most efficient route. If the characters are suspicious of Mitor's motives, a successful DC 10 Wisdom ([Insight](3-Mechanics/CLI/rules/skills.md#Insight)) check is all it takes to verify the truth of his claims.
+If the characters need further persuasion, Mitor Jans tells them that he and his ship, the *Dog Ear*, have made the trip from Candlekeep to the trading post and back again more times than he can count. He and his crew know exactly where to sail to avoid undersea hazards and stay on the most efficient route. If the characters are suspicious of Mitor's motives, a successful DC 10 Wisdom ([Insight](/3-Mechanics/CLI/skills.md#Insight)) check is all it takes to verify the truth of his claims.
 
 In fact, this is the faster of the two routes. The trip takes a day and a half (36 hours), with no encounters en route.
 
@@ -84,7 +84,7 @@ In fact, this is the faster of the two routes. The trip takes a day and a half (
 
 *Neutral good half-orc*
 
-Mitor (use the [bandit captain](3-Mechanics/CLI/bestiary/humanoid/bandit-captain-xmm.md) stat block, if necessary) joined Candlekeep as a young acolyte but soon found he was more suited to a life on the sea. His greatest source of pride is the book he has written about fish anatomy, which includes a detailed examination of sahuagin biology. He is willing to transport the party, but neither he nor his crew will join in a fight.
+Mitor (use the [bandit captain](/3-Mechanics/CLI/bestiary/humanoid/bandit-captain-xmm.md) stat block, if necessary) joined Candlekeep as a young acolyte but soon found he was more suited to a life on the sea. His greatest source of pride is the book he has written about fish anatomy, which includes a detailed examination of sahuagin biology. He is willing to transport the party, but neither he nor his crew will join in a fight.
 
 ### Overland Voyage
 
@@ -111,7 +111,7 @@ The primitive shelters are the new homes of grippli who escaped when the evil yu
 
 #### Pond Mother Speaks
 
-The village's leader, who holds the title of Pond Mother, is an aged [grippli warrior](3-Mechanics/CLI/bestiary/humanoid/grippli-warrior-cm.md) (see the end of the adventure for her stat block stat block). She evacuated the village when most of the other residents did and has set up quarters inside the large building. Assuming the characters are cooperative, the grippli guards take the visitors directly to her. If the party seems trustworthy, she speaks to them. She prefers Primordial (it's easier on grippli vocal cords) to address outsiders, but she can speak Common if there are no Primordial speakers in the group.
+The village's leader, who holds the title of Pond Mother, is an aged [grippli warrior](/3-Mechanics/CLI/bestiary/humanoid/grippli-warrior-cm.md) (see the end of the adventure for her stat block stat block). She evacuated the village when most of the other residents did and has set up quarters inside the large building. Assuming the characters are cooperative, the grippli guards take the visitors directly to her. If the party seems trustworthy, she speaks to them. She prefers Primordial (it's easier on grippli vocal cords) to address outsiders, but she can speak Common if there are no Primordial speakers in the group.
 
 She informs the party that a small band of yuan-ti arrived in the area over a month ago, claiming to be followers of a benevolent deity they called the Scaled Mother. They were friendly, the opposite of other yuan-ti that the grippli had encountered and fought with. These yuan-ti expressed interest in excavating and restoring the previous site of the grippli village, a mile from its present location. Pond Mother saw no reason to refuse them, since their motives were seemingly innocent. But then, two tendays afterward, another group of yuan-ti came on the scene. These yuan-ti attacked the village, killed any frogfolk who tried to resist, and captured the grippli who weren't able to escape.
 
@@ -136,7 +136,7 @@ The crab maze is a collection of low-to-the-water walkways, ranging in height fr
 
 No craft larger than a rowboat can navigate the crab maze because the water is too shallow and already occupied by angry giant crabs. The characters are dropped off outside the maze at a point of your choosing. The water is only 4 or 5 feet deep throughout this area, but wading to shore is impossible since the crabs are everywhere. The characters' goal is to get to the breakwater that separates the maze from the village while avoiding the crabs as much as they can.
 
-As the characters move, they must make a successful DC 20 Dexterity ([Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)) group check every 100 feet to avoid attracting giant crabs. If any group check fails, `1d4 + 2` [giant crabs](3-Mechanics/CLI/bestiary/beast/giant-crab-xmm.md) claw their way out of their cages and attack the characters.
+As the characters move, they must make a successful DC 20 Dexterity ([Stealth](/3-Mechanics/CLI/skills.md#Stealth)) group check every 100 feet to avoid attracting giant crabs. If any group check fails, `dice:1d4+2|noform|noparens|avg` (`1d4 + 2`) [giant crabs](/3-Mechanics/CLI/bestiary/beast/giant-crab-xmm.md) claw their way out of their cages and attack the characters.
 
 The processing platforms, located wherever two walkways join or intersect, are safe havens. The platforms are high enough above the water that the crabs won't attack creatures atop one.
 
@@ -146,11 +146,11 @@ After negotiating the maze, the characters come upon a low wall that the grippli
 
 If the characters avoided any contact with the giant crabs, or if they have handled those threats with a minimum of commotion, they can easily move over and beyond the breakwater without alerting the yuan-ti in the village. By taking the shortest path to shore, the characters can make landfall just north of the docks.
 
-Several yuan-ti are roaming through the village when the characters arrive, but the serpentfolk are not particularly vigilant. The characters can earn the yuan-ti's attention by making an undue amount of noise during their approach or giving themselves away with a display of flashy magic. If they do so, a squad of five [yuan-ti purebloods](3-Mechanics/CLI/bestiary/monstrosity/yuan-ti-infiltrator-xmm.md) ambushes them soon after they get out of the water.
+Several yuan-ti are roaming through the village when the characters arrive, but the serpentfolk are not particularly vigilant. The characters can earn the yuan-ti's attention by making an undue amount of noise during their approach or giving themselves away with a display of flashy magic. If they do so, a squad of five [yuan-ti purebloods](/3-Mechanics/CLI/bestiary/monstrosity/yuan-ti-infiltrator-xmm.md) ambushes them soon after they get out of the water.
 
-The yuan-ti, overconfident to a fault, are likely to fight to the death without trying to summon reinforcements. To give the characters a stiffer challenge, you can have a patrol of `1d4 + 2` [yuan-ti purebloods](3-Mechanics/CLI/bestiary/monstrosity/yuan-ti-infiltrator-xmm.md) arrive on the scene, attracted by the sounds of combat, before the original squad has been vanquished.
+The yuan-ti, overconfident to a fault, are likely to fight to the death without trying to summon reinforcements. To give the characters a stiffer challenge, you can have a patrol of `dice:1d4+2|noform|noparens|avg` (`1d4 + 2`) [yuan-ti purebloods](/3-Mechanics/CLI/bestiary/monstrosity/yuan-ti-infiltrator-xmm.md) arrive on the scene, attracted by the sounds of combat, before the original squad has been vanquished.
 
-![Crab Maze](3-Mechanics/CLI/adventures/candlekeep-mysteries/img/060-08-003-crab-maze.webp#center)
+![Crab Maze](/3-Mechanics/CLI/adventures/candlekeep-mysteries/img/060-08-003-crab-maze.webp#center)
 
 ### Village
 
@@ -163,11 +163,11 @@ If the characters get to shore without causing a conflict with the yuan-ti, they
 
 The ground throughout this area is damp and soft at best. Staying dry is difficult to impossible.
 
-The dozen or so [grippli warriors](3-Mechanics/CLI/bestiary/humanoid/grippli-warrior-cm.md) (see the end of the adventure for their stat block) remaining in the village are there only to do the yuan-ti's bidding; they all show signs of abuse from their treatment. Some are in a state of mourning, after being forced to watch the yuan-ti consume their eggs.
+The dozen or so [grippli warriors](/3-Mechanics/CLI/bestiary/humanoid/grippli-warrior-cm.md) (see the end of the adventure for their stat block) remaining in the village are there only to do the yuan-ti's bidding; they all show signs of abuse from their treatment. Some are in a state of mourning, after being forced to watch the yuan-ti consume their eggs.
 
 > [!gallery]
-> ![Map 8.1: Grippli Village](3-Mechanics/CLI/adventures/candlekeep-mysteries/img/061-map-8-01-grippli-village.webp#gallery)
-> ![Player Version](3-Mechanics/CLI/adventures/candlekeep-mysteries/img/062-map-8-01-grippli-village-player.webp#gallery)
+> ![Map 8.1: Grippli Village](/3-Mechanics/CLI/adventures/candlekeep-mysteries/img/061-map-8-01-grippli-village.webp#gallery)
+> ![Player Version](/3-Mechanics/CLI/adventures/candlekeep-mysteries/img/062-map-8-01-grippli-village-player.webp#gallery)
 
 #### Docks
 
@@ -181,7 +181,7 @@ The yuan-ti have no interest in the small boats that are moored here—meaning t
 
 The religious center of the village, this enormous building made of wood and mud bricks has been turned into a prison where the evil yuan-ti are holding some of the followers of the Scaled Mother. The hemispherical building, 20 feet high and 50 feet in diameter, is by far the largest structure in the community.
 
-The ground level contains a pool of water in the center, directly beneath an opening in the roof of the same size. The marshy ground around the pool serves as an assembly area for group ceremonies. Two staircases on opposite sides of the dome lead up to the second floor, which is divided into four chambers, each about 10 feet square. Three of these rooms currently hold a total of ten wounded [yuan-ti purebloods](3-Mechanics/CLI/bestiary/monstrosity/yuan-ti-infiltrator-xmm.md) with half their hit points remaining. These benevolent, neutral good yuan-ti are being guarded by four evil [yuan-ti purebloods](3-Mechanics/CLI/bestiary/monstrosity/yuan-ti-infiltrator-xmm.md) stationed just outside the cells.
+The ground level contains a pool of water in the center, directly beneath an opening in the roof of the same size. The marshy ground around the pool serves as an assembly area for group ceremonies. Two staircases on opposite sides of the dome lead up to the second floor, which is divided into four chambers, each about 10 feet square. Three of these rooms currently hold a total of ten wounded [yuan-ti purebloods](/3-Mechanics/CLI/bestiary/monstrosity/yuan-ti-infiltrator-xmm.md) with half their hit points remaining. These benevolent, neutral good yuan-ti are being guarded by four evil [yuan-ti purebloods](/3-Mechanics/CLI/bestiary/monstrosity/yuan-ti-infiltrator-xmm.md) stationed just outside the cells.
 
 The guards remain at their stations until they hear significant sounds of activity coming from the ground level, or until a character ascends one of the staircases and comes into their view, whereupon they all rush to attack. The prisoners, even if they're left unattended, won't leave their cells willingly while combat is going on.
 
@@ -191,7 +191,7 @@ If the characters dispose of the guards and free the prisoners, the benevolent y
 
 Near the outskirts of the village is the grippli nursery. In five places, built up like the sides of a well, stand 3-foot-high mud-brick walls enclosing 20-foot-diameter circular areas. These repositories, filled with clean, fresh water, are where the grippli lay their eggs and nurture offspring as they mature.
 
-This location is under the control of four [yuan-ti purebloods](3-Mechanics/CLI/bestiary/monstrosity/yuan-ti-infiltrator-xmm.md) and two [yuan-ti malisons](3-Mechanics/CLI/bestiary/monstrosity/yuan-ti-malison-type-1-xmm.md) (any type). They permit a small number of grippli to tend the eggs, which is why the eggs haven't all died since the arrival of the serpentfolk. This permission could be an act of mercy, or it could just be that the yuan-ti like to eat the eggs: each of the malisons has been consuming at least one egg per day, and always within sight of one or more of the grippli for no reason other than cruelty.
+This location is under the control of four [yuan-ti purebloods](/3-Mechanics/CLI/bestiary/monstrosity/yuan-ti-infiltrator-xmm.md) and two [yuan-ti malisons](/3-Mechanics/CLI/bestiary/monstrosity/yuan-ti-malison-type-1-xmm.md) (any type). They permit a small number of grippli to tend the eggs, which is why the eggs haven't all died since the arrival of the serpentfolk. This permission could be an act of mercy, or it could just be that the yuan-ti like to eat the eggs: each of the malisons has been consuming at least one egg per day, and always within sight of one or more of the grippli for no reason other than cruelty.
 
 All six yuan-ti are languishing on the ground between the pools and don't react until at least one of them becomes aware of the characters. If one of the malisons remains alive after 3 rounds of combat, it pours a vial of poison into the water of one pool, which kills all the eggs in it. On each succeeding round, if the characters don't prevent it, the same creature moves to poison a different pool until it is vanquished or until all the eggs have perished.
 
@@ -221,8 +221,8 @@ When the characters approach the temple, they won't be able to escape the notice
 The following locations are keyed to the map of the temple.
 
 > [!gallery]
-> ![Map 8.2: Temple](3-Mechanics/CLI/adventures/candlekeep-mysteries/img/063-map-8-02-temple.webp#gallery)
-> ![Player Version](3-Mechanics/CLI/adventures/candlekeep-mysteries/img/064-map-8-02-temple-player.webp#gallery)
+> ![Map 8.2: Temple](/3-Mechanics/CLI/adventures/candlekeep-mysteries/img/063-map-8-02-temple.webp#gallery)
+> ![Player Version](/3-Mechanics/CLI/adventures/candlekeep-mysteries/img/064-map-8-02-temple-player.webp#gallery)
 
 #### T1. Courtyard
 
@@ -240,27 +240,27 @@ The temple's courtyard can serve as a staging area for the characters, whose pre
 > The upper court of the temple has been completely cleared of debris. Six pillars support the ten-foot-high ceiling, and the northern half of the enclosed area is bathed in bright light, making it easy for you to see the horrific scene playing out in the far end of the room.
 ^26d
 
-The following events are unfolding as the party enters. Lashed to a makeshift altar are two neutral good yuan-ti, a [type 1 yuan-ti malison](3-Mechanics/CLI/bestiary/monstrosity/yuan-ti-malison-type-1-xmm.md) named Maaz and a [yuan-ti pureblood](3-Mechanics/CLI/bestiary/monstrosity/yuan-ti-infiltrator-xmm.md) named Vorsa. They are being tortured by an evil [yuan-ti abomination](3-Mechanics/CLI/bestiary/monstrosity/yuan-ti-abomination-xmm.md) that is presiding over a ritual. An enormous sarcophagus rests behind them, its exterior carved with serpents. Two [yuan-ti malisons](3-Mechanics/CLI/bestiary/monstrosity/yuan-ti-malison-type-1-xmm.md), a [type 1](3-Mechanics/CLI/bestiary/monstrosity/yuan-ti-malison-type-1-xmm.md) and a [type 3](3-Mechanics/CLI/bestiary/monstrosity/yuan-ti-malison-type-3-xmm.md), are positioned on either side of it. Both are evil. One carries a lantern that is the source of the illumination, and the other one is holding up a chime and preparing to strike it. As the characters take in the scene, the abomination is studying the script on the sarcophagus intently, engrossed in what it sees. At a gesture from the abomination, the chime is struck. As it rings out, the seam around the lid of the sarcophagus glows brightly for an instant. Then the sarcophagus comes open partway, and the bound prisoners howl in agony.
+The following events are unfolding as the party enters. Lashed to a makeshift altar are two neutral good yuan-ti, a [type 1 yuan-ti malison](/3-Mechanics/CLI/bestiary/monstrosity/yuan-ti-malison-type-1-xmm.md) named Maaz and a [yuan-ti pureblood](/3-Mechanics/CLI/bestiary/monstrosity/yuan-ti-infiltrator-xmm.md) named Vorsa. They are being tortured by an evil [yuan-ti abomination](/3-Mechanics/CLI/bestiary/monstrosity/yuan-ti-abomination-xmm.md) that is presiding over a ritual. An enormous sarcophagus rests behind them, its exterior carved with serpents. Two [yuan-ti malisons](/3-Mechanics/CLI/bestiary/monstrosity/yuan-ti-malison-type-1-xmm.md), a [type 1](/3-Mechanics/CLI/bestiary/monstrosity/yuan-ti-malison-type-1-xmm.md) and a [type 3](/3-Mechanics/CLI/bestiary/monstrosity/yuan-ti-malison-type-3-xmm.md), are positioned on either side of it. Both are evil. One carries a lantern that is the source of the illumination, and the other one is holding up a chime and preparing to strike it. As the characters take in the scene, the abomination is studying the script on the sarcophagus intently, engrossed in what it sees. At a gesture from the abomination, the chime is struck. As it rings out, the seam around the lid of the sarcophagus glows brightly for an instant. Then the sarcophagus comes open partway, and the bound prisoners howl in agony.
 
 Even after the evil yuan-ti notice the characters, their first priority is to complete the ritual, which opens the lid of the sarcophagus and kills the prisoners. With fast action and accurate attacks, the characters can interrupt the ritual and prevent further harm to the victims. The abomination must use two of its turns to finish performing the ritual, which climaxes with one more sounding of the chime as the lid is thrown open. If the abomination takes any damage before completing the ritual, it stops what it's doing and turns its attention to the interlopers and attacks them, ordering the malisons to join the fight.
 
 ##### Treasure
 
-The objects used by the malisons are a [chime of opening](3-Mechanics/CLI/items/chime-of-opening-xdmg.md) and a [lantern of revealing](3-Mechanics/CLI/items/lantern-of-revealing-xdmg.md) (which they use as a precaution against [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible) enemies). After the malison strikes the chime for the first time, the item has 5 uses left. The lantern has 2 hours of fuel remaining.
+The objects used by the malisons are a [chime of opening](/3-Mechanics/CLI/items/chime-of-opening-xdmg.md) and a [lantern of revealing](/3-Mechanics/CLI/items/lantern-of-revealing-xdmg.md) (which they use as a precaution against [invisible](/3-Mechanics/CLI/conditions.md#Invisible) enemies). After the malison strikes the chime for the first time, the item has 5 uses left. The lantern has 2 hours of fuel remaining.
 
-Assuming the characters interrupted the ritual, the lid of the sarcophagus is only slightly open, and the chime must be struck once more to open the lid fully. Inside the sarcophagus are two items of great significance to the yuan-ti: a suit of [serpent scale armor](3-Mechanics/CLI/items/serpent-scale-armor-cm.md) and a [serpent's fang](3-Mechanics/CLI/items/serpents-fang-cm.md) (both described below).
+Assuming the characters interrupted the ritual, the lid of the sarcophagus is only slightly open, and the chime must be struck once more to open the lid fully. Inside the sarcophagus are two items of great significance to the yuan-ti: a suit of [serpent scale armor](/3-Mechanics/CLI/items/serpent-scale-armor-cm.md) and a [serpent's fang](/3-Mechanics/CLI/items/serpents-fang-cm.md) (both described below).
 
 #### Serpent Scale Armor
 
 *Armor (scale mail), uncommon*
 
-This suit of magic armor is made from shimmering scales. While wearing it, you can apply your full Dexterity modifier (instead of a maximum of +2) when determining your Armor Class. In addition, this armor does not impose disadvantage on your Dexterity ([Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)) checks.
+This suit of magic armor is made from shimmering scales. While wearing it, you can apply your full Dexterity modifier (instead of a maximum of +2) when determining your Armor Class. In addition, this armor does not impose disadvantage on your Dexterity ([Stealth](/3-Mechanics/CLI/skills.md#Stealth)) checks.
 
 #### Serpent's Fang
 
 *Weapon (longsword), rare*
 
-This single-edged magic sword is made from the scrimshawed fang of a giant serpent. Its hilt changes shape to adjust to the grasp of any creature that picks it up. The weapon deals an extra `1d10` poison damage to any target it hits.
+This single-edged magic sword is made from the scrimshawed fang of a giant serpent. Its hilt changes shape to adjust to the grasp of any creature that picks it up. The weapon deals an extra `dice:1d10|noform|noparens|avg` (`1d10`) poison damage to any target it hits.
 
 ## Aftermath
 
@@ -282,7 +282,7 @@ In the meantime, if the characters prevented one or more eggs in the brood pools
 
 At first glance or from a distance, a grippli looks like a large frog. Its head and body are indeed those of a frog, but its front extremities end in hands with fingers that enable it to manipulate weapons and other objects, and its rear legs have similar digits that it can use for grasping and climbing. A grippli can move as quickly on all fours as it can on two legs.
 
-![Grippli Warrior](3-Mechanics/CLI/adventures/candlekeep-mysteries/img/065-637514193136770284.webp#center)
+![Grippli Warrior](/3-Mechanics/CLI/adventures/candlekeep-mysteries/img/065-637514193136770284.webp#center)
 
 ### Communal Effort
 

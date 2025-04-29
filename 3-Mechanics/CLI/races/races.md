@@ -5,7 +5,6 @@ cssclasses: json5e-note
 # Index of Races
 
 - [Aasimar](./aasimar-xphb.md)
-- [Dragonborn (Gem)](./dragonborn-gem-ftd.md)
 - [Dragonborn](./dragonborn-xphb.md)
 - [Dwarf](./dwarf-xphb.md)
 - [Elf](./elf-xphb.md)

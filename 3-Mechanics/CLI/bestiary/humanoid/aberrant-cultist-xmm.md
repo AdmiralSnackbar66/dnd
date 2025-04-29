@@ -101,12 +101,12 @@ Cults can organize around any mystical tradition, but many serve supernatural be
 "cr": "8"
 "traits":
 - "desc": "The cultist casts one of the following spells, using Wisdom as the spellcasting\
-    \ ability (spell save DC 15):\n\nAt will: [Detect Thoughts](3-Mechanics/CLI/spells/detect-thoughts-xphb.md),\
-    \ [Minor Illusion](3-Mechanics/CLI/spells/minor-illusion-xphb.md)"
+    \ ability (spell save DC 15):\n\nAt will: [Detect Thoughts](/3-Mechanics/CLI/spells/detect-thoughts-xphb.md),\
+    \ [Minor Illusion](/3-Mechanics/CLI/spells/minor-illusion-xphb.md)"
   "name": "Spellcasting"
-- "desc": "The cultist casts [Counterspell](3-Mechanics/CLI/spells/counterspell-xphb.md)\
+- "desc": "The cultist casts [Counterspell](/3-Mechanics/CLI/spells/counterspell-xphb.md)\
     \ in response to that spell's trigger, using the same spellcasting ability as\
-    \ Spellcasting.\n\n2/day: [Counterspell](3-Mechanics/CLI/spells/counterspell-xphb.md)"
+    \ Spellcasting.\n\n2/day: [Counterspell](/3-Mechanics/CLI/spells/counterspell-xphb.md)"
   "name": "Counterspell (2/Day)"
 "actions":
 - "desc": "The cultist makes two Tentacle Lash attacks. It can replace any attack\
@@ -114,18 +114,18 @@ Cults can organize around any mystical tradition, but many serve supernatural be
   "name": "Multiattack"
 - "desc": "Melee Attack Roll: +7, reach 10 ft. Hit: 7 (1d6 + 4) Slashing damage\
     \ plus 14 (4d6) Psychic damage. If the target is a Large or smaller creature,\
-    \ it has the [Grappled](3-Mechanics/CLI/rules/conditions.md#Grappled) condition\
-    \ (escape DC 14) from one of two tentacles, and it has the [Restrained](3-Mechanics/CLI/rules/conditions.md#Restrained)\
+    \ it has the [Grappled](/3-Mechanics/CLI/conditions.md#Grappled) condition (escape\
+    \ DC 14) from one of two tentacles, and it has the [Restrained](/3-Mechanics/CLI/conditions.md#Restrained)\
     \ condition until the grapple ends."
   "name": "Tentacle Lash"
 - "desc": "Wisdom Saving Throw: DC 15, one creature the cultist can see within 90\
-    \ feet. Failure: 27 (6d8) Psychic damage, and the target has the [Poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)\
+    \ feet. Failure: 27 (6d8) Psychic damage, and the target has the [Poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)\
     \ condition until the start of the cultist's next turn. Success: Half damage\
     \ only."
   "name": "Mind Rot"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/aberrant-cultist-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/humanoid/token/aberrant-cultist-xmm.webp"
 ```
 ^statblock
 

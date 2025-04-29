@@ -48,23 +48,23 @@ The Oriq work in secret, infiltrating Strixhaven to search for the magic their m
   "Arcana": !!int "5"
   "Persuasion": !!int "6"
 "damage_resistances": "psychic"
-"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened)"
+"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [frightened](/3-Mechanics/CLI/conditions.md#Frightened)"
 "senses": "passive Perception 12"
 "languages": "Common plus any two languages"
 "cr": "4"
 "traits":
 - "desc": "The recruiter casts one of the following spells, requiring no material\
     \ components and using Charisma as the spellcasting ability (spell save DC 14):\n\
-    \nAt will: [disguise self](3-Mechanics/CLI/spells/disguise-self-xphb.md),\
-    \ [silent image](3-Mechanics/CLI/spells/silent-image-xphb.md)\n\n1/day: [suggestion](3-Mechanics/CLI/spells/suggestion-xphb.md)\n\
-    \n2/day: [charm person](3-Mechanics/CLI/spells/charm-person-xphb.md)"
+    \nAt will: [disguise self](/3-Mechanics/CLI/spells/disguise-self-xphb.md),\
+    \ [silent image](/3-Mechanics/CLI/spells/silent-image-xphb.md)\n\n1/day: [suggestion](/3-Mechanics/CLI/spells/suggestion-xphb.md)\n\
+    \n2/day: [charm person](/3-Mechanics/CLI/spells/charm-person-xphb.md)"
   "name": "Spellcasting"
 - "desc": "The AC of the recruiter includes its Charisma modifier while it isn't wearing\
     \ armor or wielding a shield."
   "name": "Misdirecting Defense"
 - "desc": "The recruiter wears an Oriq mask. While wearing the mask, the recruiter\
     \ can't be targeted by any divination magic or perceived through magical scrying\
-    \ sensors, and it adds double its proficiency bonus to Charisma ([Deception](3-Mechanics/CLI/rules/skills.md#Deception))\
+    \ sensors, and it adds double its proficiency bonus to Charisma ([Deception](/3-Mechanics/CLI/skills.md#Deception))\
     \ checks (included above)."
   "name": "Oriq Mask"
 "actions":
@@ -76,6 +76,6 @@ The Oriq work in secret, infiltrating Strixhaven to search for the magic their m
   "name": "Psychic Knife"
 "source":
 - "SCC"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/oriq-recruiter-scc.webp"
+"image": "/3-Mechanics/CLI/bestiary/humanoid/token/oriq-recruiter-scc.webp"
 ```
 ^statblock

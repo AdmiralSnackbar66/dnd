@@ -10,7 +10,7 @@ statblock: inline
 aliases: ["Giant Insect (Centipede)"]
 ---
 # [Giant Insect (Centipede)](3-Mechanics\CLI\bestiary\beast/giant-insect-centipede-xphb.md)
-*Source: Player's Handbook (2024) p. 279*  
+*Source: Player's Handbook (2024) p. 279. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
 
 ```statblock
 "name": "Giant Insect (Centipede) (XPHB)"
@@ -37,12 +37,12 @@ aliases: ["Giant Insect (Centipede)"]
     \ down)."
   "name": "Multiattack"
 - "desc": "Melee Attack Roll: YourSpellAttack Bonus equals your spell attack modifier,\
-    \ reach 10 ft. Hit: 1d6 + 3 + the spell's level Piercing damage plus 1d4\
-    \ Poison damage."
+    \ reach 10 ft. Hit: 1d6 + 3 + the spell's level Piercing damage plus 1d4 Poison\
+    \ damage."
   "name": "Poison Jab"
 "bonus_actions":
 - "desc": "Constitution Saving Throw: Your spell save DC, one creature the insect\
-    \ can see within 10 feet. Failure: The target has the [Poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)\
+    \ can see within 10 feet. Failure: The target has the [Poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)\
     \ condition until the start of the insect's next turn."
   "name": "Venomous Spew (Centipede Only)"
 "source":

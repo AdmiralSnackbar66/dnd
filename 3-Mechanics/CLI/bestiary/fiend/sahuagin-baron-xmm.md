@@ -59,8 +59,8 @@ Sahuagin constantly war on any peoples living near their territory. Merfolk and 
 "languages": "Sahuagin"
 "cr": "5"
 "traits":
-- "desc": "The sahuagin has [Advantage](3-Mechanics/CLI/rules/variant-rules/advantage-xphb.md)\
-    \ on attack rolls against any creature that doesn't have all its [Hit Points](3-Mechanics/CLI/rules/variant-rules/hit-points-xphb.md)."
+- "desc": "The sahuagin has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
+    \ on attack rolls against any creature that doesn't have all its [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)."
   "name": "Blood Frenzy"
 - "desc": "The sahuagin can breathe air and water, but it must be submerged at least\
     \ once every 4 hours to avoid suffocating outside water."
@@ -76,18 +76,18 @@ Sahuagin constantly war on any peoples living near their territory. Merfolk and 
   "name": "Trident"
 "reactions":
 - "desc": "Trigger: The sahuagin takes Piercing or Slashing damage. _Response—_Constitution\
-    \ Saving Throw: DC 14, each creature of the sahuagin's choice in a 5-foot [Emanation](3-Mechanics/CLI/rules/variant-rules/emanation-area-of-effect-xphb.md)\
+    \ Saving Throw: DC 14, each creature of the sahuagin's choice in a 5-foot [Emanation](/3-Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md)\
     \ originating from the sahuagin. Failure: 10 (3d6) Acid damage, and the target\
-    \ is cursed until it finishes a [Short](3-Mechanics/CLI/rules/variant-rules/short-rest-xphb.md)\
-    \ or [Long Rest](3-Mechanics/CLI/rules/variant-rules/long-rest-xphb.md). While\
-    \ cursed, the target can't benefit from the [Invisible](3-Mechanics/CLI/rules/conditions.md#Invisible)\
-    \ condition, its [Speed](3-Mechanics/CLI/rules/variant-rules/speed-xphb.md) decreases\
+    \ is cursed until it finishes a [Short](/3-Mechanics/CLI/variant-rules/short-rest-xphb.md)\
+    \ or [Long Rest](/3-Mechanics/CLI/variant-rules/long-rest-xphb.md). While cursed,\
+    \ the target can't benefit from the [Invisible](/3-Mechanics/CLI/conditions.md#Invisible)\
+    \ condition, its [Speed](/3-Mechanics/CLI/variant-rules/speed-xphb.md) decreases\
     \ by 10 feet, and all Fiends within 120 feet of the target can sense its location\
     \ regardless of interposing obstacles."
   "name": "Fiendish Blood"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/fiend/token/sahuagin-baron-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/fiend/token/sahuagin-baron-xmm.webp"
 ```
 ^statblock
 

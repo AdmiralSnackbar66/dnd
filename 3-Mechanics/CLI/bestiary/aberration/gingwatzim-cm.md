@@ -34,7 +34,7 @@ A gingwatzim can assume two other forms that are determined by its creator at th
 - !!int "6"
 "speed": "30 ft., fly 30 ft. (hover) in its true form only"
 "damage_immunities": "poison"
-"condition_immunities": "[poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"condition_immunities": "[poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
 "senses": "blindsight 60 ft. (blind beyond this radius), passive Perception 10"
 "languages": "telepathy 60 ft."
 "cr": "2"
@@ -48,10 +48,10 @@ A gingwatzim can assume two other forms that are determined by its creator at th
 "actions":
 - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 16\
     \ (4d6 + 2) necrotic damage, and the target must succeed on a DC 12 Constitution\
-    \ saving throw or gain 1 level of [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion).\
+    \ saving throw or gain 1 level of [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion).\
     \ When the target finishes a short or long rest, the target loses every level\
-    \ of [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion) gained from\
-    \ this attack."
+    \ of [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion) gained from this\
+    \ attack."
   "name": "Energy Drain (True Form Only)"
 - "desc": "The gingwatzim changes from its true form—a 3-foot-diameter sphere of luminous\
     \ ectoplasm—into one of its two alternate forms, or from one of those forms back\
@@ -63,6 +63,6 @@ A gingwatzim can assume two other forms that are determined by its creator at th
   "name": "Change Shape"
 "source":
 - "CM"
-"image": "3-Mechanics/CLI/bestiary/aberration/token/gingwatzim-cm.webp"
+"image": "/3-Mechanics/CLI/bestiary/aberration/token/gingwatzim-cm.webp"
 ```
 ^statblock

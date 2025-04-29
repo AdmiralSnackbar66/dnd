@@ -8,7 +8,7 @@ aliases: ["Shemshime's Bedtime Rhyme"]
 # Shemshime's Bedtime Rhyme
 *Source: Candlekeep Mysteries, p. 61* 
 
-![Shemshime's Bedtime Rhyme](3-Mechanics/CLI/adventures/candlekeep-mysteries/img/042-06-001-book.webp#center)
+![Shemshime's Bedtime Rhyme](/3-Mechanics/CLI/adventures/candlekeep-mysteries/img/042-06-001-book.webp#center)
 
 **An Adventure for 4th-level Characters**  
 **Developed & Edited by Michele Carter**  
@@ -20,9 +20,9 @@ aliases: ["Shemshime's Bedtime Rhyme"]
 
 The adventure takes place in the Firefly Cellar, a windowless basement beneath the House of Rest, so named because its only light comes from lamps lit by swarms of fireflies.
 
-After spending the night here, all the characters wake up in the morning with the same tune in their heads, and each one hums it under their breath. They soon discover that the tune has "spread" to the Firefly Cellar's other occupants, and the Avowed institute a quarantine to contain what is actually a curse. The adventure is built around a sequence of events that unfold when the characters are quarantined in Candlekeep's Firefly Cellar with a handful of the library's attendants, in an attempt to keep [Shemshime](3-Mechanics/CLI/bestiary/npc/shemshime-cm.md)'s curse from spreading throughout the entire library. The events describe [Shemshime](3-Mechanics/CLI/bestiary/npc/shemshime-cm.md)'s growing supernatural influence and how people deal with the mounting pressure of confinement under dangerous circumstances.
+After spending the night here, all the characters wake up in the morning with the same tune in their heads, and each one hums it under their breath. They soon discover that the tune has "spread" to the Firefly Cellar's other occupants, and the Avowed institute a quarantine to contain what is actually a curse. The adventure is built around a sequence of events that unfold when the characters are quarantined in Candlekeep's Firefly Cellar with a handful of the library's attendants, in an attempt to keep [Shemshime](/3-Mechanics/CLI/bestiary/npc/shemshime-cm.md)'s curse from spreading throughout the entire library. The events describe [Shemshime](/3-Mechanics/CLI/bestiary/npc/shemshime-cm.md)'s growing supernatural influence and how people deal with the mounting pressure of confinement under dangerous circumstances.
 
-The characters must identify the curse's source. Their search eventually leads them to Crinkle, the Firefly Cellar's kenku caretaker, who has the book. *Shemshime's Bedtime Rhyme* contains the malevolent spirit called [Shemshime](3-Mechanics/CLI/bestiary/npc/shemshime-cm.md), and the book holds the secret of how to stop it.
+The characters must identify the curse's source. Their search eventually leads them to Crinkle, the Firefly Cellar's kenku caretaker, who has the book. *Shemshime's Bedtime Rhyme* contains the malevolent spirit called [Shemshime](/3-Mechanics/CLI/bestiary/npc/shemshime-cm.md), and the book holds the secret of how to stop it.
 
 Below is an outline of the events in the order that they occur:
 
@@ -32,11 +32,11 @@ Event 2: Ebder's Outburst. One of the Avowed is overwhelmed by the curse, and hi
 
 Event 3: Singing Skull. The cursed remains of the book dealer who brought *Shemshime's Bedtime Rhyme* to Candlekeep are discovered when the skull begins to sing the rhyme about where it was hidden centuries ago.
 
-Event 4: Escape Attempt. A visiting scholar named [K'Tulah](3-Mechanics/CLI/bestiary/npc/ktulah-cm.md) succumbs to the mounting tension and tries to break out of the cellar, threatening to spread the curse throughout Candlekeep.
+Event 4: Escape Attempt. A visiting scholar named [K'Tulah](/3-Mechanics/CLI/bestiary/npc/ktulah-cm.md) succumbs to the mounting tension and tries to break out of the cellar, threatening to spread the curse throughout Candlekeep.
 
-Event 5: Puppets. [Shemshime](3-Mechanics/CLI/bestiary/npc/shemshime-cm.md)'s magic takes control of characters trapped in the library, causing them to violently turn on each other.
+Event 5: Puppets. [Shemshime](/3-Mechanics/CLI/bestiary/npc/shemshime-cm.md)'s magic takes control of characters trapped in the library, causing them to violently turn on each other.
 
-Event 6: Shemshime. The characters find the book and must discover how to stop the curse while confronting [Shemshime](3-Mechanics/CLI/bestiary/npc/shemshime-cm.md).
+Event 6: Shemshime. The characters find the book and must discover how to stop the curse while confronting [Shemshime](/3-Mechanics/CLI/bestiary/npc/shemshime-cm.md).
 
 You dictate the pace at which the events unfold. If you want to draw out the tension of confinement, introduce a new event only after the characters think they have a handle on the current situation. Alternatively, you could bombard them with one event after the other so they can't catch their breath.
 
@@ -44,18 +44,18 @@ You dictate the pace at which the events unfold. If you want to draw out the ten
 
 > [!note] See a Mother Scything Wheat Forgotten Husband Sleeping near with One Swing She Took His Feet with Another Took His Ear
 > 
-> Does the shadow have a name? [SHEMSHIME](3-Mechanics/CLI/bestiary/npc/shemshime-cm.md) Causes grief, avoids the blame [SHEMSHIME](3-Mechanics/CLI/bestiary/npc/shemshime-cm.md)
+> Does the shadow have a name? [SHEMSHIME](/3-Mechanics/CLI/bestiary/npc/shemshime-cm.md) Causes grief, avoids the blame [SHEMSHIME](/3-Mechanics/CLI/bestiary/npc/shemshime-cm.md)
 > 
 > See a dog that knows how to heel Never heeds plea nor command Mother gave it a tasty meal Dog chose instead to eat her hand
 > 
-> Does the shadow have a name? [SHEMSHIME](3-Mechanics/CLI/bestiary/npc/shemshime-cm.md) Causes grief, avoids the blame [SHEMSHIME](3-Mechanics/CLI/bestiary/npc/shemshime-cm.md)
+> Does the shadow have a name? [SHEMSHIME](/3-Mechanics/CLI/bestiary/npc/shemshime-cm.md) Causes grief, avoids the blame [SHEMSHIME](/3-Mechanics/CLI/bestiary/npc/shemshime-cm.md)
 > 
 > See a son doing his chore Washing clothes for folk in town Fell into the river's roar Sank to the bottom and drowned
 > 
-> Does the shadow have a name? [SHEMSHIME](3-Mechanics/CLI/bestiary/npc/shemshime-cm.md) Causes grief, avoids the blame [SHEMSHIME](3-Mechanics/CLI/bestiary/npc/shemshime-cm.md)
+> Does the shadow have a name? [SHEMSHIME](/3-Mechanics/CLI/bestiary/npc/shemshime-cm.md) Causes grief, avoids the blame [SHEMSHIME](/3-Mechanics/CLI/bestiary/npc/shemshime-cm.md)
 ^see-a-mother-scything-wheat-forgotten-husband-sleeping-near-with-one-swing-she-took-his-feet-with-another-took-his-ear
 
-![](3-Mechanics/CLI/adventures/candlekeep-mysteries/img/043-06-002-handout.webp#center)
+![](/3-Mechanics/CLI/adventures/candlekeep-mysteries/img/043-06-002-handout.webp#center)
 
 ## Finding the Book
 
@@ -74,9 +74,9 @@ The book has no pages in the typical sense, but it opens to reveal a pop-up cuta
 
 ### Background
 
-Centuries ago, a family living in a remote water mill endured a string of unfortunate events. A malevolent spirit called [Shemshime](3-Mechanics/CLI/bestiary/npc/shemshime-cm.md) attached itself to the family and caused the "accidents." The daughter finally destroyed [Shemshime](3-Mechanics/CLI/bestiary/npc/shemshime-cm.md) by crushing it under a millstone that had been blessed by a traveling halfling cleric of Chauntea (god of agriculture).
+Centuries ago, a family living in a remote water mill endured a string of unfortunate events. A malevolent spirit called [Shemshime](/3-Mechanics/CLI/bestiary/npc/shemshime-cm.md) attached itself to the family and caused the "accidents." The daughter finally destroyed [Shemshime](/3-Mechanics/CLI/bestiary/npc/shemshime-cm.md) by crushing it under a millstone that had been blessed by a traveling halfling cleric of Chauntea (god of agriculture).
 
-The story became a local legend, a cautionary tale meant to warn people to keep their attention on their chores. When a traveling gnome bard heard the tale, he was so intrigued that he set the story down in the book, *Shemshime's Bedtime Rhyme*. By doing so, he inadvertently created a conduit through which [Shemshime](3-Mechanics/CLI/bestiary/npc/shemshime-cm.md) could return.
+The story became a local legend, a cautionary tale meant to warn people to keep their attention on their chores. When a traveling gnome bard heard the tale, he was so intrigued that he set the story down in the book, *Shemshime's Bedtime Rhyme*. By doing so, he inadvertently created a conduit through which [Shemshime](/3-Mechanics/CLI/bestiary/npc/shemshime-cm.md) could return.
 
 Yowen Pilt procured the book from an adventurer who discovered it among the debris of a shipwreck. He brought the mechanical book to Candlekeep, where it has been ever since.
 
@@ -84,9 +84,9 @@ Yowen Pilt procured the book from an adventurer who discovered it among the debr
 
 The kenku Avowed, Crinkle, loves to collect all kinds of curios and baubles. *Shemshime's Bedtime Rhyme*, with its intricate mechanical workings and charming music box, was too tempting to resist. After years as the Firefly Cellar's caretaker, she discovered the book when it was selected to have its spine repaired as part of a restoration project involving this part of Candlekeep.
 
-Before the adventurers arrive at the Firefly Cellar at the beginning of the adventure, Crinkle brought the book to her room (area F11) and opened it. The music box started to play, and she became the subject of [Shemshime](3-Mechanics/CLI/bestiary/npc/shemshime-cm.md)'s curse.
+Before the adventurers arrive at the Firefly Cellar at the beginning of the adventure, Crinkle brought the book to her room (area F11) and opened it. The music box started to play, and she became the subject of [Shemshime](/3-Mechanics/CLI/bestiary/npc/shemshime-cm.md)'s curse.
 
-The rhyme is presented in the accompanying handout. Until the music box is repaired, it always skips back to the beginning of the song before playing the last stanza. That means the last stanza of [Shemshime](3-Mechanics/CLI/bestiary/npc/shemshime-cm.md)'s rhyme doesn't get implanted in the minds of those who hear the song until the music box is fixed and the tune plays in its entirety. The missing stanza is as follows:
+The rhyme is presented in the accompanying handout. Until the music box is repaired, it always skips back to the beginning of the song before playing the last stanza. That means the last stanza of [Shemshime](/3-Mechanics/CLI/bestiary/npc/shemshime-cm.md)'s rhyme doesn't get implanted in the minds of those who hear the song until the music box is fixed and the tune plays in its entirety. The missing stanza is as follows:
 
 > [!readaloud] See a Daughter Grinding Grain
 > 
@@ -101,15 +101,15 @@ The rhyme is presented in the accompanying handout. Until the music box is repai
 
 Those who hear the melody of the rhyme find it to be irresistibly catchy, and they hum it over and over again. Such individuals have become cursed.
 
-The rhyme acts as a summoning ritual intended to restore [Shemshime](3-Mechanics/CLI/bestiary/npc/shemshime-cm.md). When enough people join in the singing of the rhyme, or enough time passes while people are singing it, the ritual will be completed. As that occasion approaches, [Shemshime](3-Mechanics/CLI/bestiary/npc/shemshime-cm.md)'s power grows. Anyone who hears the cursed tune is in turn cursed to hum or sing it. They are then capable of transmitting it further.
+The rhyme acts as a summoning ritual intended to restore [Shemshime](/3-Mechanics/CLI/bestiary/npc/shemshime-cm.md). When enough people join in the singing of the rhyme, or enough time passes while people are singing it, the ritual will be completed. As that occasion approaches, [Shemshime](/3-Mechanics/CLI/bestiary/npc/shemshime-cm.md)'s power grows. Anyone who hears the cursed tune is in turn cursed to hum or sing it. They are then capable of transmitting it further.
 
 #### Resisting the Rhyme
 
 The characters can will themselves not to sing the rhyme, but doing this requires concentration as though casting a spell (see ""Concentration"" in the "Player's Handbook").
 
-A [silence](3-Mechanics/CLI/spells/silence-xphb.md) spell or similar magic negates the rhyme in the affected area.
+A [silence](/3-Mechanics/CLI/spells/silence-xphb.md) spell or similar magic negates the rhyme in the affected area.
 
-A [remove curse](3-Mechanics/CLI/spells/remove-curse-xphb.md) spell or similar magic ends the curse on a creature, though it remains susceptible to being cursed again. If cast on the book, the magic suppresses the curse on all creatures for 10 minutes.
+A [remove curse](/3-Mechanics/CLI/spells/remove-curse-xphb.md) spell or similar magic ends the curse on a creature, though it remains susceptible to being cursed again. If cast on the book, the magic suppresses the curse on all creatures for 10 minutes.
 
 ## Cellar Inhabitants
 
@@ -119,14 +119,14 @@ A handful of people reside in the Firefly Cellar while the task of restoring its
 
 *Chaotic good sun elf scribe (age 685)*
 
-[Varnyr](3-Mechanics/CLI/bestiary/npc/varnyr-cm.md) is a senior scribe who has spent centuries at Candlekeep. She loves the books, which she cares for as though they were her grandchildren. She has little ambition to rise in the ranks of the Avowed, perfectly content as a senior scribe. She is hardworking and expects others to be as well.
+[Varnyr](/3-Mechanics/CLI/bestiary/npc/varnyr-cm.md) is a senior scribe who has spent centuries at Candlekeep. She loves the books, which she cares for as though they were her grandchildren. She has little ambition to rise in the ranks of the Avowed, perfectly content as a senior scribe. She is hardworking and expects others to be as well.
 
-[Varnyr](3-Mechanics/CLI/bestiary/npc/varnyr-cm.md) was an adjutant when [Shemshime](3-Mechanics/CLI/bestiary/npc/shemshime-cm.md)'s curse first came to Candlekeep, though she is unaware that the book was the cause of the madness.
+[Varnyr](/3-Mechanics/CLI/bestiary/npc/varnyr-cm.md) was an adjutant when [Shemshime](/3-Mechanics/CLI/bestiary/npc/shemshime-cm.md)'s curse first came to Candlekeep, though she is unaware that the book was the cause of the madness.
 
-[Varnyr](3-Mechanics/CLI/bestiary/npc/varnyr-cm.md) is a [noble](3-Mechanics/CLI/bestiary/humanoid/noble-xmm.md) with the following changes:
+[Varnyr](/3-Mechanics/CLI/bestiary/npc/varnyr-cm.md) is a [noble](/3-Mechanics/CLI/bestiary/humanoid/noble-xmm.md) with the following changes:
 
-- [Varnyr](3-Mechanics/CLI/bestiary/npc/varnyr-cm.md) speaks Common and Elvish, and she has [darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) out to a range of 60 feet. She has advantage on saving throws against being [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), and magic can't put her to sleep.  
-- Instead of a rapier, [Varnyr](3-Mechanics/CLI/bestiary/npc/varnyr-cm.md) wields a cane and can use an action to make two melee weapon attacks with it: +3 to hit, reach 5 ft., one target. *Hit*: 2 (`1d4`) bludgeoning damage.  
+- [Varnyr](/3-Mechanics/CLI/bestiary/npc/varnyr-cm.md) speaks Common and Elvish, and she has [darkvision](/3-Mechanics/CLI/senses.md#Darkvision) out to a range of 60 feet. She has advantage on saving throws against being [charmed](/3-Mechanics/CLI/conditions.md#Charmed), and magic can't put her to sleep.  
+- Instead of a rapier, [Varnyr](/3-Mechanics/CLI/bestiary/npc/varnyr-cm.md) wields a cane and can use an action to make two melee weapon attacks with it: +3 to hit, reach 5 ft., one target. *Hit*: `dice:1d4|noform|noparens|avg|text(2)` (`1d4`) bludgeoning damage.  
 
 #### Personality Trait
 
@@ -152,11 +152,11 @@ Ebder is a pessimist who sees every setback as a disaster and every victory as d
 
 Ebder looks older than his actual age, with few traces of black in his otherwise gray hair and a harried expression on his face. His clothes and his fingers are stained with ink.
 
-Ebder is a [commoner](3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md) who speaks Common and has a set of [calligrapher's supplies](3-Mechanics/CLI/items/calligraphers-supplies-xphb.md).
+Ebder is a [commoner](/3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md) who speaks Common and has a set of [calligrapher's supplies](/3-Mechanics/CLI/items/calligraphers-supplies-xphb.md).
 
 #### Personality Trait
 
-"I'm an anxious person. I worry about what Senior Scribe [Varnyr](3-Mechanics/CLI/bestiary/npc/varnyr-cm.md) thinks about me and my work."
+"I'm an anxious person. I worry about what Senior Scribe [Varnyr](/3-Mechanics/CLI/bestiary/npc/varnyr-cm.md) thinks about me and my work."
 
 #### Ideal
 
@@ -198,15 +198,15 @@ She wears a yellow hooded cape that hides her short curly black hair and is miss
 
 *Neutral good tabaxi scholar (age 30)*
 
-[K'Tulah](3-Mechanics/CLI/bestiary/npc/ktulah-cm.md) is a gregarious tabaxi, a catlike humanoid. She arrived at Candlekeep six days ago and received permission to use the library to conduct her research on regional forms of folk magic.
+[K'Tulah](/3-Mechanics/CLI/bestiary/npc/ktulah-cm.md) is a gregarious tabaxi, a catlike humanoid. She arrived at Candlekeep six days ago and received permission to use the library to conduct her research on regional forms of folk magic.
 
-She is an animated talker whose exaggerated gesticulations while chatting annoy [Varnyr](3-Mechanics/CLI/bestiary/npc/varnyr-cm.md), but the elf appreciates her academic expertise.
+She is an animated talker whose exaggerated gesticulations while chatting annoy [Varnyr](/3-Mechanics/CLI/bestiary/npc/varnyr-cm.md), but the elf appreciates her academic expertise.
 
-[K'Tulah](3-Mechanics/CLI/bestiary/npc/ktulah-cm.md) is a tabaxi [druid](3-Mechanics/CLI/bestiary/humanoid/druid-xmm.md) with the following changes:
+[K'Tulah](/3-Mechanics/CLI/bestiary/npc/ktulah-cm.md) is a tabaxi [druid](/3-Mechanics/CLI/bestiary/humanoid/druid-xmm.md) with the following changes:
 
-- [K'Tulah](3-Mechanics/CLI/bestiary/npc/ktulah-cm.md) speaks Common and Druidic, and she has [darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) out to a range of 60 feet.  
-- When [K'Tulah](3-Mechanics/CLI/bestiary/npc/ktulah-cm.md) moves on her turn in combat, she can double her speed until the end of the turn. Once she uses this ability, she can't use it again until she moves 0 feet on one of her turns.  
-- As an action, [K'Tulah](3-Mechanics/CLI/bestiary/npc/ktulah-cm.md) can make a melee weapon attack with her claws: +2 to hit, reach 5 ft., one target. *Hit*: 2 (`1d4`) slashing damage.  
+- [K'Tulah](/3-Mechanics/CLI/bestiary/npc/ktulah-cm.md) speaks Common and Druidic, and she has [darkvision](/3-Mechanics/CLI/senses.md#Darkvision) out to a range of 60 feet.  
+- When [K'Tulah](/3-Mechanics/CLI/bestiary/npc/ktulah-cm.md) moves on her turn in combat, she can double her speed until the end of the turn. Once she uses this ability, she can't use it again until she moves 0 feet on one of her turns.  
+- As an action, [K'Tulah](/3-Mechanics/CLI/bestiary/npc/ktulah-cm.md) can make a melee weapon attack with her claws: +2 to hit, reach 5 ft., one target. *Hit*: `dice:1d4|noform|noparens|avg|text(2)` (`1d4`) slashing damage.  
 
 #### Personality Trait
 
@@ -226,15 +226,15 @@ She is an animated talker whose exaggerated gesticulations while chatting annoy 
 
 ### Crinkle
 
-![Crinkle](3-Mechanics/CLI/adventures/candlekeep-mysteries/img/044-06-003-crinkle.webp#center)
+![Crinkle](/3-Mechanics/CLI/adventures/candlekeep-mysteries/img/044-06-003-crinkle.webp#center)
 
 *Chaotic neutral kenku custodian (age 55)*
 
 The aged kenku has lived in the Firefly Cellar for the past twenty-two years as its custodian and caretaker of its fireflies. She has lost many of her feathers, and those that remain are frayed and disheveled. She carries a long staff with a hook on the end, which she uses to change the firefly lamps that hang from the ceiling.
 
-Crinkle has little patience for others, and she regards Senior Scribe [Varnyr](3-Mechanics/CLI/bestiary/npc/varnyr-cm.md)'s restoration efforts as an invasion. Gailby Smallstone has softened the kenku's dour disposition with her appreciation of interesting objects.
+Crinkle has little patience for others, and she regards Senior Scribe [Varnyr](/3-Mechanics/CLI/bestiary/npc/varnyr-cm.md)'s restoration efforts as an invasion. Gailby Smallstone has softened the kenku's dour disposition with her appreciation of interesting objects.
 
-Crinkle is a [kenku](3-Mechanics/CLI/bestiary/monstrosity/kenku-xmm.md) who has a [ring of the ram](3-Mechanics/CLI/items/ring-of-the-ram-xdmg.md) that has all its charges.
+Crinkle is a [kenku](/3-Mechanics/CLI/bestiary/monstrosity/kenku-xmm.md) who has a [ring of the ram](/3-Mechanics/CLI/items/ring-of-the-ram-xdmg.md) that has all its charges.
 
 #### Personality Trait
 
@@ -258,7 +258,7 @@ The adventure takes place in the Firefly Cellar beneath the House of Rest. Chara
 
 The characters descend into the Firefly Cellar through the hatch in the ceiling of area F1. As they do, read the description of area F1 to the players.
 
-When they arrive, they find the elderly elf [Varnyr](3-Mechanics/CLI/bestiary/npc/varnyr-cm.md) precariously balanced on a ladder while arranging a few of the flowerpots on top of one of the bookcases. She's engrossed in her work. Before the characters say anything, she starts speaking without looking at them.
+When they arrive, they find the elderly elf [Varnyr](/3-Mechanics/CLI/bestiary/npc/varnyr-cm.md) precariously balanced on a ladder while arranging a few of the flowerpots on top of one of the bookcases. She's engrossed in her work. Before the characters say anything, she starts speaking without looking at them.
 
 > [!readaloud] 
 > 
@@ -266,7 +266,7 @@ When they arrive, they find the elderly elf [Varnyr](3-Mechanics/CLI/bestiary/np
 > 
 > "I never left!" grumbles a voice from below.
 > 
-> "Oh?" The elf looks down and seems surprised at your presence. Then she says, indicating the room around her, "Ah. Visitors. I'm Scribe [Varnyr](3-Mechanics/CLI/bestiary/npc/varnyr-cm.md). Sorry for the state of things. As you see, the restoration project is a work in progress. I'll be with you shortly." She returns to her work. A moment later, she says, "Actually, would you mind bringing that stack of books downstairs to Ebder? I'll meet you there." She points to a small pile of books on a stool. "Thanks so much."
+> "Oh?" The elf looks down and seems surprised at your presence. Then she says, indicating the room around her, "Ah. Visitors. I'm Scribe [Varnyr](/3-Mechanics/CLI/bestiary/npc/varnyr-cm.md). Sorry for the state of things. As you see, the restoration project is a work in progress. I'll be with you shortly." She returns to her work. A moment later, she says, "Actually, would you mind bringing that stack of books downstairs to Ebder? I'll meet you there." She points to a small pile of books on a stool. "Thanks so much."
 ^1a9
 
 Characters who head downstairs to area F2 find Ebder sitting at the table, hunched over a book. Visibly annoyed, he acknowledges the characters as follows:
@@ -276,11 +276,11 @@ Characters who head downstairs to area F2 find Ebder sitting at the table, hunch
 > "Keep your voices down, please. I just put my daughter to bed."
 ^1aa
 
-Ebder gives his name if asked. If the characters present him the pile of books, he pinches the bridge of his nose with a sigh and explains that the books are not for him but for the other guest, [K'Tulah](3-Mechanics/CLI/bestiary/npc/ktulah-cm.md), who's staying in one of the rooms below. He gives the characters directions to her room (area F13) and asks them to deliver the books.
+Ebder gives his name if asked. If the characters present him the pile of books, he pinches the bridge of his nose with a sigh and explains that the books are not for him but for the other guest, [K'Tulah](/3-Mechanics/CLI/bestiary/npc/ktulah-cm.md), who's staying in one of the rooms below. He gives the characters directions to her room (area F13) and asks them to deliver the books.
 
-If they agree, [K'Tulah](3-Mechanics/CLI/bestiary/npc/ktulah-cm.md) is grateful for the delivery and starts a conversation about her scholarly work.
+If they agree, [K'Tulah](/3-Mechanics/CLI/bestiary/npc/ktulah-cm.md) is grateful for the delivery and starts a conversation about her scholarly work.
 
-After an hour, [Varnyr](3-Mechanics/CLI/bestiary/npc/varnyr-cm.md) finds the characters and apologetically says that she's exhausted from the day's work and they will talk in the morning. She offers areas F8 and F12 as rooms for the characters to stay the night. Behind her is Crinkle with a tray of food for them. With that, [Varnyr](3-Mechanics/CLI/bestiary/npc/varnyr-cm.md) bids them good night and leaves the characters alone.
+After an hour, [Varnyr](/3-Mechanics/CLI/bestiary/npc/varnyr-cm.md) finds the characters and apologetically says that she's exhausted from the day's work and they will talk in the morning. She offers areas F8 and F12 as rooms for the characters to stay the night. Behind her is Crinkle with a tray of food for them. With that, [Varnyr](/3-Mechanics/CLI/bestiary/npc/varnyr-cm.md) bids them good night and leaves the characters alone.
 
 The characters can look around the library, talk with Ebder for a few more hours, or go to their rooms. Ebder isn't much of a conversationalist, but he warms up if anyone asks about his daughter, Gailby.
 
@@ -295,13 +295,13 @@ Below is a detailed look at the six events that play out over the course of the 
 > After your first night in the Firefly Cellar, you gather around a table in the center of the collection's main floor. It's quiet, until you notice that your companions are humming a melody under their breath—the same tune that's been stuck in your head since you woke up. After a moment, you realize that you too are humming along.
 ^1ad
 
-The characters are humming [Shemshime](3-Mechanics/CLI/bestiary/npc/shemshime-cm.md)'s rhyme. They don't know it by name, and though they all hum it perfectly, they're not entirely certain they knew it before today. Unknown to the characters, the cursed tune spread to them when Gailby Smallstone sang it in the hall outside the characters' room after she heard it from Crinkle.
+The characters are humming [Shemshime](/3-Mechanics/CLI/bestiary/npc/shemshime-cm.md)'s rhyme. They don't know it by name, and though they all hum it perfectly, they're not entirely certain they knew it before today. Unknown to the characters, the cursed tune spread to them when Gailby Smallstone sang it in the hall outside the characters' room after she heard it from Crinkle.
 
-[K'Tulah](3-Mechanics/CLI/bestiary/npc/ktulah-cm.md) and Ebder share the table with the characters. Ebder is reading from the same book he had last night. The humming clearly bothers him, and after a short time, he sternly asks the characters to keep quiet in the library. If the characters try to stop humming, they notice they can't do so without conscious effort (see "Resisting the Rhyme").
+[K'Tulah](/3-Mechanics/CLI/bestiary/npc/ktulah-cm.md) and Ebder share the table with the characters. Ebder is reading from the same book he had last night. The humming clearly bothers him, and after a short time, he sternly asks the characters to keep quiet in the library. If the characters try to stop humming, they notice they can't do so without conscious effort (see "Resisting the Rhyme").
 
-After a few minutes, Ebder begins humming the melody as well, though he is unaware of it at first. Moments later, the hatch in the ceiling of the upper floor (area F1) slams shut, followed by the sound of several mechanical locks engaging. [Varnyr](3-Mechanics/CLI/bestiary/npc/varnyr-cm.md), the senior-ranking Avowed in the place, has locked the hatch, sealing herself, the characters, Ebder, Gailby, [K'Tulah](3-Mechanics/CLI/bestiary/npc/ktulah-cm.md), and Crinkle inside the Firefly Cellar.
+After a few minutes, Ebder begins humming the melody as well, though he is unaware of it at first. Moments later, the hatch in the ceiling of the upper floor (area F1) slams shut, followed by the sound of several mechanical locks engaging. [Varnyr](/3-Mechanics/CLI/bestiary/npc/varnyr-cm.md), the senior-ranking Avowed in the place, has locked the hatch, sealing herself, the characters, Ebder, Gailby, [K'Tulah](/3-Mechanics/CLI/bestiary/npc/ktulah-cm.md), and Crinkle inside the Firefly Cellar.
 
-As she descends the spiral staircase to area F2, she hums the cursed tune in a soft voice. With effort, [Varnyr](3-Mechanics/CLI/bestiary/npc/varnyr-cm.md) suppresses her humming and shares the following information:
+As she descends the spiral staircase to area F2, she hums the cursed tune in a soft voice. With effort, [Varnyr](/3-Mechanics/CLI/bestiary/npc/varnyr-cm.md) suppresses her humming and shares the following information:
 
 > [!readaloud] 
 > 
@@ -310,9 +310,9 @@ As she descends the spiral staircase to area F2, she hums the cursed tune in a s
 > She gathers her composure and adds, "I've alerted the Avowed and sealed the exit to stop whatever this is from spreading."
 ^1ae
 
-[K'Tulah](3-Mechanics/CLI/bestiary/npc/ktulah-cm.md) is vocal about her discomfort with being confined down here. Ebder regards the quarantine as a minor annoyance and complains that all the commotion interferes with his work. Crinkle and Gailby are not present.
+[K'Tulah](/3-Mechanics/CLI/bestiary/npc/ktulah-cm.md) is vocal about her discomfort with being confined down here. Ebder regards the quarantine as a minor annoyance and complains that all the commotion interferes with his work. Crinkle and Gailby are not present.
 
-[Varnyr](3-Mechanics/CLI/bestiary/npc/varnyr-cm.md) refuses to speculate about the "madness," since she's not a spellcaster and doesn't want to guess at the cause without evidence. "But perhaps you can find an answer in all this," she says, waving at the disheveled room.
+[Varnyr](/3-Mechanics/CLI/bestiary/npc/varnyr-cm.md) refuses to speculate about the "madness," since she's not a spellcaster and doesn't want to guess at the cause without evidence. "But perhaps you can find an answer in all this," she says, waving at the disheveled room.
 
 The characters can explore the Firefly Cellar and talk with the residents. As they do, emphasize the concentration needed to resist humming the melody.
 
@@ -344,7 +344,7 @@ The senior scribe remains in the stacks for an hour before retiring to her room 
 
 #### Exit Hatch
 
-The hatch has been targeted by an [arcane lock](3-Mechanics/CLI/spells/arcane-lock-xphb.md) spell, which can be dispelled by using the key in [Varnyr](3-Mechanics/CLI/bestiary/npc/varnyr-cm.md)'s possession. The hatch has AC 21, 60 hit points, and immunity to poison and psychic damage. A character with thieves' tools can bypass the spell and unlock the hatch with a successful DC 25 Dexterity check, but each attempt to bypass the spell takes 1 minute. Alternatively, a character can force open the hatch with a successful DC 25 Strength ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)) check. A [knock](3-Mechanics/CLI/spells/knock-xphb.md) spell or similar magic suppresses the hatch's [arcane lock](3-Mechanics/CLI/spells/arcane-lock-xphb.md) spell for 10 minutes.
+The hatch has been targeted by an [arcane lock](/3-Mechanics/CLI/spells/arcane-lock-xphb.md) spell, which can be dispelled by using the key in [Varnyr](/3-Mechanics/CLI/bestiary/npc/varnyr-cm.md)'s possession. The hatch has AC 21, 60 hit points, and immunity to poison and psychic damage. A character with thieves' tools can bypass the spell and unlock the hatch with a successful DC 25 Dexterity check, but each attempt to bypass the spell takes 1 minute. Alternatively, a character can force open the hatch with a successful DC 25 Strength ([Athletics](/3-Mechanics/CLI/skills.md#Athletics)) check. A [knock](/3-Mechanics/CLI/spells/knock-xphb.md) spell or similar magic suppresses the hatch's [arcane lock](/3-Mechanics/CLI/spells/arcane-lock-xphb.md) spell for 10 minutes.
 
 **Shemshime's Influence**
 
@@ -353,11 +353,11 @@ The hatch has been targeted by an [arcane lock](3-Mechanics/CLI/spells/arcane-lo
 | dice: d6 | Phenomenon |
 |----------|------------|
 | 1 | For the next 10 minutes, all the fireflies in the lamps flicker out at irregular intervals, leaving the library in darkness for several seconds at a time. |
-| 2 | Random books fly off the shelves. Each creature in areas F1, F2, or F14 must succeed on a DC 13 Dexterity saving throw or take 2 (`1d4`) bludgeoning damage from collisions with the flying books. |
+| 2 | Random books fly off the shelves. Each creature in areas F1, F2, or F14 must succeed on a DC 13 Dexterity saving throw or take `dice:1d4\|noform\|noparens\|avg\|text(2)` (`1d4`) bludgeoning damage from collisions with the flying books. |
 | 3 | The library becomes much colder. This drop in temperature lasts until the end of the adventure. |
-| 4 | Three [shadows](3-Mechanics/CLI/bestiary/undead/shadow-xmm.md) appear in the same area as the characters. The shadows attack the characters but disappear at the end of their third turn in combat if they have not been destroyed by then. |
-| 5 | [Shemshime](3-Mechanics/CLI/bestiary/npc/shemshime-cm.md)'s foul magic manifests as a random character's worst nightmare. That character must make a DC 12 Intelligence saving throw. On a failed save, the character takes 9 (`2d8`) psychic damage and is [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened) of the manifestation, believing it to be real. The manifested nightmare lasts for up to 1 minute, follows the character around, and can't be harmed. The character must repeat the saving throw at the end of each of its turns, ending the illusion on a success or taking 9 (`2d8`) psychic damage on a failed save. |
-| 6 | Choose three creatures in the Firefly Cellar. Each one must succeed on a DC 14 Wisdom saving throw, or it takes 7 (`1d8 + 3`) psychic damage and makes a melee weapon attack against one creature of your choice as a reaction. |
+| 4 | Three [shadows](/3-Mechanics/CLI/bestiary/undead/shadow-xmm.md) appear in the same area as the characters. The shadows attack the characters but disappear at the end of their third turn in combat if they have not been destroyed by then. |
+| 5 | [Shemshime](/3-Mechanics/CLI/bestiary/npc/shemshime-cm.md)'s foul magic manifests as a random character's worst nightmare. That character must make a DC 12 Intelligence saving throw. On a failed save, the character takes `dice:2d8\|noform\|noparens\|avg\|text(9)` (`2d8`) psychic damage and is [frightened](/3-Mechanics/CLI/conditions.md#Frightened) of the manifestation, believing it to be real. The manifested nightmare lasts for up to 1 minute, follows the character around, and can't be harmed. The character must repeat the saving throw at the end of each of its turns, ending the illusion on a success or taking `dice:2d8\|noform\|noparens\|avg\|text(9)` (`2d8`) psychic damage on a failed save. |
+| 6 | Choose three creatures in the Firefly Cellar. Each one must succeed on a DC 14 Wisdom saving throw, or it takes `dice:1d8+3\|noform\|noparens\|avg\|text(7)` (`1d8 + 3`) psychic damage and makes a melee weapon attack against one creature of your choice as a reaction. |
 ^shemshimes-influence
 
 ### Event 2: Ebder's Outburst
@@ -369,13 +369,13 @@ Ebder is seated at the table in area F2 when this event occurs.
 > A shrill sound tears through the Firefly Cellar, overpowering all other noise. Though it rapidly rises to an uncanny pitch, you recognize Ebder's voice.
 ^1b7
 
-Anyone in area F2 sees that Ebder's eyes are bulging in terror. As he hums the rhyme's melody, the rest of his body is [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed). He's cold to the touch. He continues to sing the rhyme over and over for five minutes. During this time, Gailby runs into the room to try to help her father, terrified by his behavior. Crinkle follows her and tries to console the child, with little effect.
+Anyone in area F2 sees that Ebder's eyes are bulging in terror. As he hums the rhyme's melody, the rest of his body is [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed). He's cold to the touch. He continues to sing the rhyme over and over for five minutes. During this time, Gailby runs into the room to try to help her father, terrified by his behavior. Crinkle follows her and tries to console the child, with little effect.
 
-[Shemshime](3-Mechanics/CLI/bestiary/npc/shemshime-cm.md)'s influence has begun to reach into the world. When Ebder stops singing, roll on the [Shemshime](3-Mechanics/CLI/bestiary/npc/shemshime-cm.md)'s Influence table to find out what happens next.
+[Shemshime](/3-Mechanics/CLI/bestiary/npc/shemshime-cm.md)'s influence has begun to reach into the world. When Ebder stops singing, roll on the [Shemshime](/3-Mechanics/CLI/bestiary/npc/shemshime-cm.md)'s Influence table to find out what happens next.
 
 #### Haunting Occurrences
 
-After Ebder's outburst, [Shemshime](3-Mechanics/CLI/bestiary/npc/shemshime-cm.md)'s influence manifests in the Firefly Cellar in several unsettling ways. From this point forward, whenever at least half the characters are singing [Shemshime](3-Mechanics/CLI/bestiary/npc/shemshime-cm.md)'s rhyme, roll on the [Shemshime](3-Mechanics/CLI/bestiary/npc/shemshime-cm.md)'s Influence table to determine what happens. Add more of these rolls as you see fit, even during later events.
+After Ebder's outburst, [Shemshime](/3-Mechanics/CLI/bestiary/npc/shemshime-cm.md)'s influence manifests in the Firefly Cellar in several unsettling ways. From this point forward, whenever at least half the characters are singing [Shemshime](/3-Mechanics/CLI/bestiary/npc/shemshime-cm.md)'s rhyme, roll on the [Shemshime](/3-Mechanics/CLI/bestiary/npc/shemshime-cm.md)'s Influence table to determine what happens. Add more of these rolls as you see fit, even during later events.
 
 ### Event 3: Singing Skull
 
@@ -386,29 +386,29 @@ The remains of Yowen Pilt, the book seller who brought the book and its curse to
 > The tune continues to tug at each of your minds, willing you to intone its sequence of notes. The notes take on the shapes of words you're certain you've never heard before but are somehow familiar to you as lyrics.
 ^1ba
 
-Share the handout of [Shemshime](3-Mechanics/CLI/bestiary/npc/shemshime-cm.md)'s rhyme with your players. The final stanza is absent from the handout. Going forward, whenever a character is compelled to hum [Shemshime](3-Mechanics/CLI/bestiary/npc/shemshime-cm.md)'s rhyme, they sing the words to the tune instead.
+Share the handout of [Shemshime](/3-Mechanics/CLI/bestiary/npc/shemshime-cm.md)'s rhyme with your players. The final stanza is absent from the handout. Going forward, whenever a character is compelled to hum [Shemshime](/3-Mechanics/CLI/bestiary/npc/shemshime-cm.md)'s rhyme, they sing the words to the tune instead.
 
 > [!readaloud] 
 > 
 > You become aware that the song is not only in your head. Somewhere nearby, a deep and melodic voice is singing the words.
 ^1bb
 
-The skull continues to sing unless it's destroyed or [Shemshime](3-Mechanics/CLI/bestiary/npc/shemshime-cm.md) is trapped in *Shemshime's Bedtime Rhyme*. The skull is a Tiny object with AC 15, 4 hit points, and immunity to poison damage.
+The skull continues to sing unless it's destroyed or [Shemshime](/3-Mechanics/CLI/bestiary/npc/shemshime-cm.md) is trapped in *Shemshime's Bedtime Rhyme*. The skull is a Tiny object with AC 15, 4 hit points, and immunity to poison damage.
 
 ### Event 4: Escape Attempt
 
-[K'Tulah](3-Mechanics/CLI/bestiary/npc/ktulah-cm.md) reaches the end of her patience with being confined, and she tries to break the quarantine. This event can begin in any area.
+[K'Tulah](/3-Mechanics/CLI/bestiary/npc/ktulah-cm.md) reaches the end of her patience with being confined, and she tries to break the quarantine. This event can begin in any area.
 
 When you're ready to begin this event, read the following boxed text aloud:
 
 > [!readaloud] 
 > 
-> [K'Tulah](3-Mechanics/CLI/bestiary/npc/ktulah-cm.md), biting her lip to keep from singing, slumps to the floor with her back against a wall and her head in her hands. After a moment her ears flatten, and she springs up and takes off at a full sprint.
+> [K'Tulah](/3-Mechanics/CLI/bestiary/npc/ktulah-cm.md), biting her lip to keep from singing, slumps to the floor with her back against a wall and her head in her hands. After a moment her ears flatten, and she springs up and takes off at a full sprint.
 ^1bd
 
-[K'Tulah](3-Mechanics/CLI/bestiary/npc/ktulah-cm.md) runs for the hatch in the ceiling of area F1. She tries to evade anyone who stands in her path but fights them if necessary. If she reaches the hatch, she attempts to force the door. When that doesn't work, she demands that [Varnyr](3-Mechanics/CLI/bestiary/npc/varnyr-cm.md) open it, but [Varnyr](3-Mechanics/CLI/bestiary/npc/varnyr-cm.md) refuses. Unless [K'Tulah](3-Mechanics/CLI/bestiary/npc/ktulah-cm.md) is subdued, she attacks [Varnyr](3-Mechanics/CLI/bestiary/npc/varnyr-cm.md) to get the key.
+[K'Tulah](/3-Mechanics/CLI/bestiary/npc/ktulah-cm.md) runs for the hatch in the ceiling of area F1. She tries to evade anyone who stands in her path but fights them if necessary. If she reaches the hatch, she attempts to force the door. When that doesn't work, she demands that [Varnyr](/3-Mechanics/CLI/bestiary/npc/varnyr-cm.md) open it, but [Varnyr](/3-Mechanics/CLI/bestiary/npc/varnyr-cm.md) refuses. Unless [K'Tulah](/3-Mechanics/CLI/bestiary/npc/ktulah-cm.md) is subdued, she attacks [Varnyr](/3-Mechanics/CLI/bestiary/npc/varnyr-cm.md) to get the key.
 
-A character can try to calm [K'Tulah](3-Mechanics/CLI/bestiary/npc/ktulah-cm.md), doing so with a successful DC 15 Charisma ([Persuasion](3-Mechanics/CLI/rules/skills.md#Persuasion)) check. A [calm emotions](3-Mechanics/CLI/spells/calm-emotions-xphb.md) spell or similar magic also does the trick, as does giving [K'Tulah](3-Mechanics/CLI/bestiary/npc/ktulah-cm.md) the mechanical oyster from her quarters (area F13).
+A character can try to calm [K'Tulah](/3-Mechanics/CLI/bestiary/npc/ktulah-cm.md), doing so with a successful DC 15 Charisma ([Persuasion](/3-Mechanics/CLI/skills.md#Persuasion)) check. A [calm emotions](/3-Mechanics/CLI/spells/calm-emotions-xphb.md) spell or similar magic also does the trick, as does giving [K'Tulah](/3-Mechanics/CLI/bestiary/npc/ktulah-cm.md) the mechanical oyster from her quarters (area F13).
 
 ### Event 5: Puppets
 
@@ -421,17 +421,17 @@ This event can occur in any area except Crinkle's room (area F11).
 
 Crinkle and Gailby flee to Crinkle's room (area F11) when this event begins.
 
-Choose half of the remaining characters, including NPCs (other than Gailby and Crinkle). Those who are not under the effect of a [protection from evil and good](3-Mechanics/CLI/spells/protection-from-evil-and-good-xphb.md) spell or similar magic must succeed on a DC 15 Charisma saving throw or be [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed) by [Shemshime](3-Mechanics/CLI/bestiary/npc/shemshime-cm.md) for 1 minute. While [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed) in this way, the creature is under [Shemshime](3-Mechanics/CLI/bestiary/npc/shemshime-cm.md)'s control and is compelled to sing [Shemshime](3-Mechanics/CLI/bestiary/npc/shemshime-cm.md)'s rhyme repeatedly while trying to cause physical harm to others.
+Choose half of the remaining characters, including NPCs (other than Gailby and Crinkle). Those who are not under the effect of a [protection from evil and good](/3-Mechanics/CLI/spells/protection-from-evil-and-good-xphb.md) spell or similar magic must succeed on a DC 15 Charisma saving throw or be [charmed](/3-Mechanics/CLI/conditions.md#Charmed) by [Shemshime](/3-Mechanics/CLI/bestiary/npc/shemshime-cm.md) for 1 minute. While [charmed](/3-Mechanics/CLI/conditions.md#Charmed) in this way, the creature is under [Shemshime](/3-Mechanics/CLI/bestiary/npc/shemshime-cm.md)'s control and is compelled to sing [Shemshime](/3-Mechanics/CLI/bestiary/npc/shemshime-cm.md)'s rhyme repeatedly while trying to cause physical harm to others.
 
-Creatures whose actions and movements are being controlled by [Shemshime](3-Mechanics/CLI/bestiary/npc/shemshime-cm.md) remain aware of what's going on around them, but they are powerless to stop themselves from causing harm in accordance with [Shemshime](3-Mechanics/CLI/bestiary/npc/shemshime-cm.md)'s wishes.
+Creatures whose actions and movements are being controlled by [Shemshime](/3-Mechanics/CLI/bestiary/npc/shemshime-cm.md) remain aware of what's going on around them, but they are powerless to stop themselves from causing harm in accordance with [Shemshime](/3-Mechanics/CLI/bestiary/npc/shemshime-cm.md)'s wishes.
 
-[Shemshime](3-Mechanics/CLI/bestiary/npc/shemshime-cm.md)'s control over a creature is broken by the break enchantment effect of a [dispel evil and good](3-Mechanics/CLI/spells/dispel-evil-and-good-xphb.md) spell (magic that is probably beyond the characters' ability to cast) or by reducing the creature to 0 hit points. A [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed) creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature succeeds on the saving throw or the effect ends on it, [Shemshime](3-Mechanics/CLI/bestiary/npc/shemshime-cm.md) can't take control of that creature again for 24 hours.
+[Shemshime](/3-Mechanics/CLI/bestiary/npc/shemshime-cm.md)'s control over a creature is broken by the break enchantment effect of a [dispel evil and good](/3-Mechanics/CLI/spells/dispel-evil-and-good-xphb.md) spell (magic that is probably beyond the characters' ability to cast) or by reducing the creature to 0 hit points. A [charmed](/3-Mechanics/CLI/conditions.md#Charmed) creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature succeeds on the saving throw or the effect ends on it, [Shemshime](/3-Mechanics/CLI/bestiary/npc/shemshime-cm.md) can't take control of that creature again for 24 hours.
 
-![Scenes in the Opened Book](3-Mechanics/CLI/adventures/candlekeep-mysteries/img/045-06-004-scenes-in-the-opened-book.webp#center)
+![Scenes in the Opened Book](/3-Mechanics/CLI/adventures/candlekeep-mysteries/img/045-06-004-scenes-in-the-opened-book.webp#center)
 
 ### Event 6: Shemshime
 
-The final event revolves around interacting with the book and learning the last stanza of the rhyme, which tells how to foil [Shemshime](3-Mechanics/CLI/bestiary/npc/shemshime-cm.md) and end the curse. Meanwhile, [Shemshime](3-Mechanics/CLI/bestiary/npc/shemshime-cm.md) coalesces around the book, lashing out at the characters to stop them from thwarting its manifestation.
+The final event revolves around interacting with the book and learning the last stanza of the rhyme, which tells how to foil [Shemshime](/3-Mechanics/CLI/bestiary/npc/shemshime-cm.md) and end the curse. Meanwhile, [Shemshime](/3-Mechanics/CLI/bestiary/npc/shemshime-cm.md) coalesces around the book, lashing out at the characters to stop them from thwarting its manifestation.
 
 As event 5 concludes, read or paraphrase:
 
@@ -440,7 +440,7 @@ As event 5 concludes, read or paraphrase:
 > Gailby appears in the doorway, blood spattered on her face and down the front of her clothes. She's shaking, with wide eyes, and holding a large, square book that has blood on the corner of its metal spine.
 ^1c1
 
-The book in Gailby's possession is *Shemshime's Bedtime Rhyme*. Though she's reluctant to share the truth, Gailby admits that she knocked Crinkle [unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious) with the book. Either she or Crinkle was possessed when it happened, but Gailby's not certain which.
+The book in Gailby's possession is *Shemshime's Bedtime Rhyme*. Though she's reluctant to share the truth, Gailby admits that she knocked Crinkle [unconscious](/3-Mechanics/CLI/conditions.md#Unconscious) with the book. Either she or Crinkle was possessed when it happened, but Gailby's not certain which.
 
 #### Repairing the Music Box
 
@@ -448,66 +448,66 @@ The key feature of *Shemshime's Bedtime Rhyme* is its music box, which broke cen
 
 The damage to the exterior of the box is immediately noticeable to characters who inspect it. A successful DC 15 Intelligence check reveals the problem. Anyone proficient with jeweler's tools or tinker's tools has advantage on the roll. Inside the music box is a brass cylinder dotted with tiny pegs. When the cylinder turns, narrow bits of metal pluck the pegs to produce the notes of the melody. The cylinder is sitting askew, which prevents it from working properly. Fixing the music box requires three successful DC 15 Dexterity checks, each check requiring an action. These checks can be made by one character or multiple characters working together.
 
-Characters who try to fix the music box hear [Shemshime](3-Mechanics/CLI/bestiary/npc/shemshime-cm.md)'s maddening whispers in their heads. After making an ability check to fix the music box, regardless of whether the check succeeds or not, a character must make a DC 13 Intelligence saving throw, taking 14 (`4d6`) psychic damage on a failed save, or half as much damage on a successful one.
+Characters who try to fix the music box hear [Shemshime](/3-Mechanics/CLI/bestiary/npc/shemshime-cm.md)'s maddening whispers in their heads. After making an ability check to fix the music box, regardless of whether the check succeeds or not, a character must make a DC 13 Intelligence saving throw, taking `dice:4d6|noform|noparens|avg|text(14)` (`4d6`) psychic damage on a failed save, or half as much damage on a successful one.
 
-Once fixed, the music box plays its tune to the end. As it does so, the words of the rhyme's final stanza form in the characters' minds (see "The Rhyme"). The scene played out in the book also continues to its conclusion, showing the tiny representation of [Shemshime](3-Mechanics/CLI/bestiary/npc/shemshime-cm.md) being crushed beneath a millstone.
+Once fixed, the music box plays its tune to the end. As it does so, the words of the rhyme's final stanza form in the characters' minds (see "The Rhyme"). The scene played out in the book also continues to its conclusion, showing the tiny representation of [Shemshime](/3-Mechanics/CLI/bestiary/npc/shemshime-cm.md) being crushed beneath a millstone.
 
 #### Confrontation
 
-Singing the final stanza draws [Shemshime](3-Mechanics/CLI/bestiary/npc/shemshime-cm.md) into the room.
+Singing the final stanza draws [Shemshime](/3-Mechanics/CLI/bestiary/npc/shemshime-cm.md) into the room.
 
 > [!readaloud] 
 > 
 > The book trembles, and its mechanical inner workings squeal to a halt for a moment before whirring back to life. You hear clicks, and shadows burst forth from the book like steam from a kettle, collecting along the ceiling until wisps of darkness outline a vague humanoid figure. Meanwhile, the scenes inside the book transform, creating an entirely new picture that includes tiny cutout figures of yourselves.
 ^1c4
 
-[Shemshime](3-Mechanics/CLI/bestiary/npc/shemshime-cm.md) attacks the characters, focusing its attention on anyone near the book. It also tries to break the characters' concentration, since it gains power when the rhyme is sung.
+[Shemshime](/3-Mechanics/CLI/bestiary/npc/shemshime-cm.md) attacks the characters, focusing its attention on anyone near the book. It also tries to break the characters' concentration, since it gains power when the rhyme is sung.
 
 The newly formed illustration in the book displays a facsimile of the Firefly Cellar, complete with tiny cutout figures of the characters and NPCs. Noteworthy in the scene is the replica of the enormous sculpture hanging from the ceiling above the stacks (see area F1 for a description of the sculpture).
 
-![Shemshime](3-Mechanics/CLI/adventures/candlekeep-mysteries/img/046-637514193181534197.webp#center)
+![Shemshime](/3-Mechanics/CLI/adventures/candlekeep-mysteries/img/046-637514193181534197.webp#center)
 
 #### Destroying the Book
 
-Destroying the book does nothing to defeat or otherwise impede [Shemshime](3-Mechanics/CLI/bestiary/npc/shemshime-cm.md). *Shemshime's Bedtime Rhyme* is a Tiny object with AC 14, 15 hit points, a damage threshold of 15 (see "Damage Threshold" in the "Dungeon Master's Guide"), and immunity to poison and psychic damage.
+Destroying the book does nothing to defeat or otherwise impede [Shemshime](/3-Mechanics/CLI/bestiary/npc/shemshime-cm.md). *Shemshime's Bedtime Rhyme* is a Tiny object with AC 14, 15 hit points, a damage threshold of 15 (see "Damage Threshold" in the "Dungeon Master's Guide"), and immunity to poison and psychic damage.
 
 #### Defeating Shemshime
 
-To defeat [Shemshime](3-Mechanics/CLI/bestiary/npc/shemshime-cm.md), it must be crushed by an object weighing at least 1,000 pounds. Objects in the Firefly Cellar that qualify include the book sculpture suspended from the ceiling in area F1, the bookcases in areas F1 and F2, and the stone table in area F2.
+To defeat [Shemshime](/3-Mechanics/CLI/bestiary/npc/shemshime-cm.md), it must be crushed by an object weighing at least 1,000 pounds. Objects in the Firefly Cellar that qualify include the book sculpture suspended from the ceiling in area F1, the bookcases in areas F1 and F2, and the stone table in area F2.
 
-Luring [Shemshime](3-Mechanics/CLI/bestiary/npc/shemshime-cm.md) to where it can be crushed takes some effort. Because [Shemshime](3-Mechanics/CLI/bestiary/npc/shemshime-cm.md) is fixated on the book, the spirit pursues whoever has it. In other words, the characters can use the book itself to lure [Shemshime](3-Mechanics/CLI/bestiary/npc/shemshime-cm.md) into harm's way.
+Luring [Shemshime](/3-Mechanics/CLI/bestiary/npc/shemshime-cm.md) to where it can be crushed takes some effort. Because [Shemshime](/3-Mechanics/CLI/bestiary/npc/shemshime-cm.md) is fixated on the book, the spirit pursues whoever has it. In other words, the characters can use the book itself to lure [Shemshime](/3-Mechanics/CLI/bestiary/npc/shemshime-cm.md) into harm's way.
 
-Once [Shemshime](3-Mechanics/CLI/bestiary/npc/shemshime-cm.md) is in position, a character can use an action to drop or topple a heavy object on it. [Shemshime](3-Mechanics/CLI/bestiary/npc/shemshime-cm.md) must succeed on a DC 15 Dexterity saving throw to avoid being crushed under the object. On a failed save, [Shemshime](3-Mechanics/CLI/bestiary/npc/shemshime-cm.md) vanishes and one of the following outcomes occurs:
+Once [Shemshime](/3-Mechanics/CLI/bestiary/npc/shemshime-cm.md) is in position, a character can use an action to drop or topple a heavy object on it. [Shemshime](/3-Mechanics/CLI/bestiary/npc/shemshime-cm.md) must succeed on a DC 15 Dexterity saving throw to avoid being crushed under the object. On a failed save, [Shemshime](/3-Mechanics/CLI/bestiary/npc/shemshime-cm.md) vanishes and one of the following outcomes occurs:
 
-- If the book is intact, [Shemshime](3-Mechanics/CLI/bestiary/npc/shemshime-cm.md) is yanked back into the book. It slams shut, silencing the music box and ending the curse.  
-- If the book has been destroyed, [Shemshime](3-Mechanics/CLI/bestiary/npc/shemshime-cm.md) is pulled into the nearest closed book, ending the curse. That book transforms into a copy of *Shemshime's Bedtime Rhyme*, destroying the book's original content in the process.  
+- If the book is intact, [Shemshime](/3-Mechanics/CLI/bestiary/npc/shemshime-cm.md) is yanked back into the book. It slams shut, silencing the music box and ending the curse.  
+- If the book has been destroyed, [Shemshime](/3-Mechanics/CLI/bestiary/npc/shemshime-cm.md) is pulled into the nearest closed book, ending the curse. That book transforms into a copy of *Shemshime's Bedtime Rhyme*, destroying the book's original content in the process.  
 
-Once [Shemshime](3-Mechanics/CLI/bestiary/npc/shemshime-cm.md) is trapped again, [Varnyr](3-Mechanics/CLI/bestiary/npc/varnyr-cm.md) or whoever has the key unlocks the hatch in area F1. [Varnyr](3-Mechanics/CLI/bestiary/npc/varnyr-cm.md) or Ebder immediately takes the book to lock it away in one of Candlekeep's secure vaults.
+Once [Shemshime](/3-Mechanics/CLI/bestiary/npc/shemshime-cm.md) is trapped again, [Varnyr](/3-Mechanics/CLI/bestiary/npc/varnyr-cm.md) or whoever has the key unlocks the hatch in area F1. [Varnyr](/3-Mechanics/CLI/bestiary/npc/varnyr-cm.md) or Ebder immediately takes the book to lock it away in one of Candlekeep's secure vaults.
 
 ##### Reward
 
-The Avowed give the characters a [bag of holding](3-Mechanics/CLI/items/bag-of-holding-xdmg.md) as a reward for defeating [Shemshime](3-Mechanics/CLI/bestiary/npc/shemshime-cm.md).
+The Avowed give the characters a [bag of holding](/3-Mechanics/CLI/items/bag-of-holding-xdmg.md) as a reward for defeating [Shemshime](/3-Mechanics/CLI/bestiary/npc/shemshime-cm.md).
 
 > [!note] Troubleshooting
 > 
-> The adventure assumes that the quarantine remains intact. But there's a reasonable chance the characters in your game will want to leave the confines of the Firefly Cellar or even help [K'Tulah](3-Mechanics/CLI/bestiary/npc/ktulah-cm.md) escape. It's up to you whether to allow this and to consider how Candlekeep responds.
+> The adventure assumes that the quarantine remains intact. But there's a reasonable chance the characters in your game will want to leave the confines of the Firefly Cellar or even help [K'Tulah](/3-Mechanics/CLI/bestiary/npc/ktulah-cm.md) escape. It's up to you whether to allow this and to consider how Candlekeep responds.
 > 
 > If the characters get bogged down in researching the books on the shelves, roll on the Shemshime's Influence table to maintain a sense of peril.
 ^troubleshooting
 
 ## The Firefly Cellar
 
-The basement library known as the Firefly Cellar is located beneath the House of Rest. It's entirely below ground, containing a collection of old manuscripts that focus primarily on travelogues and regional customs. Until Senior Scribe [Varnyr](3-Mechanics/CLI/bestiary/npc/varnyr-cm.md) initiated a restoration effort, its books had been largely neglected over the past few centuries.
+The basement library known as the Firefly Cellar is located beneath the House of Rest. It's entirely below ground, containing a collection of old manuscripts that focus primarily on travelogues and regional customs. Until Senior Scribe [Varnyr](/3-Mechanics/CLI/bestiary/npc/varnyr-cm.md) initiated a restoration effort, its books had been largely neglected over the past few centuries.
 
 > [!gallery]
-> ![Map 6.1: Firefly Cellar](3-Mechanics/CLI/adventures/candlekeep-mysteries/img/047-map-6-01-firefly-cellar.webp#gallery)
-> ![Player Version](3-Mechanics/CLI/adventures/candlekeep-mysteries/img/048-map-6-01-firefly-cellar-player.webp#gallery)
+> ![Map 6.1: Firefly Cellar](/3-Mechanics/CLI/adventures/candlekeep-mysteries/img/047-map-6-01-firefly-cellar.webp#gallery)
+> ![Player Version](/3-Mechanics/CLI/adventures/candlekeep-mysteries/img/048-map-6-01-firefly-cellar-player.webp#gallery)
 
 ### Encounter Locations F1-F7
 
 The Firefly Cellar has three floors. The upper two contain the book collection. Despite its age, the cellar appears well kept, with smooth stone walls and worn wooden floorboards covered here and there with new rugs. The only entrance is a metallic orange hatch set into the ceiling at the top of the stairs that lead down into area F1.
 
-The bottom floor contains a kitchen and living quarters. For many years, Crinkle was the only occupant, but [Varnyr](3-Mechanics/CLI/bestiary/npc/varnyr-cm.md), Ebder, and Gailby have moved in during the recent restoration effort.
+The bottom floor contains a kitchen and living quarters. For many years, Crinkle was the only occupant, but [Varnyr](/3-Mechanics/CLI/bestiary/npc/varnyr-cm.md), Ebder, and Gailby have moved in during the recent restoration effort.
 
 The Firefly Cellar has no windows. Unless otherwise noted, orange-gold light emanates from bottles of fireflies either set into alcoves in the wall or hanging from fixtures.
 
@@ -522,7 +522,7 @@ The following locations are keyed to the map of the Firefly Cellar.
 > Hanging from the ceiling, above the opening in the floor, is an enormous stone sculpture of an open book that looks as though the cover is flapping to keep it aloft. A spiral staircase to the east leads down, as well as up to the trapdoor exit set into the ceiling. The occasional errant firefly flits about.
 ^1cc
 
-[Varnyr](3-Mechanics/CLI/bestiary/npc/varnyr-cm.md)'s restoration project began in this room, and it's tidier and more welcoming than the chamber below. She has brought in rugs and flowers and polished the statues. Three of the statues were in such a poor state that she replaced them with comfortable reading chairs.
+[Varnyr](/3-Mechanics/CLI/bestiary/npc/varnyr-cm.md)'s restoration project began in this room, and it's tidier and more welcoming than the chamber below. She has brought in rugs and flowers and polished the statues. Three of the statues were in such a poor state that she replaced them with comfortable reading chairs.
 
 The bookcases are 10 feet tall, and each one has a new rolling ladder attached to it.
 
@@ -545,7 +545,7 @@ This piece of stonework is 12 feet across and weighs 1,500 pounds. The cover is 
 > The musty smell of old books hangs in the air here. Concentric rings of bookcases dominate the space, with a heavy granite table occupying the room's center. The table would be a circle, but for six semicircular gaps cut into it around its edge, creating spaces for six chairs. Small stacks of books rest on the table along with a candleholder that contains firefly-filled jars.
 ^1d0
 
-The Firefly Cellar's general study area encourages quiet reading. The shape of the table creates six individual study spaces. The table weighs around 300 pounds, and four rolled-up indigo rugs rest underneath. [Varnyr](3-Mechanics/CLI/bestiary/npc/varnyr-cm.md) intends to use the 15-foot-long and 5-foot-wide carpeting as runners in the north, east, south, and west aisles on this floor.
+The Firefly Cellar's general study area encourages quiet reading. The shape of the table creates six individual study spaces. The table weighs around 300 pounds, and four rolled-up indigo rugs rest underneath. [Varnyr](/3-Mechanics/CLI/bestiary/npc/varnyr-cm.md) intends to use the 15-foot-long and 5-foot-wide carpeting as runners in the north, east, south, and west aisles on this floor.
 
 The bookcases are 10 feet tall. Two of them have attached rolling ladders. An unattached ladder leans against a shelf in the southwest part of the room.
 
@@ -558,13 +558,13 @@ Looking up, characters can see into area F1 and the enormous stone book sculptur
 > All around, fireflies float lazily about like embers caught in the air. Three writing desks sit against the north wall, with a sheepskin rug beneath each one. On one of the desks rests a book beside a stack of paper, along with a stoppered ink jar and a porcupine quill pen. Another desk has a leather case on it. A moldering tapestry hangs, off-center, on the west wall. To the southeast is a wood-paneled wall with a closed door set into it. A weak yellow glow emanates from under this door.
 ^1d2
 
-This room is dedicated to the copying of library texts. The three desks are of fine quality but could use maintenance. Ebder works here to create new copies of books deemed unrepairable. The book on the desk has a bookmark poking out from its pages. It's an ancient tome, its title worn away over time. Its pages fall out if it's opened. The leather case on the other desk contains a set of [calligrapher's supplies](3-Mechanics/CLI/items/calligraphers-supplies-xphb.md).
+This room is dedicated to the copying of library texts. The three desks are of fine quality but could use maintenance. Ebder works here to create new copies of books deemed unrepairable. The book on the desk has a bookmark poking out from its pages. It's an ancient tome, its title worn away over time. Its pages fall out if it's opened. The leather case on the other desk contains a set of [calligrapher's supplies](/3-Mechanics/CLI/items/calligraphers-supplies-xphb.md).
 
 The door in the wood-paneled wall is closed with a padlocked latch. Crinkle has the key but gives it up only grudgingly, explaining that the fireflies should not be disturbed. A character can pick the lock with a successful DC 15 Dexterity check, or it can be destroyed. The lock has AC 19, 5 hit points, and immunity to poison and psychic damage.
 
 ##### Writing on the Wall
 
-Anyone who searches behind the tapestry finds words scratched into the stone wall—the lyrics of [Shemshime](3-Mechanics/CLI/bestiary/npc/shemshime-cm.md)'s rhyme except for the final stanza. They were carved by Yowen Pilt, who was sealed in this room because of his madness.
+Anyone who searches behind the tapestry finds words scratched into the stone wall—the lyrics of [Shemshime](/3-Mechanics/CLI/bestiary/npc/shemshime-cm.md)'s rhyme except for the final stanza. They were carved by Yowen Pilt, who was sealed in this room because of his madness.
 
 #### F4. Firefly Room
 
@@ -577,11 +577,11 @@ A former supply closet for the scriptorium, this room was outfitted by Crinkle f
 
 ##### Writing on the Floor
 
-A successful DC 12 Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) check reveals words scratched into the floorboards. In manic script, the words read, "FINISH THE RHYME."
+A successful DC 12 Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) check reveals words scratched into the floorboards. In manic script, the words read, "FINISH THE RHYME."
 
 ##### Secret Compartment
 
-A loose stone in the floor lies beneath the lowest shelf on the east wall. Finding it requires a successful DC 20 Intelligence ([Investigation](3-Mechanics/CLI/rules/skills.md#Investigation)) check. If singing is emerging from the room (see event 2), the DC is 10. Moving the stone aside exposes a pile of bones in a nook 5 feet across and 5 feet deep. Investigating the bones reveals two humanoid bodies. One of the skulls has a hole in the back of it. This was Yowen Pilt, killed by an Avowed who was desperate to end the curse. That Avowed, also stricken with the curse, killed himself to stop it from spreading. The bodies were hidden away in this closet.
+A loose stone in the floor lies beneath the lowest shelf on the east wall. Finding it requires a successful DC 20 Intelligence ([Investigation](/3-Mechanics/CLI/skills.md#Investigation)) check. If singing is emerging from the room (see event 2), the DC is 10. Moving the stone aside exposes a pile of bones in a nook 5 feet across and 5 feet deep. Investigating the bones reveals two humanoid bodies. One of the skulls has a hole in the back of it. This was Yowen Pilt, killed by an Avowed who was desperate to end the curse. That Avowed, also stricken with the curse, killed himself to stop it from spreading. The bodies were hidden away in this closet.
 
 #### F5. Bindery
 
@@ -590,7 +590,7 @@ A loose stone in the floor lies beneath the lowest shelf on the east wall. Findi
 > Leather bits, wood shavings, and paper scraps litter the floor near a large workbench. Tools and contraptions are organized neatly around a handful of books in different states of disrepair. Stools surround the bench, one of which has a leather apron draped over it.
 ^1d9
 
-Books in need of repair are brought to the bindery. [Varnyr](3-Mechanics/CLI/bestiary/npc/varnyr-cm.md) loves this task, and it's her work on display on the bench. The tools are used for bookbinding, leatherworking, woodcarving, and painting.
+Books in need of repair are brought to the bindery. [Varnyr](/3-Mechanics/CLI/bestiary/npc/varnyr-cm.md) loves this task, and it's her work on display on the bench. The tools are used for bookbinding, leatherworking, woodcarving, and painting.
 
 A ledger rests on one of the stools. It's open to a list of four book titles, each one with a "repairs needed" entry beside it. The titles and their associated repairs are as follows:
 
@@ -602,7 +602,7 @@ A ledger rests on one of the stools. It's open to a list of four book titles, ea
 
 *Halfling Superstitions*: rebind
 
-A character who succeeds on a DC 12 Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) or Intelligence ([Investigation](3-Mechanics/CLI/rules/skills.md#Investigation)) check notices that the books on the workbench are three of the books on the list. *Shemshime's Bedtime Rhyme* is missing.
+A character who succeeds on a DC 12 Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) or Intelligence ([Investigation](/3-Mechanics/CLI/skills.md#Investigation)) check notices that the books on the workbench are three of the books on the list. *Shemshime's Bedtime Rhyme* is missing.
 
 #### F6. The Worm Tunnel
 
@@ -622,7 +622,7 @@ This claustrophobic hallway runs beneath the stacks, leading to the living quart
 > A dirty skillet stands out among an otherwise immaculate kitchen, and the smell of bacon in the air hints at the skillet's former contents. A door in the southeast corner hangs open a crack.
 ^1dd
 
-An oven occupies one corner; instead of being heated by open flames, it has a coil of iron enchanted with the [heat metal](3-Mechanics/CLI/spells/heat-metal-xphb.md) spell, which activates when a toggle switch on the side of the oven is flipped. A well-stocked pantry rests in another corner. Pots and pans hang from wall hooks above a metal sink.
+An oven occupies one corner; instead of being heated by open flames, it has a coil of iron enchanted with the [heat metal](/3-Mechanics/CLI/spells/heat-metal-xphb.md) spell, which activates when a toggle switch on the side of the oven is flipped. A well-stocked pantry rests in another corner. Pots and pans hang from wall hooks above a metal sink.
 
 The southeast door leads to a hallway that connects to areas F8 through F14.
 
@@ -661,7 +661,7 @@ Anyone who looks under the bed finds an ornate circular box decorated with silve
 
 #### F11. Crinkle's Room
 
-Crinkle has the key to this locked room. A character can use an action to try to pick the lock using thieves' tools, doing so with a successful DC 20 Dexterity check, or force open the door with a successful DC 20 Strength ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)) check.
+Crinkle has the key to this locked room. A character can use an action to try to pick the lock using thieves' tools, doing so with a successful DC 20 Dexterity check, or force open the door with a successful DC 20 Strength ([Athletics](/3-Mechanics/CLI/skills.md#Athletics)) check.
 
 > [!readaloud] 
 > 
@@ -679,7 +679,7 @@ There is nothing remarkable about the crowned goat engraving that leans against 
 
 ##### Hidden Treasure
 
-Anyone who has a passive Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) score of 15 or higher notices an occasional glow coming from a semicircular gap where the north wall meets the west wall. Alternatively, a successful DC 15 Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) check reveals the sporadic glowing. Anyone who puts their finger in the hole feels a toggle switch. If they move the toggle, a 5-foot-wide panel releases and can be slid to the side to reveal a bank of small storage spaces. Prior to event 5, [Shemshime](3-Mechanics/CLI/bestiary/npc/shemshime-cm.md)'s Bedtime Rhyme is found here. Otherwise, the spaces contain the following treasures: an amber ring that belonged to Ebder's wife (25 gp), an ornate curved dagger (25 gp), a set of four intricately shaped glass bottles (5 gp each) with nothing in them, a [potion of gaseous form](3-Mechanics/CLI/items/potion-of-gaseous-form-xdmg.md), and a [potion of heroism](3-Mechanics/CLI/items/potion-of-heroism-xdmg.md).
+Anyone who has a passive Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) score of 15 or higher notices an occasional glow coming from a semicircular gap where the north wall meets the west wall. Alternatively, a successful DC 15 Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) check reveals the sporadic glowing. Anyone who puts their finger in the hole feels a toggle switch. If they move the toggle, a 5-foot-wide panel releases and can be slid to the side to reveal a bank of small storage spaces. Prior to event 5, [Shemshime](/3-Mechanics/CLI/bestiary/npc/shemshime-cm.md)'s Bedtime Rhyme is found here. Otherwise, the spaces contain the following treasures: an amber ring that belonged to Ebder's wife (25 gp), an ornate curved dagger (25 gp), a set of four intricately shaped glass bottles (5 gp each) with nothing in them, a [potion of gaseous form](/3-Mechanics/CLI/items/potion-of-gaseous-form-xdmg.md), and a [potion of heroism](/3-Mechanics/CLI/items/potion-of-heroism-xdmg.md).
 
 #### F12. Avowed Quarters
 
@@ -708,6 +708,6 @@ Lying next to the clockwork oyster is a metal key. If a character uses an action
 > This bedroom could be another wing of the library for all the books packed into the shelves that line the walls. Two five-foot-tall candlesticks in the middle of the room have magical flames flickering atop them—a welcome reprieve from the relatively dim light of the firefly lamps.
 ^1ef
 
-Each candlestick is lit by a *continual light* spell that [Varnyr](3-Mechanics/CLI/bestiary/npc/varnyr-cm.md) can suppress by speaking a command word known only to her. The books in here represent [Varnyr](3-Mechanics/CLI/bestiary/npc/varnyr-cm.md)'s personal collection.
+Each candlestick is lit by a *continual light* spell that [Varnyr](/3-Mechanics/CLI/bestiary/npc/varnyr-cm.md) can suppress by speaking a command word known only to her. The books in here represent [Varnyr](/3-Mechanics/CLI/bestiary/npc/varnyr-cm.md)'s personal collection.
 
-The room includes a large cushion (which [Varnyr](3-Mechanics/CLI/bestiary/npc/varnyr-cm.md) sits on whenever she enters a trance to rest), an armoire, and a green velvet reading chair. The armoire contains clothes as well as a pile of books that won't fit on the shelves.
+The room includes a large cushion (which [Varnyr](/3-Mechanics/CLI/bestiary/npc/varnyr-cm.md) sits on whenever she enters a trance to rest), an armoire, and a green velvet reading chair. The armoire contains clothes as well as a pile of books that won't fit on the shelves.

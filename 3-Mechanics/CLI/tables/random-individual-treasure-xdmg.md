@@ -12,7 +12,7 @@ aliases: ["Random Individual Treasure"]
 
 | CR | Treasure |
 |----|----------|
-| 0–4 | `3d6` (10) GP |
+| 0–4 | `dice:3d6\|noform\|noparens\|avg` (`3d6`) (10) GP |
 | 5–10 | `2d8 × 10` (90) GP |
 | 11–16 | `2d10 × 10` (110) PP |
 | 17+ | `2d8 × 100` (900) PP |

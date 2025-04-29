@@ -14,8 +14,8 @@ aliases: ["Psychic Wind Location Effects"]
 
 | dice: 1d20 | Location Effect |
 |------------|-----------------|
-| 1–8 | Diverted; add `1d6` days to travel time |
-| 9–12 | Blown astray; add `3d10` days to travel time |
+| 1–8 | Diverted; add `dice:1d6\|noform\|noparens\|avg` (`1d6`) days to travel time |
+| 9–12 | Blown astray; add `dice:3d10\|noform\|noparens\|avg` (`3d10`) days to travel time |
 | 13–16 | Lost; at the end of the travel time, the characters arrive at a location other than the intended destination |
 | 17–20 | Sent through a random color pool (roll on the "Astral Color Pools" table) |
 ^psychic-wind-location-effects

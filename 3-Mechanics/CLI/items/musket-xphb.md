@@ -11,12 +11,12 @@ aliases:
 ---
 # Musket
 *Weapon*  
-![](3-Mechanics/CLI/items/img/musket.webp#right)
+![](/3-Mechanics/CLI/items/img/musket.webp#right)
 
 - **Damage**: 1d12 piercing
 - **Range**: 40/120
-- **Properties**: [Ammunition](3-Mechanics/CLI/rules/item-properties.md#Ammunition), [Loading](3-Mechanics/CLI/rules/item-properties.md#Loading), [Two-Handed](3-Mechanics/CLI/rules/item-properties.md#Two-Handed)
+- **Properties**: [Ammunition](/3-Mechanics/CLI/item-properties.md#Ammunition), [Loading](/3-Mechanics/CLI/item-properties.md#Loading), [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed)
 - **Cost**: 500 gp
 - **Weight**: 10.0 lbs.
 
-*Source: Player's Handbook (2024) p. 215. Available in the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 215. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*

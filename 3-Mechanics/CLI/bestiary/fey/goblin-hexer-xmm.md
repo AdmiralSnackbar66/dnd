@@ -64,16 +64,16 @@ The deity Maglubiyet claims to be the god of goblins, hobgoblins, and bugbears, 
 "cr": "3"
 "traits":
 - "desc": "The goblin casts one of the following spells, using Intelligence as the\
-    \ spellcasting ability (spell save DC 13):\n\nAt will: [Minor Illusion](3-Mechanics/CLI/spells/minor-illusion-xphb.md)\n\
-    \n1/day each: [Blindness/Deafness](3-Mechanics/CLI/spells/blindness-deafness-xphb.md),\
-    \ [Faerie Fire](3-Mechanics/CLI/spells/faerie-fire-xphb.md), [Grease](3-Mechanics/CLI/spells/grease-xphb.md)"
+    \ spellcasting ability (spell save DC 13):\n\nAt will: [Minor Illusion](/3-Mechanics/CLI/spells/minor-illusion-xphb.md)\n\
+    \n1/day each: [Blindness/Deafness](/3-Mechanics/CLI/spells/blindness-deafness-xphb.md),\
+    \ [Faerie Fire](/3-Mechanics/CLI/spells/faerie-fire-xphb.md), [Grease](/3-Mechanics/CLI/spells/grease-xphb.md)"
   "name": "Spellcasting"
 "actions":
 - "desc": "The goblin makes two Hex Stick attacks. It can replace one attack with\
     \ a use of Spellcasting."
   "name": "Multiattack"
-- "desc": "Melee or Ranged Attack Roll: +5, reach 5 ft. or range 60 ft. Hit:\
-    \ 12 (2d8 + 3) Psychic damage."
+- "desc": "Melee or Ranged Attack Roll: +5, reach 5 ft. or range 60 ft. Hit: 12\
+    \ (2d8 + 3) Psychic damage."
   "name": "Hex Stick"
 "reactions":
 - "desc": "Trigger: A creature the goblin can see hits it with an attack roll. _Response—\
@@ -82,7 +82,7 @@ The deity Maglubiyet claims to be the god of goblins, hobgoblins, and bugbears, 
   "name": "Jinx"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/fey/token/goblin-hexer-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/fey/token/goblin-hexer-xmm.webp"
 ```
 ^statblock
 

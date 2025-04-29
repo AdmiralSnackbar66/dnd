@@ -9,21 +9,21 @@ aliases:
 ---
 # Robe of Useful Items
 *Wondrous item, uncommon*  
-![](3-Mechanics/CLI/items/img/robe-of-useful-items.webp#right)
+![](/3-Mechanics/CLI/items/img/robe-of-useful-items.webp#right)
 
 
-This robe has cloth patches of various shapes and colors covering it. While wearing the robe, you can take a [Magic](3-Mechanics/CLI/rules/actions.md#Magic) action to detach one of the patches, causing it to become the object or creature it represents. Once the last patch is removed, the robe becomes an ordinary garment.
+This robe has cloth patches of various shapes and colors covering it. While wearing the robe, you can take a [Magic](/3-Mechanics/CLI/actions.md#Magic) action to detach one of the patches, causing it to become the object or creature it represents. Once the last patch is removed, the robe becomes an ordinary garment.
 
 The robe has two of each of the following patches:
 
-- [Bullseye Lantern](3-Mechanics/CLI/items/bullseye-lantern-xphb.md) (filled and lit)  
-- [Dagger](3-Mechanics/CLI/items/dagger-xphb.md)  
-- [Mirror](3-Mechanics/CLI/items/mirror-xphb.md)  
-- [Pole](3-Mechanics/CLI/items/pole-xphb.md)  
-- [Rope](3-Mechanics/CLI/items/rope-xphb.md) (coiled)  
-- [Sack](3-Mechanics/CLI/items/sack-xphb.md)  
+- [Bullseye Lantern](/3-Mechanics/CLI/items/bullseye-lantern-xphb.md) (filled and lit)  
+- [Dagger](/3-Mechanics/CLI/items/dagger-xphb.md)  
+- [Mirror](/3-Mechanics/CLI/items/mirror-xphb.md)  
+- [Pole](/3-Mechanics/CLI/items/pole-xphb.md)  
+- [Rope](/3-Mechanics/CLI/items/rope-xphb.md) (coiled)  
+- [Sack](/3-Mechanics/CLI/items/sack-xphb.md)  
 
-In addition, the robe has `4d4` other patches. The DM chooses the patches or determines them randomly by rolling on the following table.
+In addition, the robe has `dice:4d4|noform|noparens|avg` (`4d4`) other patches. The DM chooses the patches or determines them randomly by rolling on the following table.
 
 `dice: [](robe-of-useful-items-xdmg.md#^1-patch)`
 
@@ -34,14 +34,14 @@ In addition, the robe has `4d4` other patches. The DM chooses the patches or det
 | 16-22 | Iron door (up to 10 feet wide and 10 feet high, barred on one side of your choice), which you can place in an opening you can reach; it conforms to fit the opening, attaching and hinging itself |
 | 23-30 | 10 gems worth 100 GP each |
 | 31-44 | Wooden ladder (24 feet long) |
-| 45-51 | [Riding Horse](3-Mechanics/CLI/bestiary/beast/riding-horse-xmm.md) with a [Riding Saddle](3-Mechanics/CLI/items/riding-saddle-xphb.md) |
-| 52-59 | Open pit (a 10-foot [Cube](3-Mechanics/CLI/rules/variant-rules/cube-area-of-effect-xphb.md)), which you can place on the ground within 10 feet of yourself |
-| 60-68 | 4 [Potions of Healing](3-Mechanics/CLI/items/potion-of-healing-xdmg.md) |
-| 69-75 | [Rowboat](3-Mechanics/CLI/items/rowboat-xphb.md) (12 feet long) |
-| 76-83 | [Spell Scroll](3-Mechanics/CLI/items/spell-scroll-xdmg.md) containing one spell of level 1, 2, or 3 (your choice) |
-| 84-90 | 2 [Mastiffs](3-Mechanics/CLI/bestiary/beast/mastiff-xmm.md) |
+| 45-51 | [Riding Horse](/3-Mechanics/CLI/bestiary/beast/riding-horse-xmm.md) with a [Riding Saddle](/3-Mechanics/CLI/items/riding-saddle-xphb.md) |
+| 52-59 | Open pit (a 10-foot [Cube](/3-Mechanics/CLI/variant-rules/cube-area-of-effect-xphb.md)), which you can place on the ground within 10 feet of yourself |
+| 60-68 | 4 [Potions of Healing](/3-Mechanics/CLI/items/potion-of-healing-xdmg.md) |
+| 69-75 | [Rowboat](/3-Mechanics/CLI/items/rowboat-xphb.md) (12 feet long) |
+| 76-83 | [Spell Scroll](/3-Mechanics/CLI/items/spell-scroll-xdmg.md) containing one spell of level 1, 2, or 3 (your choice) |
+| 84-90 | 2 [Mastiffs](/3-Mechanics/CLI/bestiary/beast/mastiff-xmm.md) |
 | 91-96 | Window (2 feet by 4 feet, up to 2 feet deep), which you can place on a vertical surface you can reach |
-| 97-00 | [Portable Ram](3-Mechanics/CLI/items/portable-ram-xphb.md) |
+| 97-00 | [Portable Ram](/3-Mechanics/CLI/items/portable-ram-xphb.md) |
 ^1-patch
 
-*Source: Dungeon Master's Guide (2024) p. 298*
+*Source: Dungeon Master's Guide (2024) p. 298. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*

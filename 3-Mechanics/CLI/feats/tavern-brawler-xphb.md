@@ -12,7 +12,7 @@ You gain the following benefits.
 
 ## Enhanced Unarmed Strike
 
-When you hit with your Unarmed Strike and deal damage, you can deal Bludgeoning damage equal to `1d4` plus your Strength modifier instead of the normal damage of an Unarmed Strike.
+When you hit with your Unarmed Strike and deal damage, you can deal Bludgeoning damage equal to `dice:1d4|noform|noparens|avg` (`1d4`) plus your Strength modifier instead of the normal damage of an Unarmed Strike.
 
 ## Damage Rerolls
 
@@ -24,4 +24,4 @@ You have proficiency with improvised weapons.
 
 ## Push
 
-When you hit a creature with an Unarmed Strike as part of the [Attack](3-Mechanics/CLI/rules/actions.md#Attack) action on your turn, you can deal damage to the target and also push it 5 feet away from you. You can use this benefit only once per turn.
+When you hit a creature with an Unarmed Strike as part of the [Attack](/3-Mechanics/CLI/actions.md#Attack) action on your turn, you can deal damage to the target and also push it 5 feet away from you. You can use this benefit only once per turn.

@@ -11,7 +11,7 @@ statblock: inline
 aliases: ["Archmage"]
 ---
 # [Archmage](3-Mechanics\CLI\bestiary\humanoid/archmage-xmm.md)
-*Source: Monster Manual (2024) p. 199*  
+*Source: Monster Manual (2024) p. 199. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
 
 Archmages have mastered incredible magical power. While some use their magic to protect the world, others become tyrants or pursue forbidden secrets. Many archmages retain magical servants and collect magic items and occult lore.
 
@@ -73,33 +73,33 @@ Roll on or choose a result from the Mage Roles table to inspire different sorts 
   "History": !!int "9"
   "Arcana": !!int "13"
 "damage_immunities": "psychic"
-"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed) (with\
-  \ Mind Blank)"
+"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed) (with Mind\
+  \ Blank)"
 "senses": "passive Perception 16"
 "languages": "Common plus five other languages"
 "cr": "12"
 "traits":
 - "desc": "The archmage casts one of the following spells, using Intelligence as the\
-    \ spellcasting ability (spell save DC 17):\n\nAt will: [Detect Magic](3-Mechanics/CLI/spells/detect-magic-xphb.md),\
-    \ [Detect Thoughts](3-Mechanics/CLI/spells/detect-thoughts-xphb.md), [Disguise\
-    \ Self](3-Mechanics/CLI/spells/disguise-self-xphb.md), [Invisibility](3-Mechanics/CLI/spells/invisibility-xphb.md),\
-    \ [Light](3-Mechanics/CLI/spells/light-xphb.md), [Mage Armor](3-Mechanics/CLI/spells/mage-armor-xphb.md)\
-    \ (included in AC), [Mage Hand](3-Mechanics/CLI/spells/mage-hand-xphb.md), [Prestidigitation](3-Mechanics/CLI/spells/prestidigitation-xphb.md)\n\
-    \n1/day each: [Cone of Cold](3-Mechanics/CLI/spells/cone-of-cold-xphb.md)\
-    \ (level 9 version), [Mind Blank](3-Mechanics/CLI/spells/mind-blank-xphb.md) (cast\
-    \ before combat), [Scrying](3-Mechanics/CLI/spells/scrying-xphb.md), [Teleport](3-Mechanics/CLI/spells/teleport-xphb.md)\n\
-    \n2/day each: [Fly](3-Mechanics/CLI/spells/fly-xphb.md), [Lightning Bolt](3-Mechanics/CLI/spells/lightning-bolt-xphb.md)\
+    \ spellcasting ability (spell save DC 17):\n\nAt will: [Detect Magic](/3-Mechanics/CLI/spells/detect-magic-xphb.md),\
+    \ [Detect Thoughts](/3-Mechanics/CLI/spells/detect-thoughts-xphb.md), [Disguise\
+    \ Self](/3-Mechanics/CLI/spells/disguise-self-xphb.md), [Invisibility](/3-Mechanics/CLI/spells/invisibility-xphb.md),\
+    \ [Light](/3-Mechanics/CLI/spells/light-xphb.md), [Mage Armor](/3-Mechanics/CLI/spells/mage-armor-xphb.md)\
+    \ (included in AC), [Mage Hand](/3-Mechanics/CLI/spells/mage-hand-xphb.md), [Prestidigitation](/3-Mechanics/CLI/spells/prestidigitation-xphb.md)\n\
+    \n1/day each: [Cone of Cold](/3-Mechanics/CLI/spells/cone-of-cold-xphb.md)\
+    \ (level 9 version), [Mind Blank](/3-Mechanics/CLI/spells/mind-blank-xphb.md)\
+    \ (cast before combat), [Scrying](/3-Mechanics/CLI/spells/scrying-xphb.md), [Teleport](/3-Mechanics/CLI/spells/teleport-xphb.md)\n\
+    \n2/day each: [Fly](/3-Mechanics/CLI/spells/fly-xphb.md), [Lightning Bolt](/3-Mechanics/CLI/spells/lightning-bolt-xphb.md)\
     \ (level 7 version)"
   "name": "Spellcasting"
-- "desc": "The mage casts [Misty Step](3-Mechanics/CLI/spells/misty-step-xphb.md),\
-    \ using the same spellcasting ability as Spellcasting.\n\n3/day: [Misty Step](3-Mechanics/CLI/spells/misty-step-xphb.md)"
+- "desc": "The mage casts [Misty Step](/3-Mechanics/CLI/spells/misty-step-xphb.md),\
+    \ using the same spellcasting ability as Spellcasting.\n\n3/day: [Misty Step](/3-Mechanics/CLI/spells/misty-step-xphb.md)"
   "name": "Misty Step (3/Day)"
-- "desc": "The archmage casts [Counterspell](3-Mechanics/CLI/spells/counterspell-xphb.md)\
-    \ or [Shield](3-Mechanics/CLI/spells/shield-xphb.md) in response to the spell's\
+- "desc": "The archmage casts [Counterspell](/3-Mechanics/CLI/spells/counterspell-xphb.md)\
+    \ or [Shield](/3-Mechanics/CLI/spells/shield-xphb.md) in response to the spell's\
     \ trigger, using the same spellcasting ability as Spellcasting.\n\n3/day:\
-    \ [Counterspell](3-Mechanics/CLI/spells/counterspell-xphb.md), [Shield](3-Mechanics/CLI/spells/shield-xphb.md)"
+    \ [Counterspell](/3-Mechanics/CLI/spells/counterspell-xphb.md), [Shield](/3-Mechanics/CLI/spells/shield-xphb.md)"
   "name": "Protective Magic (3/Day)"
-- "desc": "The archmage has [Advantage](3-Mechanics/CLI/rules/variant-rules/advantage-xphb.md)\
+- "desc": "The archmage has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
     \ on saving throws against spells and other magical effects."
   "name": "Magic Resistance"
 "actions":
@@ -110,7 +110,7 @@ Roll on or choose a result from the Mage Roles table to inspire different sorts 
   "name": "Arcane Burst"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/archmage-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/humanoid/token/archmage-xmm.webp"
 ```
 ^statblock
 

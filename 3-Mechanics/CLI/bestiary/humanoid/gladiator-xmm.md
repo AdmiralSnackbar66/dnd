@@ -11,7 +11,7 @@ statblock: inline
 aliases: ["Gladiator"]
 ---
 # [Gladiator](3-Mechanics\CLI\bestiary\humanoid/gladiator-xmm.md)
-*Source: Monster Manual (2024) p. 139*  
+*Source: Monster Manual (2024) p. 139. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
 
 ## Gladiator
 
@@ -72,7 +72,7 @@ Gladiators are professional fighters who pit themselves against one another, mon
   "name": "Spear"
 - "desc": "Strength Saving Throw: DC 15, one creature within 5 feet that the gladiator\
     \ can see. Failure: 9 (2d4 + 4) Bludgeoning damage. If the target is a Medium\
-    \ or smaller creature, it has the [Prone](3-Mechanics/CLI/rules/conditions.md#Prone)\
+    \ or smaller creature, it has the [Prone](/3-Mechanics/CLI/conditions.md#Prone)\
     \ condition."
   "name": "Shield Bash"
 "reactions":
@@ -82,7 +82,7 @@ Gladiators are professional fighters who pit themselves against one another, mon
   "name": "Parry"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/gladiator-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/humanoid/token/gladiator-xmm.webp"
 ```
 ^statblock
 

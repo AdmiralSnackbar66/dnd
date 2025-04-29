@@ -22,7 +22,7 @@ aliases:
 
 
 
-This suit of armor is reinforced with adamantine, one of the hardest substances in existence. While you're wearing it, any [Critical Hit](3-Mechanics/CLI/rules/variant-rules/critical-hit-xphb.md) against you becomes a normal hit.
+This suit of armor is reinforced with adamantine, one of the hardest substances in existence. While you're wearing it, any [Critical Hit](/3-Mechanics/CLI/variant-rules/critical-hit-xphb.md) against you becomes a normal hit.
 
 **Variants**:
 - [Adamantine Breastplate](#Adamantine%20Breastplate)
@@ -84,4 +84,4 @@ This suit of armor is reinforced with adamantine, one of the hardest substances 
 - **Weight**: 60.0 lbs.
 
 
-*Source: Dungeon Master's Guide (2024) p. 227. Available in the Free Rules (2024)*
+*Source: Dungeon Master's Guide (2024) p. 227. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*

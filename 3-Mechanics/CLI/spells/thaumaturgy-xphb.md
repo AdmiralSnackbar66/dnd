@@ -12,11 +12,11 @@ tags:
 - ttrpg-cli/spell/race/tiefling
 - ttrpg-cli/spell/school/transmutation
 - ttrpg-cli/spell/subclass/college-of-lore
-- ttrpg-cli/spell/subclass/drakewarden
+- ttrpg-cli/spell/subclass/divine-soul
 classes:
 - Bard (College of Lore)
 - Cleric
-- Ranger (Drakewarden)
+- Sorcerer (Divine Soul)
 aliases: ["Thaumaturgy"]
 ---
 # Thaumaturgy
@@ -36,7 +36,7 @@ You alter the appearance of your eyes for 1 minute.
 
 ## Booming Voice
 
-Your voice booms up to three times as loud as normal for 1 minute. For the duration, you have [Advantage](3-Mechanics/CLI/rules/variant-rules/advantage-xphb.md) on Charisma ([Intimidation](3-Mechanics/CLI/rules/skills.md#Intimidation)) checks.
+Your voice booms up to three times as loud as normal for 1 minute. For the duration, you have [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md) on Charisma ([Intimidation](/3-Mechanics/CLI/skills.md#Intimidation)) checks.
 
 ## Fire Play
 
@@ -56,6 +56,6 @@ You cause harmless tremors in the ground for 1 minute.
 
 ## Summary
 
-**Classes**: [Cleric](3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Bard (College of Lore)](3-Mechanics/CLI/lists/list-spells-classes-bard-xphb-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Ranger (Drakewarden)](3-Mechanics/CLI/lists/list-spells-classes-ranger-xphb-drakewarden-ftd.md "subclass=FTD;class=XPHB")
+**Classes**: [Sorcerer (Divine Soul)](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer-xphb-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Bard (College of Lore)](/3-Mechanics/CLI/lists/list-spells-classes-bard-xphb-college-of-lore-xphb.md "subclass=XPHB;class=XPHB")
 
-*Source: Player's Handbook (2024) p. 333. Available in the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 333. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*

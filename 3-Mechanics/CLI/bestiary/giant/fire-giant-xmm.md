@@ -12,7 +12,7 @@ statblock: inline
 aliases: ["Fire Giant"]
 ---
 # [Fire Giant](3-Mechanics\CLI\bestiary\giant/fire-giant-xmm.md)
-*Source: Monster Manual (2024) p. 119*  
+*Source: Monster Manual (2024) p. 119. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
 
 ## Fire Giant
 
@@ -57,17 +57,17 @@ Most fire giants dwell in volcanically active mountains or cavernous depths that
 "actions":
 - "desc": "The giant makes two attacks, using Flame Sword or Hammer Throw in any combination."
   "name": "Multiattack"
-- "desc": "Melee Attack Roll: +11, reach 10 ft. Hit: 21 (4d6 + 7) Slashing\
-    \ damage plus 10 (3d6) Fire damage."
+- "desc": "Melee Attack Roll: +11, reach 10 ft. Hit: 21 (4d6 + 7) Slashing damage\
+    \ plus 10 (3d6) Fire damage."
   "name": "Flame Sword"
 - "desc": "Ranged Attack Roll: +11, range 60/240 ft. Hit: 23 (3d10 + 7) Bludgeoning\
     \ damage plus 4 (1d8) Fire damage, and the target is pushed up to 15 feet straight\
-    \ away from the giant and has [Disadvantage](3-Mechanics/CLI/rules/variant-rules/disadvantage-xphb.md)\
+    \ away from the giant and has [Disadvantage](/3-Mechanics/CLI/variant-rules/disadvantage-xphb.md)\
     \ on the next attack roll it makes before the end of its next turn."
   "name": "Hammer Throw"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/giant/token/fire-giant-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/giant/token/fire-giant-xmm.webp"
 ```
 ^statblock
 

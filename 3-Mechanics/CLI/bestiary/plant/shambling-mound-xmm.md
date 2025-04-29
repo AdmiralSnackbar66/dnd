@@ -12,7 +12,7 @@ statblock: inline
 aliases: ["Shambling Mound"]
 ---
 # [Shambling Mound](3-Mechanics\CLI\bestiary\plant/shambling-mound-xmm.md)
-*Source: Monster Manual (2024) p. 276*  
+*Source: Monster Manual (2024) p. 276. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
 
 ## Shambling Mound
 
@@ -59,38 +59,37 @@ Strange circumstances might give rise to shambling mounds, transforming vegetati
   "Stealth": !!int "3"
 "damage_resistances": "cold, fire"
 "damage_immunities": "lightning"
-"condition_immunities": "[deafened](3-Mechanics/CLI/rules/conditions.md#Deafened),\
-  \ [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion)"
+"condition_immunities": "[deafened](/3-Mechanics/CLI/conditions.md#Deafened), [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion)"
 "senses": "blindsight 60 ft., passive Perception 10"
 "languages": ""
 "cr": "5"
 "traits":
 - "desc": "Whenever the shambling mound is subjected to Lightning damage, it regains\
-    \ a number of [Hit Points](3-Mechanics/CLI/rules/variant-rules/hit-points-xphb.md)\
+    \ a number of [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)\
     \ equal to the Lightning damage dealt."
   "name": "Lightning Absorption"
 "actions":
 - "desc": "The shambling mound makes three Charged Tendril attacks. It can replace\
     \ one attack with a use of Engulf."
   "name": "Multiattack"
-- "desc": "Melee Attack Roll: +7, reach 10 ft. Hit: 7 (1d6 + 4) Bludgeoning\
-    \ damage plus 5 (2d4) Lightning damage. If the target is a Medium or smaller\
-    \ creature, the shambling mound pulls the target 5 feet straight toward itself."
+- "desc": "Melee Attack Roll: +7, reach 10 ft. Hit: 7 (1d6 + 4) Bludgeoning damage\
+    \ plus 5 (2d4) Lightning damage. If the target is a Medium or smaller creature,\
+    \ the shambling mound pulls the target 5 feet straight toward itself."
   "name": "Charged Tendril"
 - "desc": "Strength Saving Throw: DC 15, one Medium or smaller creature within 5\
     \ feet. Failure: The target is pulled into the shambling mound's space and has\
-    \ the [Grappled](3-Mechanics/CLI/rules/conditions.md#Grappled) condition (escape\
-    \ DC 14). Until the grapple ends, the target has the [Blinded](3-Mechanics/CLI/rules/conditions.md#Blinded)\
-    \ and [Restrained](3-Mechanics/CLI/rules/conditions.md#Restrained) conditions,\
-    \ and it takes 10 (3d6) Lightning damage at the start of each of its turns.\
-    \ When the shambling mound moves, the [Grappled](3-Mechanics/CLI/rules/conditions.md#Grappled)\
+    \ the [Grappled](/3-Mechanics/CLI/conditions.md#Grappled) condition (escape DC\
+    \ 14). Until the grapple ends, the target has the [Blinded](/3-Mechanics/CLI/conditions.md#Blinded)\
+    \ and [Restrained](/3-Mechanics/CLI/conditions.md#Restrained) conditions, and\
+    \ it takes 10 (3d6) Lightning damage at the start of each of its turns. When the\
+    \ shambling mound moves, the [Grappled](/3-Mechanics/CLI/conditions.md#Grappled)\
     \ target moves with it, costing it no extra movement. The shambling mound can\
-    \ have only one creature [Grappled](3-Mechanics/CLI/rules/conditions.md#Grappled)\
-    \ by this action at a time."
+    \ have only one creature [Grappled](/3-Mechanics/CLI/conditions.md#Grappled) by\
+    \ this action at a time."
   "name": "Engulf"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/plant/token/shambling-mound-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/plant/token/shambling-mound-xmm.webp"
 ```
 ^statblock
 

@@ -11,7 +11,7 @@ statblock: inline
 aliases: ["Assassin"]
 ---
 # [Assassin](3-Mechanics\CLI\bestiary\humanoid/assassin-xmm.md)
-*Source: Monster Manual (2024) p. 22*  
+*Source: Monster Manual (2024) p. 22. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
 
 ## Assassin
 
@@ -69,7 +69,7 @@ Many assassins adhere to a professional code or exhibit some signature quirk. Ro
 - "desc": "If the assassin is subjected to an effect that allows it to make a Dexterity\
     \ saving throw to take only half damage, the assassin instead takes no damage\
     \ if it succeeds on the save and only half damage if it fails. It can't use this\
-    \ trait if it has the [Incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated)\
+    \ trait if it has the [Incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated)\
     \ condition."
   "name": "Evasion"
 "actions":
@@ -77,7 +77,7 @@ Many assassins adhere to a professional code or exhibit some signature quirk. Ro
     \ any combination."
   "name": "Multiattack"
 - "desc": "Melee Attack Roll: +7, reach 5 ft. Hit: 7 (1d6 + 4) Piercing damage\
-    \ plus 17 (5d6) Poison damage, and the target has the [Poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)\
+    \ plus 17 (5d6) Poison damage, and the target has the [Poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)\
     \ condition until the start of the assassin's next turn."
   "name": "Shortsword"
 - "desc": "Ranged Attack Roll: +7, range 80/320 ft. Hit: 8 (1d8 + 4) Piercing\
@@ -88,7 +88,7 @@ Many assassins adhere to a professional code or exhibit some signature quirk. Ro
   "name": "Cunning Action"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/assassin-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/humanoid/token/assassin-xmm.webp"
 ```
 ^statblock
 

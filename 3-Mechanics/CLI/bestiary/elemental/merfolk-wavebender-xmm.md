@@ -55,18 +55,18 @@ Beneath the waves dwell merfolk, mysterious creatures that merge the features of
 "traits":
 - "desc": "The merfolk casts one of the following spells, requiring no Material components\
     \ and using Wisdom as the spellcasting ability (spell save DC 15):\n\nAt will:\
-    \ [Elementalism](3-Mechanics/CLI/spells/elementalism-xphb.md), [Light](3-Mechanics/CLI/spells/light-xphb.md)\n\
-    \n1/day each: [Control Water](3-Mechanics/CLI/spells/control-water-xphb.md),\
-    \ [Create or Destroy Water](3-Mechanics/CLI/spells/create-or-destroy-water-xphb.md)"
+    \ [Elementalism](/3-Mechanics/CLI/spells/elementalism-xphb.md), [Light](/3-Mechanics/CLI/spells/light-xphb.md)\n\
+    \n1/day each: [Control Water](/3-Mechanics/CLI/spells/control-water-xphb.md),\
+    \ [Create or Destroy Water](/3-Mechanics/CLI/spells/create-or-destroy-water-xphb.md)"
   "name": "Spellcasting"
 - "desc": "The merfolk can breathe air and water."
   "name": "Amphibious"
 "actions":
 - "desc": "The merfolk makes two Aquatic Burst attacks."
   "name": "Multiattack"
-- "desc": "Melee or Ranged Attack Roll: +7, reach 5 ft. or range 60 ft. Hit:\
-    \ 20 (3d10 + 4) Cold damage. If the target is a Large or smaller creature, it\
-    \ has the [Prone](3-Mechanics/CLI/rules/conditions.md#Prone) condition."
+- "desc": "Melee or Ranged Attack Roll: +7, reach 5 ft. or range 60 ft. Hit: 20\
+    \ (3d10 + 4) Cold damage. If the target is a Large or smaller creature, it has\
+    \ the [Prone](/3-Mechanics/CLI/conditions.md#Prone) condition."
   "name": "Aquatic Burst"
 "reactions":
 - "desc": "Trigger: An enemy the merfolk can see enters a space within 5 feet of the\
@@ -76,7 +76,7 @@ Beneath the waves dwell merfolk, mysterious creatures that merge the features of
   "name": "Watery Rebuke"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/elemental/token/merfolk-wavebender-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/elemental/token/merfolk-wavebender-xmm.webp"
 ```
 ^statblock
 

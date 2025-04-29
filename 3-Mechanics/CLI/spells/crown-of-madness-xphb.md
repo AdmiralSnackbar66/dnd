@@ -31,12 +31,12 @@ aliases: ["Crown of Madness"]
 - **Components:** V, S
 - **Duration:** Concentration, up to 1 minute
 
-One creature that you can see within range must succeed on a Wisdom saving throw or have the [Charmed](3-Mechanics/CLI/rules/conditions.md#Charmed) condition for the duration. The creature succeeds automatically if it isn't Humanoid.
+One creature that you can see within range must succeed on a Wisdom saving throw or have the [Charmed](/3-Mechanics/CLI/conditions.md#Charmed) condition for the duration. The creature succeeds automatically if it isn't Humanoid.
 
-A spectral crown appears on the [Charmed](3-Mechanics/CLI/rules/conditions.md#Charmed) target's head, and it must use its action before moving on each of its turns to make a melee attack against a creature other than itself that you mentally choose. The target can act normally on its turn if you choose no creature or if no creature is within its reach. The target repeats the save at the end of each of its turns, ending the spell on itself on a success.
+A spectral crown appears on the [Charmed](/3-Mechanics/CLI/conditions.md#Charmed) target's head, and it must use its action before moving on each of its turns to make a melee attack against a creature other than itself that you mentally choose. The target can act normally on its turn if you choose no creature or if no creature is within its reach. The target repeats the save at the end of each of its turns, ending the spell on itself on a success.
 
-On your later turns, you must take the [Magic](3-Mechanics/CLI/rules/actions.md#Magic) action to maintain control of the target, or the spell ends.
+On your later turns, you must take the [Magic](/3-Mechanics/CLI/actions.md#Magic) action to maintain control of the target, or the spell ends.
 
-**Classes**: [Sorcerer](3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Rogue (Arcane Trickster)](3-Mechanics/CLI/lists/list-spells-classes-rogue-xphb-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Bard (College of Lore)](3-Mechanics/CLI/lists/list-spells-classes-bard-xphb-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Fighter (Eldritch Knight)](3-Mechanics/CLI/lists/list-spells-classes-fighter-xphb-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Bard](3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Warlock](3-Mechanics/CLI/lists/list-spells-classes-warlock.md); [Wizard](3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Rogue (Arcane Trickster)](/3-Mechanics/CLI/lists/list-spells-classes-rogue-xphb-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Warlock](/3-Mechanics/CLI/lists/list-spells-classes-warlock.md); [Fighter (Eldritch Knight)](/3-Mechanics/CLI/lists/list-spells-classes-fighter-xphb-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Bard (College of Lore)](/3-Mechanics/CLI/lists/list-spells-classes-bard-xphb-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
 *Source: Player's Handbook (2024) p. 259*

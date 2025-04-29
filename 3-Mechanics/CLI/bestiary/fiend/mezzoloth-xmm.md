@@ -60,21 +60,21 @@ Mezzoloths typically form mercenary bands with others of their kind. These force
   "Perception": !!int "5"
 "damage_resistances": "cold, fire, lightning"
 "damage_immunities": "acid, poison"
-"condition_immunities": "[poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"condition_immunities": "[poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
 "senses": "blindsight 60 ft., darkvision 60 ft., passive Perception 15"
 "languages": "Abyssal, Infernal; telepathy 60 ft."
 "cr": "5"
 "traits":
 - "desc": "The mezzoloth casts one of the following spells, requiring no Material\
     \ components and using Wisdom as the spellcasting ability (spell save DC 13):\n\
-    \n1/day each: [Cloudkill](3-Mechanics/CLI/spells/cloudkill-xphb.md), [Darkness](3-Mechanics/CLI/spells/darkness-xphb.md),\
-    \ [Dispel Magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md)"
+    \n1/day each: [Cloudkill](/3-Mechanics/CLI/spells/cloudkill-xphb.md), [Darkness](/3-Mechanics/CLI/spells/darkness-xphb.md),\
+    \ [Dispel Magic](/3-Mechanics/CLI/spells/dispel-magic-xphb.md)"
   "name": "Spellcasting"
 - "desc": "If the mezzoloth dies outside Gehenna, its body dissolves into ichor, and\
-    \ it gains a new body instantly, reviving with all its [Hit Points](3-Mechanics/CLI/rules/variant-rules/hit-points-xphb.md)\
+    \ it gains a new body instantly, reviving with all its [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)\
     \ somewhere in Gehenna."
   "name": "Fiendish Restoration"
-- "desc": "The mezzoloth has [Advantage](3-Mechanics/CLI/rules/variant-rules/advantage-xphb.md)\
+- "desc": "The mezzoloth has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
     \ on saving throws against spells and other magical effects."
   "name": "Magic Resistance"
 "actions":
@@ -82,14 +82,13 @@ Mezzoloths typically form mercenary bands with others of their kind. These force
     \ combination."
   "name": "Multiattack"
 - "desc": "Melee Attack Roll: +7, reach 5 ft. Hit: 9 (2d4 + 4) Slashing damage.\
-    \ If the target is a Large or smaller creature, it has the [Grappled](3-Mechanics/CLI/rules/conditions.md#Grappled)\
-    \ condition (escape DC 14) from two of four claws, and it has the [Restrained](3-Mechanics/CLI/rules/conditions.md#Restrained)\
+    \ If the target is a Large or smaller creature, it has the [Grappled](/3-Mechanics/CLI/conditions.md#Grappled)\
+    \ condition (escape DC 14) from two of four claws, and it has the [Restrained](/3-Mechanics/CLI/conditions.md#Restrained)\
     \ condition until the grapple ends."
   "name": "Claws"
 - "desc": "Melee or Ranged Attack Roll: +7, reach 5 ft. or range 20/60 ft. Hit:\
-    \ 8 (1d8 + 4) Piercing damage plus 10 (3d6) Force damage. Hit or Miss: The\
-    \ trident magically returns to the mezzoloth's claw immediately after a ranged\
-    \ attack."
+    \ 8 (1d8 + 4) Piercing damage plus 10 (3d6) Force damage. Hit or Miss: The trident\
+    \ magically returns to the mezzoloth's claw immediately after a ranged attack."
   "name": "Mercurial Trident"
 "bonus_actions":
 - "desc": "The mezzoloth teleports up to 60 feet to an unoccupied space it can see.\
@@ -98,7 +97,7 @@ Mezzoloths typically form mercenary bands with others of their kind. These force
   "name": "Teleport (Recharge 5-6)"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/fiend/token/mezzoloth-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/fiend/token/mezzoloth-xmm.webp"
 ```
 ^statblock
 

@@ -54,23 +54,23 @@ Kobolds' scales resemble those of chromatic dragons that live near their warrens
 "languages": "Common, Draconic"
 "cr": "1/4"
 "traits":
-- "desc": "The kobold has [Advantage](3-Mechanics/CLI/rules/variant-rules/advantage-xphb.md)\
+- "desc": "The kobold has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
     \ on an attack roll against a creature if at least one of the kobold's allies\
-    \ is within 5 feet of the creature and the ally doesn't have the [Incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated)\
+    \ is within 5 feet of the creature and the ally doesn't have the [Incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated)\
     \ condition."
   "name": "Pack Tactics"
-- "desc": "While in sunlight, the kobold has [Disadvantage](3-Mechanics/CLI/rules/variant-rules/disadvantage-xphb.md)\
+- "desc": "While in sunlight, the kobold has [Disadvantage](/3-Mechanics/CLI/variant-rules/disadvantage-xphb.md)\
     \ on ability checks and attack rolls."
   "name": "Sunlight Sensitivity"
 "actions":
 - "desc": "Melee Attack Roll: +5, reach 5 ft. Hit: 6 (1d6 + 3) Piercing damage."
   "name": "Dragon-Tooth Blade"
-- "desc": "Ranged Attack Roll: +5, range 30 ft. Hit: 6 (1d6 + 3) damage of\
-    \ a type chosen by the kobold: Acid, Cold, Fire, Lightning, or Poison."
+- "desc": "Ranged Attack Roll: +5, range 30 ft. Hit: 6 (1d6 + 3) damage of a type\
+    \ chosen by the kobold: Acid, Cold, Fire, Lightning, or Poison."
   "name": "Chromatic Spittle"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/dragon/token/winged-kobold-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/dragon/token/winged-kobold-xmm.webp"
 ```
 ^statblock
 

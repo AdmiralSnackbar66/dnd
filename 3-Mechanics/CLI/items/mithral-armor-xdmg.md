@@ -24,7 +24,7 @@ aliases:
 
 Mithral is a light, flexible metal. A mithral chain shirt or breastplate can be worn under normal clothes.
 
-If the armor normally imposes disadvantage on Dexterity ([Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)) checks or has a Strength requirement, the mithral version of the armor doesn't.
+If the armor normally imposes disadvantage on Dexterity ([Stealth](/3-Mechanics/CLI/skills.md#Stealth)) checks or has a Strength requirement, the mithral version of the armor doesn't.
 
 **Variants**:
 - [Mithral Breastplate](#Mithral%20Breastplate)
@@ -86,4 +86,4 @@ If the armor normally imposes disadvantage on Dexterity ([Stealth](3-Mechanics/C
 - **Weight**: 60.0 lbs.
 
 
-*Source: Dungeon Master's Guide (2024) p. 279. Available in the Free Rules (2024)*
+*Source: Dungeon Master's Guide (2024) p. 279. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*

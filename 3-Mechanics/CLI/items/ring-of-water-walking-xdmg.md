@@ -9,9 +9,9 @@ aliases:
 ---
 # Ring of Water Walking
 *Uncommon*  
-![](3-Mechanics/CLI/items/img/ring-of-water-walking.webp#right)
+![](/3-Mechanics/CLI/items/img/ring-of-water-walking.webp#right)
 
 
-While wearing this ring, you cast [Water Walk](3-Mechanics/CLI/spells/water-walk-xphb.md) from it, targeting only yourself.
+While wearing this ring, you cast [Water Walk](/3-Mechanics/CLI/spells/water-walk-xphb.md) from it, targeting only yourself.
 
-*Source: Dungeon Master's Guide (2024) p. 296. Available in the Free Rules (2024)*
+*Source: Dungeon Master's Guide (2024) p. 296. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*

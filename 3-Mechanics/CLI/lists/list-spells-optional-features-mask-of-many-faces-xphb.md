@@ -9,4 +9,4 @@ aliases: ["Spells for Mask of Many Faces"]
 
 ## 1st Level
 
-- [Disguise Self](3-Mechanics/CLI/spells/disguise-self-xphb.md "XPHB")
+- [Disguise Self](/3-Mechanics/CLI/spells/disguise-self-xphb.md "XPHB")

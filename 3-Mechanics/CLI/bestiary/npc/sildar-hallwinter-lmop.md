@@ -21,7 +21,7 @@ Sildar Hallwinter is a retired soldier and sellsword who hails from the city of 
 "subtype": "human"
 "alignment": "Neutral Good"
 "ac": !!int "16"
-"ac_class": "[chain mail](3-Mechanics/CLI/items/chain-mail-xphb.md)"
+"ac_class": "[chain mail](/3-Mechanics/CLI/items/chain-mail-xphb.md)"
 "hp": !!int "27"
 "hit_dice": "5d8 + 5"
 "stats":
@@ -51,11 +51,11 @@ Sildar Hallwinter is a retired soldier and sellsword who hails from the city of 
   "name": "Heavy Crossbow"
 "reactions":
 - "desc": "When an attacker hits Sildar with a melee attack and Sildar can see the\
-    \ attacker, he can roll 1d6 and add the number rolled to his AC against the\
-    \ triggering attack, provided that he's wielding a melee weapon."
+    \ attacker, he can roll 1d6 and add the number rolled to his AC against the triggering\
+    \ attack, provided that he's wielding a melee weapon."
   "name": "Parry"
 "source":
 - "LMoP"
-"image": "3-Mechanics/CLI/bestiary/npc/token/sildar-hallwinter-lmop.webp"
+"image": "/3-Mechanics/CLI/bestiary/npc/token/sildar-hallwinter-lmop.webp"
 ```
 ^statblock

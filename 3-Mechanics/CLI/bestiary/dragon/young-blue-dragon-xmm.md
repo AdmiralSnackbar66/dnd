@@ -12,7 +12,7 @@ statblock: inline
 aliases: ["Young Blue Dragon"]
 ---
 # [Young Blue Dragon](3-Mechanics\CLI\bestiary\dragon/young-blue-dragon-xmm.md)
-*Source: Monster Manual (2024) p. 48*  
+*Source: Monster Manual (2024) p. 48. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
 
 Young blue dragons seek to establish themselves as forces to be feared. Many claim isolated communities to rule over or ancient ruins where they might find magical paths to power. These blue dragons might temporarily cooperate with other dragons or powerful villains to gain followers and influence.
 
@@ -63,16 +63,16 @@ Blue dragons dwell in arid lands. Their lairs might be death traps meant to ento
 "actions":
 - "desc": "The dragon makes three Rend attacks."
   "name": "Multiattack"
-- "desc": "Melee Attack Roll: +9, reach 10 ft. Hit: 12 (2d6 + 5) Slashing\
-    \ damage plus 5 (1d10) Lightning damage."
+- "desc": "Melee Attack Roll: +9, reach 10 ft. Hit: 12 (2d6 + 5) Slashing damage\
+    \ plus 5 (1d10) Lightning damage."
   "name": "Rend"
 - "desc": "Dexterity Saving Throw: DC 16, each creature in a 60-foot-long, 5-foot-wide\
-    \ [Line](3-Mechanics/CLI/rules/variant-rules/line-area-of-effect-xphb.md). Failure:\
+    \ [Line](/3-Mechanics/CLI/variant-rules/line-area-of-effect-xphb.md). Failure:\
     \ 55 (10d10) Lightning damage. Success: Half damage."
   "name": "Lightning Breath (Recharge 5-6)"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/dragon/token/young-blue-dragon-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/dragon/token/young-blue-dragon-xmm.webp"
 ```
 ^statblock
 

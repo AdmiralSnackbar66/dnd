@@ -11,7 +11,7 @@ statblock: inline
 aliases: ["Homunculus"]
 ---
 # [Homunculus](3-Mechanics\CLI\bestiary\construct/homunculus-xmm.md)
-*Source: Monster Manual (2024) p. 172*  
+*Source: Monster Manual (2024) p. 172. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
 
 ## Homunculus
 
@@ -60,7 +60,7 @@ A homunculus's appearance reflects its creator's tastes. Roll on or choose a res
   "Charisma": !!int "0"
   "Wisdom": !!int "2"
 "damage_immunities": "poison"
-"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": "understands Common plus one other language but can't speak"
 "cr": "0"
@@ -71,16 +71,16 @@ A homunculus's appearance reflects its creator's tastes. Roll on or choose a res
 "actions":
 - "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 1 Piercing damage, and the\
     \ target is subjected to the following effect. Constitution Saving Throw: DC\
-    \ 12. Failure: The target has the [Poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)\
+    \ 12. Failure: The target has the [Poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)\
     \ condition until the end of the homunculus's next turn. Failure by 5 or More:\
-    \ The target has the [Poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)\
-    \ condition for 1 minute. While [Poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned),\
-    \ the target has the [Unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious)\
-    \ condition, which ends early if the target takes any damage."
+    \ The target has the [Poisoned](/3-Mechanics/CLI/conditions.md#Poisoned) condition\
+    \ for 1 minute. While [Poisoned](/3-Mechanics/CLI/conditions.md#Poisoned), the\
+    \ target has the [Unconscious](/3-Mechanics/CLI/conditions.md#Unconscious) condition,\
+    \ which ends early if the target takes any damage."
   "name": "Bite"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/construct/token/homunculus-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/construct/token/homunculus-xmm.webp"
 ```
 ^statblock
 

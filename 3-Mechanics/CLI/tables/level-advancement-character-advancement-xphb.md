@@ -6,7 +6,7 @@ tags:
 aliases: ["Level Advancement; Character Advancement"]
 ---
 # Level Advancement; Character Advancement
-*Source: Player's Handbook (2024) p. 41* 
+*Source: Player's Handbook (2024) p. 41. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>* 
 
 **Character Advancement**
 

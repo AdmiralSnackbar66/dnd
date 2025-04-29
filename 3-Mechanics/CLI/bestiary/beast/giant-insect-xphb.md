@@ -10,7 +10,7 @@ statblock: inline
 aliases: ["Giant Insect"]
 ---
 # [Giant Insect](3-Mechanics\CLI\bestiary\beast/giant-insect-xphb.md)
-*Source: Player's Handbook (2024) p. 279*  
+*Source: Player's Handbook (2024) p. 279. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
 
 ```statblock
 "name": "Giant Insect (XPHB)"
@@ -37,8 +37,8 @@ aliases: ["Giant Insect"]
     \ down)."
   "name": "Multiattack"
 - "desc": "Melee Attack Roll: YourSpellAttack Bonus equals your spell attack modifier,\
-    \ reach 10 ft. Hit: 1d6 + 3 + the spell's level Piercing damage plus 1d4\
-    \ Poison damage."
+    \ reach 10 ft. Hit: 1d6 + 3 + the spell's level Piercing damage plus 1d4 Poison\
+    \ damage."
   "name": "Poison Jab"
 - "desc": "Ranged Attack Roll: YourSpellAttack Bonus equals your spell attack modifier,\
     \ range 60 ft. Hit: 1d10 + 3 + the spell's level Bludgeoning damage, and the\
@@ -46,11 +46,11 @@ aliases: ["Giant Insect"]
   "name": "Web Bolt (Spider Only)"
 "bonus_actions":
 - "desc": "Constitution Saving Throw: Your spell save DC, one creature the insect\
-    \ can see within 10 feet. Failure: The target has the [Poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)\
+    \ can see within 10 feet. Failure: The target has the [Poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)\
     \ condition until the start of the insect's next turn."
   "name": "Venomous Spew (Centipede Only)"
 "source":
 - "XPHB"
-"image": "3-Mechanics/CLI/bestiary/beast/token/giant-insect-xphb.webp"
+"image": "/3-Mechanics/CLI/bestiary/beast/token/giant-insect-xphb.webp"
 ```
 ^statblock

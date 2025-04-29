@@ -12,17 +12,19 @@ tags:
 - ttrpg-cli/spell/school/divination
 - ttrpg-cli/spell/subclass/arcane-trickster
 - ttrpg-cli/spell/subclass/college-of-lore
+- ttrpg-cli/spell/subclass/divine-soul
 - ttrpg-cli/spell/subclass/diviner
 - ttrpg-cli/spell/subclass/eldritch-knight
-- ttrpg-cli/spell/subclass/oath-of-the-open-sea
+- ttrpg-cli/spell/subclass/path-of-the-ancestral-guardian
 classes:
+- Barbarian (Path of the Ancestral Guardian)
 - Bard
 - Bard (College of Lore)
 - Cleric
 - Druid
 - Fighter (Eldritch Knight)
-- Paladin (Oath of the Open Sea)
 - Rogue (Arcane Trickster)
+- Sorcerer (Divine Soul)
 - Wizard
 - Wizard (Diviner)
 aliases: ["Augury"]
@@ -50,8 +52,8 @@ You receive an omen from an otherworldly entity about the results of a course of
 
 The spell doesn't account for circumstances, such as other spells, that might change the results.
 
-If you cast the spell more than once before finishing a [Long Rest](3-Mechanics/CLI/rules/variant-rules/long-rest-xphb.md), there is a cumulative  chance for each casting after the first that you get no answer.
+If you cast the spell more than once before finishing a [Long Rest](/3-Mechanics/CLI/variant-rules/long-rest-xphb.md), there is a cumulative  chance for each casting after the first that you get no answer.
 
-**Classes**: [Rogue (Arcane Trickster)](3-Mechanics/CLI/lists/list-spells-classes-rogue-xphb-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Cleric](3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Bard (College of Lore)](3-Mechanics/CLI/lists/list-spells-classes-bard-xphb-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Fighter (Eldritch Knight)](3-Mechanics/CLI/lists/list-spells-classes-fighter-xphb-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Bard](3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Druid](3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Wizard (Diviner)](3-Mechanics/CLI/lists/list-spells-classes-wizard-xphb-diviner-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](3-Mechanics/CLI/lists/list-spells-classes-wizard.md); [Paladin (Oath of the Open Sea)](3-Mechanics/CLI/lists/list-spells-classes-paladin-xphb-oath-of-the-open-sea-tdcsr.md "subclass=TDCSR;class=XPHB")
+**Classes**: [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Rogue (Arcane Trickster)](/3-Mechanics/CLI/lists/list-spells-classes-rogue-xphb-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer (Divine Soul)](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer-xphb-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Fighter (Eldritch Knight)](/3-Mechanics/CLI/lists/list-spells-classes-fighter-xphb-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Barbarian (Path of the Ancestral Guardian)](/3-Mechanics/CLI/lists/list-spells-classes-barbarian-xphb-path-of-the-ancestral-guardian-xge.md "subclass=XGE;class=XPHB"); [Wizard (Diviner)](/3-Mechanics/CLI/lists/list-spells-classes-wizard-xphb-diviner-xphb.md "subclass=XPHB;class=XPHB"); [Bard (College of Lore)](/3-Mechanics/CLI/lists/list-spells-classes-bard-xphb-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 244. Available in the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 244. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*

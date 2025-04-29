@@ -51,32 +51,31 @@ Many dao call the Elemental Plane of Earth home. There, they create cities that 
 "saves":
   "Dexterity": !!int "5"
   "Wisdom": !!int "5"
-"condition_immunities": "[petrified](3-Mechanics/CLI/rules/conditions.md#Petrified)"
+"condition_immunities": "[petrified](/3-Mechanics/CLI/conditions.md#Petrified)"
 "senses": "darkvision 120 ft., passive Perception 11"
 "languages": "Primordial (Terran)"
 "cr": "11"
 "traits":
 - "desc": "The dao casts one of the following spells, requiring no Material components\
     \ and using Charisma as the spellcasting ability (spell save DC 16):\n\nAt will:\
-    \ [Detect Evil and Good](3-Mechanics/CLI/spells/detect-evil-and-good-xphb.md),\
-    \ [Detect Magic](3-Mechanics/CLI/spells/detect-magic-xphb.md), [Stone Shape](3-Mechanics/CLI/spells/stone-shape-xphb.md)\n\
-    \n1/day each: [Gaseous Form](3-Mechanics/CLI/spells/gaseous-form-xphb.md),\
-    \ [Invisibility](3-Mechanics/CLI/spells/invisibility-xphb.md), [Move Earth](3-Mechanics/CLI/spells/move-earth-xphb.md),\
-    \ [Passwall](3-Mechanics/CLI/spells/passwall-xphb.md), [Plane Shift](3-Mechanics/CLI/spells/plane-shift-xphb.md),\
-    \ [Tongues](3-Mechanics/CLI/spells/tongues-xphb.md), [Wall of Stone](3-Mechanics/CLI/spells/wall-of-stone-xphb.md)"
+    \ [Detect Evil and Good](/3-Mechanics/CLI/spells/detect-evil-and-good-xphb.md),\
+    \ [Detect Magic](/3-Mechanics/CLI/spells/detect-magic-xphb.md), [Stone Shape](/3-Mechanics/CLI/spells/stone-shape-xphb.md)\n\
+    \n1/day each: [Gaseous Form](/3-Mechanics/CLI/spells/gaseous-form-xphb.md),\
+    \ [Invisibility](/3-Mechanics/CLI/spells/invisibility-xphb.md), [Move Earth](/3-Mechanics/CLI/spells/move-earth-xphb.md),\
+    \ [Passwall](/3-Mechanics/CLI/spells/passwall-xphb.md), [Plane Shift](/3-Mechanics/CLI/spells/plane-shift-xphb.md),\
+    \ [Tongues](/3-Mechanics/CLI/spells/tongues-xphb.md), [Wall of Stone](/3-Mechanics/CLI/spells/wall-of-stone-xphb.md)"
   "name": "Spellcasting"
 - "desc": "The dao can burrow through nonmagical, unworked earth and stone. While\
     \ doing so, the dao doesn't disturb the material it moves through."
   "name": "Earth Glide"
 - "desc": "If the dao dies outside the Elemental Plane of Earth, its body dissolves\
-    \ into dirt, and it gains a new body in 1d4 days, reviving with all its [Hit\
-    \ Points](3-Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) somewhere on\
-    \ the Plane of Earth."
+    \ into dirt, and it gains a new body in 1d4 days, reviving with all its [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)\
+    \ somewhere on the Plane of Earth."
   "name": "Elemental Restoration"
-- "desc": "The dao has [Advantage](3-Mechanics/CLI/rules/variant-rules/advantage-xphb.md)\
+- "desc": "The dao has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
     \ on saving throws against spells and other magical effects."
   "name": "Magic Resistance"
-- "desc": "The dao has a 30 percent chance of knowing the [Wish](3-Mechanics/CLI/spells/wish-xphb.md)\
+- "desc": "The dao has a 30 percent chance of knowing the [Wish](/3-Mechanics/CLI/spells/wish-xphb.md)\
     \ spell. If the dao knows it, the dao can cast it only on behalf of a non-genie\
     \ creature who communicates a wish in a way the dao can understand. If the dao\
     \ casts the spell for the creature, the dao suffers none of the spell's stress.\
@@ -85,19 +84,19 @@ Many dao call the Elemental Plane of Earth home. There, they create cities that 
 "actions":
 - "desc": "The dao makes three Earthen Maul attacks or two Earth Burst attacks."
   "name": "Multiattack"
-- "desc": "Melee Attack Roll: +10, reach 5 ft. Hit: 20 (4d6 + 6) Bludgeoning\
-    \ damage. If the target is a Large or smaller creature, it has the [Prone](3-Mechanics/CLI/rules/conditions.md#Prone)\
+- "desc": "Melee Attack Roll: +10, reach 5 ft. Hit: 20 (4d6 + 6) Bludgeoning damage.\
+    \ If the target is a Large or smaller creature, it has the [Prone](/3-Mechanics/CLI/conditions.md#Prone)\
     \ condition."
   "name": "Earthen Maul"
 - "desc": "Ranged Attack Roll: +10, range 120 ft. Hit: 15 (2d8 + 6) Bludgeoning\
     \ damage. Hit or Miss: Earth explodes from the target's space, creating the\
     \ following effect. Dexterity Saving Throw: DC 16, each creature in a 10-foot\
-    \ [Emanation](3-Mechanics/CLI/rules/variant-rules/emanation-area-of-effect-xphb.md)\
+    \ [Emanation](/3-Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md)\
     \ originating from and including the target. Failure: 10 (3d6) Thunder damage."
   "name": "Earth Burst"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/elemental/token/dao-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/elemental/token/dao-xmm.webp"
 ```
 ^statblock
 

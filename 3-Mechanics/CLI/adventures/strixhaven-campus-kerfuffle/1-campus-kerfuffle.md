@@ -33,7 +33,7 @@ This adventure assumes the characters are 1st level when it begins. The First-Ye
 
 The strange happenings on campus in this adventure are caused by a corrupted substance known as eldritch balm. Used at Strixhaven for decades, eldritch balm is an alchemical salve made from the sludgy, acidic waters of Sedgemoor, the bayou that encompasses the Witherbloom College campus. Once these waters undergo an alchemical process in Witherbloom's faculty laboratories, the resulting eldritch balm is used to magically treat and strengthen objects, from storage trunks to cooking vats to stage props and more. The balm's effects differ depending on the objects treated, but it typically provides resistance to certain types of damage or other protections useful on a campus where magic often goes awry.
 
-Unknown to anyone on campus, Sedgemoor's waters were recently corrupted by the foul magic practiced by [Murgaxor](3-Mechanics/CLI/bestiary/npc/murgaxor-scc.md) Grenshel, the villain the characters ultimately confront in chapter 6. [Murgaxor](3-Mechanics/CLI/bestiary/npc/murgaxor-scc.md) intended the eldritch balm to be affected by his sinister experiments and hoped the resulting chaos would disrupt life at Strixhaven.
+Unknown to anyone on campus, Sedgemoor's waters were recently corrupted by the foul magic practiced by [Murgaxor](/3-Mechanics/CLI/bestiary/npc/murgaxor-scc.md) Grenshel, the villain the characters ultimately confront in chapter 6. [Murgaxor](/3-Mechanics/CLI/bestiary/npc/murgaxor-scc.md) intended the eldritch balm to be affected by his sinister experiments and hoped the resulting chaos would disrupt life at Strixhaven.
 
 #### A Standalone Adventure
 
@@ -49,10 +49,10 @@ Use the First-Year Encounters table for random encounters on campus during this 
 
 | dice: d10 | Encounter |
 |-----------|-----------|
-| 1–4 | 2 [stirges](3-Mechanics/CLI/bestiary/monstrosity/stirge-xmm.md) and 1 [giant rat](3-Mechanics/CLI/bestiary/beast/giant-rat-xmm.md), both of which were attracted to a nearby sickly scent and are hostile |
-| 5–6 | 2 suits of [animated armor](3-Mechanics/CLI/bestiary/construct/animated-armor-xmm.md) that look like dusty, armored wizard robes |
-| 7–8 | 1 [ochre jelly](3-Mechanics/CLI/bestiary/ooze/ochre-jelly-xmm.md) that has bits of chewed scrolls and shards of potion bottles in its oozy mass |
-| 9–10 | 1 [basilisk](3-Mechanics/CLI/bestiary/monstrosity/basilisk-xmm.md) wearing a monocle and top hat that has escaped and is aggressive, although a student tried to keep it as a pet |
+| 1–4 | 2 [stirges](/3-Mechanics/CLI/bestiary/monstrosity/stirge-xmm.md) and 1 [giant rat](/3-Mechanics/CLI/bestiary/beast/giant-rat-xmm.md), both of which were attracted to a nearby sickly scent and are hostile |
+| 5–6 | 2 suits of [animated armor](/3-Mechanics/CLI/bestiary/construct/animated-armor-xmm.md) that look like dusty, armored wizard robes |
+| 7–8 | 1 [ochre jelly](/3-Mechanics/CLI/bestiary/ooze/ochre-jelly-xmm.md) that has bits of chewed scrolls and shards of potion bottles in its oozy mass |
+| 9–10 | 1 [basilisk](/3-Mechanics/CLI/bestiary/monstrosity/basilisk-xmm.md) wearing a monocle and top hat that has escaped and is aggressive, although a student tried to keep it as a pet |
 ^first-year-encounters
 
 ### Student Schedules
@@ -77,7 +77,7 @@ Before starting this adventure, have the players choose at least three courses t
 
 This adventure begins when students have arrived on Strixhaven's campus and the term's classes are about to start. For the characters, the first order of business is to complete the orientation required of first-year students. Orientation takes place in the Biblioplex, the university's grand library. A full description of the Biblioplex follows this section.
 
-![Some Strixhaven students t...](3-Mechanics/CLI/adventures/strixhaven-campus-kerfuffle/img/050-03-026-biblioplex.webp#center "Some Strixhaven students take studying very seriously. Others would rather play with magic in the Biblioplex")
+![Some Strixhaven students t...](/3-Mechanics/CLI/adventures/strixhaven-campus-kerfuffle/img/050-03-026-biblioplex.webp#center "Some Strixhaven students take studying very seriously. Others would rather play with magic in the Biblioplex")
 
 ### Orientation
 
@@ -111,11 +111,11 @@ The Biblioplex has the following features:
 
 - **Ceilings.** The ceilings throughout the first floor of the Biblioplex are 50 feet high. The second- and third-floor ceilings are 30 feet high.  
 
-![Many students employ deep ...](3-Mechanics/CLI/adventures/strixhaven-campus-kerfuffle/img/051-03-027-concentration.webp#center "Many students employ deep concentration techniques to help them tackle their rigorous class schedules")
+![Many students employ deep ...](/3-Mechanics/CLI/adventures/strixhaven-campus-kerfuffle/img/051-03-027-concentration.webp#center "Many students employ deep concentration techniques to help them tackle their rigorous class schedules")
 
 - **Magic Stairs.** As in all Strixhaven buildings, the stairs and steps leading into and within the Biblioplex are enchanted to move and reshape for full accessibility. See the "Strixhaven Accessibility" sidebar.  
 - **Transport Circles.** A runic circle is painted on the floor near each staircase in the Biblioplex, as well as at the top and bottom of the steps leading to the main entrance in area B1. These circles are permanent, customized teleportation circles. When a user moves onto a circle and mentally focuses on the floor to which they wish to travel, they are transported to the destination floor, arriving at that floor's runic circle for that staircase. (Students are all aware that entering the second floor is forbidden without permission from a faculty member.) The circle at the bottom of the front steps transports users to the circle at the top of the steps and vice versa.  
-- **Students and Professors.** Students of all years and colleges can be found in the Biblioplex, as can professors from all the colleges. See "chapter 7" for stat blocks for [first-year students](3-Mechanics/CLI/bestiary/humanoid/first-year-student-scc.md), and for apprentices, pledgemages, and professors from the different colleges.  
+- **Students and Professors.** Students of all years and colleges can be found in the Biblioplex, as can professors from all the colleges. See "chapter 7" for stat blocks for [first-year students](/3-Mechanics/CLI/bestiary/humanoid/first-year-student-scc.md), and for apprentices, pledgemages, and professors from the different colleges.  
 
 > [!note] Strixhaven Accessibility
 > 
@@ -129,20 +129,20 @@ The Biblioplex has the following features:
 The following locations are keyed to map 3.1. All descriptions assume the characters are wandering the Biblioplex during the day. At night, the library is locked and devoid of other students or staff.
 
 > [!gallery]
-> ![Map 3.1: The Biblioplex](3-Mechanics/CLI/adventures/strixhaven-campus-kerfuffle/img/052-map-3-1-the-biblioplex.webp#gallery)
-> ![Player Version](3-Mechanics/CLI/adventures/strixhaven-campus-kerfuffle/img/map-3-1-the-biblioplex-player.webp#gallery)
+> ![Map 3.1: The Biblioplex](/3-Mechanics/CLI/adventures/strixhaven-campus-kerfuffle/img/052-map-3-1-the-biblioplex.webp#gallery)
+> ![Player Version](/3-Mechanics/CLI/adventures/strixhaven-campus-kerfuffle/img/map-3-1-the-biblioplex-player.webp#gallery)
 
 #### B1. Main Entrance
 
-Enchanted marble steps lead up 5 feet to a small plaza at the Biblioplex's entrance. The double door's vertical handles are each carved in the likeness of a robed scholar. During the day, the doors stand open. At night, the doors are closed, locked, and sealed with an [arcane lock](3-Mechanics/CLI/spells/arcane-lock-xphb.md) spell. A successful DC 25 Dexterity check using thieves' tools opens the lock (DC 35 while the [arcane lock](3-Mechanics/CLI/spells/arcane-lock-xphb.md) is in effect). Only the Biblioplex's reference librarians and certain faculty members know the [arcane lock](3-Mechanics/CLI/spells/arcane-lock-xphb.md)'s password.
+Enchanted marble steps lead up 5 feet to a small plaza at the Biblioplex's entrance. The double door's vertical handles are each carved in the likeness of a robed scholar. During the day, the doors stand open. At night, the doors are closed, locked, and sealed with an [arcane lock](/3-Mechanics/CLI/spells/arcane-lock-xphb.md) spell. A successful DC 25 Dexterity check using thieves' tools opens the lock (DC 35 while the [arcane lock](/3-Mechanics/CLI/spells/arcane-lock-xphb.md) is in effect). Only the Biblioplex's reference librarians and certain faculty members know the [arcane lock](/3-Mechanics/CLI/spells/arcane-lock-xphb.md)'s password.
 
 #### B2. Biblioplex Lounge
 
-Luxurious couches and sturdy tables furnish this spacious area. Students, employees, and staff members often use this lounge to relax between shifts in the student store (area B5), the Biblioplex café (area B6), or elsewhere in the library. Each table holds piles of magazines, newsletters, flyers, and nonmagical scrolls from around campus. A character who examines these materials finds recruitment flyers from `1d3` Extracurriculars. They also find "Help Wanted" ads for the Jobs at the Biblioplex. "Extracurriculars" and "Jobs" are detailed earlier in the chapter.
+Luxurious couches and sturdy tables furnish this spacious area. Students, employees, and staff members often use this lounge to relax between shifts in the student store (area B5), the Biblioplex café (area B6), or elsewhere in the library. Each table holds piles of magazines, newsletters, flyers, and nonmagical scrolls from around campus. A character who examines these materials finds recruitment flyers from `dice:1d3|noform|noparens|avg` (`1d3`) Extracurriculars. They also find "Help Wanted" ads for the Jobs at the Biblioplex. "Extracurriculars" and "Jobs" are detailed earlier in the chapter.
 
 #### B3. Student Café Seating
 
-This area typically holds 21 (`6d6`) students, all of them studying, eating, chatting, or even sleeping. Many enjoy food and drinks from the café (area B6).
+This area typically holds `dice:6d6|noform|noparens|avg|text(21)` (`6d6`) students, all of them studying, eating, chatting, or even sleeping. Many enjoy food and drinks from the café (area B6).
 
 #### B4. Information Desk
 
@@ -150,7 +150,7 @@ Three faculty-appointed reference librarians work at each of these circular desk
 
 #### B5. Student Store
 
-This small shop is stocked with books, equipment, and gear useful as academic supplies. The store's manager is Groff Lundquist (neutral good human [commoner](3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md)), a friendly Strixhaven staff member known for his ability to fashionably mix and match items of university apparel. Students can buy hats, scarves, tunics, robes, gloves, and other apparel embroidered with the Strixhaven star or with the sigil of any of Strixhaven's colleges. Costs range from 5 cp to 5 gp or more, at your discretion.
+This small shop is stocked with books, equipment, and gear useful as academic supplies. The store's manager is Groff Lundquist (neutral good human [commoner](/3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md)), a friendly Strixhaven staff member known for his ability to fashionably mix and match items of university apparel. Students can buy hats, scarves, tunics, robes, gloves, and other apparel embroidered with the Strixhaven star or with the sigil of any of Strixhaven's colleges. Costs range from 5 cp to 5 gp or more, at your discretion.
 
 Once a character chooses a college at the start of second year, they receive a set of college robes, a knit hat, a scarf, a tunic, and gloves free of charge. (This set normally costs 5 gp.)
 
@@ -160,7 +160,7 @@ In addition to nonmagical gear and clothing, the store also contains the magic i
 
 One wall of this area is covered with a mural made from a living tree's roots, which move occasionally and make the entire place feel alive. The ceiling is covered in painted leaves, which change colors depending on the season thanks to a permanent illusion effect. The magic also prompts painted squirrels to run up and down the mural's roots, and painted birds to chirp among the leaves.
 
-Up to ten students are typically present here during the day. Ordinarily, three more students work here, but during orientation, the café's manager, Aisla Fitzbottom (chaotic good gnome [commoner](3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md)), is working alone. She is charmingly perky and has a mind like a steel trap when it comes to recognizing students. However, her organizational skills are somewhat lackadaisical.
+Up to ten students are typically present here during the day. Ordinarily, three more students work here, but during orientation, the café's manager, Aisla Fitzbottom (chaotic good gnome [commoner](/3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md)), is working alone. She is charmingly perky and has a mind like a steel trap when it comes to recognizing students. However, her organizational skills are somewhat lackadaisical.
 
 The café always serves coffee and tea, which costs 1 cp per cup. The sandwich of the day varies. Roll below to determine which sandwich is available on any given day in the café.
 
@@ -186,21 +186,21 @@ Each of these halls hosts interdisciplinary lectures for Strixhaven students. Th
 
 These open study areas feature simple wooden tables and chairs. During the day, up to thirty students can typically be found here.
 
-If the characters pass by the western study area before orientation, members of the Live-Action Roleplaying Guild are pulling costumes and props from a half dozen old trunks. The guild is preparing for an event later on the Biblioplex's lawn: a game they call Beholders versus Behirs. Rosie Wuzfeddlims (chaotic good gnome [first-year student](3-Mechanics/CLI/bestiary/humanoid/first-year-student-scc.md); see the "Fellow Students" section) is directing students as they cobble together beholder and behir costumes, as well as visual effects made from sheets, blankets, wooden frames, tin plates, and illusion magic. (This preparation erupts into chaos during "That Trunk Has Teeth!" later in this chapter.)
+If the characters pass by the western study area before orientation, members of the Live-Action Roleplaying Guild are pulling costumes and props from a half dozen old trunks. The guild is preparing for an event later on the Biblioplex's lawn: a game they call Beholders versus Behirs. Rosie Wuzfeddlims (chaotic good gnome [first-year student](/3-Mechanics/CLI/bestiary/humanoid/first-year-student-scc.md); see the "Fellow Students" section) is directing students as they cobble together beholder and behir costumes, as well as visual effects made from sheets, blankets, wooden frames, tin plates, and illusion magic. (This preparation erupts into chaos during "That Trunk Has Teeth!" later in this chapter.)
 
 #### B9. Book Garden
 
-In these quiet areas, students sit on the grass and study among lush foliage. Sometime last year, three [awakened shrubs](3-Mechanics/CLI/bestiary/plant/awakened-shrub-xmm.md) wandered in here and settled in each garden, and the university has welcomed them to stay. Members of Witherbloom College typically tend this space, and three [Witherbloom pledgemages](3-Mechanics/CLI/bestiary/humanoid/witherbloom-pledgemage-scc.md) (see "chapter 7") can be found here most days.
+In these quiet areas, students sit on the grass and study among lush foliage. Sometime last year, three [awakened shrubs](/3-Mechanics/CLI/bestiary/plant/awakened-shrub-xmm.md) wandered in here and settled in each garden, and the university has welcomed them to stay. Members of Witherbloom College typically tend this space, and three [Witherbloom pledgemages](/3-Mechanics/CLI/bestiary/humanoid/witherbloom-pledgemage-scc.md) (see "chapter 7") can be found here most days.
 
-Members of the Fantastical Horticulture Club often relax in this area and hold meetings here from time to time. If the characters explore this area before or after orientation, Urzmaktok Grojsh (neutral orc [Witherbloom apprentice](3-Mechanics/CLI/bestiary/humanoid/witherbloom-apprentice-scc.md); see the "Fellow Students" section) is here, recruiting first-year students to the club.
+Members of the Fantastical Horticulture Club often relax in this area and hold meetings here from time to time. If the characters explore this area before or after orientation, Urzmaktok Grojsh (neutral orc [Witherbloom apprentice](/3-Mechanics/CLI/bestiary/humanoid/witherbloom-apprentice-scc.md); see the "Fellow Students" section) is here, recruiting first-year students to the club.
 
-![The Biblioplex is a storie...](3-Mechanics/CLI/adventures/strixhaven-campus-kerfuffle/img/053-03-028-biblioplex.webp#center "The Biblioplex is a storied hall of learning on campus as well as a meeting place for friends of all stripes")
+![The Biblioplex is a storie...](/3-Mechanics/CLI/adventures/strixhaven-campus-kerfuffle/img/053-03-028-biblioplex.webp#center "The Biblioplex is a storied hall of learning on campus as well as a meeting place for friends of all stripes")
 
 #### B10. Main Stacks
 
-Floor-to-ceiling bookshelves fill the center and the east end of the library's first floor, with the denser east stacks under a magic effect that shifts them when students approach, creating space to stand single-file between them. These books are mostly introductory texts, and first-year students are often directed here by their instructors. In each of these areas, two [cogwork archivists](3-Mechanics/CLI/bestiary/construct/cogwork-archivist-scc.md) (see "chapter 7") busily shelve returned or misfiled books.
+Floor-to-ceiling bookshelves fill the center and the east end of the library's first floor, with the denser east stacks under a magic effect that shifts them when students approach, creating space to stand single-file between them. These books are mostly introductory texts, and first-year students are often directed here by their instructors. In each of these areas, two [cogwork archivists](/3-Mechanics/CLI/bestiary/construct/cogwork-archivist-scc.md) (see "chapter 7") busily shelve returned or misfiled books.
 
-Characters who browse these shelves unaided stumble on what they need with a successful DC 15 Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) check. However, it's always easier to ask a reference librarian (area B4).
+Characters who browse these shelves unaided stumble on what they need with a successful DC 15 Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) check. However, it's always easier to ask a reference librarian (area B4).
 
 #### B11. Hall of Oracles
 
@@ -210,13 +210,13 @@ The "Orientation Challenge" event later in this chapter starts here.
 
 #### B12. Student and Alumni Art Gallery
 
-This crisp-looking room features white walls and columns that stretch from floor to ceiling. Displayed on or within these are art pieces representative of various media. Students from Prismari College typically tend this space, and three [Prismari pledgemages](3-Mechanics/CLI/bestiary/humanoid/prismari-pledgemage-scc.md) (see "chapter 7") can be found here most days, either cleaning the gallery or studying the techniques used in the displayed pieces. A storage area at the back holds supplies and artwork waiting to go on display.
+This crisp-looking room features white walls and columns that stretch from floor to ceiling. Displayed on or within these are art pieces representative of various media. Students from Prismari College typically tend this space, and three [Prismari pledgemages](/3-Mechanics/CLI/bestiary/humanoid/prismari-pledgemage-scc.md) (see "chapter 7") can be found here most days, either cleaning the gallery or studying the techniques used in the displayed pieces. A storage area at the back holds supplies and artwork waiting to go on display.
 
-The Distinguished Society of Fine Artists often meets and holds discussions here. If the characters explore this area before or after orientation, Cadoras Damellawar (chaotic good elf [first-year student](3-Mechanics/CLI/bestiary/humanoid/first-year-student-scc.md); see the "Fellow Students" section) is here recruiting first-year students to the society.
+The Distinguished Society of Fine Artists often meets and holds discussions here. If the characters explore this area before or after orientation, Cadoras Damellawar (chaotic good elf [first-year student](/3-Mechanics/CLI/bestiary/humanoid/first-year-student-scc.md); see the "Fellow Students" section) is here recruiting first-year students to the society.
 
 #### B13. Amphitheater
 
-This impressive stage is used for lectures, for assemblies, and as a gathering place in case of emergencies. Magic steps lead up to the stage from the floor of the library. Members of the Playactors Drama Guild often use this stage to meet and rehearse when the Rose Stage on Silverquill's campus is unavailable. If the characters pass by this area before or after orientation, Quentillius Antiphiun Melentor III (neutral human [first-year student](3-Mechanics/CLI/bestiary/humanoid/first-year-student-scc.md); see the "Fellow Students" section) is here recruiting new students to the Playactors Drama Guild.
+This impressive stage is used for lectures, for assemblies, and as a gathering place in case of emergencies. Magic steps lead up to the stage from the floor of the library. Members of the Playactors Drama Guild often use this stage to meet and rehearse when the Rose Stage on Silverquill's campus is unavailable. If the characters pass by this area before or after orientation, Quentillius Antiphiun Melentor III (neutral human [first-year student](/3-Mechanics/CLI/bestiary/humanoid/first-year-student-scc.md); see the "Fellow Students" section) is here recruiting new students to the Playactors Drama Guild.
 
 #### B14. Student Activities Center
 
@@ -234,7 +234,7 @@ Filled with wooden tables and benches, this room has a flag displaying the Strix
 
 Rooms on the Biblioplex's second floor can be accessed only with keys held by faculty members, or that the reference librarians in area B4 grant students on a case-by-case basis. Typically, students don't receive keys to these stacks until they're studying for their final thesis during their fourth year at Strixhaven. The arcane knowledge in the books here is not public—and is sometimes dangerous.
 
-To prevent overly ambitious mages and Strixhaven's enemies from teleporting into and accessing this area, two [shield guardians](3-Mechanics/CLI/bestiary/construct/shield-guardian-xmm.md) patrol at all times. Both the guardians have [sleep](3-Mechanics/CLI/spells/sleep-xphb.md) as their stored spell, and their control amulets are in the possession of two of the librarians on duty in the Biblioplex. Students with permission to work here are given passwords by which the Constructs recognize them as friends.
+To prevent overly ambitious mages and Strixhaven's enemies from teleporting into and accessing this area, two [shield guardians](/3-Mechanics/CLI/bestiary/construct/shield-guardian-xmm.md) patrol at all times. Both the guardians have [sleep](/3-Mechanics/CLI/spells/sleep-xphb.md) as their stored spell, and their control amulets are in the possession of two of the librarians on duty in the Biblioplex. Students with permission to work here are given passwords by which the Constructs recognize them as friends.
 
 #### B17. Advanced Student Office
 
@@ -246,11 +246,11 @@ This rest area is designed to help stressed-out senior students unwind. Large ta
 
 #### B19. The Compendium
 
-This area on the library's third floor holds copies of most of the mundane, widely available written works in the multiverse. The books are inscrutably cataloged, so it's almost impossible to find anything without requesting information from a reference librarian (area B4). Characters who look for information without obtaining help discover what they're looking for only with a successful DC 20 Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) check.
+This area on the library's third floor holds copies of most of the mundane, widely available written works in the multiverse. The books are inscrutably cataloged, so it's almost impossible to find anything without requesting information from a reference librarian (area B4). Characters who look for information without obtaining help discover what they're looking for only with a successful DC 20 Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) check.
 
 At the center of this area stands a statue depicting a mighty, benevolent dragon. The magical statue reads aloud the contents of most books placed in front of it if a character makes that request verbally or mentally. (The magic of the statue can assess text such as verbal curses that present a danger if read aloud, and the statue ignores requests to read such text.)
 
-![Cleaning up after students...](3-Mechanics/CLI/adventures/strixhaven-campus-kerfuffle/img/054-03-029-cleaning.webp#center "Cleaning up after students is often a harried undertaking. Luckily, the many Biblioplex assistants are up to the task")
+![Cleaning up after students...](/3-Mechanics/CLI/adventures/strixhaven-campus-kerfuffle/img/054-03-029-cleaning.webp#center "Cleaning up after students is often a harried undertaking. Luckily, the many Biblioplex assistants are up to the task")
 
 ## Orientation Challenge
 
@@ -282,7 +282,7 @@ A character can win a prize for each clue they solve but can receive only one it
 - **Clue 4.** These leafy beds aren't always what they seem. Give them a pat and see what you glean.  
 - **Clue 5.** Some stars are ancient, enduring, and bright. But others—maybe you!—are born on opening night.  
 
-Each clue can be unraveled either by deduction, or with a successful DC 10 Intelligence ([Investigation](3-Mechanics/CLI/rules/skills.md#Investigation)) check. A decoded clue points the characters toward one of the areas of the Biblioplex as well as the action they must take to receive a prize in that area.
+Each clue can be unraveled either by deduction, or with a successful DC 10 Intelligence ([Investigation](/3-Mechanics/CLI/skills.md#Investigation)) check. A decoded clue points the characters toward one of the areas of the Biblioplex as well as the action they must take to receive a prize in that area.
 
 ### Running the Hunt
 
@@ -292,21 +292,21 @@ Explain the Biblioplex's areas in detail before the characters begin this scaven
 
 This clue refers the characters to the room they start the orientation in (area B11).
 
-If a character touches the pooled energy below the snarl, they momentarily lose track of their body, overwhelmed by the snarl's magical power. The character automatically disengages from the snarl and discovers that they are holding a [potion of healing](3-Mechanics/CLI/items/potion-of-healing-xdmg.md).
+If a character touches the pooled energy below the snarl, they momentarily lose track of their body, overwhelmed by the snarl's magical power. The character automatically disengages from the snarl and discovers that they are holding a [potion of healing](/3-Mechanics/CLI/items/potion-of-healing-xdmg.md).
 
-![The magic snarl at the hea...](3-Mechanics/CLI/adventures/strixhaven-campus-kerfuffle/img/055-03-030-snarl.webp#center "The magic snarl at the heart of the Hall of Oracles shines through the Biblioplex like a miniature sun")
+![The magic snarl at the hea...](/3-Mechanics/CLI/adventures/strixhaven-campus-kerfuffle/img/055-03-030-snarl.webp#center "The magic snarl at the heart of the Hall of Oracles shines through the Biblioplex like a miniature sun")
 
 ### Clue 2: Student Art Gallery
 
 This clue refers to the Student and Alumni Art Gallery in area B12.
 
-When the characters wander through the gallery, they see a portrait of several older alumni wearing Prismari College robes. If a character examines the portrait, they find a plaque that reads: "At Strixhaven we were all inspired." Below the plaque is a small lever. If a character uses an action to pull the lever, a box pops out of the wall containing a [Strixhaven pennant](3-Mechanics/CLI/items/strixhaven-pennant-scc.md) for each character in the party. Once it dispenses the pennants, the box disappears back into the wall and doesn't work for the characters again.
+When the characters wander through the gallery, they see a portrait of several older alumni wearing Prismari College robes. If a character examines the portrait, they find a plaque that reads: "At Strixhaven we were all inspired." Below the plaque is a small lever. If a character uses an action to pull the lever, a box pops out of the wall containing a [Strixhaven pennant](/3-Mechanics/CLI/items/strixhaven-pennant-scc.md) for each character in the party. Once it dispenses the pennants, the box disappears back into the wall and doesn't work for the characters again.
 
 ### Clue 3: Biblioplex Café
 
 This clue refers to the Biblioplex Café in area B6.
 
-When the characters enter the café, they see several students enjoying drinks and snacks. Aisla Fitzbottom (chaotic good gnome [commoner](3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md)), the café manager, is a Strixhaven staff member and the only worker behind the counter at present. The characters must present their scavenger hunt list to Aisla. When they do, she tells them to come behind the counter and help her quickly restock the café's sandwiches and baked goods from several modified [Heward's handy haversacks](3-Mechanics/CLI/items/hewards-handy-haversack-xdmg.md).
+When the characters enter the café, they see several students enjoying drinks and snacks. Aisla Fitzbottom (chaotic good gnome [commoner](/3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md)), the café manager, is a Strixhaven staff member and the only worker behind the counter at present. The characters must present their scavenger hunt list to Aisla. When they do, she tells them to come behind the counter and help her quickly restock the café's sandwiches and baked goods from several modified [Heward's handy haversacks](/3-Mechanics/CLI/items/hewards-handy-haversack-xdmg.md).
 
 If a character goes above and beyond in their assistance with a successful DC 15 Dexterity check, Aisla gives that character a random trinket from "chapter 2". Many students have ignored her requests for help during the orientation, she says, so she decides to make an exception with a gift from her own pockets. Plus, she likes the new students' ambition.
 
@@ -314,13 +314,13 @@ If a character goes above and beyond in their assistance with a successful DC 15
 
 This clue refers to the book gardens of area B9.
 
-When the characters enter a book garden, they see a lush arboretum. A successful DC 10 Intelligence ([Investigation](3-Mechanics/CLI/rules/skills.md#Investigation)) check reveals that three of the shrubs are not ordinary greenery, but are instead [awakened shrubs](3-Mechanics/CLI/bestiary/plant/awakened-shrub-xmm.md), each with a glistening crown of leaves. If a character uses an action to pat the shrubs on these leaves, the branches part to reveal a [cuddly Strixhaven mascot](3-Mechanics/CLI/items/cuddly-strixhaven-mascot-scc.md), representing a random mascot. This magic works only once per character.
+When the characters enter a book garden, they see a lush arboretum. A successful DC 10 Intelligence ([Investigation](/3-Mechanics/CLI/skills.md#Investigation)) check reveals that three of the shrubs are not ordinary greenery, but are instead [awakened shrubs](/3-Mechanics/CLI/bestiary/plant/awakened-shrub-xmm.md), each with a glistening crown of leaves. If a character uses an action to pat the shrubs on these leaves, the branches part to reveal a [cuddly Strixhaven mascot](/3-Mechanics/CLI/items/cuddly-strixhaven-mascot-scc.md), representing a random mascot. This magic works only once per character.
 
 ### Clue 5: Amphitheater
 
 This clue refers to the amphitheater in area B13.
 
-When the characters reach the amphitheater, they see an impressively lavish stage, with the curtains drawn back as if to reveal performers on the opening night of a major production. If a character recites, sings, hums, belches, or otherwise emits any line or tune while standing on the stage, bright floodlights snap on around the stage's perimeter—a number of lights equal to the number of characters in the group. Approaching any of the lights reveals a recess in which lies a [hooded lantern](3-Mechanics/CLI/items/hooded-lantern-xphb.md) filled with oil.
+When the characters reach the amphitheater, they see an impressively lavish stage, with the curtains drawn back as if to reveal performers on the opening night of a major production. If a character recites, sings, hums, belches, or otherwise emits any line or tune while standing on the stage, bright floodlights snap on around the stage's perimeter—a number of lights equal to the number of characters in the group. Approaching any of the lights reveals a recess in which lies a [hooded lantern](/3-Mechanics/CLI/items/hooded-lantern-xphb.md) filled with oil.
 
 ### That Trunk Has Teeth!
 
@@ -335,7 +335,7 @@ Once the characters have completed as much of the scavenger hunt as they wish, t
 > Chaos erupts in the library as students stream in all directions, their books and papers flying as they shout in fear. The only faculty mages in sight are trying to deal with panicked students. You can't just let some monster ruin the first day of classes. Time to step up!
 ^18b
 
-In the western part of area B8, the characters see a half dozen old trunks strewn about. Sheets, blankets, large wooden frames, and half-painted wooden props are scattered haphazardly around the tables where members of the Live-Action Roleplaying Guild were setting up for a show. Rampaging throughout the mess is a trunk that has been transformed into a [mimic](3-Mechanics/CLI/bestiary/monstrosity/mimic-xmm.md), which attacks the characters as soon as they enter the area. Because the mimic is only temporarily animated, it has the following changes to its stat block:
+In the western part of area B8, the characters see a half dozen old trunks strewn about. Sheets, blankets, large wooden frames, and half-painted wooden props are scattered haphazardly around the tables where members of the Live-Action Roleplaying Guild were setting up for a show. Rampaging throughout the mess is a trunk that has been transformed into a [mimic](/3-Mechanics/CLI/bestiary/monstrosity/mimic-xmm.md), which attacks the characters as soon as they enter the area. Because the mimic is only temporarily animated, it has the following changes to its stat block:
 
 - It has 30 hit points.  
 - It has disadvantage on attack rolls.  
@@ -344,7 +344,7 @@ Once it's defeated, the mimic turns back into an ordinary trunk.
 
 #### Ending the Threat
 
-If all the characters fall [unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious) during the fight, Professor Mavinda Sharpbeak (neutral good owlin [Silverquill professor of radiance](3-Mechanics/CLI/bestiary/humanoid/silverquill-professor-of-radiance-scc.md); see "chapter 7") arrives on the scene at the start of the next round and finishes off the mimic. If the characters defeat the mimic, Professor Sharpbeak arrives on the scene shortly after the group dispatches it. She carries a bag of [potions of healing](3-Mechanics/CLI/items/potion-of-healing-xdmg.md), which she administers to any injured or [unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious) characters.
+If all the characters fall [unconscious](/3-Mechanics/CLI/conditions.md#Unconscious) during the fight, Professor Mavinda Sharpbeak (neutral good owlin [Silverquill professor of radiance](/3-Mechanics/CLI/bestiary/humanoid/silverquill-professor-of-radiance-scc.md); see "chapter 7") arrives on the scene at the start of the next round and finishes off the mimic. If the characters defeat the mimic, Professor Sharpbeak arrives on the scene shortly after the group dispatches it. She carries a bag of [potions of healing](/3-Mechanics/CLI/items/potion-of-healing-xdmg.md), which she administers to any injured or [unconscious](/3-Mechanics/CLI/conditions.md#Unconscious) characters.
 
 A guidance counselor at Strixhaven, Professor Sharpbeak was overseeing the orientation activities, but the mass of fleeing students prevented her from responding to the incident immediately. When she has assisted any wounded characters, she introduces herself.
 
@@ -357,7 +357,7 @@ If the characters chat with the professor, she reassures them that this was an u
 
 ### Examining the Trunk
 
-Characters who examine the mimic and succeed on a DC 12 Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) check notice that the defeated trunk's wood and leather has been rubbed with a black, oily substance. If asked about this, Professor Sharpbeak says it's likely just a leather conditioner. With no magic remaining in the eldritch balm to reveal the contamination, she has no explanation for why the trunk temporarily turned into a mimic and attacked.
+Characters who examine the mimic and succeed on a DC 12 Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) check notice that the defeated trunk's wood and leather has been rubbed with a black, oily substance. If asked about this, Professor Sharpbeak says it's likely just a leather conditioner. With no magic remaining in the eldritch balm to reveal the contamination, she has no explanation for why the trunk temporarily turned into a mimic and attacked.
 
 ## Frog's the Word
 
@@ -388,17 +388,17 @@ Firejolt Café is the most popular place at Strixhaven to grab tea or coffee, ch
 The café has the following features:
 
 - **Ceilings.** The café's ceilings are 20 feet high.  
-- **Doors.** At night, the exterior doors to the café are closed, locked, and sealed with an [arcane lock](3-Mechanics/CLI/spells/arcane-lock-xphb.md) spell. A successful DC 25 Dexterity check using thieves' tools opens the lock (DC 35 while the [arcane lock](3-Mechanics/CLI/spells/arcane-lock-xphb.md) is in effect). Only certain faculty members and Ellina Tanglewood, the café's manager (see area F3), know the [arcane lock](3-Mechanics/CLI/spells/arcane-lock-xphb.md)'s password.  
+- **Doors.** At night, the exterior doors to the café are closed, locked, and sealed with an [arcane lock](/3-Mechanics/CLI/spells/arcane-lock-xphb.md) spell. A successful DC 25 Dexterity check using thieves' tools opens the lock (DC 35 while the [arcane lock](/3-Mechanics/CLI/spells/arcane-lock-xphb.md) is in effect). Only certain faculty members and Ellina Tanglewood, the café's manager (see area F3), know the [arcane lock](/3-Mechanics/CLI/spells/arcane-lock-xphb.md)'s password.  
 - **Magic Steps.** The steps marking the edge of each tier of the study area are enchanted to move and reshape themselves for full accessibility. See the "Strixhaven Accessibility" sidebar.  
-- **Students.** Students of all years and colleges can be found in Firejolt Café. See "chapter 7" for stat blocks for [first-year students](3-Mechanics/CLI/bestiary/humanoid/first-year-student-scc.md), and for apprentices and pledgemages from the different colleges.  
+- **Students.** Students of all years and colleges can be found in Firejolt Café. See "chapter 7" for stat blocks for [first-year students](/3-Mechanics/CLI/bestiary/humanoid/first-year-student-scc.md), and for apprentices and pledgemages from the different colleges.  
 
 ### Firejolt Café Locations
 
 The following locations are keyed to map 3.2. All descriptions assume the characters are in the café during the day. At night, the café is locked and devoid of students and staff.
 
 > [!gallery]
-> ![Map 3.2: Firejolt Cafe](3-Mechanics/CLI/adventures/strixhaven-campus-kerfuffle/img/056-map-3-2-firejolt-cafe.webp#gallery)
-> ![Player Version](3-Mechanics/CLI/adventures/strixhaven-campus-kerfuffle/img/map-3-2-firejolt-cafe-player.webp#gallery)
+> ![Map 3.2: Firejolt Cafe](/3-Mechanics/CLI/adventures/strixhaven-campus-kerfuffle/img/056-map-3-2-firejolt-cafe.webp#gallery)
+> ![Player Version](/3-Mechanics/CLI/adventures/strixhaven-campus-kerfuffle/img/map-3-2-firejolt-cafe-player.webp#gallery)
 
 #### F1. Study Tables
 
@@ -410,7 +410,7 @@ This area is usually more crowded than the café's study tables. At least fifty 
 
 #### F3. Barista Station
 
-This bustling service counter is the demesne of Ellina Tanglewood (chaotic good elf [mage](3-Mechanics/CLI/bestiary/humanoid/mage-xmm.md)), the Strixhaven employee who manages the café and serves as its chief barista. Ellina typically works alongside five older student employees, one from each college, though she sometimes hires younger students who express interest in working for her (see the ""Jobs"" section earlier in the chapter).
+This bustling service counter is the demesne of Ellina Tanglewood (chaotic good elf [mage](/3-Mechanics/CLI/bestiary/humanoid/mage-xmm.md)), the Strixhaven employee who manages the café and serves as its chief barista. Ellina typically works alongside five older student employees, one from each college, though she sometimes hires younger students who express interest in working for her (see the ""Jobs"" section earlier in the chapter).
 
 The front counter of the barista station is a whirl of chaos while Ellina and the other employees deal with the orders of dozens of students and faculty members. The back of the station is calmer, and includes a small break area for employees as well as shelves for personal belongings and café supplies.
 
@@ -422,7 +422,7 @@ This small store inside Firejolt Café sells magazines, knickknacks, posters, st
 
 #### F5. Fireside Lounge
 
-Much more comfortable than the café's other seating areas, this lounge is filled with sofas and armchairs where students can relax away from the hubbub. Fireplaces in the northern corners are lit by [continual flame](3-Mechanics/CLI/spells/continual-flame-xphb.md) spells. Some twenty students are typically found here, using the tables to study quietly.
+Much more comfortable than the café's other seating areas, this lounge is filled with sofas and armchairs where students can relax away from the hubbub. Fireplaces in the northern corners are lit by [continual flame](/3-Mechanics/CLI/spells/continual-flame-xphb.md) spells. Some twenty students are typically found here, using the tables to study quietly.
 
 #### F6. Quiet Room
 
@@ -443,15 +443,15 @@ Characters following the student who invited them to the frog race are led to th
 
 A student notices the characters and shouts, "You're just in time! Want to race these frogs with us?"
 
-The amphibians in the lounge are four [frogs](3-Mechanics/CLI/bestiary/beast/frog-xmm.md) that students found outside the café and smuggled inside. The frogs' glowing colors appear to be the result of some magic the students haven't been able to source. The costumes—and the frog race that is afoot!—were the students' ideas. For the race, a single student will "coach" each frog toward the finish. The winning coach will receive bragging rights—as well as a purse of donations from the crowd that totals 30 gp.
+The amphibians in the lounge are four [frogs](/3-Mechanics/CLI/bestiary/beast/frog-xmm.md) that students found outside the café and smuggled inside. The frogs' glowing colors appear to be the result of some magic the students haven't been able to source. The costumes—and the frog race that is afoot!—were the students' ideas. For the race, a single student will "coach" each frog toward the finish. The winning coach will receive bragging rights—as well as a purse of donations from the crowd that totals 30 gp.
 
 #### Participating in the Race
 
 A character can participate in the fun in one of the following ways:
 
-- **Race a Frog.** A character might coach one of the frogs, encouraging it toward the finish line with words, gestures, and other antics. The character can urge their frog to victory with a successful DC 12 Wisdom ([Animal Handling](3-Mechanics/CLI/rules/skills.md#Animal%20Handling)) check. Encourage a player to really sell this scene by naming their frog and coming up with ways to inspire it. If one of the characters succeeds on this Wisdom check, that character's frog wins the race. (If more than one character succeeds, it's a tie, and those characters split the 30 gp prize.) If no characters win the race, roll a  d4 (`dice:d4`)  to randomly determine which frog wins.  
-- **Cheer a Coach.** A character might shout encouragement to one of the coaches. If the encouraged coach is another player character, that character gains advantage on their Wisdom ([Animal Handling](3-Mechanics/CLI/rules/skills.md#Animal%20Handling)) check to coach the frog. If the coach is an NPC, any characters racing a frog receive disadvantage on their check.  
-- **Heckle a Coach.** A character might taunt one of the coaches. If the heckled coach is another player character, that character has disadvantage on their Wisdom ([Animal Handling](3-Mechanics/CLI/rules/skills.md#Animal%20Handling)) check to coach the frog. If the coach is an NPC, that student's frog automatically loses the race.  
+- **Race a Frog.** A character might coach one of the frogs, encouraging it toward the finish line with words, gestures, and other antics. The character can urge their frog to victory with a successful DC 12 Wisdom ([Animal Handling](/3-Mechanics/CLI/skills.md#Animal%20Handling)) check. Encourage a player to really sell this scene by naming their frog and coming up with ways to inspire it. If one of the characters succeeds on this Wisdom check, that character's frog wins the race. (If more than one character succeeds, it's a tie, and those characters split the 30 gp prize.) If no characters win the race, roll a `dice:d4|noform|noparens|avg` (`d4`) to randomly determine which frog wins.  
+- **Cheer a Coach.** A character might shout encouragement to one of the coaches. If the encouraged coach is another player character, that character gains advantage on their Wisdom ([Animal Handling](/3-Mechanics/CLI/skills.md#Animal%20Handling)) check to coach the frog. If the coach is an NPC, any characters racing a frog receive disadvantage on their check.  
+- **Heckle a Coach.** A character might taunt one of the coaches. If the heckled coach is another player character, that character has disadvantage on their Wisdom ([Animal Handling](/3-Mechanics/CLI/skills.md#Animal%20Handling)) check to coach the frog. If the coach is an NPC, that student's frog automatically loses the race.  
 
 #### Relationship Encounter
 
@@ -459,21 +459,21 @@ At the race, characters might mingle with other students. If there are students 
 
 ### They've Gone Berserk!
 
-After the race ends, the four frogs start belching strangely, and their eyes turn red. As the characters and the other students look on, the frogs suddenly grow into four [giant frogs](3-Mechanics/CLI/bestiary/beast/giant-frog-xmm.md), shredding their makeshift costumes and furiously lashing out at the crowd!
+After the race ends, the four frogs start belching strangely, and their eyes turn red. As the characters and the other students look on, the frogs suddenly grow into four [giant frogs](/3-Mechanics/CLI/bestiary/beast/giant-frog-xmm.md), shredding their makeshift costumes and furiously lashing out at the crowd!
 
-The other students scatter, and it's up to the characters to subdue the giant frogs. Luckily for any character who has grown attached to a frog, any frog reduced to 0 hit points becomes docile, and its eyes return to normal. Alternatively, a character can use an action to coax a frog into shaking off the malady affecting it with a DC 15 Wisdom ([Animal Handling](3-Mechanics/CLI/rules/skills.md#Animal%20Handling)) check. On a success, a frog becomes docile again and stops attacking. After 1 minute, each docile frog reverts back to normal size and appearance.
+The other students scatter, and it's up to the characters to subdue the giant frogs. Luckily for any character who has grown attached to a frog, any frog reduced to 0 hit points becomes docile, and its eyes return to normal. Alternatively, a character can use an action to coax a frog into shaking off the malady affecting it with a DC 15 Wisdom ([Animal Handling](/3-Mechanics/CLI/skills.md#Animal%20Handling)) check. On a success, a frog becomes docile again and stops attacking. After 1 minute, each docile frog reverts back to normal size and appearance.
 
 #### Ending the Threat
 
-If all the characters fall [unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious), café manager [[Ellina Tanglewood]] (chaotic good elf [mage](3-Mechanics/CLI/bestiary/humanoid/mage-xmm.md)) rushes onto the scene and subdues the frogs. She has two [potions of healing](3-Mechanics/CLI/items/potion-of-healing-xdmg.md) behind the barista station and can administer them as needed if anyone gets hurt.
+If all the characters fall [unconscious](/3-Mechanics/CLI/conditions.md#Unconscious), café manager Ellina Tanglewood (chaotic good elf [mage](/3-Mechanics/CLI/bestiary/humanoid/mage-xmm.md)) rushes onto the scene and subdues the frogs. She has two [potions of healing](/3-Mechanics/CLI/items/potion-of-healing-xdmg.md) behind the barista station and can administer them as needed if anyone gets hurt.
 
 ### Examining the Frogs
 
-Once the frogs are no longer threats, a successful DC 12 Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) check reveals that the frogs belched out a strange, black oily substance just before they grew in size and attacked. It appears to be the same substance found on the trunk during orientation; indeed, [Murgaxor](3-Mechanics/CLI/bestiary/npc/murgaxor-scc.md) coaxed the frogs to ingest some of the corrupted eldritch balm to cause their transformation. Any character who notices the oily substance also can tell that it smells slightly sweet, which likely encouraged the frogs to ingest it.
+Once the frogs are no longer threats, a successful DC 12 Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) check reveals that the frogs belched out a strange, black oily substance just before they grew in size and attacked. It appears to be the same substance found on the trunk during orientation; indeed, [Murgaxor](/3-Mechanics/CLI/bestiary/npc/murgaxor-scc.md) coaxed the frogs to ingest some of the corrupted eldritch balm to cause their transformation. Any character who notices the oily substance also can tell that it smells slightly sweet, which likely encouraged the frogs to ingest it.
 
 ## Magical Physiologies Exam: Slaadi
 
-The characters are enrolled together in the course Magical Physiologies, which is held in a lecture hall in the Biblioplex (one of the areas marked B7 on map 3.1). The course covers the anatomy, abilities, and dispositions of monsters commonly encountered while adventuring. Students read popular accounts related to Aberrations, Monstrosities, and Oozes, as well as studying how best to either avoid a fight with such creatures or battle them and emerge triumphant. The class's professor is Verelda Lang (chaotic neutral [dryad](3-Mechanics/CLI/bestiary/fey/dryad-xmm.md) professor from Witherbloom College), a respected arcano-biologist who teaches Quandrix College courses in addition to her Witherbloom College and general education offerings.
+The characters are enrolled together in the course Magical Physiologies, which is held in a lecture hall in the Biblioplex (one of the areas marked B7 on map 3.1). The course covers the anatomy, abilities, and dispositions of monsters commonly encountered while adventuring. Students read popular accounts related to Aberrations, Monstrosities, and Oozes, as well as studying how best to either avoid a fight with such creatures or battle them and emerge triumphant. The class's professor is Verelda Lang (chaotic neutral [dryad](/3-Mechanics/CLI/bestiary/fey/dryad-xmm.md) professor from Witherbloom College), a respected arcano-biologist who teaches Quandrix College courses in addition to her Witherbloom College and general education offerings.
 
 This course's first Exam takes place a short while after the events of the "A Great Frog Race" section and sees students tested on their knowledge of the creatures known as slaadi. The rules for "Exams" can be found earlier in this chapter.
 
@@ -487,8 +487,8 @@ Once you've asked each player how their character is approaching the Studying ph
 
 On the day of the Exam, each character makes two ability checks related to parts of the test:
 
-- **Slaad Facts.** Choosing the correct multiple choice answers to questions about [red](3-Mechanics/CLI/bestiary/aberration/red-slaad-xmm.md), [blue](3-Mechanics/CLI/bestiary/aberration/blue-slaad-xmm.md), [green](3-Mechanics/CLI/bestiary/aberration/green-slaad-xmm.md), [gray](3-Mechanics/CLI/bestiary/aberration/gray-slaad-xmm.md), and [death](3-Mechanics/CLI/bestiary/aberration/death-slaad-xmm.md) slaadi requires a successful DC 12 Intelligence ([Arcana](3-Mechanics/CLI/rules/skills.md#Arcana)) check.  
-- **Defusing Slaad Confrontations.** Writing short essays about commonly accepted ways to keep slaadi calm during unexpected encounters requires a successful DC 12 Wisdom ([Insight](3-Mechanics/CLI/rules/skills.md#Insight)) check.  
+- **Slaad Facts.** Choosing the correct multiple choice answers to questions about [red](/3-Mechanics/CLI/bestiary/aberration/red-slaad-xmm.md), [blue](/3-Mechanics/CLI/bestiary/aberration/blue-slaad-xmm.md), [green](/3-Mechanics/CLI/bestiary/aberration/green-slaad-xmm.md), [gray](/3-Mechanics/CLI/bestiary/aberration/gray-slaad-xmm.md), and [death](/3-Mechanics/CLI/bestiary/aberration/death-slaad-xmm.md) slaadi requires a successful DC 12 Intelligence ([Arcana](/3-Mechanics/CLI/skills.md#Arcana)) check.  
+- **Defusing Slaad Confrontations.** Writing short essays about commonly accepted ways to keep slaadi calm during unexpected encounters requires a successful DC 12 Wisdom ([Insight](/3-Mechanics/CLI/skills.md#Insight)) check.  
 
 Have each player note their character's Exam results—how many Student Dice they gained and what skills they used during the test—on their copies of the tracking sheet.
 
@@ -497,15 +497,15 @@ Have each player note their character's Exam results—how many Student Dice the
 > To give this Exam more flavor, describe some of the facts the characters are trying to memorize, such as the following:
 > 
 > - Slaadi are Aberrations known for their regenerative abilities and magic resistance.  
-> - All slaadi are dangerous and unpredictable, but [red slaadi](3-Mechanics/CLI/bestiary/aberration/red-slaad-xmm.md) and [blue slaadi](3-Mechanics/CLI/bestiary/aberration/blue-slaad-xmm.md) are the least powerful and don't cast spells.  
-> - [Red slaadi](3-Mechanics/CLI/bestiary/aberration/red-slaad-xmm.md) can use a gland under one of their claws to implant an egg into a Humanoid. The egg eventually becomes a tadpole that bursts from the host's body and transforms into a full-grown [blue slaad](3-Mechanics/CLI/bestiary/aberration/blue-slaad-xmm.md), or a [green slaad](3-Mechanics/CLI/bestiary/aberration/green-slaad-xmm.md) if the host could cast spells of 3rd level or higher.  
-> - [Green](3-Mechanics/CLI/bestiary/aberration/green-slaad-xmm.md), [gray](3-Mechanics/CLI/bestiary/aberration/gray-slaad-xmm.md), and [death](3-Mechanics/CLI/bestiary/aberration/death-slaad-xmm.md) slaadi can shape-shift into Small or Medium Humanoids.  
-> - A [green slaad](3-Mechanics/CLI/bestiary/aberration/green-slaad-xmm.md) usually wields a staff and can hurl both [fireballs](3-Mechanics/CLI/spells/fireball-xphb.md) and magical flames at its foes.  
-> - [Death slaadi](3-Mechanics/CLI/bestiary/aberration/death-slaad-xmm.md) are rumored to have a stench so bad it can be deadly. In reality, they can cast the [cloudkill](3-Mechanics/CLI/spells/cloudkill-xphb.md) spell.  
+> - All slaadi are dangerous and unpredictable, but [red slaadi](/3-Mechanics/CLI/bestiary/aberration/red-slaad-xmm.md) and [blue slaadi](/3-Mechanics/CLI/bestiary/aberration/blue-slaad-xmm.md) are the least powerful and don't cast spells.  
+> - [Red slaadi](/3-Mechanics/CLI/bestiary/aberration/red-slaad-xmm.md) can use a gland under one of their claws to implant an egg into a Humanoid. The egg eventually becomes a tadpole that bursts from the host's body and transforms into a full-grown [blue slaad](/3-Mechanics/CLI/bestiary/aberration/blue-slaad-xmm.md), or a [green slaad](/3-Mechanics/CLI/bestiary/aberration/green-slaad-xmm.md) if the host could cast spells of 3rd level or higher.  
+> - [Green](/3-Mechanics/CLI/bestiary/aberration/green-slaad-xmm.md), [gray](/3-Mechanics/CLI/bestiary/aberration/gray-slaad-xmm.md), and [death](/3-Mechanics/CLI/bestiary/aberration/death-slaad-xmm.md) slaadi can shape-shift into Small or Medium Humanoids.  
+> - A [green slaad](/3-Mechanics/CLI/bestiary/aberration/green-slaad-xmm.md) usually wields a staff and can hurl both [fireballs](/3-Mechanics/CLI/spells/fireball-xphb.md) and magical flames at its foes.  
+> - [Death slaadi](/3-Mechanics/CLI/bestiary/aberration/death-slaad-xmm.md) are rumored to have a stench so bad it can be deadly. In reality, they can cast the [cloudkill](/3-Mechanics/CLI/spells/cloudkill-xphb.md) spell.  
 > - Inexperienced scholars and adventurers sometimes assume that "slaad" is a misspelling or mispronunciation. Calling these creatures "salads" is frowned upon.  
 ^all-about-slaadi
 
-![Frogs are common on campus...](3-Mechanics/CLI/adventures/strixhaven-campus-kerfuffle/img/057-03-031-frogs.webp#center "Frogs are common on campus and are often kept as pets")
+![Frogs are common on campus...](/3-Mechanics/CLI/adventures/strixhaven-campus-kerfuffle/img/057-03-031-frogs.webp#center "Frogs are common on campus and are often kept as pets")
 
 ## Advance to 2nd Level!
 
@@ -543,17 +543,17 @@ The tavern has the following features:
 
 - **Lighting.** The magical lights inside the tavern are muted, but creatures can still see normally in all areas.  
 - **Ceilings.** The tavern's ceilings are 20 feet high.  
-- **Doors.** After closing, all exterior doors to the patio and tavern are closed, locked, and sealed with an [arcane lock](3-Mechanics/CLI/spells/arcane-lock-xphb.md) spell. A successful DC 25 Dexterity check using thieves' tools opens the lock (DC 35 while the [arcane lock](3-Mechanics/CLI/spells/arcane-lock-xphb.md) is in effect). Only certain student employees and Tulk "The Bulk" Tusktooth, the tavern's manager (see area E3), know the [arcane lock](3-Mechanics/CLI/spells/arcane-lock-xphb.md)'s password.  
+- **Doors.** After closing, all exterior doors to the patio and tavern are closed, locked, and sealed with an [arcane lock](/3-Mechanics/CLI/spells/arcane-lock-xphb.md) spell. A successful DC 25 Dexterity check using thieves' tools opens the lock (DC 35 while the [arcane lock](/3-Mechanics/CLI/spells/arcane-lock-xphb.md) is in effect). Only certain student employees and Tulk "The Bulk" Tusktooth, the tavern's manager (see area E3), know the [arcane lock](/3-Mechanics/CLI/spells/arcane-lock-xphb.md)'s password.  
 - **Magic Steps.** The steps marking the boundary between the overflow seating area (area E4) and the main dining room (area E2) are enchanted to move and reshape themselves for full accessibility. See the "Strixhaven Accessibility" sidebar.  
-- **Patrons.** Students of all years and colleges can be found in Firejolt Café. See "chapter 7" for stat blocks for [first-year students](3-Mechanics/CLI/bestiary/humanoid/first-year-student-scc.md), and for apprentices and pledgemages from the different colleges.  
+- **Patrons.** Students of all years and colleges can be found in Firejolt Café. See "chapter 7" for stat blocks for [first-year students](/3-Mechanics/CLI/bestiary/humanoid/first-year-student-scc.md), and for apprentices and pledgemages from the different colleges.  
 
 #### Bow's End Tavern Locations
 
 The following locations are keyed to map 3.3. All descriptions assume the characters are in the tavern during its hours of operation. Outside of those hours, the tavern is locked and devoid of other students or staff, except for Tulk Tusktooth and a few staff members who perform cleaning duties during the day.
 
 > [!gallery]
-> ![Map 3.3: Bows End Tavern](3-Mechanics/CLI/adventures/strixhaven-campus-kerfuffle/img/058-map-3-3-bows-end-tavern.webp#gallery)
-> ![Player Version](3-Mechanics/CLI/adventures/strixhaven-campus-kerfuffle/img/map-3-3-bows-end-tavern-player.webp#gallery)
+> ![Map 3.3: Bows End Tavern](/3-Mechanics/CLI/adventures/strixhaven-campus-kerfuffle/img/058-map-3-3-bows-end-tavern.webp#gallery)
+> ![Player Version](/3-Mechanics/CLI/adventures/strixhaven-campus-kerfuffle/img/map-3-3-bows-end-tavern-player.webp#gallery)
 
 ##### E1. Patio Seating
 
@@ -573,9 +573,9 @@ The server's station stands at the center of Bow's End Tavern, where up to four 
 
 The food on offer at the tavern includes caster's stew—a hearty bowl of venison, gravy, and root vegetables, served with mashed potatoes and thick-cut toast. Curtie's Special is named for Chef Curtie Axechucker (see area E6) and rotates between dishes she calls "garden surprise," "magister's delight," "macaroni and sausages," and "rat ratatouille." No one knows the ingredients used in these dishes, though servers always ask patrons about possible allergies. The table below lists the tavern's menu and prices.
 
-The bar surrounding the servers' station serves a variety of drinks. This area is often rowdy, so student employee Javenesh Stoutclaw (neutral good owlin [Lorehold apprentice](3-Mechanics/CLI/bestiary/humanoid/lorehold-apprentice-scc.md); see the "Fellow Students" section) remains watchful. From thirty-five to forty-five students are typically found at the bar.
+The bar surrounding the servers' station serves a variety of drinks. This area is often rowdy, so student employee Javenesh Stoutclaw (neutral good owlin [Lorehold apprentice](/3-Mechanics/CLI/bestiary/humanoid/lorehold-apprentice-scc.md); see the "Fellow Students" section) remains watchful. From thirty-five to forty-five students are typically found at the bar.
 
-The tavern's manager also keeps an eye on this area. Tulk "The Bulk" Tusktooth (lawful good orc [gladiator](3-Mechanics/CLI/bestiary/humanoid/gladiator-xmm.md)) is a Strixhaven employee with a kind demeanor but no tolerance for misbehavior. Tulk's nickname comes from his imposing physical presence at a burly, muscle-bound height of nearly seven feet—though his warm smile gleams as brightly as his signature golden earring. He is a good friend to Javenesh Stoutclaw, and anyone who puts the owlin in danger must answer to Tulk.
+The tavern's manager also keeps an eye on this area. Tulk "The Bulk" Tusktooth (lawful good orc [gladiator](/3-Mechanics/CLI/bestiary/humanoid/gladiator-xmm.md)) is a Strixhaven employee with a kind demeanor but no tolerance for misbehavior. Tulk's nickname comes from his imposing physical presence at a burly, muscle-bound height of nearly seven feet—though his warm smile gleams as brightly as his signature golden earring. He is a good friend to Javenesh Stoutclaw, and anyone who puts the owlin in danger must answer to Tulk.
 
 **Bow's End Tavern Menu**
 
@@ -598,7 +598,7 @@ These areas afford access to the small stalls that serve as privies for the tave
 
 ##### E6. Kitchen
 
-The tavern's food orders are prepared in this large kitchen, overseen by Curtie Axechucker (chaotic neutral dwarf [commoner](3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md)), a Strixhaven employee and beloved personality on campus. Chef Curtie views cooking as an art, and she teaches the four students who work for her to cook using hunches and passion instead of precision or science.
+The tavern's food orders are prepared in this large kitchen, overseen by Curtie Axechucker (chaotic neutral dwarf [commoner](/3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md)), a Strixhaven employee and beloved personality on campus. Chef Curtie views cooking as an art, and she teaches the four students who work for her to cook using hunches and passion instead of precision or science.
 
 Curtie lives by her teachings (and is said to augment her culinary creations with a little bit of magic), so that no two dishes she or her apprentices cook are ever the same. The chef's signature cries of "Make it spicy!" and "It needs more love!" frequently echo from the kitchen into the overflow seating area. The chef hires all student cooks, so characters who wish to work in the kitchen must approach her directly.
 
@@ -621,13 +621,13 @@ These minor magic items have a short life span, and as they age, they begin to e
 
 In this scene, the characters have the opportunity to play a game of Wizard Gizzard for a prize. A character can participate in the fun in one of the following ways:
 
-- **Play the Game.** The rules are simple: lob a sphere from the wizard gizzard and have the sphere land inside the bucket on the floor. The game takes 1 minute to play, and the character who lands the most spheres in the bucket during that minute wins the game. To determine how many spheres a character lands in the bucket, have the character make a Dexterity ([Arcana](3-Mechanics/CLI/rules/skills.md#Arcana)) check and divide the total by 3 (round down). If two or more characters land the same number of spheres in the bucket, have those characters repeat the check during a tiebreaker round. Continue to run tiebreaker rounds until one character wins.  
-- **Encourage a Participant.** If a character shouts encouragement to a participant, that participant has advantage on their Dexterity ([Arcana](3-Mechanics/CLI/rules/skills.md#Arcana)) check.  
-- **Heckle a Participant.** If a character jeers at a participant, that participant has disadvantage on their Dexterity ([Arcana](3-Mechanics/CLI/rules/skills.md#Arcana)) check.  
+- **Play the Game.** The rules are simple: lob a sphere from the wizard gizzard and have the sphere land inside the bucket on the floor. The game takes 1 minute to play, and the character who lands the most spheres in the bucket during that minute wins the game. To determine how many spheres a character lands in the bucket, have the character make a Dexterity ([Arcana](/3-Mechanics/CLI/skills.md#Arcana)) check and divide the total by 3 (round down). If two or more characters land the same number of spheres in the bucket, have those characters repeat the check during a tiebreaker round. Continue to run tiebreaker rounds until one character wins.  
+- **Encourage a Participant.** If a character shouts encouragement to a participant, that participant has advantage on their Dexterity ([Arcana](/3-Mechanics/CLI/skills.md#Arcana)) check.  
+- **Heckle a Participant.** If a character jeers at a participant, that participant has disadvantage on their Dexterity ([Arcana](/3-Mechanics/CLI/skills.md#Arcana)) check.  
 
-After setting the scene and explaining the rules, reveal that a [bag of tricks (gray)](3-Mechanics/CLI/items/bag-of-tricks-gray-xdmg.md) will be awarded to the winner of the next game. The bag belongs to Javenesh Stoutclaw (see the "Fellow Students" section), a second-year Lorehold College student and the tavern's assistant manager. Javenesh doesn't need the bag and is entertained by watching first-year students compete to win. He also secretly hopes that sponsoring the game might win him more friends on campus.
+After setting the scene and explaining the rules, reveal that a [bag of tricks (gray)](/3-Mechanics/CLI/items/bag-of-tricks-gray-xdmg.md) will be awarded to the winner of the next game. The bag belongs to Javenesh Stoutclaw (see the "Fellow Students" section), a second-year Lorehold College student and the tavern's assistant manager. Javenesh doesn't need the bag and is entertained by watching first-year students compete to win. He also secretly hopes that sponsoring the game might win him more friends on campus.
 
-![Bow's End Tavern caters to...](3-Mechanics/CLI/adventures/strixhaven-campus-kerfuffle/img/059-03-032-tavern.webp#center "Bow's End Tavern caters to a wide range of tastes and dietary needs")
+![Bow's End Tavern caters to...](/3-Mechanics/CLI/adventures/strixhaven-campus-kerfuffle/img/059-03-032-tavern.webp#center "Bow's End Tavern caters to a wide range of tastes and dietary needs")
 
 ##### Relationship Encounter
 
@@ -648,21 +648,21 @@ Even as the game of Wizard Gizzard ends and a winner is declared, Bow's End Tave
 > The tavern is so busy that most of its patrons don't immediately notice Curtie's panic. Tulk Tusktooth does, but he's momentarily overwhelmed by those students in the overflow seating who have noticed—and who are trying to get away from the kitchen as fast as they can. You have a clear path to the kitchen door—and Curtie needs help!
 ^1b8
 
-When the characters enter area E6, they find the kitchen's student cooks [unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious) on the floor, while four [steam mephits](3-Mechanics/CLI/bestiary/elemental/steam-mephit-xmm.md) fly around the cauldrons. As in the previous scenes, one of the cooks can be another student the characters have interacted with, filling in for an absent cook for the evening.
+When the characters enter area E6, they find the kitchen's student cooks [unconscious](/3-Mechanics/CLI/conditions.md#Unconscious) on the floor, while four [steam mephits](/3-Mechanics/CLI/bestiary/elemental/steam-mephit-xmm.md) fly around the cauldrons. As in the previous scenes, one of the cooks can be another student the characters have interacted with, filling in for an absent cook for the evening.
 
 The hostile mephits attack as soon as the characters appear, but they aren't the only threat in the kitchen. Horrid masses of summoned skittering bugs suddenly pour out of bags and boxes of ingredients in the food prep areas, just as other students storm into the kitchen behind the characters. While the characters take on the more dangerous mephits, describe their friends and fellow students working in the background alongside them to help clear the bugs out of the kitchen. As soon as the mephits are dispatched, the magic flaring up in the kitchen fades.
 
 ##### Ending the Threat
 
-If all the characters fall [unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious) during the fight, Tulk shows up at the start of the next round and dispatches the mephits. Tulk has two [potions of healing](3-Mechanics/CLI/items/potion-of-healing-xdmg.md) stored behind the servers' station, and he offers them to any injured characters. If the discussion turns to what happened, Tulk explains that sometimes Curtie's culinary experiments go awry, so such chaos in the kitchen isn't unheard of. For her part, Curtie insists that the mephits were not part of any new recipe test, and that they came out of nowhere.
+If all the characters fall [unconscious](/3-Mechanics/CLI/conditions.md#Unconscious) during the fight, Tulk shows up at the start of the next round and dispatches the mephits. Tulk has two [potions of healing](/3-Mechanics/CLI/items/potion-of-healing-xdmg.md) stored behind the servers' station, and he offers them to any injured characters. If the discussion turns to what happened, Tulk explains that sometimes Curtie's culinary experiments go awry, so such chaos in the kitchen isn't unheard of. For her part, Curtie insists that the mephits were not part of any new recipe test, and that they came out of nowhere.
 
 #### Examining the Cauldrons
 
-Once the mephits are dispatched, a successful DC 12 Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) check reveals the same oily black substance on the cauldrons that the characters might have seen belched out by the frogs before the Firejolt Café race and found on the trunk during orientation. If the characters ask either Tulk Tusktooth or Curtie Axechucker about the substance, both suspect that one of the many magic unguents used on campus might have gotten corrupted. They have no way of knowing that [Murgaxor](3-Mechanics/CLI/bestiary/npc/murgaxor-scc.md)'s corrupted eldritch balm is the unguent in question and no idea what else might be affected.
+Once the mephits are dispatched, a successful DC 12 Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) check reveals the same oily black substance on the cauldrons that the characters might have seen belched out by the frogs before the Firejolt Café race and found on the trunk during orientation. If the characters ask either Tulk Tusktooth or Curtie Axechucker about the substance, both suspect that one of the many magic unguents used on campus might have gotten corrupted. They have no way of knowing that [Murgaxor](/3-Mechanics/CLI/bestiary/npc/murgaxor-scc.md)'s corrupted eldritch balm is the unguent in question and no idea what else might be affected.
 
 ### Magical Physiologies Exam: Owlbears
 
-The characters' second Exam in Magical Physiologies takes place a short while after the Wizard Gizzard game and sees students tested on their knowledge of [owlbears](3-Mechanics/CLI/bestiary/monstrosity/owlbear-xmm.md).
+The characters' second Exam in Magical Physiologies takes place a short while after the Wizard Gizzard game and sees students tested on their knowledge of [owlbears](/3-Mechanics/CLI/bestiary/monstrosity/owlbear-xmm.md).
 
 #### Studying Phase
 
@@ -674,8 +674,8 @@ Once you've asked each player how their character is approaching the Studying ph
 
 On the day of the Exam, each character makes two ability checks related to parts of the test:
 
-- **Owlbear Disposition and Habits.** Choosing the correct multiple choice answers regarding owlbears' hunting, eating, mating, fighting, and living habits requires a successful DC 12 Intelligence ([Nature](3-Mechanics/CLI/rules/skills.md#Nature)) check.  
-- **Owlbear Companions.** Writing short essays on common methods for taming, training, and handling owlbears and on keeping owlbears as companions requires a successful DC 12 Wisdom ([Animal Handling](3-Mechanics/CLI/rules/skills.md#Animal%20Handling)) check.  
+- **Owlbear Disposition and Habits.** Choosing the correct multiple choice answers regarding owlbears' hunting, eating, mating, fighting, and living habits requires a successful DC 12 Intelligence ([Nature](/3-Mechanics/CLI/skills.md#Nature)) check.  
+- **Owlbear Companions.** Writing short essays on common methods for taming, training, and handling owlbears and on keeping owlbears as companions requires a successful DC 12 Wisdom ([Animal Handling](/3-Mechanics/CLI/skills.md#Animal%20Handling)) check.  
 
 Have each player note their character's Exam results—how many Student Dice they gained and what skills they used during the test—on their copies of the tracking sheet.
 
@@ -683,7 +683,7 @@ Have each player note their character's Exam results—how many Student Dice the
 > 
 > To give this Exam more flavor, describe some of the facts the characters are trying to memorize, such as the following:
 > 
-> - [Owlbears](3-Mechanics/CLI/bestiary/monstrosity/owlbear-xmm.md) are aggressive and often ill-tempered carnivores. They are known to attack without provocation.  
+> - [Owlbears](/3-Mechanics/CLI/bestiary/monstrosity/owlbear-xmm.md) are aggressive and often ill-tempered carnivores. They are known to attack without provocation.  
 > - Owlbears most often live in caves or ruins. The bones of their prey serve as their beds and playgrounds.  
 > - Owlbears attack with their razor-sharp beaks and claws.  
 > - Many scholars believe a kooky wizard created the first owlbear in a breeding experiment gone awry. However, some elves claim owlbears have always existed in the Feywild.  
@@ -705,7 +705,7 @@ The characters might hear any of the following remarks. The first two rumors are
 - **Chimera Prop.** "The drama guild plans to use dragon, goat, and lion puppets to simulate a chimera. Someone has figured out how to magically replicate those creatures' sounds.  
 - **Black Dragon Prop.** "Someone wants to summon and control a real young black dragon on stage. No way will that work!"  
 
-![Students keep the bibliopl...](3-Mechanics/CLI/adventures/strixhaven-campus-kerfuffle/img/060-03-033-biblioplex-assistants.webp#center "Students keep the biblioplex assistants busy with their many requests while studying")
+![Students keep the bibliopl...](/3-Mechanics/CLI/adventures/strixhaven-campus-kerfuffle/img/060-03-033-biblioplex-assistants.webp#center "Students keep the biblioplex assistants busy with their many requests while studying")
 
 ### Campus Daredevils
 
@@ -728,7 +728,7 @@ The talk of the campus for decades, Sassy Sally Jane is a pink-haired doll in a 
 
 Captain Dapplewing's manor house is used as a learning annex by esteemed dual-college faculty members and their favored students.
 
-A two-story home, the house is located on the central campus and serves as both faculty offices and the setting for lavish dinner parties and intellectual gatherings. A character knows all the information in the "Captain Dapplewing's Manor" section later in this chapter with a successful DC 12 Intelligence ([History](3-Mechanics/CLI/rules/skills.md#History)) check.
+A two-story home, the house is located on the central campus and serves as both faculty offices and the setting for lavish dinner parties and intellectual gatherings. A character knows all the information in the "Captain Dapplewing's Manor" section later in this chapter with a successful DC 12 Intelligence ([History](/3-Mechanics/CLI/skills.md#History)) check.
 
 #### Recover Sassy Sally Jane
 
@@ -754,7 +754,7 @@ One student turns to another and says in a stage whisper, "I told you they'd arr
 
 ##### Extra Incentive
 
-If the characters are hesitant to take this dare, a student with whom a character has at least 1 Relationship Point approaches them. The student misses their younger brother terribly and has decided that Sassy Sally Jane would make an excellent gift. The student offers the characters a [driftglobe](3-Mechanics/CLI/items/driftglobe-xdmg.md) in exchange for retrieving Sassy Sally Jane and giving them the doll.
+If the characters are hesitant to take this dare, a student with whom a character has at least 1 Relationship Point approaches them. The student misses their younger brother terribly and has decided that Sassy Sally Jane would make an excellent gift. The student offers the characters a [driftglobe](/3-Mechanics/CLI/items/driftglobe-xdmg.md) in exchange for retrieving Sassy Sally Jane and giving them the doll.
 
 #### Captain Dapplewing's Manor
 
@@ -782,7 +782,7 @@ The manor has the following features:
 - **Lighting.** By night, the interior of the manor is in darkness.  
 - **Magic Stairs.** Stairs and steps in the manor are enchanted to move and reshape themselves for full accessibility.  
 - **Transport Circles.** A runic circle is painted on the floor near each staircase in the manor, as well as at the top and bottom of the steps leading inside the building in area C1. These circles are permanent, customized teleportation circles. Anyone can move onto a circle and mentally focus on the floor to which they wish to travel. (The circle leading to the attic is in the manor's hidden staircase, which must be found first.) When a character is teleported from a circle near a staircase, they arrive on the destination floor on the runic circle nearest the corresponding staircase. The circle outside the main entrance automatically transports characters directly in front of the manor's front doors.  
-- **Security.** If an outside door is smashed or the characters engage in noticeable vandalism, a [Silverquill professor of radiance](3-Mechanics/CLI/bestiary/humanoid/silverquill-professor-of-radiance-scc.md) and a [Quandrix professor of substance](3-Mechanics/CLI/bestiary/humanoid/quandrix-professor-of-substance-scc.md) (see "chapter 7" for both) arrive at the manor in `1d4` rounds. Both are serving as campus security for the night and deal with the characters as noted in the sidebar "The Jig Is Up!"  
+- **Security.** If an outside door is smashed or the characters engage in noticeable vandalism, a [Silverquill professor of radiance](/3-Mechanics/CLI/bestiary/humanoid/silverquill-professor-of-radiance-scc.md) and a [Quandrix professor of substance](/3-Mechanics/CLI/bestiary/humanoid/quandrix-professor-of-substance-scc.md) (see "chapter 7" for both) arrive at the manor in `dice:1d4|noform|noparens|avg` (`1d4`) rounds. Both are serving as campus security for the night and deal with the characters as noted in the sidebar "The Jig Is Up!"  
 
 > [!note] Just a Little Vandalism?
 > 
@@ -794,8 +794,8 @@ The manor has the following features:
 The following locations are keyed to map 3.4. The descriptions assume the characters explore the manor after class hours. During the day, the manor is open, with students and faculty throughout.
 
 > [!gallery]
-> ![Map 3.4: Captain Dapplewing's Manor](3-Mechanics/CLI/adventures/strixhaven-campus-kerfuffle/img/061-map-3-4-captain-dapplewings-manor.webp#gallery)
-> ![Player Version](3-Mechanics/CLI/adventures/strixhaven-campus-kerfuffle/img/map-3-4-captain-dapplewings-manor-player.webp#gallery)
+> ![Map 3.4: Captain Dapplewing's Manor](/3-Mechanics/CLI/adventures/strixhaven-campus-kerfuffle/img/061-map-3-4-captain-dapplewings-manor.webp#gallery)
+> ![Player Version](/3-Mechanics/CLI/adventures/strixhaven-campus-kerfuffle/img/map-3-4-captain-dapplewings-manor-player.webp#gallery)
 
 ##### C1. Veranda
 
@@ -804,7 +804,7 @@ The following locations are keyed to map 3.4. The descriptions assume the charac
 > A mahogany roof covers this porch, which is bounded by a low rail and outfitted with fine wicker furniture. Above the double door hangs a sign done in fine calligraphy: "Captain Dapplewing's Manor."
 ^1d0
 
-A search of the veranda and a successful DC 15 Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) check turns up a key to the front door stashed inside the potted plant. A faculty member who often loses their keys placed this spare here.
+A search of the veranda and a successful DC 15 Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) check turns up a key to the front door stashed inside the potted plant. A faculty member who often loses their keys placed this spare here.
 
 ##### C2. Foyer
 
@@ -813,9 +813,9 @@ A search of the veranda and a successful DC 15 Wisdom ([Perception](3-Mechanics/
 > Coat racks carved to resemble statues of individuals line the entryway into the manor beyond. The coat racks flanking the doors depict two dwarves wearing high-collared jackets. The other coat racks on the left depict a one-tusked loxodon, a monocle-wearing orc, and a gnome with a skunk for a hairpiece. The statues on the right depict a drow wearing a scarf, a burly human in a tuxedo, and a high elf in a cowl.
 ^1d2
 
-With successful DC 15 Intelligence ([History](3-Mechanics/CLI/rules/skills.md#History)) check, a character recalls that the individuals depicted were Captain Dapplewing's favorite military compatriots, all great friends of Strixhaven.
+With successful DC 15 Intelligence ([History](/3-Mechanics/CLI/skills.md#History)) check, a character recalls that the individuals depicted were Captain Dapplewing's favorite military compatriots, all great friends of Strixhaven.
 
-A character who succeeds on a DC 15 Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) check notices that the boxy dwarf "coat racks" are moving slightly. Both are designed to serve as attendants and use the [duodrone](3-Mechanics/CLI/bestiary/construct/modron-duodrone-xmm.md) stat block. Without professors to control them, the coat racks attack the characters either when they first notice the coat racks moving or as they move into area C3.
+A character who succeeds on a DC 15 Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) check notices that the boxy dwarf "coat racks" are moving slightly. Both are designed to serve as attendants and use the [duodrone](/3-Mechanics/CLI/bestiary/construct/modron-duodrone-xmm.md) stat block. Without professors to control them, the coat racks attack the characters either when they first notice the coat racks moving or as they move into area C3.
 
 ##### C3. Grand Hall
 
@@ -824,7 +824,7 @@ A character who succeeds on a DC 15 Wisdom ([Perception](3-Mechanics/CLI/rules/s
 > A set of magically shifting steps connects the foyer to this spacious, open area. Beautiful, thick carpet adorns the floor, topped by a crimson runner that leads into the dining hall beyond. From the corner of your eye, you see a formally attired figure.
 ^1d4
 
-Normally a place where people socialize while they wait for dinner, this space is occupied at night by a clockwork butler nicknamed the Earl, which paces back and forth. The Earl wears a silver waistcoat, a black jacket with tails, and a cravat, and it uses the [Strixhaven campus guide](3-Mechanics/CLI/bestiary/construct/strixhaven-campus-guide-scc.md) stat block (see "chapter 7"). Without anyone to correct it, the butler believes the characters are burglars. It shouts a warning in Common—"The Earl commands you to leave!"—before attacking.
+Normally a place where people socialize while they wait for dinner, this space is occupied at night by a clockwork butler nicknamed the Earl, which paces back and forth. The Earl wears a silver waistcoat, a black jacket with tails, and a cravat, and it uses the [Strixhaven campus guide](/3-Mechanics/CLI/bestiary/construct/strixhaven-campus-guide-scc.md) stat block (see "chapter 7"). Without anyone to correct it, the butler believes the characters are burglars. It shouts a warning in Common—"The Earl commands you to leave!"—before attacking.
 
 ##### C4. Dining Hall
 
@@ -833,13 +833,13 @@ Normally a place where people socialize while they wait for dinner, this space i
 > The centerpiece of this hall is a beautifully decorated dining table, its china and silver arranged just so. Along the wall to the west is an upright piano flanked by cushioned benches. To the east stands a fireplace, its embers still glowing.
 ^1d6
 
-The Earl in area C3 sets the table every night before the manor is closed and locked. A character who searches under the table and succeeds on a DC 15 Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) check finds a small velvet coin purse someone dropped. Inside is 15 gp.
+The Earl in area C3 sets the table every night before the manor is closed and locked. A character who searches under the table and succeeds on a DC 15 Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) check finds a small velvet coin purse someone dropped. Inside is 15 gp.
 
 The piano is functional and magical. If a character tries to play it, the piano plays an entire jaunty, military-style march. This alerts the Earl in area C3 to the presence of intruders, if the characters have not already encountered the clockwork butler.
 
 ###### Treasure
 
-The fireplace has a number of implements for tending the fire set to one side of it. A character who examines these implements and succeeds on a DC 15 Intelligence ([Investigation](3-Mechanics/CLI/rules/skills.md#Investigation)) check discovers a poker with a silvered end that can be easily removed and used as a silvered dagger.
+The fireplace has a number of implements for tending the fire set to one side of it. A character who examines these implements and succeeds on a DC 15 Intelligence ([Investigation](/3-Mechanics/CLI/skills.md#Investigation)) check discovers a poker with a silvered end that can be easily removed and used as a silvered dagger.
 
 ##### C5. Portrait Salon
 
@@ -857,7 +857,7 @@ A character who examines the paintings recognizes that they feature several hist
 > This cozy drawing room holds bookcases as well as a number of easels folded and tucked in beside them. In the northeast corner, an easel holds a watercolor painting of a stylized, chicken-like reptilian creature lounging in a baroque style.
 ^1db
 
-The painting was created using magic by a talented student as a parlor trick. If a character touches the painting, the creature in the painting disappears and a [cockatrice](3-Mechanics/CLI/bestiary/monstrosity/cockatrice-xmm.md) appears beside the character. The confused creature attacks, then winks out of existence when defeated.
+The painting was created using magic by a talented student as a parlor trick. If a character touches the painting, the creature in the painting disappears and a [cockatrice](/3-Mechanics/CLI/bestiary/monstrosity/cockatrice-xmm.md) appears beside the character. The confused creature attacks, then winks out of existence when defeated.
 
 ##### C7. Hall of Beauty
 
@@ -866,9 +866,9 @@ The painting was created using magic by a talented student as a parlor trick. If
 > This hall is lined with four exquisitely carved marble busts set on gilded pedestals. The abstract busts all represent beautiful androgynous figures bedecked with jewelry carved into its stone—and with a single, twelve-foot-long fur stole wrapped around the shoulders of all four statues.
 ^1dd
 
-A student's magic trick, the stoles in both these areas each animate into a [fire snake](3-Mechanics/CLI/bestiary/elemental/salamander-fire-snake-xmm.md) if any character moves within 5 feet of the busts. The fire snakes wink out of existence when defeated.
+A student's magic trick, the stoles in both these areas each animate into a [fire snake](/3-Mechanics/CLI/bestiary/elemental/salamander-fire-snake-xmm.md) if any character moves within 5 feet of the busts. The fire snakes wink out of existence when defeated.
 
-![Students caught breaking i...](3-Mechanics/CLI/adventures/strixhaven-campus-kerfuffle/img/062-03-034.webp#center "Students caught breaking into Captain Dapplewing's Manor after hours face punishment")
+![Students caught breaking i...](/3-Mechanics/CLI/adventures/strixhaven-campus-kerfuffle/img/062-03-034.webp#center "Students caught breaking into Captain Dapplewing's Manor after hours face punishment")
 
 ##### C8. Kitchen
 
@@ -877,7 +877,7 @@ A student's magic trick, the stoles in both these areas each animate into a [fir
 > Pots, pans, cooking utensils, fire pits, and dry goods are tucked into every visible corner of this small kitchen. A pair of crossed sabers hangs above the shelves to the north.
 ^1df
 
-If anyone tries to steal anything from one of the kitchens, the two sabers in that area animate into two [flying swords](3-Mechanics/CLI/bestiary/construct/animated-flying-sword-xmm.md) and attack the thieves. If the characters flee that area, the sabers return to their place on the wall.
+If anyone tries to steal anything from one of the kitchens, the two sabers in that area animate into two [flying swords](/3-Mechanics/CLI/bestiary/construct/animated-flying-sword-xmm.md) and attack the thieves. If the characters flee that area, the sabers return to their place on the wall.
 
 In addition to the visible cooking supplies, the kitchens include cabinets that hold extra silver and china for the dining table in area C4. Any of the knives found here can serve as daggers, though they are branded on one side with the image of an eye patch-wearing owlin and the words "Captain Dapplewing's Kitchen."
 
@@ -888,19 +888,19 @@ In addition to the visible cooking supplies, the kitchens include cabinets that 
 > Cabinets full of curiosities line the northern wall of this room. The strange items on display here include a stuffed pheasant, a sextant dressed as a doll, and a plaque with insects mounted on it. The insects are wearing tiny top hats.
 ^1e1
 
-Flanking the double door leading to area C4 are two shining sets of antique plate armor. If a character touches either set of armor, a random set comes to life as [animated armor](3-Mechanics/CLI/bestiary/construct/animated-armor-xmm.md) and attacks. Only one of the suits attacks at a time, and it doesn't leave the area if the characters flee. However, if the characters leave the area and come back, both suits attack upon their return.
+Flanking the double door leading to area C4 are two shining sets of antique plate armor. If a character touches either set of armor, a random set comes to life as [animated armor](/3-Mechanics/CLI/bestiary/construct/animated-armor-xmm.md) and attacks. Only one of the suits attacks at a time, and it doesn't leave the area if the characters flee. However, if the characters leave the area and come back, both suits attack upon their return.
 
 ##### C10. Grand Deck
 
 This spacious deck has a low railing that the characters can easily climb over to access the locked glass door leading into the manor.
 
-The pots of greenery on either side of this deck are filled with magic vegetation that was recently transplanted and is only loosely rooted. The round after the characters first enter this area, three of these plants attack—two from the pot on the west side of the deck and one from the pot to the east. Each plant uses the [violet fungus](3-Mechanics/CLI/bestiary/plant/violet-fungus-xmm.md) stat block.
+The pots of greenery on either side of this deck are filled with magic vegetation that was recently transplanted and is only loosely rooted. The round after the characters first enter this area, three of these plants attack—two from the pot on the west side of the deck and one from the pot to the east. Each plant uses the [violet fungus](/3-Mechanics/CLI/bestiary/plant/violet-fungus-xmm.md) stat block.
 
 ##### C11. Side Deck
 
 These smaller side decks each have a low railing that the characters can easily climb over to access the locked glass door leading into manor.
 
-Bushy magic cacti grow in pots along the manor walls. The cacti have been overwatered recently, so they're restless and attack anyone who moves into this area. Two cacti on each deck attack, using the [needle blight](3-Mechanics/CLI/bestiary/plant/needle-blight-xmm.md) stat block.
+Bushy magic cacti grow in pots along the manor walls. The cacti have been overwatered recently, so they're restless and attack anyone who moves into this area. Two cacti on each deck attack, using the [needle blight](/3-Mechanics/CLI/bestiary/plant/needle-blight-xmm.md) stat block.
 
 ##### C12. Faculty Office
 
@@ -926,7 +926,7 @@ Once Captain Dapplewing's study, this large office is often used for sensitive d
 
 On the northern wall, a plaque holds the heads of a black and a red dragon, each clearly constructed from metallic crafting supplies. This device is a strange magic curiosity that was once a favorite of the captain's and that faculty members using the office know to avoid. The plaque animates both heads to attack any character who moves within 5 feet of it.
 
-While animated, each dragon head has [blindsight](3-Mechanics/CLI/rules/senses.md#Blindsight) out to a range of 30 feet and is blind beyond that distance. On initiative count 20, the black dragon head exhales a glob of acid while the red dragon exhales a fiery missile, each targeting one creature the head can see (+6 to hit). A creature hit by either attack takes 6 (`1d8 + 2`) damage of the appropriate type (acid or fire).
+While animated, each dragon head has [blindsight](/3-Mechanics/CLI/senses.md#Blindsight) out to a range of 30 feet and is blind beyond that distance. On initiative count 20, the black dragon head exhales a glob of acid while the red dragon exhales a fiery missile, each targeting one creature the head can see (+6 to hit). A creature hit by either attack takes `dice:1d8+2|noform|noparens|avg|text(6)` (`1d8 + 2`) damage of the appropriate type (acid or fire).
 
 Each head has a speed of 0, AC 16, 25 hit points, and immunity to poison and psychic damage. Their ability scores are as follows: Strength 6, Dexterity 14, Constitution 10, Intelligence 3, Wisdom 3, and Charisma 1.
 
@@ -940,7 +940,7 @@ Boxes and filing cabinets have been crammed into this area, filled with old writ
 
 ###### Treasure
 
-The paneling in the northeast corner conceals a secret door that isn't fully shut, and so it can be found by any character who searches the area. Beyond the door is a secondary storage area holding boxes with personal items that faculty members have stashed away from prying eyes. Any character who searches the secondary storage area spots a [ring of mind shielding](3-Mechanics/CLI/items/ring-of-mind-shielding-xdmg.md) seemingly lost by someone while working in the room. The inscription "V. Lang" inside the band hints that the ring belongs to Verelda Lang, the characters' Magical Physiologies professor. If they bring the lost ring to her, she is effusive in her thanks—and then offers it to the characters as a gift, trying to conceal her pride at their accomplishments.
+The paneling in the northeast corner conceals a secret door that isn't fully shut, and so it can be found by any character who searches the area. Beyond the door is a secondary storage area holding boxes with personal items that faculty members have stashed away from prying eyes. Any character who searches the secondary storage area spots a [ring of mind shielding](/3-Mechanics/CLI/items/ring-of-mind-shielding-xdmg.md) seemingly lost by someone while working in the room. The inscription "V. Lang" inside the band hints that the ring belongs to Verelda Lang, the characters' Magical Physiologies professor. If they bring the lost ring to her, she is effusive in her thanks—and then offers it to the characters as a gift, trying to conceal her pride at their accomplishments.
 
 ##### C16. Reflection Room
 
@@ -953,7 +953,7 @@ This is the manor's quiet room, where faculty go to read or write without being 
 
 ###### Treasure
 
-If the characters search this area, a successful DC 15 Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) check reveals several small hidden drawers in the frame of one of the day beds. Inside one of the drawers is a [gem of brightness](3-Mechanics/CLI/items/gem-of-brightness-xdmg.md) with 10 charges remaining.
+If the characters search this area, a successful DC 15 Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) check reveals several small hidden drawers in the frame of one of the day beds. Inside one of the drawers is a [gem of brightness](/3-Mechanics/CLI/items/gem-of-brightness-xdmg.md) with 10 charges remaining.
 
 ##### C17. Grand Lounge
 
@@ -962,7 +962,7 @@ If the characters search this area, a successful DC 15 Wisdom ([Perception](3-Me
 > This spacious lounge is decorated to an arcano-biologist's tastes. Paintings of strange magic creatures line the walls, as do mounted collections of insects and reptiles. Three pteranodons form the room's centerpiece—all of them magically immobile in midair, positioned as if engaging in a strange dance.
 ^1f1
 
-Located just in front of the large sofa along the north wall, the three creatures are subjects of study by the manor's faculty. Each uses the [pteranodon](3-Mechanics/CLI/bestiary/beast/pteranodon-xmm.md) stat block but has the magic ability to freeze in place, even in midair. With no faculty around to control them, the dormant creatures awake and attack the characters as soon as they enter the room.
+Located just in front of the large sofa along the north wall, the three creatures are subjects of study by the manor's faculty. Each uses the [pteranodon](/3-Mechanics/CLI/bestiary/beast/pteranodon-xmm.md) stat block but has the magic ability to freeze in place, even in midair. With no faculty around to control them, the dormant creatures awake and attack the characters as soon as they enter the room.
 
 ##### C18. Tea Room
 
@@ -973,15 +973,15 @@ Located just in front of the large sofa along the north wall, the three creature
 
 ###### Treasure
 
-One cabinet along the east wall is filled with tea-making supplies, plus a bottle with a sweet-smelling liquid inside. The bottle holds a [potion of mind reading](3-Mechanics/CLI/items/potion-of-mind-reading-xdmg.md).
+One cabinet along the east wall is filled with tea-making supplies, plus a bottle with a sweet-smelling liquid inside. The bottle holds a [potion of mind reading](/3-Mechanics/CLI/items/potion-of-mind-reading-xdmg.md).
 
 ##### C19. Student Storage
 
-This storeroom is filled with loose parchment, books, and misfiled paperwork. In the center of the room, two crates containing ink jars have been knocked over, a mishap that faculty members intend to program the Earl in area C3 to clean up the next day. The ink has drawn power from a number of old magic-infused writings in the area, and now it's become two hostile creatures. These now behave as two [gray oozes](3-Mechanics/CLI/bestiary/ooze/gray-ooze-xmm.md). The magic ink stealthily follows any characters who enter this area, and attacks aggressively at first opportunity.
+This storeroom is filled with loose parchment, books, and misfiled paperwork. In the center of the room, two crates containing ink jars have been knocked over, a mishap that faculty members intend to program the Earl in area C3 to clean up the next day. The ink has drawn power from a number of old magic-infused writings in the area, and now it's become two hostile creatures. These now behave as two [gray oozes](/3-Mechanics/CLI/bestiary/ooze/gray-ooze-xmm.md). The magic ink stealthily follows any characters who enter this area, and attacks aggressively at first opportunity.
 
 ###### Treasure
 
-The paneling in the northwest corner conceals a secret door, which can be found with a search of the area and a successful DC 12 Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) check. Beyond the door is a secondary storage area that is much better organized, though a thick layer of dust on the boxes and crates here indicates that no one has accessed it in a while. Characters who search this area find two [potions of mind reading](3-Mechanics/CLI/items/potion-of-mind-reading-xdmg.md) tucked into a pouch in one of the boxes.
+The paneling in the northwest corner conceals a secret door, which can be found with a search of the area and a successful DC 12 Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) check. Beyond the door is a secondary storage area that is much better organized, though a thick layer of dust on the boxes and crates here indicates that no one has accessed it in a while. Characters who search this area find two [potions of mind reading](/3-Mechanics/CLI/items/potion-of-mind-reading-xdmg.md) tucked into a pouch in one of the boxes.
 
 ##### C20. Attic
 
@@ -990,7 +990,7 @@ The paneling in the northwest corner conceals a secret door, which can be found 
 > This cramped attic holds oddities considered too strange to display on the manor's main floor. An adult-sized riding toy resembling a roc on a spring, a fine dress with wings made of bones, and a display shelf holding dozens of dolls are among the curiosities here.
 ^1f8
 
-Dangerous in a way the faculty members don't understand yet, the dress is actually a hostile Construct. It uses the [quadrone](3-Mechanics/CLI/bestiary/construct/modron-quadrone-xmm.md) stat block and can shoot the bones from its wings using the quadrone's shortbow attack. When the characters enter this area, it attacks.
+Dangerous in a way the faculty members don't understand yet, the dress is actually a hostile Construct. It uses the [quadrone](/3-Mechanics/CLI/bestiary/construct/modron-quadrone-xmm.md) stat block and can shoot the bones from its wings using the quadrone's shortbow attack. When the characters enter this area, it attacks.
 
 ###### Sassy Sally Jane
 
@@ -1024,11 +1024,11 @@ The Phrases table offers some suggestions, but feel free to come up with additio
 
 If the characters retrieve Sassy Sally Jane, the students waiting outside Captain Dapplewing's Manor cheer quietly. All the students can easily steal back to their dormitories without getting caught. The characters' peers are true to their word and pay for the characters' lunches for a month. Further, the characters can keep Sassy Sally Jane. (However, obvious use of the doll around faculty members results in Sassy Sally Jane being confiscated again!)
 
-If all the characters are reduced to 0 hit points inside the manor, they spend the night [unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious) and are found by members of the faculty in the morning. The characters are taken to the infirmary in their respective dorms, then formally chastised and made to attend special behavioral courses that prevent them from participating in any Extracurriculars or Jobs for the rest of this academic year. All the characters immediately lose any benefits from these activities.
+If all the characters are reduced to 0 hit points inside the manor, they spend the night [unconscious](/3-Mechanics/CLI/conditions.md#Unconscious) and are found by members of the faculty in the morning. The characters are taken to the infirmary in their respective dorms, then formally chastised and made to attend special behavioral courses that prevent them from participating in any Extracurriculars or Jobs for the rest of this academic year. All the characters immediately lose any benefits from these activities.
 
 ##### A Sibling's Gift
 
-If a student asked the characters for Sassy Sally Jane for their younger brother and the characters give them the doll, the student gives them the promised [driftglobe](3-Mechanics/CLI/items/driftglobe-xdmg.md). If no student approached the characters with this request, a student with whom a character has at least 1 positive Relationship Point asks the characters for the doll to give it as a gift to her younger brother shortly after this quest ends.
+If a student asked the characters for Sassy Sally Jane for their younger brother and the characters give them the doll, the student gives them the promised [driftglobe](/3-Mechanics/CLI/items/driftglobe-xdmg.md). If no student approached the characters with this request, a student with whom a character has at least 1 positive Relationship Point asks the characters for the doll to give it as a gift to her younger brother shortly after this quest ends.
 
 ### Advance to 3rd Level!
 
@@ -1036,7 +1036,7 @@ Each character advances to 3rd level once they've finished exploring Captain Dap
 
 ### Magical Physiologies Exam: Otyughs
 
-The characters' third and final Exam in Magical Physiologies takes place a short while after their foray into Captain Dapplewing's Manor, and tests the characters' knowledge of [otyughs](3-Mechanics/CLI/bestiary/aberration/otyugh-xmm.md).
+The characters' third and final Exam in Magical Physiologies takes place a short while after their foray into Captain Dapplewing's Manor, and tests the characters' knowledge of [otyughs](/3-Mechanics/CLI/bestiary/aberration/otyugh-xmm.md).
 
 #### Studying Phase
 
@@ -1048,8 +1048,8 @@ Once you've asked each player how their character is approaching the Studying ph
 
 On the day of the Exam, each character makes two ability checks:
 
-- **Otyugh Lair Evidence.** Choosing the correct multiple choice answers about physical signs pointing to the presence of an otyugh, including large piles of particularly noxious trash, deep vats of liquid dung, chunks of carrion scattered among filth, and incongruous noises coming from the trash, requires a successful DC 13 Intelligence ([Investigation](3-Mechanics/CLI/rules/skills.md#Investigation)) check.  
-- **Otyughs as Guardians.** Writing short essays about the details of which intelligent creatures might use otyughs as guardians requires a successful DC 13 Charisma ([Persuasion](3-Mechanics/CLI/rules/skills.md#Persuasion)) check.  
+- **Otyugh Lair Evidence.** Choosing the correct multiple choice answers about physical signs pointing to the presence of an otyugh, including large piles of particularly noxious trash, deep vats of liquid dung, chunks of carrion scattered among filth, and incongruous noises coming from the trash, requires a successful DC 13 Intelligence ([Investigation](/3-Mechanics/CLI/skills.md#Investigation)) check.  
+- **Otyughs as Guardians.** Writing short essays about the details of which intelligent creatures might use otyughs as guardians requires a successful DC 13 Charisma ([Persuasion](/3-Mechanics/CLI/skills.md#Persuasion)) check.  
 
 Have each player note their character's Exam results—how many Student Dice they gained and what skills they used during the test—on their copies of the tracking sheet.
 
@@ -1057,7 +1057,7 @@ Have each player note their character's Exam results—how many Student Dice the
 > 
 > To give this Exam more flavor, describe some of the facts the characters are trying to memorize, such as the following:
 > 
-> - If a place is disgusting, there's a good chance an [otyugh](3-Mechanics/CLI/bestiary/aberration/otyugh-xmm.md) is nearby.  
+> - If a place is disgusting, there's a good chance an [otyugh](/3-Mechanics/CLI/bestiary/aberration/otyugh-xmm.md) is nearby.  
 > - Bones and carrion mixed with trash are often a strong sign that an otyugh is present, as it waits for carrion to ferment before eating it.  
 > - Shiny treasures glinting from piles of refuse might indicate an otyugh's presence, as these Aberrations hoard treasures from their victims.  
 > - No matter how disgusting it might be, trash doesn't belch. If you ever hear a pile of trash belch, there's an otyugh in there.  
@@ -1087,7 +1087,7 @@ A student sees the characters and shouts a greeting. Beckoning the characters cl
 > "The festival is all about improv. The drama guild gives out prompts, and anyone who wants can take the stage and deliver their lines however they please. It's hilarious—you've got to come check it out!"
 ^206
 
-![The Rose Stage hosts every...](3-Mechanics/CLI/adventures/strixhaven-campus-kerfuffle/img/063-03-035.webp#center "The Rose Stage hosts everything from intimate poetry readings to grandiose multimedia performances")
+![The Rose Stage hosts every...](/3-Mechanics/CLI/adventures/strixhaven-campus-kerfuffle/img/063-03-035.webp#center "The Rose Stage hosts everything from intimate poetry readings to grandiose multimedia performances")
 
 ### The Rose Stage
 
@@ -1095,7 +1095,7 @@ A popular outdoor performing space, the Rose Stage holds benches for spectators,
 
 The Rose Stage is available to any group or course on campus. The Playactors Drama Guild often uses the stage to rehearse and perform, and other amateur groups and courses with a performance component regularly do so as well. The Playactors Drama Guild is organizing the festival.
 
-Students of all years and colleges can be found in and around the Rose Stage, as can professors from all parts of Strixhaven. See "chapter 7" for stat blocks for [first-year students](3-Mechanics/CLI/bestiary/humanoid/first-year-student-scc.md), and for apprentices, pledgemages, and professors from the different colleges.
+Students of all years and colleges can be found in and around the Rose Stage, as can professors from all parts of Strixhaven. See "chapter 7" for stat blocks for [first-year students](/3-Mechanics/CLI/bestiary/humanoid/first-year-student-scc.md), and for apprentices, pledgemages, and professors from the different colleges.
 
 > [!note] Setting Up Sedgemoor
 > 
@@ -1107,8 +1107,8 @@ Students of all years and colleges can be found in and around the Rose Stage, as
 The following locations are keyed to map 3.5. All descriptions assume the characters are present in daylight hours during the Rose Stage Festival. At night, the area is devoid of students and the doors to the annex building are locked.
 
 > [!gallery]
-> ![Map 3.5: The Rose Stage](3-Mechanics/CLI/adventures/strixhaven-campus-kerfuffle/img/064-map-3-5-the-rose-stage.webp#gallery)
-> ![Player Version](3-Mechanics/CLI/adventures/strixhaven-campus-kerfuffle/img/map-3-5-the-rose-stage-player.webp#gallery)
+> ![Map 3.5: The Rose Stage](/3-Mechanics/CLI/adventures/strixhaven-campus-kerfuffle/img/064-map-3-5-the-rose-stage.webp#gallery)
+> ![Player Version](/3-Mechanics/CLI/adventures/strixhaven-campus-kerfuffle/img/map-3-5-the-rose-stage-player.webp#gallery)
 
 ##### R1. General Seating
 
@@ -1144,7 +1144,7 @@ These areas hold props, equipment, and supplies used for the Rose Stage's produc
 
 ###### Treasure
 
-A thorough search and a successful DC 15 Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) check reveals several valuable items in each storage area. An unmarked box in the west storage area holds three [potions of healing](3-Mechanics/CLI/items/potion-of-healing-xdmg.md), held in reserve in case performers are accidentally injured while on stage. In the east storage area, lying forgotten under an unmarked crate, is a [bag of holding](3-Mechanics/CLI/items/bag-of-holding-xdmg.md) and a [Silverquill primer](3-Mechanics/CLI/items/silverquill-primer-scc.md).
+A thorough search and a successful DC 15 Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) check reveals several valuable items in each storage area. An unmarked box in the west storage area holds three [potions of healing](/3-Mechanics/CLI/items/potion-of-healing-xdmg.md), held in reserve in case performers are accidentally injured while on stage. In the east storage area, lying forgotten under an unmarked crate, is a [bag of holding](/3-Mechanics/CLI/items/bag-of-holding-xdmg.md) and a [Silverquill primer](/3-Mechanics/CLI/items/silverquill-primer-scc.md).
 
 #### Rose Stage Festival
 
@@ -1166,9 +1166,9 @@ The Rose Stage Festival is an improvisational performance that the Playactors Dr
 
 ##### The Show
 
-Members of the Playactors Drama Guild hand out lists of random character prompts to anyone who wants to try acting. Anyone who wishes to play a character on stage chooses a prompt, dons a few costume elements from the trunks of costumes provided by the Playactors Drama Guild, and lines up on the east end of the main stage (area R3). There, Quentillius Antiphiun Melentor III (neutral human [first-year student](3-Mechanics/CLI/bestiary/humanoid/first-year-student-scc.md); see the "Fellow Students" section) instructs a waiting participant to "tag in" to the ongoing performance and "tag out" someone currently on stage. Quentillius keeps the transitions narratively clean, while members of the crowd cheer, jeer, and shout ideas to the improvising actors. Other participants work the random props, set pieces, and sound effects the Playactors Drama Guild has strewn about the stage area to augment the improvised events.
+Members of the Playactors Drama Guild hand out lists of random character prompts to anyone who wants to try acting. Anyone who wishes to play a character on stage chooses a prompt, dons a few costume elements from the trunks of costumes provided by the Playactors Drama Guild, and lines up on the east end of the main stage (area R3). There, Quentillius Antiphiun Melentor III (neutral human [first-year student](/3-Mechanics/CLI/bestiary/humanoid/first-year-student-scc.md); see the "Fellow Students" section) instructs a waiting participant to "tag in" to the ongoing performance and "tag out" someone currently on stage. Quentillius keeps the transitions narratively clean, while members of the crowd cheer, jeer, and shout ideas to the improvising actors. Other participants work the random props, set pieces, and sound effects the Playactors Drama Guild has strewn about the stage area to augment the improvised events.
 
-Members of the crowd might play kazoos to musically accompany the drama on stage. A number of members of the Strixhaven Show Band Association are handing out kazoos from the orchestra pit (area R2), including student conductor Rubina Larkingdale (lawful neutral human [first-year student](3-Mechanics/CLI/bestiary/humanoid/first-year-student-scc.md); see the "Fellow Students" section).
+Members of the crowd might play kazoos to musically accompany the drama on stage. A number of members of the Strixhaven Show Band Association are handing out kazoos from the orchestra pit (area R2), including student conductor Rubina Larkingdale (lawful neutral human [first-year student](/3-Mechanics/CLI/bestiary/humanoid/first-year-student-scc.md); see the "Fellow Students" section).
 
 The festival's improvised play continues until all volunteer performers have exhausted their prompts. More frequently, however, a faculty member needs to shut down the festival, which becomes increasingly rowdy later into the night.
 
@@ -1176,7 +1176,7 @@ The following subsections detail the ways in which the characters can join the f
 
 ##### Perform on Stage
 
-A character who wants to perform chooses a character prompt and whatever costume pieces catch their eye and then heads to the east side of the stage (area R3). After waiting a short while, Quentillius signals a break in the action so that the new performer can take the stage. The player character can act out their improv character in the performance any way they like. Raising the creativity beyond just acting to incorporate singing, rapping, or dancing is encouraged! No matter what approach the player takes to their character's performance, impressing the crowd also requires a successful DC 13 Charisma ([Performance](3-Mechanics/CLI/rules/skills.md#Performance)) check. (If another ability check or skill feels applicable to an unconventional performance, feel free to let the character make that check instead.) A successful ability check results in the crowd's cheering and whistling, while a failed check results in boos and jeers. Further, the character whose Charisma ([Performance](3-Mechanics/CLI/rules/skills.md#Performance)) check is highest earns a valuable reward from an appreciative professor after this event ends; see "A Professor's Appreciation."
+A character who wants to perform chooses a character prompt and whatever costume pieces catch their eye and then heads to the east side of the stage (area R3). After waiting a short while, Quentillius signals a break in the action so that the new performer can take the stage. The player character can act out their improv character in the performance any way they like. Raising the creativity beyond just acting to incorporate singing, rapping, or dancing is encouraged! No matter what approach the player takes to their character's performance, impressing the crowd also requires a successful DC 13 Charisma ([Performance](/3-Mechanics/CLI/skills.md#Performance)) check. (If another ability check or skill feels applicable to an unconventional performance, feel free to let the character make that check instead.) A successful ability check results in the crowd's cheering and whistling, while a failed check results in boos and jeers. Further, the character whose Charisma ([Performance](/3-Mechanics/CLI/skills.md#Performance)) check is highest earns a valuable reward from an appreciative professor after this event ends; see "A Professor's Appreciation."
 
 To increase the level of the challenge—and the fun—you might have interested players roll their characters' prompts randomly on the Festival Character Prompts table.
 
@@ -1202,7 +1202,7 @@ To increase the level of the challenge—and the fun—you might have interested
 
 ##### Handle Props
 
-A character who doesn't want to perform can handle props from the ends of the stage. When Quentillius cues them, the character can bring one of the many prepared stage props to the performers, move a set piece around the stage, or improvise sound effects to augment the improvised play. This might include carrying wooden cutouts of painted waves during a nautical scene, rolling fake monsters near the actors when danger threatens and impersonating the monsters' snarls, handing dueling actors improbable "weapons," or the like. Responding to the cues in a way that complements the action on stage requires a successful DC 13 Wisdom ([Insight](3-Mechanics/CLI/rules/skills.md#Insight)) check.
+A character who doesn't want to perform can handle props from the ends of the stage. When Quentillius cues them, the character can bring one of the many prepared stage props to the performers, move a set piece around the stage, or improvise sound effects to augment the improvised play. This might include carrying wooden cutouts of painted waves during a nautical scene, rolling fake monsters near the actors when danger threatens and impersonating the monsters' snarls, handing dueling actors improbable "weapons," or the like. Responding to the cues in a way that complements the action on stage requires a successful DC 13 Wisdom ([Insight](/3-Mechanics/CLI/skills.md#Insight)) check.
 
 When a character handles props, allow them to choose the props they like most from the Festival Props table or have them roll on that table. These props are scattered around the outer stage.
 
@@ -1226,7 +1226,7 @@ Though prop-handling characters have no way to know it, one of the wooden cutout
 
 ##### Accompany with Kazoo
 
-A character might highlight a performance by their friends—or razz an adversary—using one of the kazoos that Rubina and other members of the Strixhaven Show Band Association are handing out at area R2. Highlighting the antics on stage effectively requires a successful DC 13 Charisma ([Performance](3-Mechanics/CLI/rules/skills.md#Performance)) check (though another skill might be more applicable, depending on the character's goal). A successful check grants one character performing on stage advantage or disadvantage on their Charisma ([Performance](3-Mechanics/CLI/rules/skills.md#Performance)) check to perform.
+A character might highlight a performance by their friends—or razz an adversary—using one of the kazoos that Rubina and other members of the Strixhaven Show Band Association are handing out at area R2. Highlighting the antics on stage effectively requires a successful DC 13 Charisma ([Performance](/3-Mechanics/CLI/skills.md#Performance)) check (though another skill might be more applicable, depending on the character's goal). A successful check grants one character performing on stage advantage or disadvantage on their Charisma ([Performance](/3-Mechanics/CLI/skills.md#Performance)) check to perform.
 
 ##### Encourage a Performer
 
@@ -1240,7 +1240,7 @@ A character might jeer at a performer on the stage. If they taunt a player chara
 
 During the festival, characters might mingle with other students. If there are students the characters wish to earn Relationship Points with, treat this as a Relationship encounter, as described earlier in the chapter. Have players note the results of this encounter on their tracking sheets.
 
-![World-class concerts happe...](3-Mechanics/CLI/adventures/strixhaven-campus-kerfuffle/img/065-03-036-concerts.webp#center "World-class concerts happen regularly on the Rose Stage")
+![World-class concerts happe...](/3-Mechanics/CLI/adventures/strixhaven-campus-kerfuffle/img/065-03-036-concerts.webp#center "World-class concerts happen regularly on the Rose Stage")
 
 #### Exit, Pursued by an Owlbear
 
@@ -1253,7 +1253,7 @@ After the characters have all had a chance to take part in the performance, read
 > One of the stage props barrels away from its handler, monstrous shrieks coming from its frothing beak. What used to be a comically posed owlbear painted on wood is transforming into a real and enraged owlbear, and it's rampaging right toward you!
 ^21d
 
-The owlbear prop turns into an actual attacking [owlbear](3-Mechanics/CLI/bestiary/monstrosity/owlbear-xmm.md). Assume the owlbear is on whichever side of the stage is closest to the most characters. The player characters must jump into action quickly to defend the other students. When they do, if a character made a successful ability check during the Rose Stage Festival, they have advantage on their first attack against the owlbear.
+The owlbear prop turns into an actual attacking [owlbear](/3-Mechanics/CLI/bestiary/monstrosity/owlbear-xmm.md). Assume the owlbear is on whichever side of the stage is closest to the most characters. The player characters must jump into action quickly to defend the other students. When they do, if a character made a successful ability check during the Rose Stage Festival, they have advantage on their first attack against the owlbear.
 
 Further, because the characters learned about owlbears in their second Exam event of the term, any character who aced that Exam has advantage on all attack rolls during this encounter.
 
@@ -1263,11 +1263,11 @@ Once the characters defeat the owlbear, it turns back into a wooden prop and the
 
 ##### Ending the Threat
 
-If all the characters fall [unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious) during this fight, Professor Johenne Totsky (neutral human [Silverquill professor of shadow](3-Mechanics/CLI/bestiary/humanoid/silverquill-professor-of-shadow-scc.md); see "chapter 7") appears at the start of the next round and dispatches the threat. The professor, who was lingering in the area watching the performance, is as baffled as the characters as to why a stage prop would turn into a real monster.
+If all the characters fall [unconscious](/3-Mechanics/CLI/conditions.md#Unconscious) during this fight, Professor Johenne Totsky (neutral human [Silverquill professor of shadow](/3-Mechanics/CLI/bestiary/humanoid/silverquill-professor-of-shadow-scc.md); see "chapter 7") appears at the start of the next round and dispatches the threat. The professor, who was lingering in the area watching the performance, is as baffled as the characters as to why a stage prop would turn into a real monster.
 
 #### A Professor's Appreciation
 
-Once the characters have participated in the Rose Stage Festival and dispatched the owlbear threat, if she's not already on the scene, Professor Totsky approaches the characters and applauds them. She thanks them for dispatching the threat, and she compliments any character who made a successful ability check during the performance. A lover of theater who is immaculately dressed, the professor tells the characters that she recently commissioned a new cloak; she offers the cloak she's wearing in appreciation of the character whose Charisma ([Performance](3-Mechanics/CLI/rules/skills.md#Performance)) check to perform on stage was highest. The cloak is a [cloak of protection](3-Mechanics/CLI/items/cloak-of-protection-xdmg.md).
+Once the characters have participated in the Rose Stage Festival and dispatched the owlbear threat, if she's not already on the scene, Professor Totsky approaches the characters and applauds them. She thanks them for dispatching the threat, and she compliments any character who made a successful ability check during the performance. A lover of theater who is immaculately dressed, the professor tells the characters that she recently commissioned a new cloak; she offers the cloak she's wearing in appreciation of the character whose Charisma ([Performance](/3-Mechanics/CLI/skills.md#Performance)) check to perform on stage was highest. The cloak is a [cloak of protection](/3-Mechanics/CLI/items/cloak-of-protection-xdmg.md).
 
 #### Examining the Owlbear
 
@@ -1277,13 +1277,13 @@ If she hasn't already entered the scene, Professor Totsky arrives while the char
 
 She explains eldritch balm to the characters and says she believes it's likely that the Sedgemoor waters used to brew the latest batch of eldritch balm were corrupted in some way. She doesn't necessarily suspect foul play but mentions that, in the past, students have been caught practicing forbidden magic in the more remote parts of Sedgemoor, the bayou that encompasses Witherbloom College's campus. Such sinister magic might be responsible for the balm's corruption, but a random surge of wild magic is an equally likely explanation in her mind. In any case, this corruption must have caused objects treated with the eldritch balm and creatures that came into contact with it to take on temporary—and dangerous—magical properties.
 
-Professor Totsky gives the characters a [flask of holy water](3-Mechanics/CLI/items/holy-water-xphb.md) and explains that pouring it into the underwater spring whose waters are used to create eldritch balm will settle the waters and prevent further corruption. She describes the location of the spring (area S7 on map 3.6) to help the characters find it. She urges the characters to take on this task so she can immediately track down the rest of the contaminated balm and remove it from objects on campus.
+Professor Totsky gives the characters a [flask of holy water](/3-Mechanics/CLI/items/holy-water-xphb.md) and explains that pouring it into the underwater spring whose waters are used to create eldritch balm will settle the waters and prevent further corruption. She describes the location of the spring (area S7 on map 3.6) to help the characters find it. She urges the characters to take on this task so she can immediately track down the rest of the contaminated balm and remove it from objects on campus.
 
 ### Secrets in Sedgemoor
 
 The day after the incident at the Rose Stage Festival, the characters are scheduled to collect spell components from Sedgemoor and bring those samples back to Professor Lang, who teaches their Magical Physiologies course. This gives them a convenient opportunity to investigate that area on behalf of Professor Totsky.
 
-The characters know that they must pour the flask of holy water given to them by Professor Totsky into an underwater spring somewhere in area S7. Doing so should prevent future flare-ups of the wild magic that tainted the eldritch balm behind all the strange campus mishaps. In addition, they can find [Murgaxor](3-Mechanics/CLI/bestiary/npc/murgaxor-scc.md)'s journal, which points to a spellcaster's troublesome meddling, in area S7.
+The characters know that they must pour the flask of holy water given to them by Professor Totsky into an underwater spring somewhere in area S7. Doing so should prevent future flare-ups of the wild magic that tainted the eldritch balm behind all the strange campus mishaps. In addition, they can find [Murgaxor](/3-Mechanics/CLI/bestiary/npc/murgaxor-scc.md)'s journal, which points to a spellcaster's troublesome meddling, in area S7.
 
 When the characters venture into Sedgemoor, read or paraphrase the following to set the scene:
 
@@ -1308,17 +1308,17 @@ Sedgemoor has the following features:
 
 - **Building Doors.** The doors to the research sheds (areas S4 and S5) are unlocked.  
 - **Swamp Water.** The watery areas on the map are shallow along the shore, growing deeper off the map. Characters walking between islets and tree stumps sink several inches in mud and water, making all these areas "difficult terrain".  
-- **Tree Stumps.** Stumps protrude 5 feet above the surface of the water. Their slippery and unstable surfaces mean that climbing onto a stump without falling requires a successful DC 15 Strength ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)) check as part of the move.  
+- **Tree Stumps.** Stumps protrude 5 feet above the surface of the water. Their slippery and unstable surfaces mean that climbing onto a stump without falling requires a successful DC 15 Strength ([Athletics](/3-Mechanics/CLI/skills.md#Athletics)) check as part of the move.  
 
 #### Sedgemoor Locations
 
 The following locations are keyed to map 3.6. All descriptions assume the characters are exploring this area during the day.
 
-Area S7 holds the contaminated spring that is the root cause of the strange manifestations of magic on campus over the previous months. If you're running this as a campaign, [Murgaxor](3-Mechanics/CLI/bestiary/npc/murgaxor-scc.md)'s journal is also in area S7. As the characters explore, you can have them spot the bubbling of the underwater spring in that area to draw them in.
+Area S7 holds the contaminated spring that is the root cause of the strange manifestations of magic on campus over the previous months. If you're running this as a campaign, [Murgaxor](/3-Mechanics/CLI/bestiary/npc/murgaxor-scc.md)'s journal is also in area S7. As the characters explore, you can have them spot the bubbling of the underwater spring in that area to draw them in.
 
 > [!gallery]
-> ![Map 3.6: Sedgemoor](3-Mechanics/CLI/adventures/strixhaven-campus-kerfuffle/img/066-map-3-6-sedgemoor.webp#gallery)
-> ![Player Version](3-Mechanics/CLI/adventures/strixhaven-campus-kerfuffle/img/map-3-6-sedgemoor-player.webp#gallery)
+> ![Map 3.6: Sedgemoor](/3-Mechanics/CLI/adventures/strixhaven-campus-kerfuffle/img/066-map-3-6-sedgemoor.webp#gallery)
+> ![Player Version](/3-Mechanics/CLI/adventures/strixhaven-campus-kerfuffle/img/map-3-6-sedgemoor-player.webp#gallery)
 
 ##### S1. Marsh Banks
 
@@ -1344,11 +1344,11 @@ Any character who ventures into the swamp on the west side of this islet stumble
 
 This is one of the three islets (along with areas S2 and S7) where the characters can collect spell components for Professor Lang.
 
-Hiding behind the tree stump in the center of this islet are two snarling [worgs](3-Mechanics/CLI/bestiary/fey/worg-xmm.md), which were drawn here by the strange magic in the area. The worgs are hostile and attack as soon as any character sets foot on the island, snarling, "The dark magic! Give it to us!" They run off if the characters reduce one or both of them to 13 or fewer hit points.
+Hiding behind the tree stump in the center of this islet are two snarling [worgs](/3-Mechanics/CLI/bestiary/fey/worg-xmm.md), which were drawn here by the strange magic in the area. The worgs are hostile and attack as soon as any character sets foot on the island, snarling, "The dark magic! Give it to us!" They run off if the characters reduce one or both of them to 13 or fewer hit points.
 
 ##### S4. South Research Shed
 
-One of two small research sheds on the central islet, this building holds supplies and equipment for Witherbloom students and faculty doing research in Sedgemoor. Moss and fungi harvesting kits can be found here. Each kit weighs 1 pound, consists of various cutting and collecting tools, and grants advantage on a character's Intelligence ([Nature](3-Mechanics/CLI/rules/skills.md#Nature)) checks to harvest spell components.
+One of two small research sheds on the central islet, this building holds supplies and equipment for Witherbloom students and faculty doing research in Sedgemoor. Moss and fungi harvesting kits can be found here. Each kit weighs 1 pound, consists of various cutting and collecting tools, and grants advantage on a character's Intelligence ([Nature](/3-Mechanics/CLI/skills.md#Nature)) checks to harvest spell components.
 
 ##### S5. North Research Shed
 
@@ -1356,13 +1356,13 @@ The second of two small research sheds serves as a gathering area for Witherbloo
 
 ###### Treasure
 
-Any search of this area turns up two [potions of healing](3-Mechanics/CLI/items/potion-of-healing-xdmg.md).
+Any search of this area turns up two [potions of healing](/3-Mechanics/CLI/items/potion-of-healing-xdmg.md).
 
 ##### S6. East Islet
 
 This is one of the three islets (along with areas S2 and S3) where the characters can collect spell components for Professor Lang.
 
-A [swarm of poisonous snakes](3-Mechanics/CLI/bestiary/beast/swarm-of-venomous-snakes-xmm.md) nests on this island. It attacks when a character sets foot on this islet, though the snakes disperse and flee if the swarm is reduced to 5 hit points or fewer.
+A [swarm of poisonous snakes](/3-Mechanics/CLI/bestiary/beast/swarm-of-venomous-snakes-xmm.md) nests on this island. It attacks when a character sets foot on this islet, though the snakes disperse and flee if the swarm is reduced to 5 hit points or fewer.
 
 ##### S7. Underwater Spring
 
@@ -1373,19 +1373,19 @@ A [swarm of poisonous snakes](3-Mechanics/CLI/bestiary/beast/swarm-of-venomous-s
 
 An underground spring flows here. If the characters are quiet for a moment when they are within 20 feet of this area, they can hear the spring burbling (and tell which direction the sound is coming from).
 
-After the characters arrive in this area, have each of them make a DC 16 Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) check. Those who succeed notice the waters in this area rippling unnaturally. The muddy Sedgemoor waters suddenly spray into the sky like a geyser and a mighty chittering echoes throughout the swamp. A [giant scorpion](3-Mechanics/CLI/bestiary/beast/giant-scorpion-xmm.md), corrupted by the same menace the characters are hoping to stop, was lurking here to ambush prey. If all the characters failed the Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) checks, the scorpion has advantage on its first attack roll against each of those characters. The scorpion is berserk and fights to the death.
+After the characters arrive in this area, have each of them make a DC 16 Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) check. Those who succeed notice the waters in this area rippling unnaturally. The muddy Sedgemoor waters suddenly spray into the sky like a geyser and a mighty chittering echoes throughout the swamp. A [giant scorpion](/3-Mechanics/CLI/bestiary/beast/giant-scorpion-xmm.md), corrupted by the same menace the characters are hoping to stop, was lurking here to ambush prey. If all the characters failed the Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) checks, the scorpion has advantage on its first attack roll against each of those characters. The scorpion is berserk and fights to the death.
 
 ###### Clearing the Waters
 
-With the scorpion defeated, the characters must pour their [holy water](3-Mechanics/CLI/items/holy-water-xphb.md) from Professor Totsky into the spring. When they do, the liquid from Totsky's flask purifies the spring, ending the threat of corruption.
+With the scorpion defeated, the characters must pour their [holy water](/3-Mechanics/CLI/items/holy-water-xphb.md) from Professor Totsky into the spring. When they do, the liquid from Totsky's flask purifies the spring, ending the threat of corruption.
 
 ###### Murgaxor's Journal
 
 If you're running all four adventures in this book as a campaign, a character spots a small, oilskin-wrapped journal sitting atop a small stump. Water damage has rendered much of the journal unreadable, but what remains reveals sinister thoughts. It's clear that some nefarious personality has been experimenting with life-draining magic in the marsh and has been doing so for some time.
 
-The journal belonged to the evil [Murgaxor](3-Mechanics/CLI/bestiary/npc/murgaxor-scc.md); it slipped out of his pocket while he practiced the corrupting magic that caused this academic year's mishaps. The journal notes that [Murgaxor](3-Mechanics/CLI/bestiary/npc/murgaxor-scc.md)'s last step in this scheme involved the Rose Stage Festival, so it's clear he has no more immediate plans to threaten campus. However, this isn't the end of his villainy—the true extent becomes clear in later adventures.
+The journal belonged to the evil [Murgaxor](/3-Mechanics/CLI/bestiary/npc/murgaxor-scc.md); it slipped out of his pocket while he practiced the corrupting magic that caused this academic year's mishaps. The journal notes that [Murgaxor](/3-Mechanics/CLI/bestiary/npc/murgaxor-scc.md)'s last step in this scheme involved the Rose Stage Festival, so it's clear he has no more immediate plans to threaten campus. However, this isn't the end of his villainy—the true extent becomes clear in later adventures.
 
-![Strange creatures live in ...](3-Mechanics/CLI/adventures/strixhaven-campus-kerfuffle/img/067-03-037-strange-creatures.webp#center "Strange creatures live in the swampy areas of Strixhaven's campus. Sometimes those creatures are dangerous")
+![Strange creatures live in ...](/3-Mechanics/CLI/adventures/strixhaven-campus-kerfuffle/img/067-03-037-strange-creatures.webp#center "Strange creatures live in the swampy areas of Strixhaven's campus. Sometimes those creatures are dangerous")
 
 #### End of the Year
 

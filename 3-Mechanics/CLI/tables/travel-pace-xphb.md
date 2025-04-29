@@ -6,7 +6,7 @@ tags:
 aliases: ["Travel Pace"]
 ---
 # Travel Pace
-*Source: Player's Handbook (2024) p. 20* 
+*Source: Player's Handbook (2024) p. 20. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>* 
 
 **Travel Pace**
 

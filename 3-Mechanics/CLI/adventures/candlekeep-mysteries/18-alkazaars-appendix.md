@@ -8,7 +8,7 @@ aliases: ["Alkazaar's Appendix"]
 # Alkazaar's Appendix
 *Source: Candlekeep Mysteries, p. 198* 
 
-![Alkazaar's Appendix and Alkazaar's Thrilling Tales](3-Mechanics/CLI/adventures/candlekeep-mysteries/img/133-17-001-book.webp#center)
+![Alkazaar's Appendix and Alkazaar's Thrilling Tales](/3-Mechanics/CLI/adventures/candlekeep-mysteries/img/133-17-001-book.webp#center)
 
 **An Adventure for 15th-level Characters**  
 **Edited by Michele Carter**  
@@ -23,13 +23,13 @@ This adventure begins when the characters read the story of the lost golem in *A
 
 The adventurers travel to the Hall of Rainbows. After defeating the worm, they discover clues that lead to the ruined city of Azumar. They must navigate the ruins and find the vault where the golem's master, Prince Hamukai, now rests.
 
-In the final showdown, the party must defeat a dracolich named [Zikzokrishka](3-Mechanics/CLI/bestiary/npc/zikzokrishka-cm.md) and then command the golem to open the vault and complete its mission—to deliver the prince's body to Elysium.
+In the final showdown, the party must defeat a dracolich named [Zikzokrishka](/3-Mechanics/CLI/bestiary/npc/zikzokrishka-cm.md) and then command the golem to open the vault and complete its mission—to deliver the prince's body to Elysium.
 
 ## Finding the Books
 
 Alkazaar was an adventurer of great renown. Tales proliferate about his daring and incredible discoveries across Faerûn. Knowing that the definitive collection of Alkazaar's adventures rests within the walls of Candlekeep is reason enough for an adventurer to seek out this legendary book and claim a cozy corner to read about the escapades of Alkazaar and his dungeon-delving companions. *Alkazaar's Thrilling Tales* is a hefty tome, but its smaller companion—*Alkazaar's Appendix*—contains the intriguing story of Alkazaar's one unfinished quest.
 
-The Avowed in Candlekeep could bring *Alkazaar's Appendix* to the characters' attention and approach the characters (especially if the party has visited Candlekeep before) in hopes that they can complete Alkazaar's unfinished quest and perhaps procure for the library the fabled [Nether Scroll](3-Mechanics/CLI/items/nether-scroll-of-azumar-cm.md) that Alkazaar believed the golem once guarded.
+The Avowed in Candlekeep could bring *Alkazaar's Appendix* to the characters' attention and approach the characters (especially if the party has visited Candlekeep before) in hopes that they can complete Alkazaar's unfinished quest and perhaps procure for the library the fabled [Nether Scroll](/3-Mechanics/CLI/items/nether-scroll-of-azumar-cm.md) that Alkazaar believed the golem once guarded.
 
 Alternatively, an ogre named Little One (see the "Little One" sidebar in the "Candlekeep" section earlier in this book) might approach the characters while they're relaxing in the Hearth and give them the books, thinking they might be intrigued by the tale of the lost golem.
 
@@ -43,7 +43,7 @@ Alternatively, an ogre named Little One (see the "Little One" sidebar in the "Ca
 
 Adventurers who read the story of the lost golem in *Alkazaar's Appendix* learn the following facts about the one quest Alkazaar couldn't complete:
 
-- Alkazaar was searching for a [Nether Scroll](3-Mechanics/CLI/items/nether-scroll-of-azumar-cm.md). This was to be his last adventure before retiring.  
+- Alkazaar was searching for a [Nether Scroll](/3-Mechanics/CLI/items/nether-scroll-of-azumar-cm.md). This was to be his last adventure before retiring.  
 - In the Anauroch desert, he came across a wandering stone golem. Alkazaar believed this golem was the legendary Sapphire Sentinel, rumored to have been created by Netherese wizards to protect one of the fabled *Nether Scrolls* under the control of Prince Hamukai.  
 - The golem recognized its master's name, Hamukai, when Alkazaar mentioned it. From that point on the golem followed him, obeying his commands.  
 - The golem communicated through sign language. It seemed lost and sad.  
@@ -62,15 +62,15 @@ When an adventurer activates the portal, it stays active for 1 minute and then r
 
 ## Adventure Background
 
-Long ago, the wizards of Netheril created a magnificent stone golem to guard one of the *Nether Scrolls*—a collection of dangerous scrolls that described the creation of magic and the nature of the Weave. The wizards gave the golem a sapphire heart and magically bound a sliver from the gem to the right palm of its master, Hamukai. They charged the young wizard-prince of the ancient nation of Anauria with guarding the priceless scroll. The sapphires allowed both Hamukai and the golem (whether together or separate) to unlock a magically sealed vault that held the [Nether Scroll](3-Mechanics/CLI/items/nether-scroll-of-azumar-cm.md).
+Long ago, the wizards of Netheril created a magnificent stone golem to guard one of the *Nether Scrolls*—a collection of dangerous scrolls that described the creation of magic and the nature of the Weave. The wizards gave the golem a sapphire heart and magically bound a sliver from the gem to the right palm of its master, Hamukai. They charged the young wizard-prince of the ancient nation of Anauria with guarding the priceless scroll. The sapphires allowed both Hamukai and the golem (whether together or separate) to unlock a magically sealed vault that held the [Nether Scroll](/3-Mechanics/CLI/items/nether-scroll-of-azumar-cm.md).
 
-The blue dragon [Zikzokrishka](3-Mechanics/CLI/bestiary/npc/zikzokrishka-cm.md) discovered the scroll's location, and she arrived at the vault ready to destroy any and all in her path. In the ensuing battle, the golem gravely wounded [Zikzokrishka](3-Mechanics/CLI/bestiary/npc/zikzokrishka-cm.md), but she blasted the golem with eldritch magic that damaged its memory and hurled it to a far corner of Faerûn. Thinking his golem destroyed, Hamukai put a shield around the vault containing the scroll that could be opened only by the sapphire's power. Too weak to continue the fight, [Zikzokrishka](3-Mechanics/CLI/bestiary/npc/zikzokrishka-cm.md) limped away to heal her wounds. But as she left, she incanted a powerful Netherese curse: when the prince died, the shield would disappear and the scroll would be hers for the taking.
+The blue dragon [Zikzokrishka](/3-Mechanics/CLI/bestiary/npc/zikzokrishka-cm.md) discovered the scroll's location, and she arrived at the vault ready to destroy any and all in her path. In the ensuing battle, the golem gravely wounded [Zikzokrishka](/3-Mechanics/CLI/bestiary/npc/zikzokrishka-cm.md), but she blasted the golem with eldritch magic that damaged its memory and hurled it to a far corner of Faerûn. Thinking his golem destroyed, Hamukai put a shield around the vault containing the scroll that could be opened only by the sapphire's power. Too weak to continue the fight, [Zikzokrishka](/3-Mechanics/CLI/bestiary/npc/zikzokrishka-cm.md) limped away to heal her wounds. But as she left, she incanted a powerful Netherese curse: when the prince died, the shield would disappear and the scroll would be hers for the taking.
 
-Knowing that [Zikzokrishka](3-Mechanics/CLI/bestiary/npc/zikzokrishka-cm.md)'s curse had sealed his fate, Hamukai made a decision. Against the wishes of his subjects, who dearly loved him, the prince ordered his wizards to perform a ritual that would keep him on the brink of death for millennia. His magically sustained life force would maintain the shield that would seal him in the vault and protect the [Nether Scroll](3-Mechanics/CLI/items/nether-scroll-of-azumar-cm.md). Since opening the vault required either the sapphire shard in his right palm or the golem's sapphire heart (which he assumed was destroyed along with the golem), Hamukai felt sure of the scroll's safety.
+Knowing that [Zikzokrishka](/3-Mechanics/CLI/bestiary/npc/zikzokrishka-cm.md)'s curse had sealed his fate, Hamukai made a decision. Against the wishes of his subjects, who dearly loved him, the prince ordered his wizards to perform a ritual that would keep him on the brink of death for millennia. His magically sustained life force would maintain the shield that would seal him in the vault and protect the [Nether Scroll](/3-Mechanics/CLI/items/nether-scroll-of-azumar-cm.md). Since opening the vault required either the sapphire shard in his right palm or the golem's sapphire heart (which he assumed was destroyed along with the golem), Hamukai felt sure of the scroll's safety.
 
-[Zikzokrishka](3-Mechanics/CLI/bestiary/npc/zikzokrishka-cm.md) returned with an army, intent on ripping the sapphire from the prince's head. She scattered the populace and reduced the prince's city of Azumar to ruin. To her dismay, she found the prince's tomb to be impregnable. Howling with rage, [Zikzokrishka](3-Mechanics/CLI/bestiary/npc/zikzokrishka-cm.md) knew that the spell that kept the prince alive would thwart her curse for thousands of years, far beyond her draconic life span. In her thirst for power, she sought and achieved transformation into a dracolich, willing to wait an eternity to outlast the spell that held Hamukai near death, knowing his life force would one day dissipate and the vault would become openable.
+[Zikzokrishka](/3-Mechanics/CLI/bestiary/npc/zikzokrishka-cm.md) returned with an army, intent on ripping the sapphire from the prince's head. She scattered the populace and reduced the prince's city of Azumar to ruin. To her dismay, she found the prince's tomb to be impregnable. Howling with rage, [Zikzokrishka](/3-Mechanics/CLI/bestiary/npc/zikzokrishka-cm.md) knew that the spell that kept the prince alive would thwart her curse for thousands of years, far beyond her draconic life span. In her thirst for power, she sought and achieved transformation into a dracolich, willing to wait an eternity to outlast the spell that held Hamukai near death, knowing his life force would one day dissipate and the vault would become openable.
 
-As she held her vigil, the desert wasteland of Anauroch consumed the city. Believing the golem and its sapphire to be destroyed, [Zikzokrishka](3-Mechanics/CLI/bestiary/npc/zikzokrishka-cm.md) now lies coiled around the vault's entrance, waiting with the patience of undeath for the death of the prince, surrounded by her undead minions and jealously guarding her promise of godhood.
+As she held her vigil, the desert wasteland of Anauroch consumed the city. Believing the golem and its sapphire to be destroyed, [Zikzokrishka](/3-Mechanics/CLI/bestiary/npc/zikzokrishka-cm.md) now lies coiled around the vault's entrance, waiting with the patience of undeath for the death of the prince, surrounded by her undead minions and jealously guarding her promise of godhood.
 
 ## Arriving in Anauroch
 
@@ -85,7 +85,7 @@ When the characters come through the portal, read the following:
 > Below you, about fifty feet away, a camel watches two desert nomads unearth a hulking stone golem half-buried in the sand. Intent on their investigation of the golem, they don't notice your arrival.
 ^4df
 
-The two desert nomads (use the [bandit](3-Mechanics/CLI/bestiary/humanoid/bandit-xmm.md) stat block) and a [camel](3-Mechanics/CLI/bestiary/beast/camel-xmm.md) they call Old Stink (for good reason) hail from a Bedine tribe. They are discussing what to do with the golem. Their curiosity about its potential value conflicts with their fear of disturbing items of Netherese origin. The golem sits motionless, its eyes glowing dimly.
+The two desert nomads (use the [bandit](/3-Mechanics/CLI/bestiary/humanoid/bandit-xmm.md) stat block) and a [camel](/3-Mechanics/CLI/bestiary/beast/camel-xmm.md) they call Old Stink (for good reason) hail from a Bedine tribe. They are discussing what to do with the golem. Their curiosity about its potential value conflicts with their fear of disturbing items of Netherese origin. The golem sits motionless, its eyes glowing dimly.
 
 The Bedine nomads are wary of the characters until they assess the party's intentions. A successful DC 12 Charisma check quickly allays their fears.
 
@@ -125,11 +125,11 @@ Shamir knows the story of Hamukai and his stone golem and can help the character
 - **Bond.** "My grandson, Pesh, is my life."  
 - **Flaw.** "I think magic is a road that leads to ruin."  
 
-![Golem in the Desert](3-Mechanics/CLI/adventures/candlekeep-mysteries/img/134-17-002-golem-in-the-desert.webp#center)
+![Golem in the Desert](/3-Mechanics/CLI/adventures/candlekeep-mysteries/img/134-17-002-golem-in-the-desert.webp#center)
 
 ### The Golem
 
-The Bedine allow the characters to examine the 14-foot-tall [stone golem](3-Mechanics/CLI/bestiary/construct/stone-golem-xmm.md) known as the [Sapphire Sentinel](3-Mechanics/CLI/bestiary/construct/sapphire-sentinel-cm.md). It has the following features and behaviors:
+The Bedine allow the characters to examine the 14-foot-tall [stone golem](/3-Mechanics/CLI/bestiary/construct/stone-golem-xmm.md) known as the [Sapphire Sentinel](/3-Mechanics/CLI/bestiary/construct/sapphire-sentinel-cm.md). It has the following features and behaviors:
 
 - The golem understands Common but can't speak.  
 - It can open the sealed vault where the prince rests (see area V3).  
@@ -142,7 +142,7 @@ The sapphire is inside the golem's chest, hidden behind an 8-inch-diameter stone
 The disk can be removed to reveal the glowing sapphire only when the golem receives a command to use its power from someone whose commands it obeys (see "Getting the Golem's Attention" below). Otherwise, the sapphire remains hidden. The gemstone is 6 inches in diameter and has the following properties:
 
 - It is indestructible until the golem completes its mission.  
-- The sapphire has 3 charges. As an action, the golem can expend 1 charge to cast [dispel magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md) (as a 9th-level spell) from the sapphire using Constitution as its spellcasting ability. The sapphire ceases to glow if all its charges are expended, but it regains `1d3` expended charges daily at dawn and glows again once it has 1 or more charges.  
+- The sapphire has 3 charges. As an action, the golem can expend 1 charge to cast [dispel magic](/3-Mechanics/CLI/spells/dispel-magic-xphb.md) (as a 9th-level spell) from the sapphire using Constitution as its spellcasting ability. The sapphire ceases to glow if all its charges are expended, but it regains `dice:1d3|noform|noparens|avg` (`1d3`) expended charges daily at dawn and glows again once it has 1 or more charges.  
 - The golem attacks anyone who tries to remove the sapphire, which is worth 25,000 gp.  
 
 #### Getting the Golem's Attention
@@ -159,15 +159,15 @@ Pesh and Shamir are both suspicious and impressed when the golem wakes. Pesh, in
 
 The golem expresses itself through a variety of expressions and postures, much like Frankenstein's monster. Characters can infer the golem's intent through its gestures and body language. The golem rubs its head when it's confused, becomes animated when it's excited, and slumps its shoulders when it loses hope.
 
-The golem also employs a unique sign language created by its master, Hamukai. Any character who spends 1 hour observing the golem as it uses this sign language can, with a successful DC 20 Wisdom ([Insight](3-Mechanics/CLI/rules/skills.md#Insight)) check, learn enough of the language to communicate with the golem on a basic level. A character who fails the check can repeat it after spending another hour watching the golem communicate in this fashion.
+The golem also employs a unique sign language created by its master, Hamukai. Any character who spends 1 hour observing the golem as it uses this sign language can, with a successful DC 20 Wisdom ([Insight](/3-Mechanics/CLI/skills.md#Insight)) check, learn enough of the language to communicate with the golem on a basic level. A character who fails the check can repeat it after spending another hour watching the golem communicate in this fashion.
 
 The golem's memories are damaged and it wants to return to its master, Prince Hamukai. It has vague impressions of its past. The golem can be as communicative or as noncommunicative as you like.
 
 #### Keeping the Golem Alive
 
-For story purposes, the golem or its sapphire must reach area V3 for the vault to be opened. On seeing the golem restored, [Zikzokrishka](3-Mechanics/CLI/bestiary/npc/zikzokrishka-cm.md) can't contain her glee. She tries to destroy the golem so she can use the sapphire to open the vault and steal the [Nether Scroll](3-Mechanics/CLI/items/nether-scroll-of-azumar-cm.md). If the dracolich is defeated, the golem goes to be reunited with its master and complete its mission to deliver Hamukai's body and the [Nether Scroll](3-Mechanics/CLI/items/nether-scroll-of-azumar-cm.md) to Elysium.
+For story purposes, the golem or its sapphire must reach area V3 for the vault to be opened. On seeing the golem restored, [Zikzokrishka](/3-Mechanics/CLI/bestiary/npc/zikzokrishka-cm.md) can't contain her glee. She tries to destroy the golem so she can use the sapphire to open the vault and steal the [Nether Scroll](/3-Mechanics/CLI/items/nether-scroll-of-azumar-cm.md). If the dracolich is defeated, the golem goes to be reunited with its master and complete its mission to deliver Hamukai's body and the [Nether Scroll](/3-Mechanics/CLI/items/nether-scroll-of-azumar-cm.md) to Elysium.
 
-Over the course of the journey, the golem might face mortal peril. If it drops to 0 hit points, the golem stabilizes and topples over but isn't destroyed. It doesn't make death saving throws, and it can be revived and repaired using healing magic. If it has 0 hit points after being struck by a [disintegrate](3-Mechanics/CLI/spells/disintegrate-xphb.md) spell or similar magic, the golem is obliterated, but the sapphire is left behind.
+Over the course of the journey, the golem might face mortal peril. If it drops to 0 hit points, the golem stabilizes and topples over but isn't destroyed. It doesn't make death saving throws, and it can be revived and repaired using healing magic. If it has 0 hit points after being struck by a [disintegrate](/3-Mechanics/CLI/spells/disintegrate-xphb.md) spell or similar magic, the golem is obliterated, but the sapphire is left behind.
 
 ## Travel in Anauroch
 
@@ -187,8 +187,8 @@ If the players are restless or spoiling for a fight, use the following encounter
 
 #### Wandering Monsters
 
-- The characters encounter three [cyclopes](3-Mechanics/CLI/bestiary/giant/cyclops-sentry-xmm.md) who are bickering at each other while looking for food. They have Bedine prisoners tied up in their lair—a cavernous crack inside a granite escarpment that juts out from the sands.  
-- Two [rakshasas](3-Mechanics/CLI/bestiary/fiend/rakshasa-xmm.md) masquerading as Bedine nomads named Imura and Sikkat offer to guide the party to a magic oasis. The rakshasas attack the characters as soon as they let down their guard.  
+- The characters encounter three [cyclopes](/3-Mechanics/CLI/bestiary/giant/cyclops-sentry-xmm.md) who are bickering at each other while looking for food. They have Bedine prisoners tied up in their lair—a cavernous crack inside a granite escarpment that juts out from the sands.  
+- Two [rakshasas](/3-Mechanics/CLI/bestiary/fiend/rakshasa-xmm.md) masquerading as Bedine nomads named Imura and Sikkat offer to guide the party to a magic oasis. The rakshasas attack the characters as soon as they let down their guard.  
 
 #### Stone Androsphinx
 
@@ -209,7 +209,7 @@ Any character who touches the sphinx telepathically receives the following riddl
 > *What am I*?
 ^4ed
 
-The riddle's answer is lightning. The first character who answers the riddle correctly while touching the sphinx gains resistance to lightning damage for 10 days. If an incorrect answer is given, the statue transforms into an [androsphinx](3-Mechanics/CLI/bestiary/celestial/sphinx-of-valor-xmm.md) and attacks the party. If it is victorious, the sphinx returns to its pedestal and reverts to its inanimate state. It turns to dust if reduced to 0 hit points.
+The riddle's answer is lightning. The first character who answers the riddle correctly while touching the sphinx gains resistance to lightning damage for 10 days. If an incorrect answer is given, the statue transforms into an [androsphinx](/3-Mechanics/CLI/bestiary/celestial/sphinx-of-valor-xmm.md) and attacks the party. If it is victorious, the sphinx returns to its pedestal and reverts to its inanimate state. It turns to dust if reduced to 0 hit points.
 
 #### Voices of Netheril
 
@@ -217,7 +217,7 @@ As the adventurers walk along the dunes, a cold wind howls across the desert. Th
 
 ## Arrival at Haruun
 
-Haruun was a series of natural caves set into a cliff face that comprised one wall in a twisting maze of canyons. Those who fled the destruction of Azumar thousands of years ago used this area as a refuge. Over time, they carved and painted the interiors with the story of their prince, the golem, the battle, and the vault containing the [Nether Scroll](3-Mechanics/CLI/items/nether-scroll-of-azumar-cm.md).
+Haruun was a series of natural caves set into a cliff face that comprised one wall in a twisting maze of canyons. Those who fled the destruction of Azumar thousands of years ago used this area as a refuge. Over time, they carved and painted the interiors with the story of their prince, the golem, the battle, and the vault containing the [Nether Scroll](/3-Mechanics/CLI/items/nether-scroll-of-azumar-cm.md).
 
 Within the last five centuries, all the caverns except one have been reduced to rubble as the area fell under the sway of a purple worm. Only a small section of the old cavern complex now remains—the Hall of Rainbows.
 
@@ -233,8 +233,8 @@ As the adventurers explore this place, every so often they feel rumbling—cause
 The following locations are keyed to the map of Haruun. Unless otherwise noted, all tunnels are sandstone, unlit, and 12 feet high.
 
 > [!gallery]
-> ![Map 17.1: Haruun](3-Mechanics/CLI/adventures/candlekeep-mysteries/img/135-map-17-01-haruun.webp#gallery)
-> ![Player Version](3-Mechanics/CLI/adventures/candlekeep-mysteries/img/136-map-17-01-haruun-player.webp#gallery)
+> ![Map 17.1: Haruun](/3-Mechanics/CLI/adventures/candlekeep-mysteries/img/135-map-17-01-haruun.webp#gallery)
+> ![Player Version](/3-Mechanics/CLI/adventures/candlekeep-mysteries/img/136-map-17-01-haruun-player.webp#gallery)
 
 ### H1. Cave Entrance
 
@@ -253,22 +253,22 @@ A creature that spends 5 minutes digging through the dung can roll on the Worm D
 | dice: d4 | Treasure |
 |----------|----------|
 | 1 | Two fire opals (1,000 gp each) |
-| 2 | An [animated shield](3-Mechanics/CLI/items/animated-shield-xdmg.md) |
-| 3 | A dung-encrusted suit of [dwarven plate](3-Mechanics/CLI/items/dwarven-plate-xdmg.md) |
-| 4 | A bright and shiny [ring of resistance (acid)](3-Mechanics/CLI/items/ring-of-acid-resistance-xdmg.md) |
+| 2 | An [animated shield](/3-Mechanics/CLI/items/animated-shield-xdmg.md) |
+| 3 | A dung-encrusted suit of [dwarven plate](/3-Mechanics/CLI/items/dwarven-plate-xdmg.md) |
+| 4 | A bright and shiny [ring of resistance (acid)](/3-Mechanics/CLI/items/ring-of-acid-resistance-xdmg.md) |
 ^worm-dung-treasure
 
 ### H2. Worm Rubble
 
 Rubble from the passage of a purple worm blocks the tunnel, with chunks of stone reaching almost to the ceiling. A character who clambers to the top of the rubble sees that the tunnel continues on the other side, but one must make the climb with care or risk causing the rubble to shift and alert the worm (see below).
 
-Removing enough debris to allow a Small or Medium humanoid to fit through the opening takes one person about an hour, but the noise caused by the work could summon a hungry purple worm. To avoid doing so, whoever is clearing the rubble must succeed on two DC 15 Dexterity or Strength checks. Failure on either check means a boulder falls from a height or the character slips and causes a cascade of rubble, alerting the worm's [tremorsense](3-Mechanics/CLI/rules/senses.md#Tremorsense).
+Removing enough debris to allow a Small or Medium humanoid to fit through the opening takes one person about an hour, but the noise caused by the work could summon a hungry purple worm. To avoid doing so, whoever is clearing the rubble must succeed on two DC 15 Dexterity or Strength checks. Failure on either check means a boulder falls from a height or the character slips and causes a cascade of rubble, alerting the worm's [tremorsense](/3-Mechanics/CLI/senses.md#Tremorsense).
 
 Once a gap is created, the rubble counts as difficult terrain.
 
 #### Purple Worm Attack
 
-Whenever the time is right (and it's never not right), a [purple worm](3-Mechanics/CLI/bestiary/monstrosity/purple-worm-xmm.md) erupts from the earth and attacks the party. This can happen anywhere in the caves at any time.
+Whenever the time is right (and it's never not right), a [purple worm](/3-Mechanics/CLI/bestiary/monstrosity/purple-worm-xmm.md) erupts from the earth and attacks the party. This can happen anywhere in the caves at any time.
 
 ### H3. Hall of Rainbows
 
@@ -277,9 +277,9 @@ Whenever the time is right (and it's never not right), a [purple worm](3-Mechani
 > The tunnel opens into a cave fifty feet long, thirty feet wide, and twenty feet tall. Bats chitter near the ceiling, and the floor reeks with mounds of their guano. Colorfully painted frescoes line the walls deeper in the cave.
 ^4f6
 
-The wizards who escaped [Zikzokrishka](3-Mechanics/CLI/bestiary/npc/zikzokrishka-cm.md)'s wrath used this cave as a scriptorium and hall of records. They recorded what they knew and continued their work. What remains are benches, wooden desks, and scaffolding gnawed by beetle larva and ravaged by time. Evidence of a cooking fire and tools lie at the far end of the cave, partially covered by the rubble from a purple worm's passage.
+The wizards who escaped [Zikzokrishka](/3-Mechanics/CLI/bestiary/npc/zikzokrishka-cm.md)'s wrath used this cave as a scriptorium and hall of records. They recorded what they knew and continued their work. What remains are benches, wooden desks, and scaffolding gnawed by beetle larva and ravaged by time. Evidence of a cooking fire and tools lie at the far end of the cave, partially covered by the rubble from a purple worm's passage.
 
-The brightly colored murals are intact, and [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md) or similar magic causes the magic ink that preserves the work to glow.
+The brightly colored murals are intact, and [detect magic](/3-Mechanics/CLI/spells/detect-magic-xphb.md) or similar magic causes the magic ink that preserves the work to glow.
 
 Any Bedine with the party display amazement on seeing the murals, since the works prove that their legends about a city that was destroyed by a dragon are true. Shamir says that he knows of a cursed place in the desert that looks like the ruined city depicted in mural F. He is willing to guide the party there.
 
@@ -321,7 +321,7 @@ The inscription reads: "Here, by Hamukai's command, the Sapphire Sentinel unlock
 > This mural portrays a battle between the young man with a blue stone embedded in his right palm and a blue dragon and its army of monsters and men. The dragon is wounded in one eye. Three wizards wearing peculiar hats accompany the young man. The dragon has blasted the golem with dark energy that is hurling it through a crack in the sky. The dragon has a label, and there's an inscription below.
 ^4fe
 
-The dragon's name translates as [Zikzokrishka](3-Mechanics/CLI/bestiary/npc/zikzokrishka-cm.md). The inscription reads: "Here the Sapphire Sentinel is destroyed in the terrible battle against the dragon [Zikzokrishka](3-Mechanics/CLI/bestiary/npc/zikzokrishka-cm.md), who curses Hamukai."
+The dragon's name translates as [Zikzokrishka](/3-Mechanics/CLI/bestiary/npc/zikzokrishka-cm.md). The inscription reads: "Here the Sapphire Sentinel is destroyed in the terrible battle against the dragon [Zikzokrishka](/3-Mechanics/CLI/bestiary/npc/zikzokrishka-cm.md), who curses Hamukai."
 
 #### Mural E
 
@@ -341,11 +341,11 @@ The labels translate as Prince Hamukai of Azumar and the three wizards Abzin, Ka
 
 The inscription reads: "Here the dragon returns to destroy the city of Azumar and open the tomb of Prince Hamukai as the survivors flee to Haruun."
 
-The crude map shows the location of the city of Azumar relative to Haruun. Following the map correctly requires a successful DC 14 Wisdom ([Survival](3-Mechanics/CLI/rules/skills.md#Survival)) check. If a Bedine is present to consult, the check succeeds automatically.
+The crude map shows the location of the city of Azumar relative to Haruun. Following the map correctly requires a successful DC 14 Wisdom ([Survival](/3-Mechanics/CLI/skills.md#Survival)) check. If a Bedine is present to consult, the check succeeds automatically.
 
 ## Travel to the Necropolis
 
-After seeing the murals in the Hall of Rainbows, the characters know their next destination: the ruined city of Azumar that is now the necropolis ruled by [Zikzokrishka](3-Mechanics/CLI/bestiary/npc/zikzokrishka-cm.md). Any Bedine guide knows the tale of the city of Azumar, which was plunged into ruin by a terrible dragon. The Bedine also know of the eternally seething sandstorm there and believe that nothing but death and misfortune lie within the cursed city.
+After seeing the murals in the Hall of Rainbows, the characters know their next destination: the ruined city of Azumar that is now the necropolis ruled by [Zikzokrishka](/3-Mechanics/CLI/bestiary/npc/zikzokrishka-cm.md). Any Bedine guide knows the tale of the city of Azumar, which was plunged into ruin by a terrible dragon. The Bedine also know of the eternally seething sandstorm there and believe that nothing but death and misfortune lie within the cursed city.
 
 ### Optional Encounter
 
@@ -362,19 +362,19 @@ If you use this encounter, read the following:
 > You crest a dune and see a rocky escarpment in the distance with small cave entrances all over its surface. Dozens of tiny humanoid creatures dash back into the caves, sensing your presence.
 ^506
 
-The tiny creatures are desert-dwelling chwingas (see their stat block at the end of the adventure) that live in tiny caves built up on the shell of a giant [dragon tortoise](3-Mechanics/CLI/bestiary/dragon/dragon-tortoise-cm.md). If the characters approach the escarpment, the earth rumbles as the [dragon tortoise](3-Mechanics/CLI/bestiary/dragon/dragon-tortoise-cm.md) raises its massive head out of the sand, addresses them, and asks their intentions.
+The tiny creatures are desert-dwelling chwingas (see their stat block at the end of the adventure) that live in tiny caves built up on the shell of a giant [dragon tortoise](/3-Mechanics/CLI/bestiary/dragon/dragon-tortoise-cm.md). If the characters approach the escarpment, the earth rumbles as the [dragon tortoise](/3-Mechanics/CLI/bestiary/dragon/dragon-tortoise-cm.md) raises its massive head out of the sand, addresses them, and asks their intentions.
 
-For the [dragon tortoise](3-Mechanics/CLI/bestiary/dragon/dragon-tortoise-cm.md), use the [dragon turtle](3-Mechanics/CLI/bestiary/dragon/dragon-turtle-xmm.md) stat block with the following changes:
+For the [dragon tortoise](/3-Mechanics/CLI/bestiary/dragon/dragon-tortoise-cm.md), use the [dragon turtle](/3-Mechanics/CLI/bestiary/dragon/dragon-turtle-xmm.md) stat block with the following changes:
 
 - It speaks Draconic and Terran.  
 - It lacks a swimming speed and the Amphibious trait.  
 - Its breath weapon is a 60-foot cone of abrasive sand instead of steam that deals slashing damage instead of fire damage.  
 
-[Ogruhl](3-Mechanics/CLI/bestiary/dragon/dragon-tortoise-cm.md) has been trapped here for millennia, [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained) by magic chains. Ogruhl was the prisoner of a cruel Netherese wizard. When the city around the tortoise was abandoned, Ogruhl was left to die. A band of chwingas found the tortoise and brought it food and water little by little to keep it alive. Over time, the chwingas and Ogruhl developed a symbiotic relationship—it defended them and provided a home for them, and they helped it to survive.
+[Ogruhl](/3-Mechanics/CLI/bestiary/dragon/dragon-tortoise-cm.md) has been trapped here for millennia, [restrained](/3-Mechanics/CLI/conditions.md#Restrained) by magic chains. Ogruhl was the prisoner of a cruel Netherese wizard. When the city around the tortoise was abandoned, Ogruhl was left to die. A band of chwingas found the tortoise and brought it food and water little by little to keep it alive. Over time, the chwingas and Ogruhl developed a symbiotic relationship—it defended them and provided a home for them, and they helped it to survive.
 
-**Helping Ogruhl**. A successful DC 20 Intelligence ([Arcana](3-Mechanics/CLI/rules/skills.md#Arcana)) check determines that the chains that bind Ogruhl can be broken with a successful [dispel magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md) spell (DC 19).
+**Helping Ogruhl**. A successful DC 20 Intelligence ([Arcana](/3-Mechanics/CLI/skills.md#Arcana)) check determines that the chains that bind Ogruhl can be broken with a successful [dispel magic](/3-Mechanics/CLI/spells/dispel-magic-xphb.md) spell (DC 19).
 
-If commanded to do so, the [golem](3-Mechanics/CLI/bestiary/construct/sapphire-sentinel-cm.md) uses its sapphire heart to cast [dispel magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md) with a flash of blue light. If the players don't realize that the golem can dispel magic, you can have the golem do this automatically and the players learn about it that way.
+If commanded to do so, the [golem](/3-Mechanics/CLI/bestiary/construct/sapphire-sentinel-cm.md) uses its sapphire heart to cast [dispel magic](/3-Mechanics/CLI/spells/dispel-magic-xphb.md) with a flash of blue light. If the players don't realize that the golem can dispel magic, you can have the golem do this automatically and the players learn about it that way.
 
 If freed, Ogruhl expresses its immense gratitude and eagerly wants to reclaim its ancestral territory. The bravest chwingas come out to bestow a charm on each of the characters.
 
@@ -397,7 +397,7 @@ The golem points to the sandstorm and seems puzzled about what to do next.
 
 As the characters explore the necropolis, describe the scene to keep them on edge—the desolation, the scent of scorched sand, and the hiss of the sandstorm that increases in volume as they draw near. With the exception of the mastaba (see area V1), the necropolis consists of a series of ruined stone walls jutting out of the sand and patches of paved streets revealed by the howling winds. The swirling sandstorm at its center can be seen and heard from anywhere in the necropolis.
 
-The necropolis also contains buried treasures. A character who searches for an hour and succeeds on a DC 20 Intelligence ([Investigation](3-Mechanics/CLI/rules/skills.md#Investigation)) check finds some hidden treasure determined by rolling on the "Treasure Hoard: Challenge 5–10 table" in the "Dungeon Master's Guide". Up to four such hoards can be found before the city is picked clean.
+The necropolis also contains buried treasures. A character who searches for an hour and succeeds on a DC 20 Intelligence ([Investigation](/3-Mechanics/CLI/skills.md#Investigation)) check finds some hidden treasure determined by rolling on the "Treasure Hoard: Challenge 5–10 table" in the "Dungeon Master's Guide". Up to four such hoards can be found before the city is picked clean.
 
 To keep the characters on their toes, you can use one of the following encounters.
 
@@ -405,19 +405,19 @@ To keep the characters on their toes, you can use one of the following encounter
 
 A 20-foot-square area underneath the characters erupts with hundreds of skeletal arms that try to drag them down into the sands.
 
-Each character must succeed on a DC 17 Dexterity saving throw or be caught in the iron grip of `1d4 + 1` skeletal arms that are anchored to the sands. Each arm has AC 13 and 10 hit points. They try to drag a captured character underground (use the "quicksand rules" in the "Dungeon Master's Guide"). Not until all the arms holding a character are destroyed can that character pull itself out of the sand or be pulled out by others.
+Each character must succeed on a DC 17 Dexterity saving throw or be caught in the iron grip of `dice:1d4+1|noform|noparens|avg` (`1d4 + 1`) skeletal arms that are anchored to the sands. Each arm has AC 13 and 10 hit points. They try to drag a captured character underground (use the "quicksand rules" in the "Dungeon Master's Guide"). Not until all the arms holding a character are destroyed can that character pull itself out of the sand or be pulled out by others.
 
 #### Consortium of Three
 
-The party encounters three [flameskulls](3-Mechanics/CLI/bestiary/undead/flameskull-xmm.md) floating around the ruins, each wearing an odd, tattered hat. With a successful DC 15 Intelligence ([Investigation](3-Mechanics/CLI/rules/skills.md#Investigation)) check, a character recalls the hats worn by the wizards on the murals in the Hall of Rainbows. (One or more players might remember this even if their characters don't.) The flameskulls are startled upon seeing the adventurers and begin chattering to one another, wondering what to do about these strange visitors.
+The party encounters three [flameskulls](/3-Mechanics/CLI/bestiary/undead/flameskull-xmm.md) floating around the ruins, each wearing an odd, tattered hat. With a successful DC 15 Intelligence ([Investigation](/3-Mechanics/CLI/skills.md#Investigation)) check, a character recalls the hats worn by the wizards on the murals in the Hall of Rainbows. (One or more players might remember this even if their characters don't.) The flameskulls are startled upon seeing the adventurers and begin chattering to one another, wondering what to do about these strange visitors.
 
-These are the remains of the Consortium of Three, the Netherese wizards who were loyal to Prince Hamukai. After establishing the refuge at Haruun, they honed their magic and vowed to return to Azumar to defeat [Zikzokrishka](3-Mechanics/CLI/bestiary/npc/zikzokrishka-cm.md). When they did, they discovered to their horror that [Zikzokrishka](3-Mechanics/CLI/bestiary/npc/zikzokrishka-cm.md) had transformed into a dracolich, becoming even more powerful. They were defeated, transformed into flameskulls by the dracolich, and commanded to guard her necropolis for eternity. Though their minds are warped by their current state, if the characters try to befriend the flameskulls—invoking their names and appealing to their loyalty to the prince—the flameskulls offer to help. A character must succeed on a DC 20 Charisma ([Persuasion](3-Mechanics/CLI/rules/skills.md#Persuasion)) check to sway the flameskulls. Charisma ([Deception](3-Mechanics/CLI/rules/skills.md#Deception) or [Intimidation](3-Mechanics/CLI/rules/skills.md#Intimidation)) checks do not work on them.
+These are the remains of the Consortium of Three, the Netherese wizards who were loyal to Prince Hamukai. After establishing the refuge at Haruun, they honed their magic and vowed to return to Azumar to defeat [Zikzokrishka](/3-Mechanics/CLI/bestiary/npc/zikzokrishka-cm.md). When they did, they discovered to their horror that [Zikzokrishka](/3-Mechanics/CLI/bestiary/npc/zikzokrishka-cm.md) had transformed into a dracolich, becoming even more powerful. They were defeated, transformed into flameskulls by the dracolich, and commanded to guard her necropolis for eternity. Though their minds are warped by their current state, if the characters try to befriend the flameskulls—invoking their names and appealing to their loyalty to the prince—the flameskulls offer to help. A character must succeed on a DC 20 Charisma ([Persuasion](/3-Mechanics/CLI/skills.md#Persuasion)) check to sway the flameskulls. Charisma ([Deception](/3-Mechanics/CLI/skills.md#Deception) or [Intimidation](/3-Mechanics/CLI/skills.md#Intimidation)) checks do not work on them.
 
 If the characters antagonize the flameskulls or fail to communicate with them, the flameskulls either attack or flee to alert Helmdar, the storm giant skeleton in area V1.
 
 ### Magic Sandstorm
 
-A dome of swirling, scouring sand covers the mastaba (Hamukai's tomb) at the heart of the necropolis. [Zikzokrishka](3-Mechanics/CLI/bestiary/npc/zikzokrishka-cm.md) created this disturbance to keep everyone else out until she gains the [Nether Scroll](3-Mechanics/CLI/items/nether-scroll-of-azumar-cm.md).
+A dome of swirling, scouring sand covers the mastaba (Hamukai's tomb) at the heart of the necropolis. [Zikzokrishka](/3-Mechanics/CLI/bestiary/npc/zikzokrishka-cm.md) created this disturbance to keep everyone else out until she gains the [Nether Scroll](/3-Mechanics/CLI/items/nether-scroll-of-azumar-cm.md).
 
 When the adventurers arrive at the outer edge of the sandstorm, read:
 
@@ -428,34 +428,34 @@ When the adventurers arrive at the outer edge of the sandstorm, read:
 
 The dome of swirling sand is 80 feet thick. The properties of the sandstorm are as follows:
 
-- Any creature that enters the sandstorm for the first time on a turn or starts its turn in the storm takes 55 (`10d10`) slashing damage.  
-- Creatures in the sandstorm are [blinded](3-Mechanics/CLI/rules/conditions.md#Blinded).  
+- Any creature that enters the sandstorm for the first time on a turn or starts its turn in the storm takes `dice:10d10|noform|noparens|avg|text(55)` (`10d10`) slashing damage.  
+- Creatures in the sandstorm are [blinded](/3-Mechanics/CLI/conditions.md#Blinded).  
 
-The [golem's](3-Mechanics/CLI/bestiary/construct/sapphire-sentinel-cm.md) [dispel magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md) creates a 20-foot-wide, 20-foot-high tunnel through the sandstorm that lasts for 1 minute.
+The [golem's](/3-Mechanics/CLI/bestiary/construct/sapphire-sentinel-cm.md) [dispel magic](/3-Mechanics/CLI/spells/dispel-magic-xphb.md) creates a 20-foot-wide, 20-foot-high tunnel through the sandstorm that lasts for 1 minute.
 
 Those who make it through the sandstorm emerge to see the ruined wall and the mastaba that houses the vault. The following locations are keyed to the map of the mastaba.
 
 > [!gallery]
-> ![Map 17.2: Necropolis and Mastaba](3-Mechanics/CLI/adventures/candlekeep-mysteries/img/137-map-17-02-necropolis-mastaba.webp#gallery)
-> ![Player Version](3-Mechanics/CLI/adventures/candlekeep-mysteries/img/138-map-17-02-necropolis-mastaba-player.webp#gallery)
+> ![Map 17.2: Necropolis and Mastaba](/3-Mechanics/CLI/adventures/candlekeep-mysteries/img/137-map-17-02-necropolis-mastaba.webp#gallery)
+> ![Player Version](/3-Mechanics/CLI/adventures/candlekeep-mysteries/img/138-map-17-02-necropolis-mastaba-player.webp#gallery)
 
 ### V1. Mastaba
 
 This mastaba is a 20-foot-high mesa built from 50- to 80-ton megaliths in the form of a step pyramid with a mausoleum on top of it. A ruined stone wall surrounds the mastaba, which is the only structure still standing in the area.
 
-Inside the wall, sand lies in deep drifts over the stone floor. Three [giant scorpions](3-Mechanics/CLI/bestiary/beast/giant-scorpion-xmm.md) and four [wights](3-Mechanics/CLI/bestiary/undead/wight-xmm.md) hide under the sand at each end of the mastaba, in the locations indicated on the map, ready to attack anyone who climbs the nearest steps. The wights chant a word in Netherese ("Meat!") in a rasping chorus as they advance. If fighting breaks out at either end of the mastaba, a [storm giant skeleton](3-Mechanics/CLI/bestiary/undead/storm-giant-skeleton-cm.md) (see the accompanying stat block) lying dormant on top of the mausoleum awakens and attacks.
+Inside the wall, sand lies in deep drifts over the stone floor. Three [giant scorpions](/3-Mechanics/CLI/bestiary/beast/giant-scorpion-xmm.md) and four [wights](/3-Mechanics/CLI/bestiary/undead/wight-xmm.md) hide under the sand at each end of the mastaba, in the locations indicated on the map, ready to attack anyone who climbs the nearest steps. The wights chant a word in Netherese ("Meat!") in a rasping chorus as they advance. If fighting breaks out at either end of the mastaba, a [storm giant skeleton](/3-Mechanics/CLI/bestiary/undead/storm-giant-skeleton-cm.md) (see the accompanying stat block) lying dormant on top of the mausoleum awakens and attacks.
 
-The storm giant, Helmdar, was sent to destroy two frost giant criminals who stole a [horn of blasting](3-Mechanics/CLI/items/horn-of-blasting-xdmg.md) from a storm giant king. Helmdar completed his mission but was killed by [Zikzokrishka](3-Mechanics/CLI/bestiary/npc/zikzokrishka-cm.md) and turned into an undead thrall to guard her lair.
+The storm giant, Helmdar, was sent to destroy two frost giant criminals who stole a [horn of blasting](/3-Mechanics/CLI/items/horn-of-blasting-xdmg.md) from a storm giant king. Helmdar completed his mission but was killed by [Zikzokrishka](/3-Mechanics/CLI/bestiary/npc/zikzokrishka-cm.md) and turned into an undead thrall to guard her lair.
 
 #### Treasure
 
-The [horn of blasting](3-Mechanics/CLI/items/horn-of-blasting-xdmg.md) hangs across the giant's back and is sized for a storm giant. However, it magically resizes to fit in the hands of whoever holds it.
+The [horn of blasting](/3-Mechanics/CLI/items/horn-of-blasting-xdmg.md) hangs across the giant's back and is sized for a storm giant. However, it magically resizes to fit in the hands of whoever holds it.
 
 ### V2. Mausoleum
 
-Locked stone double doors stand at opposite ends of this structure. Each double door requires a successful DC 15 Dexterity check to open using thieves' tools. A [knock](3-Mechanics/CLI/spells/knock-xphb.md) spell or similar magic also opens a double door. Characters can also try to smash open the doors, which have AC 17, 100 hit points, and immunity to poison and psychic damage.
+Locked stone double doors stand at opposite ends of this structure. Each double door requires a successful DC 15 Dexterity check to open using thieves' tools. A [knock](/3-Mechanics/CLI/spells/knock-xphb.md) spell or similar magic also opens a double door. Characters can also try to smash open the doors, which have AC 17, 100 hit points, and immunity to poison and psychic damage.
 
-If the [storm giant skeleton](3-Mechanics/CLI/bestiary/undead/storm-giant-skeleton-cm.md) (see area V1) was not alerted earlier, it awakens and attacks as soon as either double door opens. It can enter the mausoleum. When the characters open a door, read the following:
+If the [storm giant skeleton](/3-Mechanics/CLI/bestiary/undead/storm-giant-skeleton-cm.md) (see area V1) was not alerted earlier, it awakens and attacks as soon as either double door opens. It can enter the mausoleum. When the characters open a door, read the following:
 
 > [!readaloud] 
 > 
@@ -471,46 +471,46 @@ The torches that light this hall go out if removed from their sconces. The stone
 > At the bottom of the stairs, you see a thirty-foot-wide by sixty-foot-long hall lit with blue crystals that are set into the walls and pillars in the room. At the far end, a dais stands before a limestone door inscribed with symbols and glyphs that glow dimly. Framing the door, the crystallized bones of a dragon are embedded in the wall, its wings outstretched.
 ^513
 
-[Zikzokrishka](3-Mechanics/CLI/bestiary/npc/zikzokrishka-cm.md), an [adult blue dracolich](3-Mechanics/CLI/bestiary/undead/dracolich-xmm.md), guards the doorway to the vault. She lies flush against the wall and ceiling over the far door so that she looks like a decoration. A character who looks closely, underneath the crystalline deposits on the skeleton, can see that one of the dragon's eyes has been destroyed (hearkening back to the murals in the Hall of Rainbows).
+[Zikzokrishka](/3-Mechanics/CLI/bestiary/npc/zikzokrishka-cm.md), an [adult blue dracolich](/3-Mechanics/CLI/bestiary/undead/dracolich-xmm.md), guards the doorway to the vault. She lies flush against the wall and ceiling over the far door so that she looks like a decoration. A character who looks closely, underneath the crystalline deposits on the skeleton, can see that one of the dragon's eyes has been destroyed (hearkening back to the murals in the Hall of Rainbows).
 
 #### Playing the Dragon
 
-Seeing the [golem](3-Mechanics/CLI/bestiary/construct/sapphire-sentinel-cm.md) that she thought was destroyed fills [Zikzokrishka](3-Mechanics/CLI/bestiary/npc/zikzokrishka-cm.md) with glee, because its sapphire is the key to opening the vault. Her long vigil is at an end. She orders the characters to use the golem to open the door. She can also try to bargain with them, offering treasure from her hoard (see below) or power once she obtains the [Nether Scroll](3-Mechanics/CLI/items/nether-scroll-of-azumar-cm.md).
+Seeing the [golem](/3-Mechanics/CLI/bestiary/construct/sapphire-sentinel-cm.md) that she thought was destroyed fills [Zikzokrishka](/3-Mechanics/CLI/bestiary/npc/zikzokrishka-cm.md) with glee, because its sapphire is the key to opening the vault. Her long vigil is at an end. She orders the characters to use the golem to open the door. She can also try to bargain with them, offering treasure from her hoard (see below) or power once she obtains the [Nether Scroll](/3-Mechanics/CLI/items/nether-scroll-of-azumar-cm.md).
 
 ##### Lair Actions
 
-On initiative count 20 (losing initiative ties) whenever she is in area V3, [Zikzokrishka](3-Mechanics/CLI/bestiary/npc/zikzokrishka-cm.md) can take a lair action to cause one of the following effects. She can't use the same effect two rounds in a row:
+On initiative count 20 (losing initiative ties) whenever she is in area V3, [Zikzokrishka](/3-Mechanics/CLI/bestiary/npc/zikzokrishka-cm.md) can take a lair action to cause one of the following effects. She can't use the same effect two rounds in a row:
 
-- Part of the ceiling collapses above one creature that the dracolich can see. The creature must succeed on a DC 15 Dexterity saving throw or take 21 (`6d6`) bludgeoning damage and be knocked [prone](3-Mechanics/CLI/rules/conditions.md#Prone) and buried under rubble. A buried creature is [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained) and unable to stand up. A creature can use an action to try to pull itself or another creature out of the rubble, doing so with a successful DC 10 Strength ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)) check.  
-- A cloud of sand swirls in a 20-foot-radius sphere centered on a point the dracolich can see within 60 feet of it. The cloud spreads around corners. Each creature in the cloud must succeed on a DC 15 Constitution saving throw or be [blinded](3-Mechanics/CLI/rules/conditions.md#Blinded) for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.  
-- The dracolich chooses two points that it can see, each of which must be on a solid surface, and creates a 5-foot-wide line of lightning between them. The two points must be within 60 feet of the dracolich and 60 feet of each other. Each creature in the line must succeed on a DC 15 Dexterity saving throw or take 10 (`3d6`) lightning damage.  
+- Part of the ceiling collapses above one creature that the dracolich can see. The creature must succeed on a DC 15 Dexterity saving throw or take `dice:6d6|noform|noparens|avg|text(21)` (`6d6`) bludgeoning damage and be knocked [prone](/3-Mechanics/CLI/conditions.md#Prone) and buried under rubble. A buried creature is [restrained](/3-Mechanics/CLI/conditions.md#Restrained) and unable to stand up. A creature can use an action to try to pull itself or another creature out of the rubble, doing so with a successful DC 10 Strength ([Athletics](/3-Mechanics/CLI/skills.md#Athletics)) check.  
+- A cloud of sand swirls in a 20-foot-radius sphere centered on a point the dracolich can see within 60 feet of it. The cloud spreads around corners. Each creature in the cloud must succeed on a DC 15 Constitution saving throw or be [blinded](/3-Mechanics/CLI/conditions.md#Blinded) for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.  
+- The dracolich chooses two points that it can see, each of which must be on a solid surface, and creates a 5-foot-wide line of lightning between them. The two points must be within 60 feet of the dracolich and 60 feet of each other. Each creature in the line must succeed on a DC 15 Dexterity saving throw or take `dice:3d6|noform|noparens|avg|text(10)` (`3d6`) lightning damage.  
 
 ##### If She's Winning
 
-All [Zikzokrishka](3-Mechanics/CLI/bestiary/npc/zikzokrishka-cm.md) cares about is getting her claws on the [Nether Scroll](3-Mechanics/CLI/items/nether-scroll-of-azumar-cm.md). During her encounter with the characters, she bargains with them or issues threats to make them use the golem's sapphire heart to open the door to the vault.
+All [Zikzokrishka](/3-Mechanics/CLI/bestiary/npc/zikzokrishka-cm.md) cares about is getting her claws on the [Nether Scroll](/3-Mechanics/CLI/items/nether-scroll-of-azumar-cm.md). During her encounter with the characters, she bargains with them or issues threats to make them use the golem's sapphire heart to open the door to the vault.
 
-If the fight goes poorly for the characters and they helped Ogruhl earlier, the [dragon tortoise](3-Mechanics/CLI/bestiary/dragon/dragon-tortoise-cm.md) might come to their aid, tearing through the mastaba with its claws to aid its saviors.
+If the fight goes poorly for the characters and they helped Ogruhl earlier, the [dragon tortoise](/3-Mechanics/CLI/bestiary/dragon/dragon-tortoise-cm.md) might come to their aid, tearing through the mastaba with its claws to aid its saviors.
 
 ##### If She's Losing
 
-If [Zikzokrishka](3-Mechanics/CLI/bestiary/npc/zikzokrishka-cm.md) is reduced to 50 hit points or fewer, she tries to escape. If she can't escape, she begs and offers extravagant lies about fabled Netherese power—eternal life, wealth beyond imagining, mastery of magic—to postpone her demise or give her time to escape. If all else fails, she fights to the death, cursing the characters and telling them she will hunt them down. If the characters don't find and destroy her phylactery, the dracolich makes good on her threat (see "Zikzokrishka's Phylactery" at the end of the adventure).
+If [Zikzokrishka](/3-Mechanics/CLI/bestiary/npc/zikzokrishka-cm.md) is reduced to 50 hit points or fewer, she tries to escape. If she can't escape, she begs and offers extravagant lies about fabled Netherese power—eternal life, wealth beyond imagining, mastery of magic—to postpone her demise or give her time to escape. If all else fails, she fights to the death, cursing the characters and telling them she will hunt them down. If the characters don't find and destroy her phylactery, the dracolich makes good on her threat (see "Zikzokrishka's Phylactery" at the end of the adventure).
 
 #### Treasure Hoards
 
-[Zikzokrishka](3-Mechanics/CLI/bestiary/npc/zikzokrishka-cm.md) has divided her treasure into two separate hoards (marked "a" and "b" on the map) and carefully buried them under the flagstones of the floor. A successful DC 17 Intelligence ([Investigation](3-Mechanics/CLI/rules/skills.md#Investigation)) or Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) check discovers the troves, or the party can find them by spending at least 30 minutes searching the antechamber.
+[Zikzokrishka](/3-Mechanics/CLI/bestiary/npc/zikzokrishka-cm.md) has divided her treasure into two separate hoards (marked "a" and "b" on the map) and carefully buried them under the flagstones of the floor. A successful DC 17 Intelligence ([Investigation](/3-Mechanics/CLI/skills.md#Investigation)) or Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) check discovers the troves, or the party can find them by spending at least 30 minutes searching the antechamber.
 
 > [!note] 
 > 
-> - 4,450 gp 370 pp [Spell scroll](3-Mechanics/CLI/items/spell-scroll-xdmg.md) of [wish](3-Mechanics/CLI/spells/wish-xphb.md) [Wand of polymorph](3-Mechanics/CLI/items/wand-of-polymorph-xdmg.md)  
+> - 4,450 gp 370 pp [Spell scroll](/3-Mechanics/CLI/items/spell-scroll-xdmg.md) of [wish](/3-Mechanics/CLI/spells/wish-xphb.md) [Wand of polymorph](/3-Mechanics/CLI/items/wand-of-polymorph-xdmg.md)  
 > 
-> - 1,240 ep [Staff of withering](3-Mechanics/CLI/items/staff-of-withering-xdmg.md) [+2 longbow](3-Mechanics/CLI/items/2-weapon-xdmg.md) A [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified) chwinga (see the end of the adventure for its stat block) that reverts to flesh when touched and uses its Magical Gift action to reward its liberator  
+> - 1,240 ep [Staff of withering](/3-Mechanics/CLI/items/staff-of-withering-xdmg.md) [+2 longbow](/3-Mechanics/CLI/items/2-weapon-xdmg.md) A [petrified](/3-Mechanics/CLI/conditions.md#Petrified) chwinga (see the end of the adventure for its stat block) that reverts to flesh when touched and uses its Magical Gift action to reward its liberator  
 ^519
 
 #### Sealed Door
 
-Netherese magic seals the double door that blocks passage to area V4. The only way to get past the door is through the use of the golem's sapphire. The [dispel magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md) property of this gem alone unlocks and breaks the spell. There is no other way, magical or not, to reach areas V4 and V5.
+Netherese magic seals the double door that blocks passage to area V4. The only way to get past the door is through the use of the golem's sapphire. The [dispel magic](/3-Mechanics/CLI/spells/dispel-magic-xphb.md) property of this gem alone unlocks and breaks the spell. There is no other way, magical or not, to reach areas V4 and V5.
 
-The character who bonded with the [golem](3-Mechanics/CLI/bestiary/construct/sapphire-sentinel-cm.md) can command it to use its sapphire to break the seal and open the door.
+The character who bonded with the [golem](/3-Mechanics/CLI/bestiary/construct/sapphire-sentinel-cm.md) can command it to use its sapphire to break the seal and open the door.
 
 If the golem is instructed to open the door, read the following boxed text aloud to describe this event:
 
@@ -523,11 +523,11 @@ If the golem is instructed to open the door, read the following boxed text aloud
 
 The walls along this hallway of descending staircases contain a record of the deeds the prince accomplished in his life. The plaster and the paintings are perfectly intact. Scenes include images of him tending to the welfare of his people and the matters of the city, reading books, falling in love, and cultivating his garden.
 
-About halfway down the staircase, the paintings turn to depicting the entombment of the prince, the spell cast by the wizards of Netheril, the sealing of the prince in the sarcophagus with the [Nether Scroll](3-Mechanics/CLI/items/nether-scroll-of-azumar-cm.md), the return of [Zikzokrishka](3-Mechanics/CLI/bestiary/npc/zikzokrishka-cm.md), and the destruction of Azumar. As the golem views these murals, sand begins to trickle from its eyes.
+About halfway down the staircase, the paintings turn to depicting the entombment of the prince, the spell cast by the wizards of Netheril, the sealing of the prince in the sarcophagus with the [Nether Scroll](/3-Mechanics/CLI/items/nether-scroll-of-azumar-cm.md), the return of [Zikzokrishka](/3-Mechanics/CLI/bestiary/npc/zikzokrishka-cm.md), and the destruction of Azumar. As the golem views these murals, sand begins to trickle from its eyes.
 
-Closer to area V5, the paintings depict more recent events: the characters' journey from Candlekeep, their first contact with the golem, their adventures across Anauroch, their exploration of Haruun, and their encounter with [Zikzokrishka](3-Mechanics/CLI/bestiary/npc/zikzokrishka-cm.md). The final painting is of the characters standing before the prince's tomb. It shows them in exactly the positions they're all holding, rendered in perfect detail.
+Closer to area V5, the paintings depict more recent events: the characters' journey from Candlekeep, their first contact with the golem, their adventures across Anauroch, their exploration of Haruun, and their encounter with [Zikzokrishka](/3-Mechanics/CLI/bestiary/npc/zikzokrishka-cm.md). The final painting is of the characters standing before the prince's tomb. It shows them in exactly the positions they're all holding, rendered in perfect detail.
 
-![Hamukai in His Sarcophagus](3-Mechanics/CLI/adventures/candlekeep-mysteries/img/139-17-003-sarcophagus.webp#center)
+![Hamukai in His Sarcophagus](/3-Mechanics/CLI/adventures/candlekeep-mysteries/img/139-17-003-sarcophagus.webp#center)
 
 ### V5. Vault
 
@@ -555,7 +555,7 @@ The portal is a one-way door to the plane of Elysium. The symbols etched around 
 
 Inside the sarcophagus are the following treasures:
 
-- The [Nether Scroll of Azumar](3-Mechanics/CLI/items/nether-scroll-of-azumar-cm.md) (see the item's description below) inside a 24-inch-long, 5-inch diameter cylinder made of wood and encased in a sheet of gold (500 gp); the scroll is a thin sheet of hammered copper etched with Draconic writing  
+- The [Nether Scroll of Azumar](/3-Mechanics/CLI/items/nether-scroll-of-azumar-cm.md) (see the item's description below) inside a 24-inch-long, 5-inch diameter cylinder made of wood and encased in a sheet of gold (500 gp); the scroll is a thin sheet of hammered copper etched with Draconic writing  
 - Gold funerary items wrapped into the prince's shroud (2,500 gp)  
 - A platinum death mask (5,000 gp)  
 - The sapphire shard from the prince's right palm (250 gp)  
@@ -565,21 +565,21 @@ Inside the sarcophagus are the following treasures:
 
 The story can conclude in one of the following ways.
 
-**Open the Sarcophagus**. Opening the sarcophagus ages the prince thousands of years in a few seconds, turning him to dust but leaving his treasures (including the [Nether Scroll of Azumar](3-Mechanics/CLI/items/nether-scroll-of-azumar-cm.md)) intact. If the [golem](3-Mechanics/CLI/bestiary/construct/sapphire-sentinel-cm.md) is active, it shudders and falls to its knees, its sapphire heart cracks with an audible pop (rendering it worthless), and the golem turns to dust.
+**Open the Sarcophagus**. Opening the sarcophagus ages the prince thousands of years in a few seconds, turning him to dust but leaving his treasures (including the [Nether Scroll of Azumar](/3-Mechanics/CLI/items/nether-scroll-of-azumar-cm.md)) intact. If the [golem](/3-Mechanics/CLI/bestiary/construct/sapphire-sentinel-cm.md) is active, it shudders and falls to its knees, its sapphire heart cracks with an audible pop (rendering it worthless), and the golem turns to dust.
 
-**Let the Golem Do Its Thing**. If the [golem](3-Mechanics/CLI/bestiary/construct/sapphire-sentinel-cm.md) is allowed to do as it wishes, it pushes the prince's sealed sarcophagus through the portal into Elysium. Three [solars](3-Mechanics/CLI/bestiary/celestial/solar-xmm.md) meet the golem on the other side, open the sarcophagus, welcome the prince into the afterlife, and take the [Nether Scroll of Azumar](3-Mechanics/CLI/items/nether-scroll-of-azumar-cm.md) into safekeeping.
+**Let the Golem Do Its Thing**. If the [golem](/3-Mechanics/CLI/bestiary/construct/sapphire-sentinel-cm.md) is allowed to do as it wishes, it pushes the prince's sealed sarcophagus through the portal into Elysium. Three [solars](/3-Mechanics/CLI/bestiary/celestial/solar-xmm.md) meet the golem on the other side, open the sarcophagus, welcome the prince into the afterlife, and take the [Nether Scroll of Azumar](/3-Mechanics/CLI/items/nether-scroll-of-azumar-cm.md) into safekeeping.
 
-**Revive the Prince**. The prince is a human [archmage](3-Mechanics/CLI/bestiary/humanoid/archmage-xmm.md), but only a [wish](3-Mechanics/CLI/spells/wish-xphb.md) spell can keep him alive after the sarcophagus is opened. If a wish is used to prevent the prince from turning to dust or to resurrect him after he turns to dust, he thanks the characters profusely. He embraces his [golem](3-Mechanics/CLI/bestiary/construct/sapphire-sentinel-cm.md) as it bows before him, sands of joy pouring from its eyes. The prince speaks Common and offers the characters all the treasure in his sarcophagus, except for his memoirs, the sapphire shard, and the [Nether Scroll of Azumar](3-Mechanics/CLI/items/nether-scroll-of-azumar-cm.md). Then, without hesitation, he walks into Elysium alongside the golem, taking his memoirs and the *Nether Scroll* with him.
+**Revive the Prince**. The prince is a human [archmage](/3-Mechanics/CLI/bestiary/humanoid/archmage-xmm.md), but only a [wish](/3-Mechanics/CLI/spells/wish-xphb.md) spell can keep him alive after the sarcophagus is opened. If a wish is used to prevent the prince from turning to dust or to resurrect him after he turns to dust, he thanks the characters profusely. He embraces his [golem](/3-Mechanics/CLI/bestiary/construct/sapphire-sentinel-cm.md) as it bows before him, sands of joy pouring from its eyes. The prince speaks Common and offers the characters all the treasure in his sarcophagus, except for his memoirs, the sapphire shard, and the [Nether Scroll of Azumar](/3-Mechanics/CLI/items/nether-scroll-of-azumar-cm.md). Then, without hesitation, he walks into Elysium alongside the golem, taking his memoirs and the *Nether Scroll* with him.
 
 ### Zikzokrishka Obtains the Nether Scroll
 
-If [Zikzokrishka](3-Mechanics/CLI/bestiary/npc/zikzokrishka-cm.md) makes a deal or defeats the party, she rips the sapphire from the [golem's](3-Mechanics/CLI/bestiary/construct/sapphire-sentinel-cm.md) chest, killing it. She then rushes to the sarcophagus and cracks the seal, turning the prince to dust. Then she grabs the [Nether Scroll of Azumar](3-Mechanics/CLI/items/nether-scroll-of-azumar-cm.md), howling with maniacal laughter. The dracolich's mastery of magic and her evil spirit enable her to access the darker aspects of the [Nether Scroll of Azumar](3-Mechanics/CLI/items/nether-scroll-of-azumar-cm.md), turning the sky over Anauroch black and ushering in a reign of terror and darkness over the desert. She rules the southern part of Anauroch from her lair with cruelty and malice. Her presence prevents caravans from crossing the desert, and she enslaves Bedine tribes or turns them into undead thralls to serve her whims.
+If [Zikzokrishka](/3-Mechanics/CLI/bestiary/npc/zikzokrishka-cm.md) makes a deal or defeats the party, she rips the sapphire from the [golem's](/3-Mechanics/CLI/bestiary/construct/sapphire-sentinel-cm.md) chest, killing it. She then rushes to the sarcophagus and cracks the seal, turning the prince to dust. Then she grabs the [Nether Scroll of Azumar](/3-Mechanics/CLI/items/nether-scroll-of-azumar-cm.md), howling with maniacal laughter. The dracolich's mastery of magic and her evil spirit enable her to access the darker aspects of the [Nether Scroll of Azumar](/3-Mechanics/CLI/items/nether-scroll-of-azumar-cm.md), turning the sky over Anauroch black and ushering in a reign of terror and darkness over the desert. She rules the southern part of Anauroch from her lair with cruelty and malice. Her presence prevents caravans from crossing the desert, and she enslaves Bedine tribes or turns them into undead thralls to serve her whims.
 
-Paladins, members of holy orders, and Harpers across Faerûn respond to the disaster in a joint campaign to defeat the dracolich and destroy the [Nether Scroll of Azumar](3-Mechanics/CLI/items/nether-scroll-of-azumar-cm.md).
+Paladins, members of holy orders, and Harpers across Faerûn respond to the disaster in a joint campaign to defeat the dracolich and destroy the [Nether Scroll of Azumar](/3-Mechanics/CLI/items/nether-scroll-of-azumar-cm.md).
 
 ### Zikzokrishka's Phylactery
 
-[Zikzokrishka](3-Mechanics/CLI/bestiary/npc/zikzokrishka-cm.md) hid her phylactery deep within the Scimitar Spires, a mountain range to the east of the necropolis of Azumar. If the characters defeat her, [Zikzokrishka](3-Mechanics/CLI/bestiary/npc/zikzokrishka-cm.md) uses her phylactery to rematerialize, having long ago prepared a dragon's corpse to house her spirit upon its return to the phylactery. She relentlessly seeks them out, using all her evil ingenuity to recover the [Nether Scroll of Azumar](3-Mechanics/CLI/items/nether-scroll-of-azumar-cm.md). [Zikzokrishka](3-Mechanics/CLI/bestiary/npc/zikzokrishka-cm.md) harbors a personal vendetta against the characters, who remain targets of her wrath even if they don't have the *Nether Scroll*.
+[Zikzokrishka](/3-Mechanics/CLI/bestiary/npc/zikzokrishka-cm.md) hid her phylactery deep within the Scimitar Spires, a mountain range to the east of the necropolis of Azumar. If the characters defeat her, [Zikzokrishka](/3-Mechanics/CLI/bestiary/npc/zikzokrishka-cm.md) uses her phylactery to rematerialize, having long ago prepared a dragon's corpse to house her spirit upon its return to the phylactery. She relentlessly seeks them out, using all her evil ingenuity to recover the [Nether Scroll of Azumar](/3-Mechanics/CLI/items/nether-scroll-of-azumar-cm.md). [Zikzokrishka](/3-Mechanics/CLI/bestiary/npc/zikzokrishka-cm.md) harbors a personal vendetta against the characters, who remain targets of her wrath even if they don't have the *Nether Scroll*.
 
 ## Chwinga
 
@@ -587,17 +587,17 @@ Chwingas are tiny elemental spirits that exist all over Faerûn. These gentle cr
 
 Though no two chwingas look exactly alike, they all resemble 6-inch-tall animated dolls with strange masks, spindly limbs, and wild hair. Chwingas brighten a natural setting as they adorn their burrows with colorful rocks and plants.
 
-![Chwinga](3-Mechanics/CLI/adventures/candlekeep-mysteries/img/140-17-004-chwinga.webp#center)
+![Chwinga](/3-Mechanics/CLI/adventures/candlekeep-mysteries/img/140-17-004-chwinga.webp#center)
 
 ### Humanoid Fascination
 
-Chwingas shun other creatures, but they find the trappings of civilization fascinating. They puzzle over creatures that wear armor, carry weapons, use tools, and cook food. When a [chwinga](3-Mechanics/CLI/bestiary/elemental/chwinga-cm.md) encounters one or more humanoids, its curiosity compels it to shadow those creatures for a short time and observe them. If it takes a liking to a particular humanoid, a [chwinga](3-Mechanics/CLI/bestiary/elemental/chwinga-cm.md) uses its cantrips to aid it, or bestows a magical gift before departing. The features that attract a [chwinga](3-Mechanics/CLI/bestiary/elemental/chwinga-cm.md) to a particular humanoid vary. A [chwinga](3-Mechanics/CLI/bestiary/elemental/chwinga-cm.md) might like the way a humanoid walks or the way it combs its hair, or be smitten by a humanoid's ability to play music or to eat copious amounts of food.
+Chwingas shun other creatures, but they find the trappings of civilization fascinating. They puzzle over creatures that wear armor, carry weapons, use tools, and cook food. When a [chwinga](/3-Mechanics/CLI/bestiary/elemental/chwinga-cm.md) encounters one or more humanoids, its curiosity compels it to shadow those creatures for a short time and observe them. If it takes a liking to a particular humanoid, a [chwinga](/3-Mechanics/CLI/bestiary/elemental/chwinga-cm.md) uses its cantrips to aid it, or bestows a magical gift before departing. The features that attract a [chwinga](/3-Mechanics/CLI/bestiary/elemental/chwinga-cm.md) to a particular humanoid vary. A [chwinga](/3-Mechanics/CLI/bestiary/elemental/chwinga-cm.md) might like the way a humanoid walks or the way it combs its hair, or be smitten by a humanoid's ability to play music or to eat copious amounts of food.
 
 Chwingas that live in the desert can bestow the following additional supernatural charms:
 
 ### Charm of the Mirage
 
-This charm allows you to cast the [hallucinatory terrain](3-Mechanics/CLI/spells/hallucinatory-terrain-xphb.md) spell (save DC 15) as an action. Once used, this charm vanishes from you.
+This charm allows you to cast the [hallucinatory terrain](/3-Mechanics/CLI/spells/hallucinatory-terrain-xphb.md) spell (save DC 15) as an action. Once used, this charm vanishes from you.
 
 ### Charm of the Water Bearer
 

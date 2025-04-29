@@ -45,16 +45,16 @@ She founded Witherbloom College to pass on her understanding of the natural cycl
   "Perception": !!int "16"
   "Arcana": !!int "18"
 "damage_immunities": "necrotic, poison"
-"condition_immunities": "[poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"condition_immunities": "[poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
 "senses": "blindsight 120 ft., passive Perception 26"
 "languages": "Common, Draconic, Druidic, Sylvan"
 "cr": "24"
 "traits":
 - "desc": "Beledros casts one of the following spells, requiring no material components\
-    \ and using Wisdom as the spellcasting ability:\n\n1/day each: [greater restoration](3-Mechanics/CLI/spells/greater-restoration-xphb.md),\
-    \ [mass cure wounds](3-Mechanics/CLI/spells/mass-cure-wounds-xphb.md), [plant\
-    \ growth](3-Mechanics/CLI/spells/plant-growth-xphb.md), [revivify](3-Mechanics/CLI/spells/revivify-xphb.md),\
-    \ [speak with dead](3-Mechanics/CLI/spells/speak-with-dead-xphb.md)"
+    \ and using Wisdom as the spellcasting ability:\n\n1/day each: [greater restoration](/3-Mechanics/CLI/spells/greater-restoration-xphb.md),\
+    \ [mass cure wounds](/3-Mechanics/CLI/spells/mass-cure-wounds-xphb.md), [plant\
+    \ growth](/3-Mechanics/CLI/spells/plant-growth-xphb.md), [revivify](/3-Mechanics/CLI/spells/revivify-xphb.md),\
+    \ [speak with dead](/3-Mechanics/CLI/spells/speak-with-dead-xphb.md)"
   "name": "Spellcasting"
 - "desc": "If Beledros fails a saving throw, she can choose to succeed instead."
   "name": "Legendary Resistance (3/Day)"
@@ -67,8 +67,8 @@ She founded Witherbloom College to pass on her understanding of the natural cycl
     \ (1d10 + 9) piercing damage plus 6 (1d12) necrotic damage."
   "name": "Bite"
 - "desc": "Melee Weapon Attack: +16 to hit, reach 10 ft., one target. Hit: 12\
-    \ (1d6 + 9) slashing damage. If the target is a Huge or smaller creature, it\
-    \ is knocked [prone](3-Mechanics/CLI/rules/conditions.md#Prone)."
+    \ (1d6 + 9) slashing damage. If the target is a Huge or smaller creature, it is\
+    \ knocked [prone](/3-Mechanics/CLI/conditions.md#Prone)."
   "name": "Claw"
 - "desc": "Beledros exhales decaying energy in a 90-foot cone. Each creature in that\
     \ area must make a DC 23 Constitution saving throw, taking 39 (6d12) necrotic\
@@ -80,7 +80,7 @@ She founded Witherbloom College to pass on her understanding of the natural cycl
     \ her flying speed without provoking opportunity attacks, then resumes her true\
     \ form. During this movement, she can move through creatures and objects as if\
     \ they were difficult terrain. If she moves through a creature, it must succeed\
-    \ on a DC 23 Constitution saving throw or become [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)\
+    \ on a DC 23 Constitution saving throw or become [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)\
     \ until the end of its next turn. If Beledros ends this move inside an object,\
     \ she takes 5 (1d10) force damage and is shunted to the nearest unoccupied space."
   "name": "Miasmal Flow"
@@ -89,16 +89,16 @@ She founded Witherbloom College to pass on her understanding of the natural cycl
   "name": "Claw"
 - "desc": "Beledros uses Miasmal Flow."
   "name": "Miasmal Flow (Costs 2 Actions)"
-- "desc": "Beledros magically summons 1d4 [pest mascots](3-Mechanics/CLI/bestiary/monstrosity/pest-mascot-scc.md)\
+- "desc": "Beledros magically summons 1d4 [pest mascots](/3-Mechanics/CLI/bestiary/monstrosity/pest-mascot-scc.md)\
     \ in unoccupied spaces she can see within 60 feet of herself. The pests obey her\
     \ commands and take their turns immediately after hers. Any creature, other than\
-    \ a pest, takes 9 (2d8) poison damage if it starts its turn within 5 feet of\
-    \ one or more of these pests. When one of these pests drops to 0 hit points, Beledros\
+    \ a pest, takes 9 (2d8) poison damage if it starts its turn within 5 feet of one\
+    \ or more of these pests. When one of these pests drops to 0 hit points, Beledros\
     \ regains 9 hit points. These pests disappear after 10 minutes, when Beledros\
     \ dies, or when she uses this action again."
   "name": "Teeming with Life (Costs 3 Actions)"
 "source":
 - "SCC"
-"image": "3-Mechanics/CLI/bestiary/npc/token/beledros-witherbloom-scc.webp"
+"image": "/3-Mechanics/CLI/bestiary/npc/token/beledros-witherbloom-scc.webp"
 ```
 ^statblock

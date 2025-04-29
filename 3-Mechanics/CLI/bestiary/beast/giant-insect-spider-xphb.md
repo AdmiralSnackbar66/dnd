@@ -10,7 +10,7 @@ statblock: inline
 aliases: ["Giant Insect (Spider)"]
 ---
 # [Giant Insect (Spider)](3-Mechanics\CLI\bestiary\beast/giant-insect-spider-xphb.md)
-*Source: Player's Handbook (2024) p. 279*  
+*Source: Player's Handbook (2024) p. 279. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
 
 ```statblock
 "name": "Giant Insect (Spider) (XPHB)"
@@ -37,8 +37,8 @@ aliases: ["Giant Insect (Spider)"]
     \ down)."
   "name": "Multiattack"
 - "desc": "Melee Attack Roll: YourSpellAttack Bonus equals your spell attack modifier,\
-    \ reach 10 ft. Hit: 1d6 + 3 + the spell's level Piercing damage plus 1d4\
-    \ Poison damage."
+    \ reach 10 ft. Hit: 1d6 + 3 + the spell's level Piercing damage plus 1d4 Poison\
+    \ damage."
   "name": "Poison Jab"
 - "desc": "Ranged Attack Roll: YourSpellAttack Bonus equals your spell attack modifier,\
     \ range 60 ft. Hit: 1d10 + 3 + the spell's level Bludgeoning damage, and the\

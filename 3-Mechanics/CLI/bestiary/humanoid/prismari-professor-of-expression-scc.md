@@ -55,20 +55,20 @@ The scholars of Prismari College believe that art is the truest form of spellcra
 "traits":
 - "desc": "The professor casts one of the following spells, requiring no material\
     \ components and using Charisma as the spellcasting ability (spell save DC 15):\n\
-    \nAt will: [minor illusion](3-Mechanics/CLI/spells/minor-illusion-xphb.md)\n\
-    \n2/day each: [fog cloud](3-Mechanics/CLI/spells/fog-cloud-xphb.md), [gust\
-    \ of wind](3-Mechanics/CLI/spells/gust-of-wind-xphb.md), [mage armor](3-Mechanics/CLI/spells/mage-armor-xphb.md)"
+    \nAt will: [minor illusion](/3-Mechanics/CLI/spells/minor-illusion-xphb.md)\n\
+    \n2/day each: [fog cloud](/3-Mechanics/CLI/spells/fog-cloud-xphb.md), [gust\
+    \ of wind](/3-Mechanics/CLI/spells/gust-of-wind-xphb.md), [mage armor](/3-Mechanics/CLI/spells/mage-armor-xphb.md)"
   "name": "Spellcasting"
 "actions":
 - "desc": "The professor makes three Cinder Strike attacks."
   "name": "Multiattack"
-- "desc": "Melee Spell Attack: +7 to hit, reach 15 ft., one target. Hit: 13\
-    \ (2d8 + 4) fire damage."
+- "desc": "Melee Spell Attack: +7 to hit, reach 15 ft., one target. Hit: 13 (2d8\
+    \ + 4) fire damage."
   "name": "Cinder Strike"
 - "desc": "The professor unleashes arcs of magical lightning at up to two creatures\
     \ it can see within 60 feet of itself. Each target must make a DC 15 Dexterity\
-    \ saving throw, taking 35 (10d6) lightning damage on a failed save, or half\
-    \ as much damage on a successful one."
+    \ saving throw, taking 35 (10d6) lightning damage on a failed save, or half as\
+    \ much damage on a successful one."
   "name": "Lightning Flourish (Recharge 6)"
 "bonus_actions":
 - "desc": "The professor is wreathed in flames and jumps up to 30 feet in any direction.\
@@ -78,6 +78,6 @@ The scholars of Prismari College believe that art is the truest form of spellcra
   "name": "Flaming Leap"
 "source":
 - "SCC"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/prismari-professor-of-expression-scc.webp"
+"image": "/3-Mechanics/CLI/bestiary/humanoid/token/prismari-professor-of-expression-scc.webp"
 ```
 ^statblock

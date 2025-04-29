@@ -7,8 +7,8 @@ tags:
 aliases: ["Dragonborn"]
 ---
 # Dragonborn
-*Source: Player's Handbook (2024) p. 187*  
-![](3-Mechanics/CLI/races/img/dragonborn.webp#right)
+*Source: Player's Handbook (2024) p. 187. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
+![](/3-Mechanics/CLI/races/img/dragonborn.webp#right)
 
 - **Ability Scores**: None
 - **Type**: humanoid
@@ -19,7 +19,7 @@ aliases: ["Dragonborn"]
 
 ### Draconic Ancestry
 
-Your lineage stems from a dragon progenitor. Choose the kind of dragon from the Draconic Ancestors table. Your choice affects your Breath Weapon and [Damage](3-Mechanics/CLI/rules/variant-rules/damage-xphb.md) [Resistance](3-Mechanics/CLI/rules/variant-rules/resistance-xphb.md) traits as well as your appearance.
+Your lineage stems from a dragon progenitor. Choose the kind of dragon from the Draconic Ancestors table. Your choice affects your Breath Weapon and [Damage](/3-Mechanics/CLI/variant-rules/damage-xphb.md) [Resistance](/3-Mechanics/CLI/variant-rules/resistance-xphb.md) traits as well as your appearance.
 
 **Draconic Ancestors**
 
@@ -39,21 +39,21 @@ Your lineage stems from a dragon progenitor. Choose the kind of dragon from the 
 
 ### Breath Weapon
 
-When you take the [Attack](3-Mechanics/CLI/rules/actions.md#Attack) action on your turn, you can replace one of your attacks with an exhalation of magical energy in either a 15-foot [Cone](3-Mechanics/CLI/rules/variant-rules/cone-area-of-effect-xphb.md) or a 30-foot [Line](3-Mechanics/CLI/rules/variant-rules/line-area-of-effect-xphb.md) that is 5 feet wide (choose the shape each time). Each creature in that area must make a Dexterity saving throw (DC 8 plus your Constitution modifier and [Proficiency Bonus](3-Mechanics/CLI/rules/variant-rules/proficiency-xphb.md)). On a failed save, a creature takes `1d10` damage of the type determined by your Draconic Ancestry trait. On a successful save, a creature takes half as much damage. This damage increases by `1d10` when you reach character levels 5 (`2d10`), 11 (`3d10`), and 17 (`4d10`).
+When you take the [Attack](/3-Mechanics/CLI/actions.md#Attack) action on your turn, you can replace one of your attacks with an exhalation of magical energy in either a 15-foot [Cone](/3-Mechanics/CLI/variant-rules/cone-area-of-effect-xphb.md) or a 30-foot [Line](/3-Mechanics/CLI/variant-rules/line-area-of-effect-xphb.md) that is 5 feet wide (choose the shape each time). Each creature in that area must make a Dexterity saving throw (DC 8 plus your Constitution modifier and [Proficiency Bonus](/3-Mechanics/CLI/variant-rules/proficiency-xphb.md)). On a failed save, a creature takes `dice:1d10|noform|noparens|avg` (`1d10`) damage of the type determined by your Draconic Ancestry trait. On a successful save, a creature takes half as much damage. This damage increases by `dice:1d10|noform|noparens|avg` (`1d10`) when you reach character levels `dice:2d10|noform|noparens|avg|text(5)` (`2d10`), `dice:3d10|noform|noparens|avg|text(11)` (`3d10`), and `dice:4d10|noform|noparens|avg|text(17)` (`4d10`).
 
-You can use this Breath Weapon a number of times equal to your [Proficiency Bonus](3-Mechanics/CLI/rules/variant-rules/proficiency-xphb.md), and you regain all expended uses when you finish a [Long Rest](3-Mechanics/CLI/rules/variant-rules/long-rest-xphb.md).
+You can use this Breath Weapon a number of times equal to your [Proficiency Bonus](/3-Mechanics/CLI/variant-rules/proficiency-xphb.md), and you regain all expended uses when you finish a [Long Rest](/3-Mechanics/CLI/variant-rules/long-rest-xphb.md).
 
 ### Damage Resistance
 
-You have [Resistance](3-Mechanics/CLI/rules/variant-rules/resistance-xphb.md) to the damage type determined by your Draconic Ancestry trait.
+You have [Resistance](/3-Mechanics/CLI/variant-rules/resistance-xphb.md) to the damage type determined by your Draconic Ancestry trait.
 
 ### Darkvision
 
-You have [Darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) with a range of 60 feet.
+You have [Darkvision](/3-Mechanics/CLI/senses.md#Darkvision) with a range of 60 feet.
 
 ### Draconic Flight
 
-When you reach character level 5, you can channel draconic magic to give yourself temporary flight. As a [Bonus Action](3-Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md), you sprout spectral wings on your back that last for 10 minutes or until you retract the wings (no action required) or have the [Incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated) condition. During that time, you have a [Fly Speed](3-Mechanics/CLI/rules/variant-rules/fly-speed-xphb.md) equal to your [Speed](3-Mechanics/CLI/rules/variant-rules/speed-xphb.md). Your wings appear to be made of the same energy as your Breath Weapon. Once you use this trait, you can't use it again until you finish a [Long Rest](3-Mechanics/CLI/rules/variant-rules/long-rest-xphb.md).
+When you reach character level 5, you can channel draconic magic to give yourself temporary flight. As a [Bonus Action](/3-Mechanics/CLI/variant-rules/bonus-action-xphb.md), you sprout spectral wings on your back that last for 10 minutes or until you retract the wings (no action required) or have the [Incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated) condition. During that time, you have a [Fly Speed](/3-Mechanics/CLI/variant-rules/fly-speed-xphb.md) equal to your [Speed](/3-Mechanics/CLI/variant-rules/speed-xphb.md). Your wings appear to be made of the same energy as your Breath Weapon. Once you use this trait, you can't use it again until you finish a [Long Rest](/3-Mechanics/CLI/variant-rules/long-rest-xphb.md).
 
 ## Description
 

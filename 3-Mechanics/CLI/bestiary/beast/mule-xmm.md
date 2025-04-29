@@ -13,11 +13,11 @@ statblock: inline
 aliases: ["Mule"]
 ---
 # [Mule](3-Mechanics\CLI\bestiary\beast/mule-xmm.md)
-*Source: Monster Manual (2024) p. 365, Player's Handbook (2024) p. 353*  
+*Source: Monster Manual (2024) p. 365, Player's Handbook (2024) p. 353. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
 
 ## Animals
 
-Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [Panther](3-Mechanics/CLI/bestiary/beast/panther-xmm.md) stat block can also represent a mountain lion, while the [Giant Goat](3-Mechanics/CLI/bestiary/beast/giant-goat-xmm.md) stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
+Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [Panther](/3-Mechanics/CLI/bestiary/beast/panther-xmm.md) stat block can also represent a mountain lion, while the [Giant Goat](/3-Mechanics/CLI/bestiary/beast/giant-goat-xmm.md) stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
 
 ```statblock
 "name": "Mule (XMM)"
@@ -45,13 +45,12 @@ Use these stat blocks to represent the creatures they're named for or other simi
     \ capacity."
   "name": "Beast of Burden"
 "actions":
-- "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 4 (1d4 + 2) Bludgeoning\
-    \ damage."
+- "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 4 (1d4 + 2) Bludgeoning damage."
   "name": "Hooves"
 "source":
 - "XMM"
 - "XPHB"
-"image": "3-Mechanics/CLI/bestiary/beast/token/mule-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/beast/token/mule-xmm.webp"
 ```
 ^statblock
 

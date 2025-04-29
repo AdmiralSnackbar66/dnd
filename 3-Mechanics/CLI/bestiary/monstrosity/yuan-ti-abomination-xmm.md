@@ -72,35 +72,35 @@ Yuan-ti might gain their reptilian features through dangerous supernatural rites
   "Stealth": !!int "6"
   "Perception": !!int "7"
 "damage_immunities": "poison"
-"condition_immunities": "[poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"condition_immunities": "[poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
 "senses": "darkvision 60 ft., passive Perception 17"
 "languages": "Abyssal, Common, Draconic"
 "cr": "7"
 "traits":
 - "desc": "The yuan-ti casts one of the following spells, requiring no Material components\
     \ and using Wisdom as the spellcasting ability (spell save DC 15):\n\nAt will:\
-    \ [Animal Friendship](3-Mechanics/CLI/spells/animal-friendship-xphb.md) (snakes\
-    \ only)\n\n3/day: [Suggestion](3-Mechanics/CLI/spells/suggestion-xphb.md)"
+    \ [Animal Friendship](/3-Mechanics/CLI/spells/animal-friendship-xphb.md) (snakes\
+    \ only)\n\n3/day: [Suggestion](/3-Mechanics/CLI/spells/suggestion-xphb.md)"
   "name": "Spellcasting (Yuan-ti Form Only)"
-- "desc": "The yuan-ti has [Advantage](3-Mechanics/CLI/rules/variant-rules/advantage-xphb.md)\
+- "desc": "The yuan-ti has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
     \ on saving throws against spells and other magical effects."
   "name": "Magic Resistance"
 "actions":
 - "desc": "The yuan-ti makes two Bite attacks, and it can use Spellcasting to cast\
-    \ [Suggestion](3-Mechanics/CLI/spells/suggestion-xphb.md) if available."
+    \ [Suggestion](/3-Mechanics/CLI/spells/suggestion-xphb.md) if available."
   "name": "Multiattack"
 - "desc": "Melee Attack Roll: +7, reach 5 ft. Hit: 11 (2d6 + 4) Piercing damage\
     \ plus 10 (3d6) Poison damage."
   "name": "Bite"
 - "desc": "Strength Saving Throw: DC 15, one Large or smaller creature within 5\
-    \ feet. Failure: 28 (7d6 + 4) Bludgeoning damage. The target has the [Grappled](3-Mechanics/CLI/rules/conditions.md#Grappled)\
-    \ condition (escape DC 14), and it has the [Restrained](3-Mechanics/CLI/rules/conditions.md#Restrained)\
+    \ feet. Failure: 28 (7d6 + 4) Bludgeoning damage. The target has the [Grappled](/3-Mechanics/CLI/conditions.md#Grappled)\
+    \ condition (escape DC 14), and it has the [Restrained](/3-Mechanics/CLI/conditions.md#Restrained)\
     \ condition until the grapple ends. Success: Half damage only."
   "name": "Constrict"
-- "desc": "Constitution Saving Throw: DC 14, each creature in a 30-foot [Cone](3-Mechanics/CLI/rules/variant-rules/cone-area-of-effect-xphb.md).\
-    \ Failure: 21 (6d6) Poison damage, and the target has the [Poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)\
-    \ condition until the end of the yuan-ti's next turn. While [Poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned),\
-    \ the target has the [Blinded](3-Mechanics/CLI/rules/conditions.md#Blinded) condition.\
+- "desc": "Constitution Saving Throw: DC 14, each creature in a 30-foot [Cone](/3-Mechanics/CLI/variant-rules/cone-area-of-effect-xphb.md).\
+    \ Failure: 21 (6d6) Poison damage, and the target has the [Poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)\
+    \ condition until the end of the yuan-ti's next turn. While [Poisoned](/3-Mechanics/CLI/conditions.md#Poisoned),\
+    \ the target has the [Blinded](/3-Mechanics/CLI/conditions.md#Blinded) condition.\
     \ Success: Half damage only."
   "name": "Poison Spray (Recharge 5-6)"
 "bonus_actions":
@@ -111,7 +111,7 @@ Yuan-ti might gain their reptilian features through dangerous supernatural rites
   "name": "Shape-Shift"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/monstrosity/token/yuan-ti-abomination-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/yuan-ti-abomination-xmm.webp"
 ```
 ^statblock
 

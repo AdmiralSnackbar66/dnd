@@ -12,9 +12,9 @@ aliases:
 *Adventuring gear, poison (injury)*  
 
 
-- **Properties**: [Poison](3-Mechanics/CLI/rules/item-properties.md#Poison)
+- **Properties**: [Poison](/3-Mechanics/CLI/item-properties.md#Poison)
 - **Cost**: 200 gp
 
-A creature subjected to Serpent Venom must succeed on a DC 11 Constitution saving throw, taking 10 (`3d6`) Poison damage on a failed save or half as much damage on a successful one.
+A creature subjected to Serpent Venom must succeed on a DC 11 Constitution saving throw, taking `dice:3d6|noform|noparens|avg|text(10)` (`3d6`) Poison damage on a failed save or half as much damage on a successful one.
 
-*Source: Dungeon Master's Guide (2024) p. 91*
+*Source: Dungeon Master's Guide (2024) p. 91. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*

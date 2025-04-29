@@ -16,7 +16,7 @@ Genasi have strong ties to the Inner Planes and the blood of genies flowing thro
 
 He carries a handheld magic device that controls the elemental cannon. This device, shown in the accompanying illustration, looks like a metal rod with a tip shaped like a bird's head.
 
-On initiative count 20 (losing initiative ties), Zikran uses his handheld device to fire the cannon at one creature he can see, provided the creature is in the basement or on the staircase. Zikran's target must make a DC 17 Dexterity saving throw, taking 24 (`7d6`) cold damage on a failed save, or half as much damage on a successful one. The basement furnishings provide half cover, should a creature wish to hide behind them.
+On initiative count 20 (losing initiative ties), Zikran uses his handheld device to fire the cannon at one creature he can see, provided the creature is in the basement or on the staircase. Zikran's target must make a DC 17 Dexterity saving throw, taking `dice:7d6|noform|noparens|avg|text(24)` (`7d6`) cold damage on a failed save, or half as much damage on a successful one. The basement furnishings provide half cover, should a creature wish to hide behind them.
 
 The cannon is a Large object with AC 16, 80 hit points, and immunity to poison and psychic damage. It is mounted atop a swivel and bolted to the dais. The cannon draws power from the crystal in the middle of the room. This crystal sparks with elemental power whenever the cannon is about to fire. If the crystal is destroyed, both Zikran's handheld device and the cannon become powerless. The crystal is a Large object with AC 13, 40 hit points, and immunity to poison and psychic damage.
 
@@ -27,7 +27,7 @@ The cannon is a Large object with AC 16, 80 hit points, and immunity to poison a
 "subtype": "any race"
 "alignment": "Any alignment"
 "ac": !!int "12"
-"ac_class": "15 with [mage armor](3-Mechanics/CLI/spells/mage-armor-xphb.md)"
+"ac_class": "15 with [mage armor](/3-Mechanics/CLI/spells/mage-armor-xphb.md)"
 "hp": !!int "144"
 "hit_dice": "18d8 + 18"
 "stats":
@@ -52,28 +52,28 @@ The cannon is a Large object with AC 16, 80 hit points, and immunity to poison a
 "traits":
 - "desc": "Zikran is an 18th-level spellcaster. Its spellcasting ability is Intelligence\
     \ (spell save DC 17, +9 to hit with spell attacks). Zikran can cast [disguise\
-    \ self](3-Mechanics/CLI/spells/disguise-self-xphb.md) and [invisibility](3-Mechanics/CLI/spells/invisibility-xphb.md)\
+    \ self](/3-Mechanics/CLI/spells/disguise-self-xphb.md) and [invisibility](/3-Mechanics/CLI/spells/invisibility-xphb.md)\
     \ at will and has the following wizard spells prepared:\n\nAt will: [disguise\
-    \ self](3-Mechanics/CLI/spells/disguise-self-xphb.md), [invisibility](3-Mechanics/CLI/spells/invisibility-xphb.md)\n\
-    \nCantrips (at will): [fire bolt](3-Mechanics/CLI/spells/fire-bolt-xphb.md),\
-    \ [light](3-Mechanics/CLI/spells/light-xphb.md), [mage hand](3-Mechanics/CLI/spells/mage-hand-xphb.md),\
-    \ [prestidigitation](3-Mechanics/CLI/spells/prestidigitation-xphb.md), [shocking\
-    \ grasp](3-Mechanics/CLI/spells/shocking-grasp-xphb.md)\n\n1st level (4 slots):\
-    \ [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md), [identify](3-Mechanics/CLI/spells/identify-xphb.md),\
-    \ [mage armor](3-Mechanics/CLI/spells/mage-armor-xphb.md), [magic missile](3-Mechanics/CLI/spells/magic-missile-xphb.md)\n\
-    \n2nd level (3 slots): [detect thoughts](3-Mechanics/CLI/spells/detect-thoughts-xphb.md),\
-    \ [mirror image](3-Mechanics/CLI/spells/mirror-image-xphb.md), [misty step](3-Mechanics/CLI/spells/misty-step-xphb.md)\n\
-    \n3rd level (3 slots): [counterspell](3-Mechanics/CLI/spells/counterspell-xphb.md),\
-    \ [fly](3-Mechanics/CLI/spells/fly-xphb.md), [lightning bolt](3-Mechanics/CLI/spells/lightning-bolt-xphb.md)\n\
-    \n4th level (3 slots): [banishment](3-Mechanics/CLI/spells/banishment-xphb.md),\
-    \ [fire shield](3-Mechanics/CLI/spells/fire-shield-xphb.md), [stoneskin](3-Mechanics/CLI/spells/stoneskin-xphb.md)\n\
-    \n5th level (3 slots): [cone of cold](3-Mechanics/CLI/spells/cone-of-cold-xphb.md),\
-    \ [conjure elemental](3-Mechanics/CLI/spells/conjure-elemental-xphb.md), [scrying](3-Mechanics/CLI/spells/scrying-xphb.md),\
-    \ [wall of force](3-Mechanics/CLI/spells/wall-of-force-xphb.md)\n\n6th level\
-    \ (1 slots): [globe of invulnerability](3-Mechanics/CLI/spells/globe-of-invulnerability-xphb.md)\n\
-    \n7th level (1 slots): [teleport](3-Mechanics/CLI/spells/teleport-xphb.md)\n\
-    \n8th level (1 slots): [mind blank](3-Mechanics/CLI/spells/mind-blank-xphb.md)\n\
-    \n9th level (1 slots): [time stop](3-Mechanics/CLI/spells/time-stop-xphb.md)\n\
+    \ self](/3-Mechanics/CLI/spells/disguise-self-xphb.md), [invisibility](/3-Mechanics/CLI/spells/invisibility-xphb.md)\n\
+    \nCantrips (at will): [fire bolt](/3-Mechanics/CLI/spells/fire-bolt-xphb.md),\
+    \ [light](/3-Mechanics/CLI/spells/light-xphb.md), [mage hand](/3-Mechanics/CLI/spells/mage-hand-xphb.md),\
+    \ [prestidigitation](/3-Mechanics/CLI/spells/prestidigitation-xphb.md), [shocking\
+    \ grasp](/3-Mechanics/CLI/spells/shocking-grasp-xphb.md)\n\n1st level (4 slots):\
+    \ [detect magic](/3-Mechanics/CLI/spells/detect-magic-xphb.md), [identify](/3-Mechanics/CLI/spells/identify-xphb.md),\
+    \ [mage armor](/3-Mechanics/CLI/spells/mage-armor-xphb.md), [magic missile](/3-Mechanics/CLI/spells/magic-missile-xphb.md)\n\
+    \n2nd level (3 slots): [detect thoughts](/3-Mechanics/CLI/spells/detect-thoughts-xphb.md),\
+    \ [mirror image](/3-Mechanics/CLI/spells/mirror-image-xphb.md), [misty step](/3-Mechanics/CLI/spells/misty-step-xphb.md)\n\
+    \n3rd level (3 slots): [counterspell](/3-Mechanics/CLI/spells/counterspell-xphb.md),\
+    \ [fly](/3-Mechanics/CLI/spells/fly-xphb.md), [lightning bolt](/3-Mechanics/CLI/spells/lightning-bolt-xphb.md)\n\
+    \n4th level (3 slots): [banishment](/3-Mechanics/CLI/spells/banishment-xphb.md),\
+    \ [fire shield](/3-Mechanics/CLI/spells/fire-shield-xphb.md), [stoneskin](/3-Mechanics/CLI/spells/stoneskin-xphb.md)\n\
+    \n5th level (3 slots): [cone of cold](/3-Mechanics/CLI/spells/cone-of-cold-xphb.md),\
+    \ [conjure elemental](/3-Mechanics/CLI/spells/conjure-elemental-xphb.md), [scrying](/3-Mechanics/CLI/spells/scrying-xphb.md),\
+    \ [wall of force](/3-Mechanics/CLI/spells/wall-of-force-xphb.md)\n\n6th level\
+    \ (1 slots): [globe of invulnerability](/3-Mechanics/CLI/spells/globe-of-invulnerability-xphb.md)\n\
+    \n7th level (1 slots): [teleport](/3-Mechanics/CLI/spells/teleport-xphb.md)\n\
+    \n8th level (1 slots): [mind blank](/3-Mechanics/CLI/spells/mind-blank-xphb.md)\n\
+    \n9th level (1 slots): [time stop](/3-Mechanics/CLI/spells/time-stop-xphb.md)\n\
     \nZikran casts these spells on itself before combat."
   "name": "Spellcasting"
 - "desc": "Zikran has advantage on saving throws against spells and other magical\
@@ -87,6 +87,6 @@ The cannon is a Large object with AC 16, 80 hit points, and immunity to poison a
   "name": "Dagger"
 "source":
 - "CM"
-"image": "3-Mechanics/CLI/bestiary/npc/token/zikran-cm.webp"
+"image": "/3-Mechanics/CLI/bestiary/npc/token/zikran-cm.webp"
 ```
 ^statblock

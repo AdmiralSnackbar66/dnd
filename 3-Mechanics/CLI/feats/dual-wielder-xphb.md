@@ -14,7 +14,7 @@ You gain the following benefits.
 
 ## Enhanced Dual Wielding
 
-When you take the [Attack](3-Mechanics/CLI/rules/actions.md#Attack) action on your turn and attack with a weapon that has the Light property, you can make one extra attack as a Bonus Action later on the same turn with a different weapon, which must be a Melee weapon that lacks the Two-Handed property. You don't add your ability modifier to the extra attack's damage unless that modifier is negative.
+When you take the [Attack](/3-Mechanics/CLI/actions.md#Attack) action on your turn and attack with a weapon that has the Light property, you can make one extra attack as a Bonus Action later on the same turn with a different weapon, which must be a Melee weapon that lacks the Two-Handed property. You don't add your ability modifier to the extra attack's damage unless that modifier is negative.
 
 ## Quick Draw
 

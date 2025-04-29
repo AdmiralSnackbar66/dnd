@@ -9,4 +9,4 @@ aliases: ["Spells for Misty Visions"]
 
 ## 1st Level
 
-- [Silent Image](3-Mechanics/CLI/spells/silent-image-xphb.md "XPHB")
+- [Silent Image](/3-Mechanics/CLI/spells/silent-image-xphb.md "XPHB")

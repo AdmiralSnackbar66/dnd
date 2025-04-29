@@ -52,27 +52,27 @@ Mephits resent leaving the elemental extremes where they make their homes. If lo
   "Stealth": !!int "4"
   "Perception": !!int "2"
 "damage_immunities": "fire, poison"
-"condition_immunities": "[exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
-  \ [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"condition_immunities": "[exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
+  \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
 "senses": "darkvision 60 ft., passive Perception 12"
 "languages": "Primordial (Auran, Ignan)"
 "cr": "1/4"
 "traits":
 - "desc": "The mephit explodes when it dies. Constitution Saving Throw: DC 11, each\
-    \ creature in a 5-foot [Emanation](3-Mechanics/CLI/rules/variant-rules/emanation-area-of-effect-xphb.md)\
-    \ originating from the mephit. Failure: The target has the [Poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)\
+    \ creature in a 5-foot [Emanation](/3-Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md)\
+    \ originating from the mephit. Failure: The target has the [Poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)\
     \ condition until the end of its next turn."
   "name": "Death Burst"
 "actions":
 - "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 4 (1d4 + 2) Slashing damage."
   "name": "Claw"
 - "desc": "Dexterity Saving Throw: DC 11, one creature the mephit can see within\
-    \ 15 feet. Failure: The target has the [Blinded](3-Mechanics/CLI/rules/conditions.md#Blinded)\
+    \ 15 feet. Failure: The target has the [Blinded](/3-Mechanics/CLI/conditions.md#Blinded)\
     \ condition until the end of the mephit's next turn."
   "name": "Cinder Breath (Recharge 6)"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/elemental/token/smoke-mephit-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/elemental/token/smoke-mephit-xmm.webp"
 ```
 ^statblock
 

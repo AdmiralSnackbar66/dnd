@@ -11,11 +11,11 @@ statblock: inline
 aliases: ["Reef Shark"]
 ---
 # [Reef Shark](3-Mechanics\CLI\bestiary\beast/reef-shark-xmm.md)
-*Source: Monster Manual (2024) p. 368, Player's Handbook (2024) p. 356*  
+*Source: Monster Manual (2024) p. 368, Player's Handbook (2024) p. 356. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
 
 ## Animals
 
-Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [Panther](3-Mechanics/CLI/bestiary/beast/panther-xmm.md) stat block can also represent a mountain lion, while the [Giant Goat](3-Mechanics/CLI/bestiary/beast/giant-goat-xmm.md) stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
+Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [Panther](/3-Mechanics/CLI/bestiary/beast/panther-xmm.md) stat block can also represent a mountain lion, while the [Giant Goat](/3-Mechanics/CLI/bestiary/beast/giant-goat-xmm.md) stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
 
 ```statblock
 "name": "Reef Shark (XMM)"
@@ -39,9 +39,9 @@ Use these stat blocks to represent the creatures they're named for or other simi
 "languages": ""
 "cr": "1/2"
 "traits":
-- "desc": "The shark has [Advantage](3-Mechanics/CLI/rules/variant-rules/advantage-xphb.md)\
+- "desc": "The shark has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
     \ on an attack roll against a creature if at least one of the shark's allies is\
-    \ within 5 feet of the creature and the ally doesn't have the [Incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated)\
+    \ within 5 feet of the creature and the ally doesn't have the [Incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated)\
     \ condition."
   "name": "Pack Tactics"
 - "desc": "The shark can breathe only underwater."
@@ -52,7 +52,7 @@ Use these stat blocks to represent the creatures they're named for or other simi
 "source":
 - "XMM"
 - "XPHB"
-"image": "3-Mechanics/CLI/bestiary/beast/token/reef-shark-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/beast/token/reef-shark-xmm.webp"
 ```
 ^statblock
 

@@ -12,7 +12,7 @@ statblock: inline
 aliases: ["Vampire Familiar"]
 ---
 # [Vampire Familiar](3-Mechanics\CLI\bestiary\humanoid/vampire-familiar-xmm.md)
-*Source: Monster Manual (2024) p. 314*  
+*Source: Monster Manual (2024) p. 314. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
 
 Vampire familiars are living people who serve vampires, either willingly or due to coercion by their deathless masters. They channel deathly energy through their weapons, incapacitating unsuspecting targets and leaving their victims as helpless prey for their vampire masters.
 
@@ -76,7 +76,7 @@ Vampires and vampire umbral lords create sanctuaries apart from the living, whet
   "Perception": !!int "4"
   "Persuasion": !!int "4"
 "damage_resistances": "necrotic"
-"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed) (except\
+"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed) (except\
   \ from its vampire master)"
 "senses": "darkvision 60 ft., passive Perception 14"
 "languages": "Common plus one other language"
@@ -90,12 +90,12 @@ Vampires and vampire umbral lords create sanctuaries apart from the living, whet
 - "desc": "The familiar makes two Umbral Dagger attacks."
   "name": "Multiattack"
 - "desc": "Melee or Ranged Attack Roll: +5, reach 5 ft. or range 20/60 ft. Hit:\
-    \ 5 (1d4 + 3) Piercing damage plus 7 (3d4) Necrotic damage. If the target\
-    \ is reduced to 0 [Hit Points](3-Mechanics/CLI/rules/variant-rules/hit-points-xphb.md)\
-    \ by this attack, the target becomes [Stable](3-Mechanics/CLI/rules/variant-rules/stable-xphb.md)\
-    \ but has the [Poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned) condition\
-    \ for 1 hour. While it has the [Poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)\
-    \ condition, the target has the [Paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed)\
+    \ 5 (1d4 + 3) Piercing damage plus 7 (3d4) Necrotic damage. If the target is reduced\
+    \ to 0 [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md) by this\
+    \ attack, the target becomes [Stable](/3-Mechanics/CLI/variant-rules/stable-xphb.md)\
+    \ but has the [Poisoned](/3-Mechanics/CLI/conditions.md#Poisoned) condition for\
+    \ 1 hour. While it has the [Poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)\
+    \ condition, the target has the [Paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed)\
     \ condition."
   "name": "Umbral Dagger"
 "bonus_actions":
@@ -103,7 +103,7 @@ Vampires and vampire umbral lords create sanctuaries apart from the living, whet
   "name": "Deathless Agility"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/vampire-familiar-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/humanoid/token/vampire-familiar-xmm.webp"
 ```
 ^statblock
 

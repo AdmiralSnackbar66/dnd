@@ -11,7 +11,7 @@ statblock: inline
 aliases: ["Minotaur of Baphomet"]
 ---
 # [Minotaur of Baphomet](3-Mechanics\CLI\bestiary\monstrosity/minotaur-of-baphomet-xmm.md)
-*Source: Monster Manual (2024) p. 215*  
+*Source: Monster Manual (2024) p. 215. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
 
 ## Minotaur of Baphomet
 
@@ -59,18 +59,18 @@ Minotaurs of Baphomet often dwell in mazes, leading their allies to hidden desti
 "languages": "Abyssal"
 "cr": "3"
 "actions":
-- "desc": "Melee Attack Roll: +6, reach 10 ft. Hit: 10 (1d12 + 4) Slashing\
-    \ damage plus 10 (3d6) Necrotic damage."
+- "desc": "Melee Attack Roll: +6, reach 10 ft. Hit: 10 (1d12 + 4) Slashing damage\
+    \ plus 10 (3d6) Necrotic damage."
   "name": "Abyssal Glaive"
 - "desc": "Melee Attack Roll: +6, reach 5 ft. Hit: 18 (4d6 + 4) Piercing damage.\
     \ If the target is a Large or smaller creature and the minotaur moved 10+ feet\
     \ straight toward it immediately before the hit, the target takes an extra 10\
-    \ (3d6) Piercing damage and has the [Prone](3-Mechanics/CLI/rules/conditions.md#Prone)\
+    \ (3d6) Piercing damage and has the [Prone](/3-Mechanics/CLI/conditions.md#Prone)\
     \ condition."
   "name": "Gore (Recharge 5-6)"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/monstrosity/token/minotaur-of-baphomet-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/minotaur-of-baphomet-xmm.webp"
 ```
 ^statblock
 

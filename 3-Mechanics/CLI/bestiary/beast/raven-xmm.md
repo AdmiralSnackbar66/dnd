@@ -13,11 +13,11 @@ statblock: inline
 aliases: ["Raven"]
 ---
 # [Raven](3-Mechanics\CLI\bestiary\beast/raven-xmm.md)
-*Source: Monster Manual (2024) p. 368, Player's Handbook (2024) p. 355*  
+*Source: Monster Manual (2024) p. 368, Player's Handbook (2024) p. 355. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
 
 ## Animals
 
-Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [Panther](3-Mechanics/CLI/bestiary/beast/panther-xmm.md) stat block can also represent a mountain lion, while the [Giant Goat](3-Mechanics/CLI/bestiary/beast/giant-goat-xmm.md) stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
+Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [Panther](/3-Mechanics/CLI/bestiary/beast/panther-xmm.md) stat block can also represent a mountain lion, while the [Giant Goat](/3-Mechanics/CLI/bestiary/beast/giant-goat-xmm.md) stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
 
 ```statblock
 "name": "Raven (XMM)"
@@ -43,7 +43,7 @@ Use these stat blocks to represent the creatures they're named for or other simi
 "traits":
 - "desc": "The raven can mimic simple sounds it has heard, such as a whisper or chitter.\
     \ A hearer can discern the sounds are imitations with a successful DC 10 Wisdom\
-    \ ([Insight](3-Mechanics/CLI/rules/skills.md#Insight)) check."
+    \ ([Insight](/3-Mechanics/CLI/skills.md#Insight)) check."
   "name": "Mimicry"
 "actions":
 - "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 1 Piercing damage."
@@ -51,7 +51,7 @@ Use these stat blocks to represent the creatures they're named for or other simi
 "source":
 - "XMM"
 - "XPHB"
-"image": "3-Mechanics/CLI/bestiary/beast/token/raven-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/beast/token/raven-xmm.webp"
 ```
 ^statblock
 

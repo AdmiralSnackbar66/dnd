@@ -8,4 +8,4 @@ aliases: ["Blind Fighting"]
 ---
 # Blind Fighting
 *Source: Player's Handbook (2024) p. 209*  
-You have [Blindsight](3-Mechanics/CLI/rules/senses.md#Blindsight) with a range of 10 feet.
+You have [Blindsight](/3-Mechanics/CLI/senses.md#Blindsight) with a range of 10 feet.

@@ -12,6 +12,7 @@ tags:
 - ttrpg-cli/spell/level/1st-level
 - ttrpg-cli/spell/school/enchantment
 - ttrpg-cli/spell/subclass/college-of-lore
+- ttrpg-cli/spell/subclass/divine-soul
 - ttrpg-cli/spell/subclass/life-domain
 classes:
 - Bard
@@ -19,6 +20,7 @@ classes:
 - Cleric
 - Cleric (Life Domain)
 - Paladin
+- Sorcerer (Divine Soul)
 aliases: ["Bless"]
 ---
 # Bless
@@ -30,10 +32,10 @@ aliases: ["Bless"]
 - **Components:** V, S, M (a Holy Symbol worth 5+ GP)
 - **Duration:** Concentration, up to 1 minute
 
-You bless up to three creatures within range. Whenever a target makes an attack roll or a saving throw before the spell ends, the target adds `1d4` to the attack roll or save.
+You bless up to three creatures within range. Whenever a target makes an attack roll or a saving throw before the spell ends, the target adds `dice:1d4|noform|noparens|avg` (`1d4`) to the attack roll or save.
 
 **Using a Higher-Level Spell Slot.** You can target one additional creature for each spell slot level above 1.
 
-**Classes**: [Cleric](3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Bard (College of Lore)](3-Mechanics/CLI/lists/list-spells-classes-bard-xphb-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Paladin](3-Mechanics/CLI/lists/list-spells-classes-paladin.md); [Cleric (Life Domain)](3-Mechanics/CLI/lists/list-spells-classes-cleric-xphb-life-domain-xphb.md "subclass=XPHB;class=XPHB")
+**Classes**: [Sorcerer (Divine Soul)](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer-xphb-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Cleric (Life Domain)](/3-Mechanics/CLI/lists/list-spells-classes-cleric-xphb-life-domain-xphb.md "subclass=XPHB;class=XPHB"); [Paladin](/3-Mechanics/CLI/lists/list-spells-classes-paladin.md); [Bard (College of Lore)](/3-Mechanics/CLI/lists/list-spells-classes-bard-xphb-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md)
 
-*Source: Player's Handbook (2024) p. 247. Available in the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 247. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*

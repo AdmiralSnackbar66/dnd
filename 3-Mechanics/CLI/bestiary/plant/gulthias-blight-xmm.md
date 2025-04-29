@@ -48,18 +48,17 @@ Blights are malicious plants that sprout from deep-rooted evil. Their gnarled fo
 "skillsaves":
   "Perception": !!int "9"
 "damage_resistances": "fire, necrotic"
-"condition_immunities": "[deafened](3-Mechanics/CLI/rules/conditions.md#Deafened)"
+"condition_immunities": "[deafened](/3-Mechanics/CLI/conditions.md#Deafened)"
 "senses": "blindsight 120 ft., passive Perception 19"
 "languages": "Common, Druidic"
 "cr": "16"
 "traits":
-- "desc": "When it finishes a [Long Rest](3-Mechanics/CLI/rules/variant-rules/long-rest-xphb.md),\
-    \ the blight expels 1d6 seeds into unoccupied spaces on the ground within 30\
-    \ feet of itself. After 24 hours, the seeds become creatures under the blight's\
-    \ control. Roll 1d8 for each seed to determine the creature it becomes: on 1-4,\
-    \ [Twig Blight](3-Mechanics/CLI/bestiary/plant/twig-blight-xmm.md); on 5-6, [Needle\
-    \ Blight](3-Mechanics/CLI/bestiary/plant/needle-blight-xmm.md); on 7-8, [Vine\
-    \ Blight](3-Mechanics/CLI/bestiary/plant/vine-blight-xmm.md)."
+- "desc": "When it finishes a [Long Rest](/3-Mechanics/CLI/variant-rules/long-rest-xphb.md),\
+    \ the blight expels 1d6 seeds into unoccupied spaces on the ground within 30 feet\
+    \ of itself. After 24 hours, the seeds become creatures under the blight's control.\
+    \ Roll 1d8 for each seed to determine the creature it becomes: on 1-4, [Twig Blight](/3-Mechanics/CLI/bestiary/plant/twig-blight-xmm.md);\
+    \ on 5-6, [Needle Blight](/3-Mechanics/CLI/bestiary/plant/needle-blight-xmm.md);\
+    \ on 7-8, [Vine Blight](/3-Mechanics/CLI/bestiary/plant/vine-blight-xmm.md)."
   "name": "Blight Seeds"
 "actions":
 - "desc": "The blight makes two attacks, using Slam or Thorn Volley in any combination.\
@@ -73,17 +72,17 @@ Blights are malicious plants that sprout from deep-rooted evil. Their gnarled fo
   "name": "Thorn Volley"
 - "desc": "Constitution Saving Throw: DC 20, one Huge or smaller creature the blight\
     \ can see within 30 feet. Failure: 14 (2d6 + 7) Necrotic damage, and the target\
-    \ has the [Grappled](3-Mechanics/CLI/rules/conditions.md#Grappled) condition (escape\
-    \ DC 17) from one of six roots. Until the grapple ends, the target has the [Restrained](3-Mechanics/CLI/rules/conditions.md#Restrained)\
+    \ has the [Grappled](/3-Mechanics/CLI/conditions.md#Grappled) condition (escape\
+    \ DC 17) from one of six roots. Until the grapple ends, the target has the [Restrained](/3-Mechanics/CLI/conditions.md#Restrained)\
     \ condition and takes 14 (4d6) Necrotic damage at the start of each of its turns.\
-    \ The target's [Hit Point](3-Mechanics/CLI/rules/variant-rules/hit-points-xphb.md)\
+    \ The target's [Hit Point](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)\
     \ maximum decreases by an amount equal to the Necrotic damage taken, and the blight\
-    \ regains [Hit Points](3-Mechanics/CLI/rules/variant-rules/hit-points-xphb.md)\
-    \ equal to that amount."
+    \ regains [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md) equal\
+    \ to that amount."
   "name": "Life-Draining Root"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/plant/token/gulthias-blight-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/plant/token/gulthias-blight-xmm.webp"
 ```
 ^statblock
 

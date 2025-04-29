@@ -58,11 +58,11 @@ All manner of torments might give rise to a banshee. Roll on or choose a result 
   "Wisdom": !!int "2"
 "damage_resistances": "acid, bludgeoning, fire, lightning, piercing, slashing, thunder"
 "damage_immunities": "cold, necrotic, poison"
-"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
-  \ [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened), [grappled](3-Mechanics/CLI/rules/conditions.md#Grappled),\
-  \ [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed), [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified),\
-  \ [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned), [prone](3-Mechanics/CLI/rules/conditions.md#Prone),\
-  \ [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained)"
+"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
+  \ [frightened](/3-Mechanics/CLI/conditions.md#Frightened), [grappled](/3-Mechanics/CLI/conditions.md#Grappled),\
+  \ [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed), [petrified](/3-Mechanics/CLI/conditions.md#Petrified),\
+  \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned), [prone](/3-Mechanics/CLI/conditions.md#Prone),\
+  \ [restrained](/3-Mechanics/CLI/conditions.md#Restrained)"
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": "Common, Elvish"
 "cr": "4"
@@ -71,7 +71,7 @@ All manner of torments might give rise to a banshee. Roll on or choose a result 
     \ that aren't Constructs or Undead."
   "name": "Detect Life"
 - "desc": "The banshee can move through other creatures and objects as if they were\
-    \ [Difficult Terrain](3-Mechanics/CLI/rules/variant-rules/difficult-terrain-xphb.md).\
+    \ [Difficult Terrain](/3-Mechanics/CLI/variant-rules/difficult-terrain-xphb.md).\
     \ It takes 5 (1d10) Force damage if it ends its turn inside an object."
   "name": "Incorporeal Movement"
 "actions":
@@ -80,19 +80,19 @@ All manner of torments might give rise to a banshee. Roll on or choose a result 
 - "desc": "Melee Attack Roll: +5, reach 5 ft. Hit: 7 (1d8 + 3) Necrotic damage."
   "name": "Corrupting Touch"
 - "desc": "Wisdom Saving Throw: DC 13, one creature the banshee can see within 60\
-    \ feet that can see the banshee. Failure: The target has the [Frightened](3-Mechanics/CLI/rules/conditions.md#Frightened)\
+    \ feet that can see the banshee. Failure: The target has the [Frightened](/3-Mechanics/CLI/conditions.md#Frightened)\
     \ condition until the start of the banshee's next turn. Success: The target\
     \ is immune to this banshee's Horrify for 24 hours."
   "name": "Horrify"
 - "desc": "The banshee releases a mournful wail if it isn't in sunlight. Constitution\
     \ Saving Throw: DC 13, each creature within 30 feet that can hear the wail and\
-    \ isn't a Construct or an Undead. Failure: If the target has 25 [Hit Points](3-Mechanics/CLI/rules/variant-rules/hit-points-xphb.md)\
-    \ or fewer, it drops to 0 [Hit Points](3-Mechanics/CLI/rules/variant-rules/hit-points-xphb.md).\
+    \ isn't a Construct or an Undead. Failure: If the target has 25 [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)\
+    \ or fewer, it drops to 0 [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md).\
     \ Otherwise, the target takes 10 (3d6) Psychic damage."
   "name": "Deathly Wail (1/Day)"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/undead/token/banshee-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/undead/token/banshee-xmm.webp"
 ```
 ^statblock
 

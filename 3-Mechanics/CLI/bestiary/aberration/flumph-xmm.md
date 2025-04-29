@@ -90,10 +90,10 @@ A flumph's extremities change color to reflect its mood. The Flumph Colors and E
 - "desc": "The flumph perceives the content of any telepathic communication within\
     \ 60 feet of it."
   "name": "Advanced Telepathy"
-- "desc": "If the flumph receives the [Prone](3-Mechanics/CLI/rules/conditions.md#Prone)\
-    \ condition, roll a die. On an odd number, it has the [Incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated)\
+- "desc": "If the flumph receives the [Prone](/3-Mechanics/CLI/conditions.md#Prone)\
+    \ condition, roll a die. On an odd number, it has the [Incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated)\
     \ condition. At the end of each of its turns, the flumph makes a DC 10 Dexterity\
-    \ saving throw, ending the [Incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated)\
+    \ saving throw, ending the [Incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated)\
     \ condition on a success."
   "name": "Prone Deficiency"
 - "desc": "The flumph's thoughts can't be read by any means, and magic can't detect\
@@ -104,16 +104,16 @@ A flumph's extremities change color to reflect its mood. The Flumph Colors and E
   "name": "Tentacle"
 - "desc": "Dexterity Saving Throw: DC 10, one creature the flumph can see within\
     \ 15 feet. Failure: The target is coated in a foul-smelling liquid, exudes a\
-    \ stench for 1d4 hours, and has the [Poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)\
-    \ condition while the stench lasts. Other creatures have the [Poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)\
-    \ condition while in a 5-foot [Emanation](3-Mechanics/CLI/rules/variant-rules/emanation-area-of-effect-xphb.md)\
+    \ stench for 1d4 hours, and has the [Poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)\
+    \ condition while the stench lasts. Other creatures have the [Poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)\
+    \ condition while in a 5-foot [Emanation](/3-Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md)\
     \ originating from the coated target. The target can remove the stench on itself\
-    \ if it bathes during a [Short](3-Mechanics/CLI/rules/variant-rules/short-rest-xphb.md)\
-    \ or [Long Rest](3-Mechanics/CLI/rules/variant-rules/long-rest-xphb.md)."
+    \ if it bathes during a [Short](/3-Mechanics/CLI/variant-rules/short-rest-xphb.md)\
+    \ or [Long Rest](/3-Mechanics/CLI/variant-rules/long-rest-xphb.md)."
   "name": "Stench Spray (1/Day)"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/aberration/token/flumph-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/aberration/token/flumph-xmm.webp"
 ```
 ^statblock
 

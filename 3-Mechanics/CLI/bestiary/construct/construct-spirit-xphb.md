@@ -27,9 +27,9 @@ aliases: ["Construct Spirit"]
 - !!int "5"
 "speed": "30 ft."
 "damage_resistances": "poison"
-"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
-  \ [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened), [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed),\
-  \ [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
+  \ [frightened](/3-Mechanics/CLI/conditions.md#Frightened), [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed),\
+  \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": "Understands the languages you know"
 "traits":
@@ -55,6 +55,6 @@ aliases: ["Construct Spirit"]
   "name": "Berserk Lashing (Clay Only)"
 "source":
 - "XPHB"
-"image": "3-Mechanics/CLI/bestiary/construct/token/construct-spirit-xphb.webp"
+"image": "/3-Mechanics/CLI/bestiary/construct/token/construct-spirit-xphb.webp"
 ```
 ^statblock

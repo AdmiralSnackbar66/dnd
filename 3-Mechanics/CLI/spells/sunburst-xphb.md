@@ -10,12 +10,14 @@ tags:
 - ttrpg-cli/spell/class/wizard
 - ttrpg-cli/spell/level/8th-level
 - ttrpg-cli/spell/school/evocation
+- ttrpg-cli/spell/subclass/divine-soul
 - ttrpg-cli/spell/subclass/evoker
 classes:
 - Bard
 - Cleric
 - Druid
 - Sorcerer
+- Sorcerer (Divine Soul)
 - Wizard
 - Wizard (Evoker)
 aliases: ["Sunburst"]
@@ -29,12 +31,12 @@ aliases: ["Sunburst"]
 - **Components:** V, S, M (a piece of sunstone)
 - **Duration:** Instantaneous
 
-Brilliant sunlight flashes in a 60-foot-radius Sphere centered on a point you choose within range. Each creature in the Sphere makes a Constitution saving throw. On a failed save, a creature takes `12d6` Radiant damage and has the [Blinded](3-Mechanics/CLI/rules/conditions.md#Blinded) condition for 1 minute. On a successful save, it takes half as much damage only.
+Brilliant sunlight flashes in a 60-foot-radius Sphere centered on a point you choose within range. Each creature in the Sphere makes a Constitution saving throw. On a failed save, a creature takes `dice:12d6|noform|noparens|avg` (`12d6`) Radiant damage and has the [Blinded](/3-Mechanics/CLI/conditions.md#Blinded) condition for 1 minute. On a successful save, it takes half as much damage only.
 
-A creature [Blinded](3-Mechanics/CLI/rules/conditions.md#Blinded) by this spell makes another Constitution saving throw at the end of each of its turns, ending the effect on itself on a success.
+A creature [Blinded](/3-Mechanics/CLI/conditions.md#Blinded) by this spell makes another Constitution saving throw at the end of each of its turns, ending the effect on itself on a success.
 
-This spell dispels [Darkness](3-Mechanics/CLI/rules/variant-rules/darkness-xphb.md) in its area that was created by any spell.
+This spell dispels [Darkness](/3-Mechanics/CLI/variant-rules/darkness-xphb.md) in its area that was created by any spell.
 
-**Classes**: [Wizard (Evoker)](3-Mechanics/CLI/lists/list-spells-classes-wizard-xphb-evoker-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Cleric](3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Bard](3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Druid](3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Wizard](3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Sorcerer (Divine Soul)](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer-xphb-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md); [Wizard (Evoker)](/3-Mechanics/CLI/lists/list-spells-classes-wizard-xphb-evoker-xphb.md "subclass=XPHB;class=XPHB")
 
-*Source: Player's Handbook (2024) p. 329. Available in the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 329. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*

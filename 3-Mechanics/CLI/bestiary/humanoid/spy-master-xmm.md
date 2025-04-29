@@ -77,17 +77,17 @@ Spies gather information and disseminate lies, manipulating people to gain the r
     \ damage plus 9 (2d8) Poison damage."
   "name": "Hand Crossbow"
 - "desc": "The spy throws a bomb to a point it can see within 30 feet of itself. Constitution\
-    \ Saving Throw: DC 16, each creature in a 20-foot-radius [Sphere](3-Mechanics/CLI/rules/variant-rules/sphere-area-of-effect-xphb.md)\
-    \ centered on that point. Failure: 28 (8d6) Poison damage, and the target\
-    \ has the [Blinded](3-Mechanics/CLI/rules/conditions.md#Blinded) condition until\
-    \ the end of the spy's next turn. Success: Half damage only."
+    \ Saving Throw: DC 16, each creature in a 20-foot-radius [Sphere](/3-Mechanics/CLI/variant-rules/sphere-area-of-effect-xphb.md)\
+    \ centered on that point. Failure: 28 (8d6) Poison damage, and the target has\
+    \ the [Blinded](/3-Mechanics/CLI/conditions.md#Blinded) condition until the end\
+    \ of the spy's next turn. Success: Half damage only."
   "name": "Smoke Bomb (1/Day)"
 "bonus_actions":
 - "desc": "The spy takes the Dash, Disengage, or Hide action."
   "name": "Cunning Action"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/spy-master-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/humanoid/token/spy-master-xmm.webp"
 ```
 ^statblock
 

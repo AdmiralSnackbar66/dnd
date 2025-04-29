@@ -59,33 +59,33 @@ Skeletons rise at the summons of necromancers and foul spirits. Whether they're 
 "speed": "30 ft."
 "damage_vulnerabilities": "bludgeoning"
 "damage_immunities": "fire, poison"
-"condition_immunities": "[exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
-  \ [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"condition_immunities": "[exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
+  \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
 "senses": "darkvision 60 ft., passive Perception 12"
 "languages": "understands Common plus one other language but can't speak"
 "cr": "3"
 "traits":
 - "desc": "The skeleton explodes when it dies. Dexterity Saving Throw: DC 12, each\
-    \ creature in a 10-foot [Emanation](3-Mechanics/CLI/rules/variant-rules/emanation-area-of-effect-xphb.md)\
-    \ originating from the skeleton. Failure: 14 (4d6) Fire damage. Success:\
-    \ Half damage."
+    \ creature in a 10-foot [Emanation](/3-Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md)\
+    \ originating from the skeleton. Failure: 14 (4d6) Fire damage. Success: Half\
+    \ damage."
   "name": "Death Burst"
-- "desc": "The skeleton sheds [Bright Light](3-Mechanics/CLI/rules/variant-rules/bright-light-xphb.md)\
-    \ in a 15-foot radius and [Dim Light](3-Mechanics/CLI/rules/variant-rules/dim-light-xphb.md)\
+- "desc": "The skeleton sheds [Bright Light](/3-Mechanics/CLI/variant-rules/bright-light-xphb.md)\
+    \ in a 15-foot radius and [Dim Light](/3-Mechanics/CLI/variant-rules/dim-light-xphb.md)\
     \ for an additional 15 feet."
   "name": "Illumination"
 "actions":
 - "desc": "The skeleton makes two attacks, using Flame Scepter or Hurl Flame in any\
     \ combination."
   "name": "Multiattack"
-- "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 5 (1d6 + 2) Bludgeoning\
-    \ damage plus 3 (1d6) Fire damage."
+- "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 5 (1d6 + 2) Bludgeoning damage\
+    \ plus 3 (1d6) Fire damage."
   "name": "Flame Scepter"
 - "desc": "Ranged Attack Roll: +4, range 60 ft. Hit: 7 (1d10 + 2) Fire damage."
   "name": "Hurl Flame"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/undead/token/flaming-skeleton-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/undead/token/flaming-skeleton-xmm.webp"
 ```
 ^statblock
 

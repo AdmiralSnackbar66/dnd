@@ -52,14 +52,14 @@ Ogruhl has been trapped here for millennia, restrained by magic chains. Ogruhl w
 - "desc": "Melee Weapon Attack: +13 to hit, reach 15 ft., one target. Hit: 26\
     \ (3d12 + 7) bludgeoning damage. If the target is a creature, it must succeed\
     \ on a DC 20 Strength saving throw or be pushed up to 10 feet away from the dragon\
-    \ turtle and knocked [prone](3-Mechanics/CLI/rules/conditions.md#Prone)."
+    \ turtle and knocked [prone](/3-Mechanics/CLI/conditions.md#Prone)."
   "name": "Tail"
 - "desc": "The dragon tortoise exhales abrasive sand in a 60-foot cone. Each creature\
-    \ in that area must make a DC 18 Constitution saving throw, taking 52 (15d6)\
-    \ slashing damage on a failed save, or half as much damage on a successful one."
+    \ in that area must make a DC 18 Constitution saving throw, taking 52 (15d6) slashing\
+    \ damage on a failed save, or half as much damage on a successful one."
   "name": "Sand Breath (Recharge 5-6)"
 "source":
 - "CM"
-"image": "3-Mechanics/CLI/bestiary/dragon/token/dragon-tortoise-cm.webp"
+"image": "/3-Mechanics/CLI/bestiary/dragon/token/dragon-tortoise-cm.webp"
 ```
 ^statblock

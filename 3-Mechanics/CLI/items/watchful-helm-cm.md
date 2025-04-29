@@ -13,8 +13,8 @@ aliases:
 
 
 
-While you wear this helm, you gain a +1 bonus to AC and remain aware of your surroundings even while you're asleep, and you have advantage on Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) checks that rely on sight.
+While you wear this helm, you gain a +1 bonus to AC and remain aware of your surroundings even while you're asleep, and you have advantage on Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) checks that rely on sight.
 
-As a bonus action, you can cast the [see invisibility](3-Mechanics/CLI/spells/see-invisibility-xphb.md) spell from the helm. Once this property of the helm is used, it can't be used again until the next dawn.
+As a bonus action, you can cast the [see invisibility](/3-Mechanics/CLI/spells/see-invisibility-xphb.md) spell from the helm. Once this property of the helm is used, it can't be used again until the next dawn.
 
 *Source: Candlekeep Mysteries p. 183*

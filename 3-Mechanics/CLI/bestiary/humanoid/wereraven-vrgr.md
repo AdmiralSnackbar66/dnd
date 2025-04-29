@@ -62,7 +62,7 @@ A character cursed with wereraven lycanthropy gains a Dexterity of 15 if his or 
   "name": "Shapechanger"
 - "desc": "The wereraven can mimic simple sounds it has heard, such as a person whispering,\
     \ a baby crying, or an animal chittering. A creature that hears the sounds can\
-    \ tell they are imitations with a successful DC 10 Wisdom ([Insight](3-Mechanics/CLI/rules/skills.md#Insight))\
+    \ tell they are imitations with a successful DC 10 Wisdom ([Insight](/3-Mechanics/CLI/skills.md#Insight))\
     \ check."
   "name": "Mimicry"
 - "desc": "The wereraven regains 10 hit points at the start of its turn. If the wereraven\
@@ -88,6 +88,6 @@ A character cursed with wereraven lycanthropy gains a Dexterity of 15 if his or 
 "source":
 - "VRGR"
 - "CM"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/wereraven-vrgr.webp"
+"image": "/3-Mechanics/CLI/bestiary/humanoid/token/wereraven-vrgr.webp"
 ```
 ^statblock

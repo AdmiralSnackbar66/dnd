@@ -13,7 +13,7 @@ statblock: inline
 aliases: ["Green Hag"]
 ---
 # [Green Hag](3-Mechanics\CLI\bestiary\fey/green-hag-xmm.md)
-*Source: Monster Manual (2024) p. 156*  
+*Source: Monster Manual (2024) p. 156. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
 
 ## Green Hag
 
@@ -68,25 +68,26 @@ Green hags frequently know strange magic or forgotten secrets, such as the weakn
 - "desc": "While within 30 feet of at least two hag allies, the hag can cast one of\
     \ the following spells, requiring no Material components, using the spell's normal\
     \ casting time, and using Intelligence as the spellcasting ability (spell save\
-    \ DC 11): [Augury](3-Mechanics/CLI/spells/augury-xphb.md), [Find Familiar](3-Mechanics/CLI/spells/find-familiar-xphb.md),\
-    \ [Identify](3-Mechanics/CLI/spells/identify-xphb.md), [Locate Object](3-Mechanics/CLI/spells/locate-object-xphb.md),\
-    \ [Scrying](3-Mechanics/CLI/spells/scrying-xphb.md), or [Unseen Servant](3-Mechanics/CLI/spells/unseen-servant-xphb.md).\
-    \ The hag must finish a [Long Rest](3-Mechanics/CLI/rules/variant-rules/long-rest-xphb.md)\
+    \ DC 11): [Augury](/3-Mechanics/CLI/spells/augury-xphb.md), [Find Familiar](/3-Mechanics/CLI/spells/find-familiar-xphb.md),\
+    \ [Identify](/3-Mechanics/CLI/spells/identify-xphb.md), [Locate Object](/3-Mechanics/CLI/spells/locate-object-xphb.md),\
+    \ [Scrying](/3-Mechanics/CLI/spells/scrying-xphb.md), or [Unseen Servant](/3-Mechanics/CLI/spells/unseen-servant-xphb.md).\
+    \ The hag must finish a [Long Rest](/3-Mechanics/CLI/variant-rules/long-rest-xphb.md)\
     \ before using this trait to cast that spell again.\n"
   "name": "Coven Magic"
 - "desc": "The hag casts one of the following spells, requiring no Material components\
-    \ and using Wisdom as the spellcasting ability (spell save DC 12, +4 to hit\
-    \ with spell attacks):\n\nAt will: [Dancing Lights](3-Mechanics/CLI/spells/dancing-lights-xphb.md),\
-    \ [Disguise Self](3-Mechanics/CLI/spells/disguise-self-xphb.md) (24-hour duration),\
-    \ [Invisibility](3-Mechanics/CLI/spells/invisibility-xphb.md) (self only, and\
-    \ the hag leaves no tracks while Invisible), [Minor Illusion](3-Mechanics/CLI/spells/minor-illusion-xphb.md),\
-    \ [Ray of Sickness](3-Mechanics/CLI/spells/ray-of-sickness-xphb.md) (level 3 version)"
+    \ and using Wisdom as the spellcasting ability (spell save DC 12, +4 to hit with\
+    \ spell attacks):\n\nAt will: [Dancing Lights](/3-Mechanics/CLI/spells/dancing-lights-xphb.md),\
+    \ [Disguise Self](/3-Mechanics/CLI/spells/disguise-self-xphb.md) (24-hour duration),\
+    \ [Invisibility](/3-Mechanics/CLI/spells/invisibility-xphb.md) (self only, and\
+    \ the hag leaves no tracks while Invisible), [Minor Illusion](/3-Mechanics/CLI/spells/minor-illusion-xphb.md),\
+    \ [Ray of Sickness](/3-Mechanics/CLI/spells/ray-of-sickness-xphb.md) (level 3\
+    \ version)"
   "name": "Spellcasting"
 - "desc": "The hag can breathe air and water."
   "name": "Amphibious"
 - "desc": "The hag can mimic animal sounds and humanoid voices. A creature that hears\
     \ the sounds can tell they are imitations only with a successful DC 14 Wisdom\
-    \ ([Insight](3-Mechanics/CLI/rules/skills.md#Insight)) check."
+    \ ([Insight](/3-Mechanics/CLI/skills.md#Insight)) check."
   "name": "Mimicry"
 "actions":
 - "desc": "The hag makes two Claw attacks."
@@ -96,7 +97,7 @@ Green hags frequently know strange magic or forgotten secrets, such as the weakn
   "name": "Claw"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/fey/token/green-hag-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/fey/token/green-hag-xmm.webp"
 ```
 ^statblock
 

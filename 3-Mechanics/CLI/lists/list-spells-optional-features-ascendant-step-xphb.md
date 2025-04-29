@@ -9,4 +9,4 @@ aliases: ["Spells for Ascendant Step"]
 
 ## 2nd Level
 
-- [Levitate](3-Mechanics/CLI/spells/levitate-xphb.md "XPHB")
+- [Levitate](/3-Mechanics/CLI/spells/levitate-xphb.md "XPHB")

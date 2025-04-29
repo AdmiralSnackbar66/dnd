@@ -18,7 +18,7 @@ statblock: inline
 aliases: ["Ogre"]
 ---
 # [Ogre](3-Mechanics\CLI\bestiary\giant/ogre-xmm.md)
-*Source: Monster Manual (2024) p. 231*  
+*Source: Monster Manual (2024) p. 231. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
 
 Ogres are 10-foot-tall brutes that overwhelm their foes and take what spoils they please. Ogre raiders ally with other evil forces in return for food, riches, and promises of battle.
 
@@ -53,15 +53,14 @@ Ogres trace their origins to wrathful deities such as Erythnul, Takhisis, and Va
 "languages": "Common, Giant"
 "cr": "2"
 "actions":
-- "desc": "Melee Attack Roll: +6, reach 5 ft. Hit: 13 (2d8 + 4) Bludgeoning\
-    \ damage."
+- "desc": "Melee Attack Roll: +6, reach 5 ft. Hit: 13 (2d8 + 4) Bludgeoning damage."
   "name": "Greatclub"
 - "desc": "Melee or Ranged Attack Roll: +6, reach 5 ft. or range 30/120 ft. Hit:\
     \ 11 (2d6 + 4) Piercing damage."
   "name": "Javelin"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/giant/token/ogre-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/giant/token/ogre-xmm.webp"
 ```
 ^statblock
 

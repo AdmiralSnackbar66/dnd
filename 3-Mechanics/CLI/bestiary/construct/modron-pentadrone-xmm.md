@@ -74,7 +74,7 @@ Whether in service to lawful deities or as part of the Great Modron March, modro
 "speed": "40 ft."
 "skillsaves":
   "Perception": !!int "4"
-"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed)"
+"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed)"
 "senses": "truesight 120 ft., passive Perception 14"
 "languages": "Modron"
 "cr": "2"
@@ -87,17 +87,16 @@ Whether in service to lawful deities or as part of the Great Modron March, modro
   "name": "Multiattack"
 - "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 5 (1d6 + 2) Force damage."
   "name": "Slam"
-- "desc": "Ranged Attack Roll: +4, range 120 ft. Hit: 5 (1d6 + 2) Lightning\
-    \ damage."
+- "desc": "Ranged Attack Roll: +4, range 120 ft. Hit: 5 (1d6 + 2) Lightning damage."
   "name": "Electrical Discharge"
-- "desc": "Constitution Saving Throws: DC 11, each creature in a 30-foot [Cone](3-Mechanics/CLI/rules/variant-rules/cone-area-of-effect-xphb.md).\
-    \ Failure: The target has the [Paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed)\
+- "desc": "Constitution Saving Throws: DC 11, each creature in a 30-foot [Cone](/3-Mechanics/CLI/variant-rules/cone-area-of-effect-xphb.md).\
+    \ Failure: The target has the [Paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed)\
     \ condition and repeats the save at the end of each of its turns, ending the effect\
     \ on itself on a success. After 1 minute, it succeeds automatically."
   "name": "Paralysis Gas (Recharge 5-6)"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/construct/token/modron-pentadrone-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/construct/token/modron-pentadrone-xmm.webp"
 ```
 ^statblock
 

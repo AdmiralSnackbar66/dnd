@@ -37,11 +37,11 @@ aliases: ["Beast of the Sea"]
 "actions":
 - "desc": "Melee Attack Roll: YourSpellAttack Bonus equals your spell attack modifier,\
     \ reach 5 ft. Hit: 1d6 + 2 plus your Wisdom modifier Bludgeoning or Piercing\
-    \ damage (your choice when you summon the beast), and the target has the [Grappled](3-Mechanics/CLI/rules/conditions.md#Grappled)\
+    \ damage (your choice when you summon the beast), and the target has the [Grappled](/3-Mechanics/CLI/conditions.md#Grappled)\
     \ condition (escape DC equals your spell save DC)."
   "name": "Beast's Strike"
 "source":
 - "XPHB"
-"image": "3-Mechanics/CLI/bestiary/beast/token/beast-of-the-sea-xphb.webp"
+"image": "/3-Mechanics/CLI/bestiary/beast/token/beast-of-the-sea-xphb.webp"
 ```
 ^statblock

@@ -13,7 +13,7 @@ statblock: inline
 aliases: ["Rakshasa"]
 ---
 # [Rakshasa](3-Mechanics\CLI\bestiary\fiend/rakshasa-xmm.md)
-*Source: Monster Manual (2024) p. 253*  
+*Source: Monster Manual (2024) p. 253. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
 
 ## Rakshasa
 
@@ -50,18 +50,18 @@ Rakshasas' appearances combine humanlike bodies with the features of animals and
   "Perception": !!int "8"
 "damage_vulnerabilities": "piercing damage from weapons wielded by creatures under\
   \ the effect of a Bless spell"
-"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened)"
+"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [frightened](/3-Mechanics/CLI/conditions.md#Frightened)"
 "senses": "truesight 60 ft., passive Perception 18"
 "languages": "Common, Infernal"
 "cr": "13"
 "traits":
 - "desc": "The rakshasa casts one of the following spells, requiring no Material components\
     \ and using Charisma as the spellcasting ability (spell save DC 18):\n\nAt will:\
-    \ [Detect Magic](3-Mechanics/CLI/spells/detect-magic-xphb.md), [Detect Thoughts](3-Mechanics/CLI/spells/detect-thoughts-xphb.md),\
-    \ [Disguise Self](3-Mechanics/CLI/spells/disguise-self-xphb.md), [Mage Hand](3-Mechanics/CLI/spells/mage-hand-xphb.md),\
-    \ [Minor Illusion](3-Mechanics/CLI/spells/minor-illusion-xphb.md)\n\n1/day each:\
-    \ [Fly](3-Mechanics/CLI/spells/fly-xphb.md), [Invisibility](3-Mechanics/CLI/spells/invisibility-xphb.md),\
-    \ [Major Image](3-Mechanics/CLI/spells/major-image-xphb.md), [Plane Shift](3-Mechanics/CLI/spells/plane-shift-xphb.md)"
+    \ [Detect Magic](/3-Mechanics/CLI/spells/detect-magic-xphb.md), [Detect Thoughts](/3-Mechanics/CLI/spells/detect-thoughts-xphb.md),\
+    \ [Disguise Self](/3-Mechanics/CLI/spells/disguise-self-xphb.md), [Mage Hand](/3-Mechanics/CLI/spells/mage-hand-xphb.md),\
+    \ [Minor Illusion](/3-Mechanics/CLI/spells/minor-illusion-xphb.md)\n\n1/day\
+    \ each: [Fly](/3-Mechanics/CLI/spells/fly-xphb.md), [Invisibility](/3-Mechanics/CLI/spells/invisibility-xphb.md),\
+    \ [Major Image](/3-Mechanics/CLI/spells/major-image-xphb.md), [Plane Shift](/3-Mechanics/CLI/spells/plane-shift-xphb.md)"
   "name": "Spellcasting"
 - "desc": "The rakshasa automatically succeeds on saving throws against spells and\
     \ other magical effects, and the attack rolls of spells automatically miss it.\
@@ -69,26 +69,25 @@ Rakshasas' appearances combine humanlike bodies with the features of animals and
     \ or detect its thoughts, creature type, or alignment."
   "name": "Greater Magic Resistance"
 - "desc": "If the rakshasa dies outside the Nine Hells, its body turns to ichor, and\
-    \ it gains a new body instantly, reviving with all its [Hit Points](3-Mechanics/CLI/rules/variant-rules/hit-points-xphb.md)\
+    \ it gains a new body instantly, reviving with all its [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)\
     \ somewhere in the Nine Hells."
   "name": "Fiendish Restoration"
 "actions":
 - "desc": "The rakshasa makes three Cursed Touch attacks."
   "name": "Multiattack"
-- "desc": "Melee Attack Roll: +10, reach 5 ft. Hit: 12 (2d6 + 5) Slashing\
-    \ damage plus 19 (3d12) Necrotic damage. If the target is a creature, it is\
-    \ cursed. While cursed, the target gains no benefit from finishing a [Short](3-Mechanics/CLI/rules/variant-rules/short-rest-xphb.md)\
-    \ or [Long Rest](3-Mechanics/CLI/rules/variant-rules/long-rest-xphb.md)."
+- "desc": "Melee Attack Roll: +10, reach 5 ft. Hit: 12 (2d6 + 5) Slashing damage\
+    \ plus 19 (3d12) Necrotic damage. If the target is a creature, it is cursed. While\
+    \ cursed, the target gains no benefit from finishing a [Short](/3-Mechanics/CLI/variant-rules/short-rest-xphb.md)\
+    \ or [Long Rest](/3-Mechanics/CLI/variant-rules/long-rest-xphb.md)."
   "name": "Cursed Touch"
-- "desc": "Wisdom Saving Throw: DC 18, each enemy in a 30-foot [Emanation](3-Mechanics/CLI/rules/variant-rules/emanation-area-of-effect-xphb.md)\
-    \ originating from the rakshasa. Failure: 28 (8d6) Psychic damage, and the\
-    \ target has the [Frightened](3-Mechanics/CLI/rules/conditions.md#Frightened)\
-    \ and [Incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated) conditions\
-    \ until the start of the rakshasa's next turn."
+- "desc": "Wisdom Saving Throw: DC 18, each enemy in a 30-foot [Emanation](/3-Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md)\
+    \ originating from the rakshasa. Failure: 28 (8d6) Psychic damage, and the target\
+    \ has the [Frightened](/3-Mechanics/CLI/conditions.md#Frightened) and [Incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated)\
+    \ conditions until the start of the rakshasa's next turn."
   "name": "Baleful Command (Recharge 5-6)"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/fiend/token/rakshasa-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/fiend/token/rakshasa-xmm.webp"
 ```
 ^statblock
 

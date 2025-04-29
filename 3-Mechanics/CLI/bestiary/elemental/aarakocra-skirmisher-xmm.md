@@ -53,13 +53,13 @@ Aarakocra are birdlike folk who soar the skies of countless worlds and the endle
     \ the target immediately before the hit."
   "name": "Talons"
 - "desc": "Melee or Ranged Attack Roll: +4, reach 5 ft. or range 30/120 ft. Hit:\
-    \ 5 (1d6 + 2) Piercing damage plus 2 (1d4) Thunder damage. Hit or Miss:\
-    \ The javelin magically returns to the aarakocra's hand immediately after a ranged\
+    \ 5 (1d6 + 2) Piercing damage plus 2 (1d4) Thunder damage. Hit or Miss: The\
+    \ javelin magically returns to the aarakocra's hand immediately after a ranged\
     \ attack."
   "name": "Wind Javelin"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/elemental/token/aarakocra-skirmisher-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/elemental/token/aarakocra-skirmisher-xmm.webp"
 ```
 ^statblock
 

@@ -10,7 +10,7 @@ aliases:
 ---
 # Spell Scroll (Cantrip)
 *Scroll, common*  
-![](3-Mechanics/CLI/items/img/spell-scroll.webp#right)
+![](/3-Mechanics/CLI/items/img/spell-scroll.webp#right)
 
 - **Cost**: 30 gp
 
@@ -18,10 +18,10 @@ A Spell Scroll bears the words of a single spell, written in a mystical cipher. 
 
 If the spell is on your spell list but of a higher level than you can normally cast, you make a DC 10 ability check using your spellcasting ability to determine whether you cast the spell. On a failed check, the spell disappears from the scroll with no other effect.
 
-If the spell requires a saving throw or an attack roll, the spell save DC is 13, and the attack bonus is `+5`.
+If the spell requires a saving throw or an attack roll, the spell save DC is 13, and the attack bonus is `dice:1d20+5|noform|noparens|text(+5)`.
 
 ## Copying a Scroll into a Spellbook
 
-A Wizard spell on a Spell Scroll can be copied into a spellbook. When a cantrip is copied in this way, the copier must succeed on a DC 10 Intelligence ([Arcana](3-Mechanics/CLI/rules/skills.md#Arcana)). On a successful check, the spell is copied. Whether the check succeeds or fails, the Spell Scroll is destroyed.
+A Wizard spell on a Spell Scroll can be copied into a spellbook. When a cantrip is copied in this way, the copier must succeed on a DC 10 Intelligence ([Arcana](/3-Mechanics/CLI/skills.md#Arcana)). On a successful check, the spell is copied. Whether the check succeeds or fails, the Spell Scroll is destroyed.
 
-*Source: Dungeon Master's Guide (2024) p. 305, Player's Handbook (2024) p. 228. Available in the Free Rules (2024)*
+*Source: Dungeon Master's Guide (2024) p. 305, Player's Handbook (2024) p. 228. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*

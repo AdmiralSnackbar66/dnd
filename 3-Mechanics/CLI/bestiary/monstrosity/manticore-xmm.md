@@ -15,7 +15,7 @@ statblock: inline
 aliases: ["Manticore"]
 ---
 # [Manticore](3-Mechanics\CLI\bestiary\monstrosity/manticore-xmm.md)
-*Source: Monster Manual (2024) p. 202*  
+*Source: Monster Manual (2024) p. 202. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
 
 ## Manticore
 
@@ -75,7 +75,7 @@ Despite their ravenous tendencies, manticores enjoy speaking with those they're 
   "name": "Tail Spike"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/monstrosity/token/manticore-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/manticore-xmm.webp"
 ```
 ^statblock
 

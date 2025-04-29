@@ -6,7 +6,7 @@ tags:
 aliases: ["The Six Abilities; Ability Descriptions"]
 ---
 # The Six Abilities; Ability Descriptions
-*Source: Player's Handbook (2024) p. 10* 
+*Source: Player's Handbook (2024) p. 10. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>* 
 
 **Ability Descriptions**
 

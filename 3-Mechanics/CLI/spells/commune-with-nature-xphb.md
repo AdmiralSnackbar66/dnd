@@ -10,14 +10,12 @@ tags:
 - ttrpg-cli/spell/ritual
 - ttrpg-cli/spell/school/divination
 - ttrpg-cli/spell/subclass/oath-of-the-ancients
-- ttrpg-cli/spell/subclass/oath-of-the-open-sea
 - ttrpg-cli/spell/subclass/path-of-the-wild-heart
 classes:
 - Barbarian (Path of the Wild Heart)
 - Bard
 - Druid
 - Paladin (Oath of the Ancients)
-- Paladin (Oath of the Open Sea)
 - Ranger
 aliases: ["Commune with Nature"]
 ---
@@ -36,12 +34,12 @@ Choose three of the following facts; you learn those facts as they pertain to th
 
 - Locations of settlements  
 - Locations of portals to other planes of existence  
-- Location of one [Challenge Rating](3-Mechanics/CLI/rules/variant-rules/challenge-rating-xphb.md) 10+ creature (DM's choice) that is a Celestial, an Elemental, a Fey, a Fiend, or an Undead  
+- Location of one [Challenge Rating](/3-Mechanics/CLI/variant-rules/challenge-rating-xphb.md) 10+ creature (DM's choice) that is a Celestial, an Elemental, a Fey, a Fiend, or an Undead  
 - The most prevalent kind of plant, mineral, or Beast (you choose which to learn)  
 - Locations of bodies of water  
 
 For example, you could determine the location of a powerful monster in the area, the locations of bodies of water, and the locations of any towns.
 
-**Classes**: [Bard](3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Ranger](3-Mechanics/CLI/lists/list-spells-classes-ranger.md); [Druid](3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Paladin (Oath of the Ancients)](3-Mechanics/CLI/lists/list-spells-classes-paladin-xphb-oath-of-the-ancients-xphb.md "subclass=XPHB;class=XPHB"); [Barbarian (Path of the Wild Heart)](3-Mechanics/CLI/lists/list-spells-classes-barbarian-xphb-path-of-the-wild-heart-xphb.md "subclass=XPHB;class=XPHB"); [Paladin (Oath of the Open Sea)](3-Mechanics/CLI/lists/list-spells-classes-paladin-xphb-oath-of-the-open-sea-tdcsr.md "subclass=TDCSR;class=XPHB")
+**Classes**: [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Paladin (Oath of the Ancients)](/3-Mechanics/CLI/lists/list-spells-classes-paladin-xphb-oath-of-the-ancients-xphb.md "subclass=XPHB;class=XPHB"); [Ranger](/3-Mechanics/CLI/lists/list-spells-classes-ranger.md); [Barbarian (Path of the Wild Heart)](/3-Mechanics/CLI/lists/list-spells-classes-barbarian-xphb-path-of-the-wild-heart-xphb.md "subclass=XPHB;class=XPHB"); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md)
 
-*Source: Player's Handbook (2024) p. 252. Available in the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 252. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*

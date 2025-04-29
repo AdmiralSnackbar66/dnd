@@ -11,7 +11,7 @@ statblock: inline
 aliases: ["Warrior Veteran"]
 ---
 # [Warrior Veteran](3-Mechanics\CLI\bestiary\humanoid/warrior-veteran-xmm.md)
-*Source: Monster Manual (2024) p. 320*  
+*Source: Monster Manual (2024) p. 320. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
 
 Warrior veterans have participated in numerous battles and can hold their own against lesser rivals and monsters.
 
@@ -86,7 +86,7 @@ Roll on or choose a result from the Warrior Roles table to inspire the creation 
   "name": "Parry"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/warrior-veteran-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/humanoid/token/warrior-veteran-xmm.webp"
 ```
 ^statblock
 

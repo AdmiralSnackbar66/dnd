@@ -9,16 +9,18 @@ tags:
 - ttrpg-cli/spell/class/wizard
 - ttrpg-cli/spell/level/8th-level
 - ttrpg-cli/spell/school/transmutation
+- ttrpg-cli/spell/subclass/divine-soul
 classes:
 - Bard
 - Cleric
 - Druid
+- Sorcerer (Divine Soul)
 - Wizard
 aliases: ["Control Weather"]
 ---
 # Control Weather
 *8th-level, Transmutation*  
-![](3-Mechanics/CLI/spells/img/control-weather.webp#right)
+![](/3-Mechanics/CLI/spells/img/control-weather.webp#right)
 
 - **Casting time:** 10 minutes
 - **Range:** Self (5-mile Sphere)
@@ -65,6 +67,6 @@ When you change the weather conditions, find a current condition on the followin
 | 5 | Storm |
 ^wind
 
-**Classes**: [Cleric](3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Bard](3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Druid](3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Wizard](3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Sorcerer (Divine Soul)](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer-xphb-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 257. Available in the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 257. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*

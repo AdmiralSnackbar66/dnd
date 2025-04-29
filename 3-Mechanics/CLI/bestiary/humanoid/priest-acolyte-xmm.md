@@ -11,7 +11,7 @@ statblock: inline
 aliases: ["Priest Acolyte"]
 ---
 # [Priest Acolyte](3-Mechanics\CLI\bestiary\humanoid/priest-acolyte-xmm.md)
-*Source: Monster Manual (2024) p. 247*  
+*Source: Monster Manual (2024) p. 247. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
 
 Priest acolytes have great faith but modest magical skill. Some might be trainees in religious organizations or soldiers in zealous armies, while others are faith leaders in small communities or wanderers on pilgrimages.
 
@@ -73,22 +73,22 @@ Roll on or choose a result from the Priest Roles table to inspire different sort
 "cr": "1/4"
 "traits":
 - "desc": "The priest casts one of the following spells, using Wisdom as the spellcasting\
-    \ ability:\n\nAt will: [Light](3-Mechanics/CLI/spells/light-xphb.md), [Thaumaturgy](3-Mechanics/CLI/spells/thaumaturgy-xphb.md)"
+    \ ability:\n\nAt will: [Light](/3-Mechanics/CLI/spells/light-xphb.md), [Thaumaturgy](/3-Mechanics/CLI/spells/thaumaturgy-xphb.md)"
   "name": "Spellcasting"
-- "desc": "The priest casts [Bless](3-Mechanics/CLI/spells/bless-xphb.md), [Healing\
-    \ Word](3-Mechanics/CLI/spells/healing-word-xphb.md), or [Sanctuary](3-Mechanics/CLI/spells/sanctuary-xphb.md),\
-    \ using the same spellcasting ability as Spellcasting.\n\n1/day: [Bless](3-Mechanics/CLI/spells/bless-xphb.md),\
-    \ [Healing Word](3-Mechanics/CLI/spells/healing-word-xphb.md), [Sanctuary](3-Mechanics/CLI/spells/sanctuary-xphb.md)"
+- "desc": "The priest casts [Bless](/3-Mechanics/CLI/spells/bless-xphb.md), [Healing\
+    \ Word](/3-Mechanics/CLI/spells/healing-word-xphb.md), or [Sanctuary](/3-Mechanics/CLI/spells/sanctuary-xphb.md),\
+    \ using the same spellcasting ability as Spellcasting.\n\n1/day: [Bless](/3-Mechanics/CLI/spells/bless-xphb.md),\
+    \ [Healing Word](/3-Mechanics/CLI/spells/healing-word-xphb.md), [Sanctuary](/3-Mechanics/CLI/spells/sanctuary-xphb.md)"
   "name": "Divine Aid (1/Day)"
 "actions":
-- "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 5 (1d6 + 2) Bludgeoning\
-    \ damage plus 2 (1d4) Radiant damage."
+- "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 5 (1d6 + 2) Bludgeoning damage\
+    \ plus 2 (1d4) Radiant damage."
   "name": "Mace"
 - "desc": "Ranged Attack Roll: +4, range 60 ft. Hit: 7 (2d6) Radiant damage."
   "name": "Radiant Flame"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/priest-acolyte-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/humanoid/token/priest-acolyte-xmm.webp"
 ```
 ^statblock
 

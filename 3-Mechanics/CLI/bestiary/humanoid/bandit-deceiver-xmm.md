@@ -72,11 +72,11 @@ Roll on or choose a result from the Bandit Motivations table to determine the ci
 "cr": "7"
 "traits":
 - "desc": "The bandit casts one of the following spells, using Intelligence as the\
-    \ spellcasting ability (spell save DC 14):\n\nAt will: [Disguise Self](3-Mechanics/CLI/spells/disguise-self-xphb.md),\
-    \ [Mage Hand](3-Mechanics/CLI/spells/mage-hand-xphb.md), [Minor Illusion](3-Mechanics/CLI/spells/minor-illusion-xphb.md)\n\
-    \n1/day each: [Hold Person](3-Mechanics/CLI/spells/hold-person-xphb.md) (level\
-    \ 4 version), [Mage Armor](3-Mechanics/CLI/spells/mage-armor-xphb.md) (included\
-    \ in AC), [Major Image](3-Mechanics/CLI/spells/major-image-xphb.md)"
+    \ spellcasting ability (spell save DC 14):\n\nAt will: [Disguise Self](/3-Mechanics/CLI/spells/disguise-self-xphb.md),\
+    \ [Mage Hand](/3-Mechanics/CLI/spells/mage-hand-xphb.md), [Minor Illusion](/3-Mechanics/CLI/spells/minor-illusion-xphb.md)\n\
+    \n1/day each: [Hold Person](/3-Mechanics/CLI/spells/hold-person-xphb.md) (level\
+    \ 4 version), [Mage Armor](/3-Mechanics/CLI/spells/mage-armor-xphb.md) (included\
+    \ in AC), [Major Image](/3-Mechanics/CLI/spells/major-image-xphb.md)"
   "name": "Spellcasting"
 "actions":
 - "desc": "The bandit makes three Dagger attacks."
@@ -84,15 +84,15 @@ Roll on or choose a result from the Bandit Motivations table to determine the ci
 - "desc": "Melee or Ranged Attack Roll: +6, reach 5 ft. or range 20/60 ft. Hit:\
     \ 8 (2d4 + 3) Piercing damage plus 10 (3d6) Poison damage."
   "name": "Dagger"
-- "desc": "Constitution Saving Throw: DC 14, each creature in a 10-foot-radius [Sphere](3-Mechanics/CLI/rules/variant-rules/sphere-area-of-effect-xphb.md)\
-    \ centered on a point the bandit can see within 120 feet. Failure: 13 (3d6\
-    \ + 3) Radiant damage, and the target has the [Blinded](3-Mechanics/CLI/rules/conditions.md#Blinded)\
+- "desc": "Constitution Saving Throw: DC 14, each creature in a 10-foot-radius [Sphere](/3-Mechanics/CLI/variant-rules/sphere-area-of-effect-xphb.md)\
+    \ centered on a point the bandit can see within 120 feet. Failure: 13 (3d6 +\
+    \ 3) Radiant damage, and the target has the [Blinded](/3-Mechanics/CLI/conditions.md#Blinded)\
     \ condition until the start of the bandit's next turn. Success: Half damage\
     \ only."
   "name": "Blinding Flash (Recharge 4-6)"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/bandit-deceiver-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/humanoid/token/bandit-deceiver-xmm.webp"
 ```
 ^statblock
 

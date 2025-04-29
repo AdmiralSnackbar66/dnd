@@ -14,7 +14,7 @@ statblock: inline
 aliases: ["Minotaur Skeleton"]
 ---
 # [Minotaur Skeleton](3-Mechanics\CLI\bestiary\undead/minotaur-skeleton-xmm.md)
-*Source: Monster Manual (2024) p. 283*  
+*Source: Monster Manual (2024) p. 283. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
 
 Minotaur skeletons are the reanimated remains of minotaurs or the skeletons of multiple creatures merged into a minotaur-like shape. These hulking skeletons have greater speed and might than smaller skeletons. They menace the living with their horns and mighty greataxes.
 
@@ -59,8 +59,8 @@ Skeletons rise at the summons of necromancers and foul spirits. Whether they're 
 "speed": "40 ft."
 "damage_vulnerabilities": "bludgeoning"
 "damage_immunities": "poison"
-"condition_immunities": "[exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
-  \ [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"condition_immunities": "[exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
+  \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
 "senses": "darkvision 60 ft., passive Perception 9"
 "languages": "understands Abyssal but can't speak"
 "cr": "2"
@@ -68,15 +68,13 @@ Skeletons rise at the summons of necromancers and foul spirits. Whether they're 
 - "desc": "Melee Attack Roll: +6, reach 5 ft. Hit: 11 (2d6 + 4) Piercing damage.\
     \ If the target is a Large or smaller creature and the skeleton moved 20+ feet\
     \ straight toward it immediately before the hit, the target takes an extra 9 (2d8)\
-    \ Piercing damage and has the [Prone](3-Mechanics/CLI/rules/conditions.md#Prone)\
-    \ condition."
+    \ Piercing damage and has the [Prone](/3-Mechanics/CLI/conditions.md#Prone) condition."
   "name": "Gore"
-- "desc": "Melee Attack Roll: +6, reach 5 ft. Hit: 15 (2d10 + 4) Bludgeoning\
-    \ damage."
+- "desc": "Melee Attack Roll: +6, reach 5 ft. Hit: 15 (2d10 + 4) Bludgeoning damage."
   "name": "Slam"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/undead/token/minotaur-skeleton-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/undead/token/minotaur-skeleton-xmm.webp"
 ```
 ^statblock
 

@@ -9,9 +9,9 @@ aliases:
 ---
 # Circlet of Blasting
 *Wondrous item, uncommon*  
-![](3-Mechanics/CLI/items/img/circlet-of-blasting.webp#right)
+![](/3-Mechanics/CLI/items/img/circlet-of-blasting.webp#right)
 
 
-While wearing this circlet, you can cast [Scorching Ray](3-Mechanics/CLI/spells/scorching-ray-xphb.md) with it (`+5` to hit). The circlet can't cast this spell again until the next dawn.
+While wearing this circlet, you can cast [Scorching Ray](/3-Mechanics/CLI/spells/scorching-ray-xphb.md) with it (`dice:1d20+5|noform|noparens|text(+5)` to hit). The circlet can't cast this spell again until the next dawn.
 
-*Source: Dungeon Master's Guide (2024) p. 244. Available in the Free Rules (2024)*
+*Source: Dungeon Master's Guide (2024) p. 244. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*

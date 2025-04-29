@@ -32,29 +32,29 @@ The three shelves are filled with books bound in iron covers, which are attached
 - !!int "1"
 "speed": "10 ft."
 "damage_immunities": "poison, psychic"
-"condition_immunities": "[blinded](3-Mechanics/CLI/rules/conditions.md#Blinded), [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed),\
-  \ [deafened](3-Mechanics/CLI/rules/conditions.md#Deafened), [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
-  \ [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened), [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed),\
-  \ [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified), [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned),\
-  \ [prone](3-Mechanics/CLI/rules/conditions.md#Prone)"
+"condition_immunities": "[blinded](/3-Mechanics/CLI/conditions.md#Blinded), [charmed](/3-Mechanics/CLI/conditions.md#Charmed),\
+  \ [deafened](/3-Mechanics/CLI/conditions.md#Deafened), [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
+  \ [frightened](/3-Mechanics/CLI/conditions.md#Frightened), [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed),\
+  \ [petrified](/3-Mechanics/CLI/conditions.md#Petrified), [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned),\
+  \ [prone](/3-Mechanics/CLI/conditions.md#Prone)"
 "senses": "blindsight 30 ft. (blind beyond this radius), passive Perception 7"
 "languages": ""
 "cr": "1"
 "traits":
 - "desc": "If the library is motionless at the start of combat, it has advantage on\
     \ its initiative roll. Moreover, if a creature hasn't observed the library move\
-    \ or act, that creature must succeed on a DC 15 Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception))\
+    \ or act, that creature must succeed on a DC 15 Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception))\
     \ check to discern that the library is animate."
   "name": "False Object"
 "actions":
 - "desc": "The library makes two attacks."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8\
-    \ + 2) bludgeoning damage, and if the target is a creature, it is [grappled](3-Mechanics/CLI/rules/conditions.md#Grappled)\
+    \ + 2) bludgeoning damage, and if the target is a creature, it is [grappled](/3-Mechanics/CLI/conditions.md#Grappled)\
     \ (escape DC 12)."
   "name": "Chained Book"
 "source":
 - "CM"
-"image": "3-Mechanics/CLI/bestiary/construct/token/animated-chained-library-cm.webp"
+"image": "/3-Mechanics/CLI/bestiary/construct/token/animated-chained-library-cm.webp"
 ```
 ^statblock

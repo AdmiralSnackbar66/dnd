@@ -11,7 +11,7 @@ statblock: inline
 aliases: ["Hill Giant"]
 ---
 # [Hill Giant](3-Mechanics\CLI\bestiary\giant/hill-giant-xmm.md)
-*Source: Monster Manual (2024) p. 168*  
+*Source: Monster Manual (2024) p. 168. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
 
 ## Hill Giant
 
@@ -50,17 +50,17 @@ Disaster, invasion, or want might drive hill giants from their homes into other 
 "actions":
 - "desc": "The giant makes two attacks, using Tree Club or Trash Lob in any combination."
   "name": "Multiattack"
-- "desc": "Melee Attack Roll: +8, reach 10 ft. Hit: 18 (3d8 + 5) Bludgeoning\
-    \ damage. If the target is a Large or smaller creature, it has the [Prone](3-Mechanics/CLI/rules/conditions.md#Prone)\
+- "desc": "Melee Attack Roll: +8, reach 10 ft. Hit: 18 (3d8 + 5) Bludgeoning damage.\
+    \ If the target is a Large or smaller creature, it has the [Prone](/3-Mechanics/CLI/conditions.md#Prone)\
     \ condition."
   "name": "Tree Club"
 - "desc": "Ranged Attack Roll: +8, range 60/240 ft. Hit: 16 (2d10 + 5) Bludgeoning\
-    \ damage, and the target has the [Poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)\
+    \ damage, and the target has the [Poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)\
     \ condition until the end of its next turn."
   "name": "Trash Lob"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/giant/token/hill-giant-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/giant/token/hill-giant-xmm.webp"
 ```
 ^statblock
 

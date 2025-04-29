@@ -11,7 +11,7 @@ statblock: inline
 aliases: ["White Dragon Wyrmling"]
 ---
 # [White Dragon Wyrmling](3-Mechanics\CLI\bestiary\dragon/white-dragon-wyrmling-xmm.md)
-*Source: Monster Manual (2024) p. 328*  
+*Source: Monster Manual (2024) p. 328. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
 
 White dragon wyrmlings usually head off on their own soon after hatching. While the cold means little to these creatures, food is scarce in arctic realms, and predators there are merciless. Most white dragon wyrmlings survive by scavenging, hunting opportunistically, and quickly fleeing foes—including other white dragons.
 
@@ -59,7 +59,7 @@ White dragons brood in bitterly cold lairs clawed from stone and ice.
 "cr": "2"
 "traits":
 - "desc": "The dragon can move across and climb icy surfaces without needing to make\
-    \ an ability check. Additionally, [Difficult Terrain](3-Mechanics/CLI/rules/variant-rules/difficult-terrain-xphb.md)\
+    \ an ability check. Additionally, [Difficult Terrain](/3-Mechanics/CLI/variant-rules/difficult-terrain-xphb.md)\
     \ composed of ice or snow doesn't cost it extra movement."
   "name": "Ice Walk"
 "actions":
@@ -68,12 +68,12 @@ White dragons brood in bitterly cold lairs clawed from stone and ice.
 - "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 6 (1d8 + 2) Slashing damage\
     \ plus 2 (1d4) Cold damage."
   "name": "Rend"
-- "desc": "Constitution Saving Throw: DC 12, each creature in a 15-foot [Cone](3-Mechanics/CLI/rules/variant-rules/cone-area-of-effect-xphb.md).\
+- "desc": "Constitution Saving Throw: DC 12, each creature in a 15-foot [Cone](/3-Mechanics/CLI/variant-rules/cone-area-of-effect-xphb.md).\
     \ Failure: 22 (5d8) Cold damage. Success: Half damage."
   "name": "Cold Breath (Recharge 5-6)"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/dragon/token/white-dragon-wyrmling-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/dragon/token/white-dragon-wyrmling-xmm.webp"
 ```
 ^statblock
 

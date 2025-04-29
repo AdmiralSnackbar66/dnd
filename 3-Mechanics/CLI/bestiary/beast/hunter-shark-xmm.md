@@ -11,11 +11,11 @@ statblock: inline
 aliases: ["Hunter Shark"]
 ---
 # [Hunter Shark](3-Mechanics\CLI\bestiary\beast/hunter-shark-xmm.md)
-*Source: Monster Manual (2024) p. 363*  
+*Source: Monster Manual (2024) p. 363. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
 
 ## Animals
 
-Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [Panther](3-Mechanics/CLI/bestiary/beast/panther-xmm.md) stat block can also represent a mountain lion, while the [Giant Goat](3-Mechanics/CLI/bestiary/beast/giant-goat-xmm.md) stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
+Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [Panther](/3-Mechanics/CLI/bestiary/beast/panther-xmm.md) stat block can also represent a mountain lion, while the [Giant Goat](/3-Mechanics/CLI/bestiary/beast/giant-goat-xmm.md) stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
 
 ```statblock
 "name": "Hunter Shark (XMM)"
@@ -42,13 +42,13 @@ Use these stat blocks to represent the creatures they're named for or other simi
 - "desc": "The shark can breathe only underwater."
   "name": "Water Breathing"
 "actions":
-- "desc": "Melee Attack Roll: +6 (with [Advantage](3-Mechanics/CLI/rules/variant-rules/advantage-xphb.md)\
-    \ if the target doesn't have all its [Hit Points](3-Mechanics/CLI/rules/variant-rules/hit-points-xphb.md)),\
+- "desc": "Melee Attack Roll: +6 (with [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
+    \ if the target doesn't have all its [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)),\
     \ reach 5 ft. Hit: 14 (3d6 + 4) Piercing damage."
   "name": "Bite"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/beast/token/hunter-shark-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/beast/token/hunter-shark-xmm.webp"
 ```
 ^statblock
 

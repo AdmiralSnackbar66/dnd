@@ -37,9 +37,9 @@ With cheerful dispositions and a knack for walking backward, Strixhaven campus g
   "Insight": !!int "3"
   "Persuasion": !!int "3"
 "damage_immunities": "poison"
-"condition_immunities": "[blinded](3-Mechanics/CLI/rules/conditions.md#Blinded), [deafened](3-Mechanics/CLI/rules/conditions.md#Deafened),\
-  \ [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion), [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed),\
-  \ [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified), [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"condition_immunities": "[blinded](/3-Mechanics/CLI/conditions.md#Blinded), [deafened](/3-Mechanics/CLI/conditions.md#Deafened),\
+  \ [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion), [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed),\
+  \ [petrified](/3-Mechanics/CLI/conditions.md#Petrified), [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
 "senses": "blindsight 60 ft., passive Perception 11"
 "languages": "Common plus any three languages"
 "cr": "1"
@@ -60,11 +60,11 @@ With cheerful dispositions and a knack for walking backward, Strixhaven campus g
     \ + 2) bludgeoning damage."
   "name": "Slam"
 - "desc": "Each creature of the guide's choice that is within 30 feet of the guide\
-    \ must succeed on a DC 11 Wisdom saving throw or be magically [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed)\
-    \ by the guide for 1 hour.\n\nA [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed)\
+    \ must succeed on a DC 11 Wisdom saving throw or be magically [charmed](/3-Mechanics/CLI/conditions.md#Charmed)\
+    \ by the guide for 1 hour.\n\nA [charmed](/3-Mechanics/CLI/conditions.md#Charmed)\
     \ target must move on its turn toward the guide, trying to get within 5 feet of\
     \ the guide. The target doesn't move into obviously dangerous ground, such as\
-    \ a fire or a pit. Whenever the [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed)\
+    \ a fire or a pit. Whenever the [charmed](/3-Mechanics/CLI/conditions.md#Charmed)\
     \ target takes damage, it can repeat the saving throw, ending the effect on itself\
     \ on a success.\n\nA target that successfully saves is immune to any guide's Smile\
     \ and Wave ability for the next 24 hours."
@@ -74,6 +74,6 @@ With cheerful dispositions and a knack for walking backward, Strixhaven campus g
   "name": "Need Directions"
 "source":
 - "SCC"
-"image": "3-Mechanics/CLI/bestiary/construct/token/strixhaven-campus-guide-scc.webp"
+"image": "/3-Mechanics/CLI/bestiary/construct/token/strixhaven-campus-guide-scc.webp"
 ```
 ^statblock

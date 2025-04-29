@@ -17,4 +17,4 @@ aliases: ["Initial Attitudes; Initial Attitude"]
 | 9-12 | Friendly |
 ^initial-attitude
 
-*Roll different dice to alter the range and likelihood of possible attitudes. For example, you could roll `1d6` for a predatory monster, `1d6 + 3` for ordinary travelers, or `1d6 + 6` for kindhearted individuals.
+*Roll different dice to alter the range and likelihood of possible attitudes. For example, you could roll `dice:1d6|noform|noparens|avg` (`1d6`) for a predatory monster, `dice:1d6+3|noform|noparens|avg` (`1d6 + 3`) for ordinary travelers, or `dice:1d6+6|noform|noparens|avg` (`1d6 + 6`) for kindhearted individuals.

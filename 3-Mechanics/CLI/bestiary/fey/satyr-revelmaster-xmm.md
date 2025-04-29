@@ -53,31 +53,31 @@ Satyrs embody the untamed joys of the wilderness. They indulge in sprees of merr
 "languages": "Common, Elvish, Sylvan"
 "cr": "6"
 "traits":
-- "desc": "The satyr has [Advantage](3-Mechanics/CLI/rules/variant-rules/advantage-xphb.md)\
+- "desc": "The satyr has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
     \ on saving throws against spells and other magical effects."
   "name": "Magic Resistance"
 "actions":
 - "desc": "The satyr makes three Prance attacks."
   "name": "Multiattack"
-- "desc": "Melee Attack Roll: +7, reach 5 ft. Hit: 13 (2d8 + 4) Bludgeoning\
-    \ damage, and the target has the [Charmed](3-Mechanics/CLI/rules/conditions.md#Charmed)\
-    \ condition until the start of the satyr's next turn."
+- "desc": "Melee Attack Roll: +7, reach 5 ft. Hit: 13 (2d8 + 4) Bludgeoning damage,\
+    \ and the target has the [Charmed](/3-Mechanics/CLI/conditions.md#Charmed) condition\
+    \ until the start of the satyr's next turn."
   "name": "Prance"
 - "desc": "The satyr conjures a charming or frightening song. Wisdom Saving Throw:\
-    \ DC 14, each enemy in a 60-foot [Emanation](3-Mechanics/CLI/rules/variant-rules/emanation-area-of-effect-xphb.md)\
+    \ DC 14, each enemy in a 60-foot [Emanation](/3-Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md)\
     \ originating from the satyr. Failure: The target is subjected to the song's\
-    \ effect:\n\n- Charming. The target has the [Charmed](3-Mechanics/CLI/rules/conditions.md#Charmed)\
-    \ condition for 1 minute. While [Charmed](3-Mechanics/CLI/rules/conditions.md#Charmed),\
-    \ the target has the [Incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated)\
+    \ effect:\n\n- Charming. The target has the [Charmed](/3-Mechanics/CLI/conditions.md#Charmed)\
+    \ condition for 1 minute. While [Charmed](/3-Mechanics/CLI/conditions.md#Charmed),\
+    \ the target has the [Incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated)\
     \ condition and uses all its movement to dance in place. The effect ends on the\
-    \ target if it takes any damage.  \n- Frightening. 10 (2d6 + 3) Psychic\
-    \ damage, and the target has the [Frightened](3-Mechanics/CLI/rules/conditions.md#Frightened)\
+    \ target if it takes any damage.  \n- Frightening. 10 (2d6 + 3) Psychic damage,\
+    \ and the target has the [Frightened](/3-Mechanics/CLI/conditions.md#Frightened)\
     \ condition for 1 minute. If the target ends its turn out of line of sight from\
     \ the satyr, the condition ends on it.  "
   "name": "Fey Melody (Recharge 4-6)"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/fey/token/satyr-revelmaster-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/fey/token/satyr-revelmaster-xmm.webp"
 ```
 ^statblock
 

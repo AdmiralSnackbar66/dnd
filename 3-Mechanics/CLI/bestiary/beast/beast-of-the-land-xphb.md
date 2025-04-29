@@ -37,11 +37,11 @@ aliases: ["Beast of the Land"]
     \ reach 5 ft. Hit: 1d8 + 2 plus your Wisdom modifier Bludgeoning, Piercing,\
     \ or Slashing damage (your choice when you summon the beast). If the beast moved\
     \ at least 20 feet straight toward the target before the hit, the target takes\
-    \ an extra 1d6 damage of the same type, and the target has the [Prone](3-Mechanics/CLI/rules/conditions.md#Prone)\
+    \ an extra 1d6 damage of the same type, and the target has the [Prone](/3-Mechanics/CLI/conditions.md#Prone)\
     \ condition if it is a Large or smaller creature."
   "name": "Beast's Strike"
 "source":
 - "XPHB"
-"image": "3-Mechanics/CLI/bestiary/beast/token/beast-of-the-land-xphb.webp"
+"image": "/3-Mechanics/CLI/bestiary/beast/token/beast-of-the-land-xphb.webp"
 ```
 ^statblock

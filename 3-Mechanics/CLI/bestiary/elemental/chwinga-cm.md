@@ -22,8 +22,8 @@ Chwingas find the trappings of civilization fascinating. They puzzle over creatu
 
 Chwingas that live in the desert can bestow the following additional supernatural charms:
 
-- [Charm of the Mirage](3-Mechanics/CLI/rewards/charm-of-the-mirage-cm.md)  
-- [Charm of the Water Bearer](3-Mechanics/CLI/rewards/charm-of-the-water-bearer-cm.md)  
+- [Charm of the Mirage](/3-Mechanics/CLI/rewards/charm-of-the-mirage-cm.md)  
+- [Charm of the Water Bearer](/3-Mechanics/CLI/rewards/charm-of-the-water-bearer-cm.md)  
 
 ```statblock
 "name": "Chwinga (CM)"
@@ -51,8 +51,8 @@ Chwingas that live in the desert can bestow the following additional supernatura
 "traits":
 - "desc": "The chwinga's innate spellcasting ability is Wisdom. It can innately cast\
     \ the following spells, requiring no material or verbal components:\n\nAt will:\
-    \ [druidcraft](3-Mechanics/CLI/spells/druidcraft-xphb.md), [guidance](3-Mechanics/CLI/spells/guidance-xphb.md),\
-    \ [pass without trace](3-Mechanics/CLI/spells/pass-without-trace-xphb.md), [resistance](3-Mechanics/CLI/spells/resistance-xphb.md)"
+    \ [druidcraft](/3-Mechanics/CLI/spells/druidcraft-xphb.md), [guidance](/3-Mechanics/CLI/spells/guidance-xphb.md),\
+    \ [pass without trace](/3-Mechanics/CLI/spells/pass-without-trace-xphb.md), [resistance](/3-Mechanics/CLI/spells/resistance-xphb.md)"
   "name": "Innate Spellcasting"
 - "desc": "The chwinga doesn't require air, food, or drink. When it dies, it turns\
     \ into a handful of flower petals, a cloud of pollen, a stone statuette resembling\
@@ -77,6 +77,6 @@ Chwingas that live in the desert can bestow the following additional supernatura
   "name": "Natural Shelter"
 "source":
 - "CM"
-"image": "3-Mechanics/CLI/bestiary/elemental/token/chwinga-cm.webp"
+"image": "/3-Mechanics/CLI/bestiary/elemental/token/chwinga-cm.webp"
 ```
 ^statblock

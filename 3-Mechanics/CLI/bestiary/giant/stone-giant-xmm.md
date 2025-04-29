@@ -12,7 +12,7 @@ statblock: inline
 aliases: ["Stone Giant"]
 ---
 # [Stone Giant](3-Mechanics\CLI\bestiary\giant/stone-giant-xmm.md)
-*Source: Monster Manual (2024) p. 300*  
+*Source: Monster Manual (2024) p. 300. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
 
 ## Stone Giant
 
@@ -61,7 +61,7 @@ Stone giants often ponder the mysteries of natural wonders, such as mountain spi
     \ damage."
   "name": "Stone Club"
 - "desc": "Ranged Attack Roll: +9, range 60/240 ft. Hit: 15 (2d8 + 6) Bludgeoning\
-    \ damage. If the target is a Large or smaller creature, it has the [Prone](3-Mechanics/CLI/rules/conditions.md#Prone)\
+    \ damage. If the target is a Large or smaller creature, it has the [Prone](/3-Mechanics/CLI/conditions.md#Prone)\
     \ condition."
   "name": "Boulder"
 "reactions":
@@ -74,7 +74,7 @@ Stone giants often ponder the mysteries of natural wonders, such as mountain spi
   "name": "Deflect Missile (Recharge 5-6)"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/giant/token/stone-giant-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/giant/token/stone-giant-xmm.webp"
 ```
 ^statblock
 

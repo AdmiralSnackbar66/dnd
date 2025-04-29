@@ -21,7 +21,7 @@ Fanatics are often part of a cult's leadership, using their charisma and dogma t
 "subtype": "dragonborn"
 "alignment": "Chaotic Neutral"
 "ac": !!int "13"
-"ac_class": "[leather armor](3-Mechanics/CLI/items/leather-armor-xphb.md)"
+"ac_class": "[leather armor](/3-Mechanics/CLI/items/leather-armor-xphb.md)"
 "hp": !!int "33"
 "hit_dice": "6d8 + 6"
 "stats":
@@ -43,15 +43,15 @@ Fanatics are often part of a cult's leadership, using their charisma and dogma t
 "traits":
 - "desc": "Ram Sugar is a 4th-level spellcaster. Its spellcasting ability is Wisdom\
     \ (spell save DC 11, +3 to hit with spell attacks). Ram Sugar has the following\
-    \ cleric spells prepared:\n\nCantrips (at will): [light](3-Mechanics/CLI/spells/light-xphb.md),\
-    \ [sacred flame](3-Mechanics/CLI/spells/sacred-flame-xphb.md), [thaumaturgy](3-Mechanics/CLI/spells/thaumaturgy-xphb.md)\n\
-    \n1st level (4 slots): [command](3-Mechanics/CLI/spells/command-xphb.md),\
-    \ [inflict wounds](3-Mechanics/CLI/spells/inflict-wounds-xphb.md), [shield of\
-    \ faith](3-Mechanics/CLI/spells/shield-of-faith-xphb.md)\n\n2nd level (3 slots):\
-    \ [hold person](3-Mechanics/CLI/spells/hold-person-xphb.md), [spiritual weapon](3-Mechanics/CLI/spells/spiritual-weapon-xphb.md)"
+    \ cleric spells prepared:\n\nCantrips (at will): [light](/3-Mechanics/CLI/spells/light-xphb.md),\
+    \ [sacred flame](/3-Mechanics/CLI/spells/sacred-flame-xphb.md), [thaumaturgy](/3-Mechanics/CLI/spells/thaumaturgy-xphb.md)\n\
+    \n1st level (4 slots): [command](/3-Mechanics/CLI/spells/command-xphb.md),\
+    \ [inflict wounds](/3-Mechanics/CLI/spells/inflict-wounds-xphb.md), [shield of\
+    \ faith](/3-Mechanics/CLI/spells/shield-of-faith-xphb.md)\n\n2nd level (3 slots):\
+    \ [hold person](/3-Mechanics/CLI/spells/hold-person-xphb.md), [spiritual weapon](/3-Mechanics/CLI/spells/spiritual-weapon-xphb.md)"
   "name": "Spellcasting"
-- "desc": "Ram Sugar has advantage on saving throws against being [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed)\
-    \ or [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened)."
+- "desc": "Ram Sugar has advantage on saving throws against being [charmed](/3-Mechanics/CLI/conditions.md#Charmed)\
+    \ or [frightened](/3-Mechanics/CLI/conditions.md#Frightened)."
   "name": "Dark Devotion"
 "actions":
 - "desc": "Ram Sugar makes two melee attacks."
@@ -65,6 +65,6 @@ Fanatics are often part of a cult's leadership, using their charisma and dogma t
   "name": "Breath Weapon (Recharges after a Short or Long Rest)"
 "source":
 - "CM"
-"image": "3-Mechanics/CLI/bestiary/npc/token/ram-sugar-cm.webp"
+"image": "/3-Mechanics/CLI/bestiary/npc/token/ram-sugar-cm.webp"
 ```
 ^statblock

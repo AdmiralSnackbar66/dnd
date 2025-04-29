@@ -9,4 +9,4 @@ aliases: ["Spells for Tiefling"]
 
 ## Cantrip
 
-- [Thaumaturgy](3-Mechanics/CLI/spells/thaumaturgy-xphb.md "XPHB") as cantrip
+- [Thaumaturgy](/3-Mechanics/CLI/spells/thaumaturgy-xphb.md "XPHB") as cantrip

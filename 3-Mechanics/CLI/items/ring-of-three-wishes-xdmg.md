@@ -9,9 +9,9 @@ aliases:
 ---
 # Ring of Three Wishes
 *Legendary*  
-![](3-Mechanics/CLI/items/img/ring-of-three-wishes.webp#right)
+![](/3-Mechanics/CLI/items/img/ring-of-three-wishes.webp#right)
 
 
-While wearing this ring, you can expend 1 of its 3 charges to cast [Wish](3-Mechanics/CLI/spells/wish-xphb.md) from it. The ring becomes nonmagical when you use the last charge.
+While wearing this ring, you can expend 1 of its 3 charges to cast [Wish](/3-Mechanics/CLI/spells/wish-xphb.md) from it. The ring becomes nonmagical when you use the last charge.
 
-*Source: Dungeon Master's Guide (2024) p. 296. Available in the Free Rules (2024)*
+*Source: Dungeon Master's Guide (2024) p. 296. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*

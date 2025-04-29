@@ -10,9 +10,9 @@ aliases:
 ---
 # Ring of Regeneration
 *Very rare (requires attunement)*  
-![](3-Mechanics/CLI/items/img/ring-of-regeneration.webp#right)
+![](/3-Mechanics/CLI/items/img/ring-of-regeneration.webp#right)
 
 
-While wearing this ring, you regain `1d6` [Hit Points](3-Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) every 10 minutes if you have at least 1 [Hit Point](3-Mechanics/CLI/rules/variant-rules/hit-points-xphb.md). If you lose a body part, the ring causes the missing part to regrow and return to full functionality after `1d6 + 1` days if you have at least 1 [Hit Point](3-Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) the whole time.
+While wearing this ring, you regain `dice:1d6|noform|noparens|avg` (`1d6`) [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md) every 10 minutes if you have at least 1 [Hit Point](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md). If you lose a body part, the ring causes the missing part to regrow and return to full functionality after `dice:1d6+1|noform|noparens|avg` (`1d6 + 1`) days if you have at least 1 [Hit Point](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md) the whole time.
 
-*Source: Dungeon Master's Guide (2024) p. 294. Available in the Free Rules (2024)*
+*Source: Dungeon Master's Guide (2024) p. 294. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*

@@ -50,9 +50,9 @@ The scholars of Silverquill College study the power of magic shaped through spok
 "traits":
 - "desc": "The apprentice casts one of the following spells, requiring no material\
     \ components and using Charisma as the spellcasting ability (spell save DC 12):\n\
-    \nAt will: [dancing lights](3-Mechanics/CLI/spells/dancing-lights-xphb.md),\
-    \ [friends](3-Mechanics/CLI/spells/friends-xphb.md)\n\n1/day each: [command](3-Mechanics/CLI/spells/command-xphb.md),\
-    \ [mage armor](3-Mechanics/CLI/spells/mage-armor-xphb.md)"
+    \nAt will: [dancing lights](/3-Mechanics/CLI/spells/dancing-lights-xphb.md),\
+    \ [friends](/3-Mechanics/CLI/spells/friends-xphb.md)\n\n1/day each: [command](/3-Mechanics/CLI/spells/command-xphb.md),\
+    \ [mage armor](/3-Mechanics/CLI/spells/mage-armor-xphb.md)"
   "name": "Spellcasting"
 "actions":
 - "desc": "Melee or Ranged Spell Attack: +4 to hit, reach 5 ft. or range 60 ft.,\
@@ -65,6 +65,6 @@ The scholars of Silverquill College study the power of magic shaped through spok
   "name": "Rousing Verse"
 "source":
 - "SCC"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/silverquill-apprentice-scc.webp"
+"image": "/3-Mechanics/CLI/bestiary/humanoid/token/silverquill-apprentice-scc.webp"
 ```
 ^statblock

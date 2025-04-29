@@ -6,7 +6,7 @@ tags:
 aliases: ["Ability Modifier; Saving Throw Examples"]
 ---
 # Ability Modifier; Saving Throw Examples
-*Source: Player's Handbook (2024) p. 11* 
+*Source: Player's Handbook (2024) p. 11. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>* 
 
 **Saving Throw Examples**
 

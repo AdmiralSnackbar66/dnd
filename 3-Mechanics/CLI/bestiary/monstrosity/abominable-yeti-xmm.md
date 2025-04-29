@@ -57,31 +57,31 @@ Due to yetis' elusiveness, folktales about yetis are more common than sightings.
 "languages": "Yeti"
 "cr": "9"
 "traits":
-- "desc": "If the yeti takes Fire damage, it has [Disadvantage](3-Mechanics/CLI/rules/variant-rules/disadvantage-xphb.md)\
+- "desc": "If the yeti takes Fire damage, it has [Disadvantage](/3-Mechanics/CLI/variant-rules/disadvantage-xphb.md)\
     \ on attack rolls and ability checks until the end of its next turn."
   "name": "Fear of Fire"
 "actions":
 - "desc": "The yeti can use its Chilling Gaze and makes two attacks, using Claw or\
     \ Ice Throw in any combination."
   "name": "Multiattack"
-- "desc": "Melee Attack Roll: +11, reach 5 ft. Hit: 14 (2d6 + 7) Slashing\
-    \ damage plus 7 (2d6) Cold damage."
+- "desc": "Melee Attack Roll: +11, reach 5 ft. Hit: 14 (2d6 + 7) Slashing damage\
+    \ plus 7 (2d6) Cold damage."
   "name": "Claw"
 - "desc": "Ranged Attack Roll: +11, range 60/240 ft. Hit: 12 (2d4 + 7) Bludgeoning\
     \ damage plus 7 (2d6) Cold damage."
   "name": "Ice Throw"
 - "desc": "Constitution Saving Throw: DC 18, one creature the yeti can see within\
-    \ 30 feet. Failure: 21 (6d6) Cold damage, and the target has the [Paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed)\
-    \ condition until the start of the yeti's next turn unless the target has [Immunity](3-Mechanics/CLI/rules/variant-rules/immunity-xphb.md)\
+    \ 30 feet. Failure: 21 (6d6) Cold damage, and the target has the [Paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed)\
+    \ condition until the start of the yeti's next turn unless the target has [Immunity](/3-Mechanics/CLI/variant-rules/immunity-xphb.md)\
     \ to Cold damage. Success: The target is immune to this yeti's Chilling Gaze\
     \ for 1 hour."
   "name": "Chilling Gaze"
-- "desc": "Constitution Saving Throw: DC 18, each creature in a 30-foot [Cone](3-Mechanics/CLI/rules/variant-rules/cone-area-of-effect-xphb.md).\
+- "desc": "Constitution Saving Throw: DC 18, each creature in a 30-foot [Cone](/3-Mechanics/CLI/variant-rules/cone-area-of-effect-xphb.md).\
     \ Failure: 45 (10d8) Cold damage. Success: Half damage."
   "name": "Cold Breath (Recharge 6)"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/monstrosity/token/abominable-yeti-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/abominable-yeti-xmm.webp"
 ```
 ^statblock
 

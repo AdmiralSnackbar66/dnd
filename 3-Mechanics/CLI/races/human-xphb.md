@@ -7,8 +7,8 @@ tags:
 aliases: ["Human"]
 ---
 # Human
-*Source: Player's Handbook (2024) p. 194. Available in the Free Rules (2024)*  
-![](3-Mechanics/CLI/races/img/human.webp#right)
+*Source: Player's Handbook (2024) p. 194. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
+![](/3-Mechanics/CLI/races/img/human.webp#right)
 
 - **Ability Scores**: None
 - **Type**: humanoid
@@ -19,7 +19,7 @@ aliases: ["Human"]
 
 ### Resourceful
 
-You gain [Heroic Inspiration](3-Mechanics/CLI/rules/variant-rules/heroic-inspiration-xphb.md) whenever you finish a [Long Rest](3-Mechanics/CLI/rules/variant-rules/long-rest-xphb.md).
+You gain [Heroic Inspiration](/3-Mechanics/CLI/variant-rules/heroic-inspiration-xphb.md) whenever you finish a [Long Rest](/3-Mechanics/CLI/variant-rules/long-rest-xphb.md).
 
 ### Skillful
 

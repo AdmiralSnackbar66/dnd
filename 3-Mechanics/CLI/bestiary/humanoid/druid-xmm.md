@@ -11,7 +11,7 @@ statblock: inline
 aliases: ["Druid"]
 ---
 # [Druid](3-Mechanics\CLI\bestiary\humanoid/druid-xmm.md)
-*Source: Monster Manual (2024) p. 106*  
+*Source: Monster Manual (2024) p. 106. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
 
 ## Druid
 
@@ -61,23 +61,23 @@ Druids use primal magic, traditional teachings, and bonds with animals and eldri
 "cr": "2"
 "traits":
 - "desc": "The druid casts one of the following spells, using Wisdom as the spellcasting\
-    \ ability (spell save DC 13):\n\nAt will: [Druidcraft](3-Mechanics/CLI/spells/druidcraft-xphb.md),\
-    \ [Speak with Animals](3-Mechanics/CLI/spells/speak-with-animals-xphb.md)\n\n\
-    1/day each: [Animal Messenger](3-Mechanics/CLI/spells/animal-messenger-xphb.md),\
-    \ [Longstrider](3-Mechanics/CLI/spells/longstrider-xphb.md), [Moonbeam](3-Mechanics/CLI/spells/moonbeam-xphb.md)\n\
-    \n2/day each: [Entangle](3-Mechanics/CLI/spells/entangle-xphb.md), [Thunderwave](3-Mechanics/CLI/spells/thunderwave-xphb.md)"
+    \ ability (spell save DC 13):\n\nAt will: [Druidcraft](/3-Mechanics/CLI/spells/druidcraft-xphb.md),\
+    \ [Speak with Animals](/3-Mechanics/CLI/spells/speak-with-animals-xphb.md)\n\n\
+    1/day each: [Animal Messenger](/3-Mechanics/CLI/spells/animal-messenger-xphb.md),\
+    \ [Longstrider](/3-Mechanics/CLI/spells/longstrider-xphb.md), [Moonbeam](/3-Mechanics/CLI/spells/moonbeam-xphb.md)\n\
+    \n2/day each: [Entangle](/3-Mechanics/CLI/spells/entangle-xphb.md), [Thunderwave](/3-Mechanics/CLI/spells/thunderwave-xphb.md)"
   "name": "Spellcasting"
 "actions":
 - "desc": "The druid makes two attacks, using Vine Staff or Verdant Wisp in any combination."
   "name": "Multiattack"
-- "desc": "Melee Attack Roll: +5, reach 5 ft. Hit: 7 (1d8 + 3) Bludgeoning\
-    \ damage plus 2 (1d4) Poison damage."
+- "desc": "Melee Attack Roll: +5, reach 5 ft. Hit: 7 (1d8 + 3) Bludgeoning damage\
+    \ plus 2 (1d4) Poison damage."
   "name": "Vine Staff"
 - "desc": "Ranged Attack Roll: +5, range 90 ft. Hit: 10 (3d6) Radiant damage."
   "name": "Verdant Wisp"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/druid-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/humanoid/token/druid-xmm.webp"
 ```
 ^statblock
 

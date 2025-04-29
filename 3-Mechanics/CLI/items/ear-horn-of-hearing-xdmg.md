@@ -12,6 +12,6 @@ aliases:
 
 
 
-While held up to your ear, this horn suppresses the effects of the [Deafened](3-Mechanics/CLI/rules/conditions.md#Deafened) condition on you.
+While held up to your ear, this horn suppresses the effects of the [Deafened](/3-Mechanics/CLI/conditions.md#Deafened) condition on you.
 
 *Source: Dungeon Master's Guide (2024) p. 256*

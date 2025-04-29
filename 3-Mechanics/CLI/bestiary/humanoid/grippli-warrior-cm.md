@@ -48,9 +48,9 @@ At first glance or from a distance, a grippli looks like a large frog. Its head 
 - "desc": "The grippli makes one attack with its tongue. If this attack hits, the\
     \ grippli can make a melee attack using its trident against the same target."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one Medium or smaller\
-    \ creature. Hit: The target is [grappled](3-Mechanics/CLI/rules/conditions.md#Grappled)\
-    \ (escape DC 12). Until this grapple ends, the target is [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained),\
+- "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one Medium or smaller creature.\
+    \ Hit: The target is [grappled](/3-Mechanics/CLI/conditions.md#Grappled) (escape\
+    \ DC 12). Until this grapple ends, the target is [restrained](/3-Mechanics/CLI/conditions.md#Restrained),\
     \ and the grippli can't grab another creature."
   "name": "Tongue"
 - "desc": "Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 20/60\
@@ -59,11 +59,11 @@ At first glance or from a distance, a grippli looks like a large frog. Its head 
     \ damage if the grippli had advantage on the attack roll."
   "name": "Trident"
 - "desc": "Ranged Weapon Attack: +4 to hit, range 80/320 ft., one target. Hit:\
-    \ 5 (1d6 + 2) piercing damage, plus 2 (1d4) piercing damage if the grippli\
-    \ had advantage on the attack roll."
+    \ 5 (1d6 + 2) piercing damage, plus 2 (1d4) piercing damage if the grippli had\
+    \ advantage on the attack roll."
   "name": "Shortbow"
 "source":
 - "CM"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/grippli-warrior-cm.webp"
+"image": "/3-Mechanics/CLI/bestiary/humanoid/token/grippli-warrior-cm.webp"
 ```
 ^statblock

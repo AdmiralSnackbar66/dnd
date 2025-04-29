@@ -7,6 +7,6 @@ tags:
 aliases: ["Mask of Many Faces"]
 ---
 # Mask of Many Faces
-*Source: Player's Handbook (2024) p. 156*  
+*Source: Player's Handbook (2024) p. 156. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
 **Prerequisite**: 2nd Warlock
-You can cast [Disguise Self](3-Mechanics/CLI/spells/disguise-self-xphb.md) without expending a spell slot.
+You can cast [Disguise Self](/3-Mechanics/CLI/spells/disguise-self-xphb.md) without expending a spell slot.

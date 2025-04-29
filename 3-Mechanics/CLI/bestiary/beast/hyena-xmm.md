@@ -14,11 +14,11 @@ statblock: inline
 aliases: ["Hyena"]
 ---
 # [Hyena](3-Mechanics\CLI\bestiary\beast/hyena-xmm.md)
-*Source: Monster Manual (2024) p. 363*  
+*Source: Monster Manual (2024) p. 363. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
 
 ## Animals
 
-Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [Panther](3-Mechanics/CLI/bestiary/beast/panther-xmm.md) stat block can also represent a mountain lion, while the [Giant Goat](3-Mechanics/CLI/bestiary/beast/giant-goat-xmm.md) stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
+Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [Panther](/3-Mechanics/CLI/bestiary/beast/panther-xmm.md) stat block can also represent a mountain lion, while the [Giant Goat](/3-Mechanics/CLI/bestiary/beast/giant-goat-xmm.md) stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
 
 ```statblock
 "name": "Hyena (XMM)"
@@ -42,9 +42,9 @@ Use these stat blocks to represent the creatures they're named for or other simi
 "languages": ""
 "cr": "0"
 "traits":
-- "desc": "The hyena has [Advantage](3-Mechanics/CLI/rules/variant-rules/advantage-xphb.md)\
+- "desc": "The hyena has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
     \ on an attack roll against a creature if at least one of the hyena's allies is\
-    \ within 5 feet of the creature and the ally doesn't have the [Incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated)\
+    \ within 5 feet of the creature and the ally doesn't have the [Incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated)\
     \ condition."
   "name": "Pack Tactics"
 "actions":
@@ -52,7 +52,7 @@ Use these stat blocks to represent the creatures they're named for or other simi
   "name": "Bite"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/beast/token/hyena-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/beast/token/hyena-xmm.webp"
 ```
 ^statblock
 

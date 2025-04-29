@@ -11,7 +11,7 @@ statblock: inline
 aliases: ["Bronze Dragon Wyrmling"]
 ---
 # [Bronze Dragon Wyrmling](3-Mechanics\CLI\bestiary\dragon/bronze-dragon-wyrmling-xmm.md)
-*Source: Monster Manual (2024) p. 58*  
+*Source: Monster Manual (2024) p. 58. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
 
 Bronze dragon wyrmlings believe they can solve any problems, and they seek to prove it. They often fixate on local challenges, such as drought or rampant banditry. While their zeal can be charming, these wyrmlings can get in over their heads and might then need help correcting mistakes.
 
@@ -66,16 +66,16 @@ Bronze dragons usually make their homes near or under the sea.
 - "desc": "Melee Attack Roll: +5, reach 5 ft. Hit: 8 (1d10 + 3) Slashing damage."
   "name": "Rend"
 - "desc": "Dexterity Saving Throw: DC 12, each creature in a 40-foot-long, 5-foot-wide\
-    \ [Line](3-Mechanics/CLI/rules/variant-rules/line-area-of-effect-xphb.md). Failure:\
+    \ [Line](/3-Mechanics/CLI/variant-rules/line-area-of-effect-xphb.md). Failure:\
     \ 16 (3d10) Lightning damage. Success: Half damage."
   "name": "Lightning Breath (Recharge 5-6)"
-- "desc": "Strength Saving Throw: DC 12, each creature in a 30-foot [Cone](3-Mechanics/CLI/rules/variant-rules/cone-area-of-effect-xphb.md).\
+- "desc": "Strength Saving Throw: DC 12, each creature in a 30-foot [Cone](/3-Mechanics/CLI/variant-rules/cone-area-of-effect-xphb.md).\
     \ Failure: The target is pushed up to 30 feet straight away from the dragon\
-    \ and has the [Prone](3-Mechanics/CLI/rules/conditions.md#Prone) condition."
+    \ and has the [Prone](/3-Mechanics/CLI/conditions.md#Prone) condition."
   "name": "Repulsion Breath"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/dragon/token/bronze-dragon-wyrmling-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/dragon/token/bronze-dragon-wyrmling-xmm.webp"
 ```
 ^statblock
 

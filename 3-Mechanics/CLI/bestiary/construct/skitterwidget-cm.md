@@ -32,9 +32,9 @@ A skitterwidget is made of metal and bears a passing resemblance to a giant dog-
 - !!int "1"
 "speed": "30 ft., climb 30 ft."
 "damage_immunities": "lightning, poison"
-"condition_immunities": "[blinded](3-Mechanics/CLI/rules/conditions.md#Blinded), [deafened](3-Mechanics/CLI/rules/conditions.md#Deafened),\
-  \ [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion), [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed),\
-  \ [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified), [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"condition_immunities": "[blinded](/3-Mechanics/CLI/conditions.md#Blinded), [deafened](/3-Mechanics/CLI/conditions.md#Deafened),\
+  \ [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion), [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed),\
+  \ [petrified](/3-Mechanics/CLI/conditions.md#Petrified), [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": "Skitterwidget"
 "cr": "5"
@@ -49,13 +49,13 @@ A skitterwidget is made of metal and bears a passing resemblance to a giant dog-
 - "desc": "The skitterwidget makes two attacks: one with its bite and one with its\
     \ tail."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 10\
-    \ (2d6 + 3) piercing damage. If the target is a creature, it is [grappled](3-Mechanics/CLI/rules/conditions.md#Grappled)\
+- "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 10 (2d6\
+    \ + 3) piercing damage. If the target is a creature, it is [grappled](/3-Mechanics/CLI/conditions.md#Grappled)\
     \ by the skitterwidget (escape DC 13)."
   "name": "Bite"
 - "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 6 (1d6\
-    \ + 3) piercing damage plus 10 (3d6) lightning damage, and if the target is\
-    \ a creature, it must succeed on a DC 15 Constitution saving throw or be [stunned](3-Mechanics/CLI/rules/conditions.md#Stunned)\
+    \ + 3) piercing damage plus 10 (3d6) lightning damage, and if the target is a\
+    \ creature, it must succeed on a DC 15 Constitution saving throw or be [stunned](/3-Mechanics/CLI/conditions.md#Stunned)\
     \ until the end of its next turn."
   "name": "Tail"
 "reactions":
@@ -64,6 +64,6 @@ A skitterwidget is made of metal and bears a passing resemblance to a giant dog-
   "name": "Good Parent"
 "source":
 - "CM"
-"image": "3-Mechanics/CLI/bestiary/construct/token/skitterwidget-cm.webp"
+"image": "/3-Mechanics/CLI/bestiary/construct/token/skitterwidget-cm.webp"
 ```
 ^statblock

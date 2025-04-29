@@ -11,7 +11,7 @@ statblock: inline
 aliases: ["Scout"]
 ---
 # [Scout](3-Mechanics\CLI\bestiary\humanoid/scout-xmm.md)
-*Source: Monster Manual (2024) p. 270*  
+*Source: Monster Manual (2024) p. 270. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
 
 Scouts are keen archers and acutely aware of their surroundings. They often know several regions particularly well and are familiar with local creatures, landmarks, and perils.
 
@@ -58,7 +58,7 @@ Scouts are warriors of the wilderness, trained in hunting and tracking. They mig
   "name": "Longbow"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/scout-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/humanoid/token/scout-xmm.webp"
 ```
 ^statblock
 

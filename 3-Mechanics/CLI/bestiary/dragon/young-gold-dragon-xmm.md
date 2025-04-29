@@ -12,7 +12,7 @@ statblock: inline
 aliases: ["Young Gold Dragon"]
 ---
 # [Young Gold Dragon](3-Mechanics\CLI\bestiary\dragon/young-gold-dragon-xmm.md)
-*Source: Monster Manual (2024) p. 144*  
+*Source: Monster Manual (2024) p. 144. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
 
 Young gold dragons have seen glimpses of the world's true evils and crusade to oppose them. They often seek bold and direct solutions to problems.
 
@@ -67,23 +67,22 @@ Gold dragons make their homes in places of natural and magical wonder.
 - "desc": "The dragon makes three Rend attacks. It can replace one attack with a use\
     \ of Weakening Breath."
   "name": "Multiattack"
-- "desc": "Melee Attack Roll: +10, reach 10 ft. Hit: 17 (2d10 + 6) Slashing\
-    \ damage."
+- "desc": "Melee Attack Roll: +10, reach 10 ft. Hit: 17 (2d10 + 6) Slashing damage."
   "name": "Rend"
-- "desc": "Dexterity Saving Throw: DC 17, each creature in a 30-foot [Cone](3-Mechanics/CLI/rules/variant-rules/cone-area-of-effect-xphb.md).\
+- "desc": "Dexterity Saving Throw: DC 17, each creature in a 30-foot [Cone](/3-Mechanics/CLI/variant-rules/cone-area-of-effect-xphb.md).\
     \ Failure: 55 (10d10) Fire damage. Success: Half damage."
   "name": "Fire Breath (Recharge 5-6)"
 - "desc": "Strength Saving Throw: DC 17, each creature that isn't currently affected\
-    \ by this breath in a 30-foot [Cone](3-Mechanics/CLI/rules/variant-rules/cone-area-of-effect-xphb.md).\
-    \ Failure: The target has [Disadvantage](3-Mechanics/CLI/rules/variant-rules/disadvantage-xphb.md)\
-    \ on Strength-based [D20 Tests](3-Mechanics/CLI/rules/variant-rules/d20-test-xphb.md)\
+    \ by this breath in a 30-foot [Cone](/3-Mechanics/CLI/variant-rules/cone-area-of-effect-xphb.md).\
+    \ Failure: The target has [Disadvantage](/3-Mechanics/CLI/variant-rules/disadvantage-xphb.md)\
+    \ on Strength-based [D20 Tests](/3-Mechanics/CLI/variant-rules/d20-test-xphb.md)\
     \ and subtracts 3 (1d6) from its damage rolls. It repeats the save at the end\
     \ of each of its turns, ending the effect on itself on a success. After 1 minute,\
     \ it succeeds automatically."
   "name": "Weakening Breath"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/dragon/token/young-gold-dragon-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/dragon/token/young-gold-dragon-xmm.webp"
 ```
 ^statblock
 

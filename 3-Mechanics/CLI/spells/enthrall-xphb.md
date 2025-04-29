@@ -21,8 +21,8 @@ aliases: ["Enthrall"]
 - **Components:** V, S
 - **Duration:** 1 minute
 
-You weave a distracting string of words, causing creatures of your choice that you can see within range to make a Wisdom saving throw. Any creature you or your companions are fighting automatically succeeds on this save. On a failed save, a target has a -10 penalty to Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) checks and Passive [Perception](3-Mechanics/CLI/rules/skills.md#Perception) until the spell ends.
+You weave a distracting string of words, causing creatures of your choice that you can see within range to make a Wisdom saving throw. Any creature you or your companions are fighting automatically succeeds on this save. On a failed save, a target has a -10 penalty to Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) checks and Passive [Perception](/3-Mechanics/CLI/skills.md#Perception) until the spell ends.
 
-**Classes**: [Bard](3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Warlock](3-Mechanics/CLI/lists/list-spells-classes-warlock.md)
+**Classes**: [Warlock](/3-Mechanics/CLI/lists/list-spells-classes-warlock.md); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md)
 
-*Source: Player's Handbook (2024) p. 269. Available in the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 269. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*

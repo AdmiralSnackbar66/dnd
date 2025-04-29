@@ -21,8 +21,8 @@ aliases: ["Crusader's Mantle"]
 - **Components:** V
 - **Duration:** Concentration, up to 1 minute
 
-You radiate a magical aura in a 30-foot Emanation. While in the aura, you and your allies each deal an extra `1d4` Radiant damage when hitting with a weapon or an [Unarmed Strike](3-Mechanics/CLI/rules/variant-rules/unarmed-strike-xphb.md).
+You radiate a magical aura in a 30-foot Emanation. While in the aura, you and your allies each deal an extra `dice:1d4|noform|noparens|avg` (`1d4`) Radiant damage when hitting with a weapon or an [Unarmed Strike](/3-Mechanics/CLI/variant-rules/unarmed-strike-xphb.md).
 
-**Classes**: [Paladin](3-Mechanics/CLI/lists/list-spells-classes-paladin.md); [Cleric (War Domain)](3-Mechanics/CLI/lists/list-spells-classes-cleric-xphb-war-domain-xphb.md "subclass=XPHB;class=XPHB")
+**Classes**: [Cleric (War Domain)](/3-Mechanics/CLI/lists/list-spells-classes-cleric-xphb-war-domain-xphb.md "subclass=XPHB;class=XPHB"); [Paladin](/3-Mechanics/CLI/lists/list-spells-classes-paladin.md)
 
 *Source: Player's Handbook (2024) p. 259*

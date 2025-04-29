@@ -32,7 +32,7 @@ You make an area within range magically secure. The area is a Cube that can be a
 When you cast the spell, you decide what sort of security the spell provides, choosing any of the following properties:
 
 - Sound can't pass through the barrier at the edge of the warded area.  
-- The barrier of the warded area appears dark and foggy, preventing vision (including [Darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision)) through it.  
+- The barrier of the warded area appears dark and foggy, preventing vision (including [Darkvision](/3-Mechanics/CLI/senses.md#Darkvision)) through it.  
 - Sensors created by Divination spells can't appear inside the protected area or pass through the barrier at its perimeter.  
 - Creatures in the area can't be targeted by Divination spells.  
 - Nothing can teleport into or out of the warded area.  
@@ -42,6 +42,6 @@ Casting this spell on the same spot every day for 365 days makes the spell last 
 
 **Using a Higher-Level Spell Slot.** You can increase the size of the Cube by 100 feet for each spell slot level above 4.
 
-**Classes**: [Rogue (Arcane Trickster)](3-Mechanics/CLI/lists/list-spells-classes-rogue-xphb-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Fighter (Eldritch Knight)](3-Mechanics/CLI/lists/list-spells-classes-fighter-xphb-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Bard](3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard (Abjurer)](3-Mechanics/CLI/lists/list-spells-classes-wizard-xphb-abjurer-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Rogue (Arcane Trickster)](/3-Mechanics/CLI/lists/list-spells-classes-rogue-xphb-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Fighter (Eldritch Knight)](/3-Mechanics/CLI/lists/list-spells-classes-fighter-xphb-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Wizard (Abjurer)](/3-Mechanics/CLI/lists/list-spells-classes-wizard-xphb-abjurer-xphb.md "subclass=XPHB;class=XPHB"); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 301. Available in the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 301. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> (as "Private Sanctum")*

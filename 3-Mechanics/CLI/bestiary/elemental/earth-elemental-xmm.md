@@ -14,7 +14,7 @@ statblock: inline
 aliases: ["Earth Elemental"]
 ---
 # [Earth Elemental](3-Mechanics\CLI\bestiary\elemental/earth-elemental-xmm.md)
-*Source: Monster Manual (2024) p. 108*  
+*Source: Monster Manual (2024) p. 108. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
 
 ## Earth Elemental
 
@@ -66,9 +66,9 @@ Earth elementals are typically made of more than dirt. While an elemental's comp
 "speed": "30 ft., burrow 30 ft."
 "damage_vulnerabilities": "thunder"
 "damage_immunities": "poison"
-"condition_immunities": "[exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
-  \ [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed), [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified),\
-  \ [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned), [unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious)"
+"condition_immunities": "[exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
+  \ [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed), [petrified](/3-Mechanics/CLI/conditions.md#Petrified),\
+  \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned), [unconscious](/3-Mechanics/CLI/conditions.md#Unconscious)"
 "senses": "darkvision 60 ft., tremorsense 60 ft., passive Perception 10"
 "languages": "Primordial (Terran)"
 "cr": "5"
@@ -81,16 +81,15 @@ Earth elementals are typically made of more than dirt. While an elemental's comp
 "actions":
 - "desc": "The elemental makes two attacks, using Slam or Rock Launch in any combination."
   "name": "Multiattack"
-- "desc": "Melee Attack Roll: +8, reach 10 ft. Hit: 14 (2d8 + 5) Bludgeoning\
-    \ damage."
+- "desc": "Melee Attack Roll: +8, reach 10 ft. Hit: 14 (2d8 + 5) Bludgeoning damage."
   "name": "Slam"
-- "desc": "Ranged Attack Roll: +8, range 60 ft. Hit: 8 (1d6 + 5) Bludgeoning\
-    \ damage. If the target is a Large or smaller creature, it has the [Prone](3-Mechanics/CLI/rules/conditions.md#Prone)\
+- "desc": "Ranged Attack Roll: +8, range 60 ft. Hit: 8 (1d6 + 5) Bludgeoning damage.\
+    \ If the target is a Large or smaller creature, it has the [Prone](/3-Mechanics/CLI/conditions.md#Prone)\
     \ condition."
   "name": "Rock Launch"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/elemental/token/earth-elemental-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/elemental/token/earth-elemental-xmm.webp"
 ```
 ^statblock
 

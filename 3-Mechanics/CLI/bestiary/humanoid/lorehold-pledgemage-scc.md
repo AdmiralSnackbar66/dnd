@@ -50,11 +50,11 @@ The archaeomancers of Lorehold College draw their magical might from the flow of
 "traits":
 - "desc": "The pledgemage casts one of the following spells, requiring no material\
     \ components and using Intelligence as the spellcasting ability (spell save DC\
-    \ 13):\n\nAt will: [guidance](3-Mechanics/CLI/spells/guidance-xphb.md), [light](3-Mechanics/CLI/spells/light-xphb.md)\n\
-    \n1/day each: [mage armor](3-Mechanics/CLI/spells/mage-armor-xphb.md), [speak\
-    \ with dead](3-Mechanics/CLI/spells/speak-with-dead-xphb.md), [stone shape](3-Mechanics/CLI/spells/stone-shape-xphb.md)\n\
-    \n2/day each: [comprehend languages](3-Mechanics/CLI/spells/comprehend-languages-xphb.md),\
-    \ [locate object](3-Mechanics/CLI/spells/locate-object-xphb.md)"
+    \ 13):\n\nAt will: [guidance](/3-Mechanics/CLI/spells/guidance-xphb.md), [light](/3-Mechanics/CLI/spells/light-xphb.md)\n\
+    \n1/day each: [mage armor](/3-Mechanics/CLI/spells/mage-armor-xphb.md), [speak\
+    \ with dead](/3-Mechanics/CLI/spells/speak-with-dead-xphb.md), [stone shape](/3-Mechanics/CLI/spells/stone-shape-xphb.md)\n\
+    \n2/day each: [comprehend languages](/3-Mechanics/CLI/spells/comprehend-languages-xphb.md),\
+    \ [locate object](/3-Mechanics/CLI/spells/locate-object-xphb.md)"
   "name": "Spellcasting"
 "actions":
 - "desc": "The pledgemage makes two Scroll Bash attacks."
@@ -71,8 +71,8 @@ The archaeomancers of Lorehold College draw their magical might from the flow of
 - "desc": "The pledgemage chooses a point within 30 feet of itself, shunting the minds\
     \ of nearby creatures out of this moment in time. Each creature in a 10-foot-radius\
     \ sphere centered on that point must succeed on a DC 13 Wisdom saving throw or\
-    \ be [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated) until\
-    \ the end of the pledgemage's next turn."
+    \ be [incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated) until the end\
+    \ of the pledgemage's next turn."
   "name": "Chronal Break (1/Day)"
 "reactions":
 - "desc": "When another creature within 60 feet of the pledgemage misses a target\
@@ -81,6 +81,6 @@ The archaeomancers of Lorehold College draw their magical might from the flow of
   "name": "Learn from the Past (2/Day)"
 "source":
 - "SCC"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/lorehold-pledgemage-scc.webp"
+"image": "/3-Mechanics/CLI/bestiary/humanoid/token/lorehold-pledgemage-scc.webp"
 ```
 ^statblock

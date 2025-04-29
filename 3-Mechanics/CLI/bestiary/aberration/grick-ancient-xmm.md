@@ -51,20 +51,19 @@ Gricks' origins are unclear, but some suggest these creatures arise from natural
 "actions":
 - "desc": "The grick makes one Beak attack, one Slam attack, and one Tentacles attack."
   "name": "Multiattack"
-- "desc": "Melee Attack Roll: +7, reach 10 ft. Hit: 22 (4d8 + 4) Piercing\
-    \ damage."
+- "desc": "Melee Attack Roll: +7, reach 10 ft. Hit: 22 (4d8 + 4) Piercing damage."
   "name": "Beak"
-- "desc": "Melee Attack Roll: +7, reach 10 ft. Hit: 7 (1d6 + 4) Bludgeoning\
-    \ damage. If the target is a Large or smaller creature, it has the [Prone](3-Mechanics/CLI/rules/conditions.md#Prone)\
+- "desc": "Melee Attack Roll: +7, reach 10 ft. Hit: 7 (1d6 + 4) Bludgeoning damage.\
+    \ If the target is a Large or smaller creature, it has the [Prone](/3-Mechanics/CLI/conditions.md#Prone)\
     \ condition."
   "name": "Slam"
-- "desc": "Melee Attack Roll: +7, reach 10 ft. Hit: 15 (2d10 + 4) Slashing\
-    \ damage. If the target is a Large or smaller creature, it has the [Grappled](3-Mechanics/CLI/rules/conditions.md#Grappled)\
+- "desc": "Melee Attack Roll: +7, reach 10 ft. Hit: 15 (2d10 + 4) Slashing damage.\
+    \ If the target is a Large or smaller creature, it has the [Grappled](/3-Mechanics/CLI/conditions.md#Grappled)\
     \ condition (escape DC 14) from all four tentacles."
   "name": "Tentacles"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/aberration/token/grick-ancient-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/aberration/token/grick-ancient-xmm.webp"
 ```
 ^statblock
 

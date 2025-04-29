@@ -8,9 +8,11 @@ tags:
 - ttrpg-cli/spell/class/wizard
 - ttrpg-cli/spell/level/5th-level
 - ttrpg-cli/spell/school/illusion
+- ttrpg-cli/spell/subclass/forge-domain
 - ttrpg-cli/spell/subclass/illusionist
 classes:
 - Bard
+- Cleric (Forge Domain)
 - Sorcerer
 - Wizard
 - Wizard (Illusionist)
@@ -42,6 +44,6 @@ The spell's duration depends on the object's material, as shown in the Materials
 
 **Using a Higher-Level Spell Slot.** The Cube increases by 5 feet for each spell slot level above 5.
 
-**Classes**: [Sorcerer](3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Bard](3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard (Illusionist)](3-Mechanics/CLI/lists/list-spells-classes-wizard-xphb-illusionist-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Wizard (Illusionist)](/3-Mechanics/CLI/lists/list-spells-classes-wizard-xphb-illusionist-xphb.md "subclass=XPHB;class=XPHB"); [Cleric (Forge Domain)](/3-Mechanics/CLI/lists/list-spells-classes-cleric-xphb-forge-domain-xge.md "subclass=XGE;class=XPHB"); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 259. Available in the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 259. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*

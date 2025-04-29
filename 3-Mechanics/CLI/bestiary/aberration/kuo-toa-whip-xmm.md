@@ -101,17 +101,17 @@ Kuo-toa typically organize their communities around sites they believe to be imp
 "languages": "Undercommon"
 "cr": "1"
 "traits":
-- "desc": "The kuo-toa casts [Shield of Faith](3-Mechanics/CLI/spells/shield-of-faith-xphb.md),\
-    \ using Wisdom as the spellcasting ability.\n\n2/day: [Shield of Faith](3-Mechanics/CLI/spells/shield-of-faith-xphb.md)"
+- "desc": "The kuo-toa casts [Shield of Faith](/3-Mechanics/CLI/spells/shield-of-faith-xphb.md),\
+    \ using Wisdom as the spellcasting ability.\n\n2/day: [Shield of Faith](/3-Mechanics/CLI/spells/shield-of-faith-xphb.md)"
   "name": "Shield of Faith (2/Day)"
 - "desc": "The kuo-toa can breathe air and water."
   "name": "Amphibious"
-- "desc": "While in sunlight, the kuo-toa has [Disadvantage](3-Mechanics/CLI/rules/variant-rules/disadvantage-xphb.md)\
+- "desc": "While in sunlight, the kuo-toa has [Disadvantage](/3-Mechanics/CLI/variant-rules/disadvantage-xphb.md)\
     \ on ability checks and attack rolls."
   "name": "Sunlight Sensitivity"
 "actions":
 - "desc": "Melee Attack Roll: +4, reach 10 ft. Hit: 9 (2d6 + 2) Piercing damage.\
-    \ If the target is a Medium or smaller creature, it has the [Grappled](3-Mechanics/CLI/rules/conditions.md#Grappled)\
+    \ If the target is a Medium or smaller creature, it has the [Grappled](/3-Mechanics/CLI/conditions.md#Grappled)\
     \ condition (escape DC 12). Until the grapple ends, the kuo-toa can't make Pincer\
     \ Staff attacks."
   "name": "Pincer Staff"
@@ -119,7 +119,7 @@ Kuo-toa typically organize their communities around sites they believe to be imp
   "name": "Conjure Slimy Glob"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/aberration/token/kuo-toa-whip-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/aberration/token/kuo-toa-whip-xmm.webp"
 ```
 ^statblock
 

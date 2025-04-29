@@ -51,23 +51,23 @@ Barely a foot tall, pixies resemble diminutive elves with gossamer wings. They i
 "traits":
 - "desc": "The pixie casts one of the following spells, requiring no Material components\
     \ and using Charisma as the spellcasting ability (spell save DC 12):\n\nAt will:\
-    \ [Dancing Lights](3-Mechanics/CLI/spells/dancing-lights-xphb.md), [Druidcraft](3-Mechanics/CLI/spells/druidcraft-xphb.md),\
-    \ [Invisibility](3-Mechanics/CLI/spells/invisibility-xphb.md) (self only)\n\n\
-    1/day each: [Detect Thoughts](3-Mechanics/CLI/spells/detect-thoughts-xphb.md),\
-    \ [Fly](3-Mechanics/CLI/spells/fly-xphb.md), [Sleep](3-Mechanics/CLI/spells/sleep-xphb.md)"
+    \ [Dancing Lights](/3-Mechanics/CLI/spells/dancing-lights-xphb.md), [Druidcraft](/3-Mechanics/CLI/spells/druidcraft-xphb.md),\
+    \ [Invisibility](/3-Mechanics/CLI/spells/invisibility-xphb.md) (self only)\n\n\
+    1/day each: [Detect Thoughts](/3-Mechanics/CLI/spells/detect-thoughts-xphb.md),\
+    \ [Fly](/3-Mechanics/CLI/spells/fly-xphb.md), [Sleep](/3-Mechanics/CLI/spells/sleep-xphb.md)"
   "name": "Spellcasting"
-- "desc": "The pixie has [Advantage](3-Mechanics/CLI/rules/variant-rules/advantage-xphb.md)\
+- "desc": "The pixie has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
     \ on saving throws against spells and other magical effects."
   "name": "Magic Resistance"
 "actions":
-- "desc": "Melee or Ranged Attack Roll: +4, reach 5 ft. or range 60 ft. Hit:\
-    \ 1 Radiant damage, and the target has the [Charmed](3-Mechanics/CLI/rules/conditions.md#Charmed)\
-    \ or [Poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned) condition (pixie's\
-    \ choice) until the start of the pixie's next turn."
+- "desc": "Melee or Ranged Attack Roll: +4, reach 5 ft. or range 60 ft. Hit: 1\
+    \ Radiant damage, and the target has the [Charmed](/3-Mechanics/CLI/conditions.md#Charmed)\
+    \ or [Poisoned](/3-Mechanics/CLI/conditions.md#Poisoned) condition (pixie's choice)\
+    \ until the start of the pixie's next turn."
   "name": "Faerie Dust"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/fey/token/pixie-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/fey/token/pixie-xmm.webp"
 ```
 ^statblock
 

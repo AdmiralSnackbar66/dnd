@@ -12,7 +12,7 @@ statblock: inline
 aliases: ["Young Red Dragon"]
 ---
 # [Young Red Dragon](3-Mechanics\CLI\bestiary\dragon/young-red-dragon-xmm.md)
-*Source: Monster Manual (2024) p. 254*  
+*Source: Monster Manual (2024) p. 254. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
 
 Young red dragons number among the most unpredictable of their kind. They seek territories rich with treasures and potential followers, raiding, burning, and slaughtering to enforce their will. Unless these dragons meet significant resistance, they cement their power and begin reigns of terror that can last for centuries.
 
@@ -63,15 +63,15 @@ Red dragons make their lairs in smoldering, unapproachable places such as volcan
 "actions":
 - "desc": "The dragon makes three Rend attacks."
   "name": "Multiattack"
-- "desc": "Melee Attack Roll: +10, reach 10 ft. Hit: 13 (2d6 + 6) Slashing\
-    \ damage plus 3 (1d6) Fire damage."
+- "desc": "Melee Attack Roll: +10, reach 10 ft. Hit: 13 (2d6 + 6) Slashing damage\
+    \ plus 3 (1d6) Fire damage."
   "name": "Rend"
-- "desc": "Dexterity Saving Throw: DC 17, each creature in a 30-foot [Cone](3-Mechanics/CLI/rules/variant-rules/cone-area-of-effect-xphb.md).\
+- "desc": "Dexterity Saving Throw: DC 17, each creature in a 30-foot [Cone](/3-Mechanics/CLI/variant-rules/cone-area-of-effect-xphb.md).\
     \ Failure: 56 (16d6) Fire damage. Success: Half damage."
   "name": "Fire Breath (Recharge 5-6)"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/dragon/token/young-red-dragon-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/dragon/token/young-red-dragon-xmm.webp"
 ```
 ^statblock
 

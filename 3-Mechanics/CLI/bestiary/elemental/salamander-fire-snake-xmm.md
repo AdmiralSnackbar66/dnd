@@ -56,7 +56,7 @@ Salamanders are typically content to dwell on the Elemental Plane of Fire, creat
 "cr": "1"
 "traits":
 - "desc": "At the end of each of the salamander's turns, each creature of the salamander's\
-    \ choice in a 5-foot [Emanation](3-Mechanics/CLI/rules/variant-rules/emanation-area-of-effect-xphb.md)\
+    \ choice in a 5-foot [Emanation](/3-Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md)\
     \ originating from the salamander takes 3 (1d6) Fire damage."
   "name": "Fire Aura"
 "actions":
@@ -65,7 +65,7 @@ Salamanders are typically content to dwell on the Elemental Plane of Fire, creat
   "name": "Bite"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/elemental/token/salamander-fire-snake-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/elemental/token/salamander-fire-snake-xmm.webp"
 ```
 ^statblock
 

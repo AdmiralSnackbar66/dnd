@@ -12,7 +12,7 @@ statblock: inline
 aliases: ["Young Silver Dragon"]
 ---
 # [Young Silver Dragon](3-Mechanics\CLI\bestiary\dragon/young-silver-dragon-xmm.md)
-*Source: Monster Manual (2024) p. 278*  
+*Source: Monster Manual (2024) p. 278. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
 
 Young silver dragons usually have close ties with elder metallic dragons or heroic role models, helping those with great goals achieve their ambitions. They might serve as messengers for or representatives of such do-gooders.
 
@@ -65,22 +65,21 @@ Silver dragons typically lair in picturesque mountain retreats or on sculpted cl
 - "desc": "The dragon makes three Rend attacks. It can replace one attack with a use\
     \ of Paralyzing Breath."
   "name": "Multiattack"
-- "desc": "Melee Attack Roll: +10, reach 10 ft. Hit: 15 (2d8 + 6) Slashing\
-    \ damage."
+- "desc": "Melee Attack Roll: +10, reach 10 ft. Hit: 15 (2d8 + 6) Slashing damage."
   "name": "Rend"
-- "desc": "Constitution Saving Throw: DC 17, each creature in a 30-foot [Cone](3-Mechanics/CLI/rules/variant-rules/cone-area-of-effect-xphb.md).\
+- "desc": "Constitution Saving Throw: DC 17, each creature in a 30-foot [Cone](/3-Mechanics/CLI/variant-rules/cone-area-of-effect-xphb.md).\
     \ Failure: 49 (11d8) Cold damage. Success: Half damage."
   "name": "Cold Breath (Recharge 5-6)"
-- "desc": "Constitution Saving Throw: DC 17, each creature in a 30-foot [Cone](3-Mechanics/CLI/rules/variant-rules/cone-area-of-effect-xphb.md).\
-    \ 1st Failure: The target has the [Incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated)\
+- "desc": "Constitution Saving Throw: DC 17, each creature in a 30-foot [Cone](/3-Mechanics/CLI/variant-rules/cone-area-of-effect-xphb.md).\
+    \ 1st Failure: The target has the [Incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated)\
     \ condition until the end of its next turn, when it repeats the save. 2nd Failure:\
-    \ The target has the [Paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed)\
-    \ condition, and it repeats the save at the end of each of its turns, ending the\
-    \ effect on itself on a success. After 1 minute, it succeeds automatically."
+    \ The target has the [Paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed) condition,\
+    \ and it repeats the save at the end of each of its turns, ending the effect on\
+    \ itself on a success. After 1 minute, it succeeds automatically."
   "name": "Paralyzing Breath"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/dragon/token/young-silver-dragon-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/dragon/token/young-silver-dragon-xmm.webp"
 ```
 ^statblock
 

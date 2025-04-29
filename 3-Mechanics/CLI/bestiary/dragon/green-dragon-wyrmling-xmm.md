@@ -11,7 +11,7 @@ statblock: inline
 aliases: ["Green Dragon Wyrmling"]
 ---
 # [Green Dragon Wyrmling](3-Mechanics\CLI\bestiary\dragon/green-dragon-wyrmling-xmm.md)
-*Source: Monster Manual (2024) p. 152*  
+*Source: Monster Manual (2024) p. 152. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
 
 Green dragon wyrmlings often serve as pawns in older dragons' schemes. By spying on those dragons' agents, wyrmlings learn the art of manipulation. Once they've accumulated influence and lackeys, these wyrmlings depart to claim their own territories and pursue their sinister ambitions.
 
@@ -54,7 +54,7 @@ Green dragons lair in ancient forests, often shaping stands of massive trees int
   "Stealth": !!int "3"
   "Perception": !!int "4"
 "damage_immunities": "poison"
-"condition_immunities": "[poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"condition_immunities": "[poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
 "senses": "blindsight 10 ft., darkvision 60 ft., passive Perception 14"
 "languages": "Draconic"
 "cr": "2"
@@ -67,12 +67,12 @@ Green dragons lair in ancient forests, often shaping stands of massive trees int
 - "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 7 (1d10 + 2) Slashing damage\
     \ plus 3 (1d6) Poison damage."
   "name": "Rend"
-- "desc": "Constitution Saving Throw: DC 11, each creature in a 15-foot [Cone](3-Mechanics/CLI/rules/variant-rules/cone-area-of-effect-xphb.md).\
+- "desc": "Constitution Saving Throw: DC 11, each creature in a 15-foot [Cone](/3-Mechanics/CLI/variant-rules/cone-area-of-effect-xphb.md).\
     \ Failure: 21 (6d6) Poison damage. Success: Half damage."
   "name": "Poison Breath (Recharge 5-6)"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/dragon/token/green-dragon-wyrmling-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/dragon/token/green-dragon-wyrmling-xmm.webp"
 ```
 ^statblock
 

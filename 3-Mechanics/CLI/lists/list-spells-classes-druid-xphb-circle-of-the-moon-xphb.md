@@ -9,24 +9,24 @@ aliases: ["Spells for Circle of the Moon"]
 
 ## Cantrip
 
-- [Starry Wisp](3-Mechanics/CLI/spells/starry-wisp-xphb.md "XPHB") at class level 5
+- [Starry Wisp](/3-Mechanics/CLI/spells/starry-wisp-xphb.md "XPHB") at class level 5
 
 ## 1st Level
 
-- [Cure Wounds](3-Mechanics/CLI/spells/cure-wounds-xphb.md "XPHB") at class level 5
+- [Cure Wounds](/3-Mechanics/CLI/spells/cure-wounds-xphb.md "XPHB") at class level 5
 
 ## 2nd Level
 
-- [Moonbeam](3-Mechanics/CLI/spells/moonbeam-xphb.md "XPHB") at class level 5
+- [Moonbeam](/3-Mechanics/CLI/spells/moonbeam-xphb.md "XPHB") at class level 5
 
 ## 3rd Level
 
-- [Conjure Animals](3-Mechanics/CLI/spells/conjure-animals-xphb.md "XPHB") at class level 5
+- [Conjure Animals](/3-Mechanics/CLI/spells/conjure-animals-xphb.md "XPHB") at class level 5
 
 ## 4th Level
 
-- [Fount of Moonlight](3-Mechanics/CLI/spells/fount-of-moonlight-xphb.md "XPHB") at class level 5
+- [Fount of Moonlight](/3-Mechanics/CLI/spells/fount-of-moonlight-xphb.md "XPHB") at class level 5
 
 ## 5th Level
 
-- [Mass Cure Wounds](3-Mechanics/CLI/spells/mass-cure-wounds-xphb.md "XPHB") at class level 5
+- [Mass Cure Wounds](/3-Mechanics/CLI/spells/mass-cure-wounds-xphb.md "XPHB") at class level 5

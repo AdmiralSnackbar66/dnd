@@ -52,8 +52,8 @@ Galazeth founded Prismari College to ensure that the study of magic wouldn't eve
 "traits":
 - "desc": "Galazeth casts one of the following spells, requiring no material components\
     \ and using Charisma as the spellcasting ability (spell save DC 23):\n\n1/day\
-    \ each: [control water](3-Mechanics/CLI/spells/control-water-xphb.md), [gust\
-    \ of wind](3-Mechanics/CLI/spells/gust-of-wind-xphb.md), [wall of stone](3-Mechanics/CLI/spells/wall-of-stone-xphb.md)"
+    \ each: [control water](/3-Mechanics/CLI/spells/control-water-xphb.md), [gust\
+    \ of wind](/3-Mechanics/CLI/spells/gust-of-wind-xphb.md), [wall of stone](/3-Mechanics/CLI/spells/wall-of-stone-xphb.md)"
   "name": "Spellcasting"
 - "desc": "If Galazeth fails a saving throw, he can choose to succeed instead."
   "name": "Legendary Resistance (3/Day)"
@@ -65,7 +65,7 @@ Galazeth founded Prismari College to ensure that the study of magic wouldn't eve
   "name": "Bite"
 - "desc": "Melee Weapon Attack: +15 to hit, reach 10 ft., one target. Hit: 11\
     \ (1d6 + 8) slashing damage. If the target is a Large or smaller creature, it\
-    \ is knocked [prone](3-Mechanics/CLI/rules/conditions.md#Prone)."
+    \ is knocked [prone](/3-Mechanics/CLI/conditions.md#Prone)."
   "name": "Claw"
 - "desc": "Galazeth exhales a blast of flames and ice in a 90-foot cone. Each creature\
     \ in that area must make a DC 22 Dexterity saving throw, gaining no benefit from\
@@ -77,11 +77,10 @@ Galazeth founded Prismari College to ensure that the study of magic wouldn't eve
   "name": "Claw"
 - "desc": "Galazeth moves up to half his flying speed without provoking opportunity\
     \ attacks. When he passes within 15 feet of a creature during this move, that\
-    \ creature must succeed on a DC 22 Dexterity saving throw or take 11 (2d10)\
-    \ lightning damage. A creature can take this damage no more than once during the\
-    \ move."
+    \ creature must succeed on a DC 22 Dexterity saving throw or take 11 (2d10) lightning\
+    \ damage. A creature can take this damage no more than once during the move."
   "name": "Lightning Flash (Costs 2 Actions)"
-- "desc": "Galazeth magically summons 1d4 [elemental mascots](3-Mechanics/CLI/bestiary/elemental/art-elemental-mascot-scc.md)\
+- "desc": "Galazeth magically summons 1d4 [elemental mascots](/3-Mechanics/CLI/bestiary/elemental/art-elemental-mascot-scc.md)\
     \ in unoccupied spaces he can see within 60 feet of himself. The art elementals\
     \ obey his commands and take their turns immediately after his. Any creature,\
     \ other than an art elemental, takes 5 (1d10) cold, fire, or lightning damage\
@@ -92,6 +91,6 @@ Galazeth founded Prismari College to ensure that the study of magic wouldn't eve
   "name": "Flowing Creation (Costs 3 Actions)"
 "source":
 - "SCC"
-"image": "3-Mechanics/CLI/bestiary/npc/token/galazeth-prismari-scc.webp"
+"image": "/3-Mechanics/CLI/bestiary/npc/token/galazeth-prismari-scc.webp"
 ```
 ^statblock

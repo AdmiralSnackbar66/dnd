@@ -16,8 +16,8 @@ You have a number of Luck Points equal to your Proficiency Bonus and can spend t
 
 ## Advantage
 
-When you roll a `d20` for a [D20 Test](3-Mechanics/CLI/rules/variant-rules/d20-test-xphb.md), you can spend 1 Luck Point to give yourself Advantage on the roll.
+When you roll a `dice:d20|noform|noparens|avg` (`d20`) for a [D20 Test](/3-Mechanics/CLI/variant-rules/d20-test-xphb.md), you can spend 1 Luck Point to give yourself Advantage on the roll.
 
 ## Disadvantage
 
-When a creature rolls a `d20` for an attack roll against you, you can spend 1 Luck Point to impose Disadvantage on that roll.
+When a creature rolls a `dice:d20|noform|noparens|avg` (`d20`) for an attack roll against you, you can spend 1 Luck Point to impose Disadvantage on that roll.

@@ -14,6 +14,6 @@ aliases:
 
 - **Cost**: 5 gp
 
-For an Emblem to be an effective Holy Symbol, it must be borne on fabric (such as a tabard or banner) or a [Shield](3-Mechanics/CLI/items/shield-xphb.md).
+For an Emblem to be an effective Holy Symbol, it must be borne on fabric (such as a tabard or banner) or a [Shield](/3-Mechanics/CLI/items/shield-xphb.md).
 
-*Source: Player's Handbook (2024) p. 226. Available in the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 226. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*

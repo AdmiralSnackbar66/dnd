@@ -14,7 +14,7 @@ You gain the following benefits.
 
 ## Heavy Weapon Mastery
 
-When you hit a creature with a weapon that has the Heavy property as part of the [Attack](3-Mechanics/CLI/rules/actions.md#Attack) action on your turn, you can cause the weapon to deal extra damage to the target. The extra damage equals your Proficiency Bonus.
+When you hit a creature with a weapon that has the Heavy property as part of the [Attack](/3-Mechanics/CLI/actions.md#Attack) action on your turn, you can cause the weapon to deal extra damage to the target. The extra damage equals your Proficiency Bonus.
 
 ## Hew
 

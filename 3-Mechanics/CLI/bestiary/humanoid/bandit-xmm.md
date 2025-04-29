@@ -11,7 +11,7 @@ statblock: inline
 aliases: ["Bandit"]
 ---
 # [Bandit](3-Mechanics\CLI\bestiary\humanoid/bandit-xmm.md)
-*Source: Monster Manual (2024) p. 27*  
+*Source: Monster Manual (2024) p. 27. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
 
 Bandits are inexperienced ne'er-do-wells who typically follow the orders of higher-ranking bandits.
 
@@ -71,7 +71,7 @@ Roll on or choose a result from the Bandit Motivations table to determine the ci
   "name": "Light Crossbow"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/bandit-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/humanoid/token/bandit-xmm.webp"
 ```
 ^statblock
 

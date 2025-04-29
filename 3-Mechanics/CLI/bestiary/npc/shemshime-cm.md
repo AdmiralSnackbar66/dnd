@@ -36,11 +36,11 @@ aliases: ["Shemshime"]
   "Perception": !!int "4"
 "damage_resistances": "acid, bludgeoning, fire, lightning, piercing, slashing, thunder"
 "damage_immunities": "cold, necrotic, poison"
-"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
-  \ [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened), [grappled](3-Mechanics/CLI/rules/conditions.md#Grappled),\
-  \ [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed), [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified),\
-  \ [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned), [prone](3-Mechanics/CLI/rules/conditions.md#Prone),\
-  \ [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained)"
+"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
+  \ [frightened](/3-Mechanics/CLI/conditions.md#Frightened), [grappled](/3-Mechanics/CLI/conditions.md#Grappled),\
+  \ [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed), [petrified](/3-Mechanics/CLI/conditions.md#Petrified),\
+  \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned), [prone](/3-Mechanics/CLI/conditions.md#Prone),\
+  \ [restrained](/3-Mechanics/CLI/conditions.md#Restrained)"
 "senses": "darkvision 120 ft., passive Perception 14"
 "languages": "telepathy 60 ft."
 "cr": "4"
@@ -65,12 +65,12 @@ aliases: ["Shemshime"]
   "name": "Whispers of Violence"
 - "desc": "Shemshime targets one creature it can see within 30 feet of it. The creature\
     \ must make a DC 13 Wisdom saving throw. On a failed save, it takes 21 (4d8 +\
-    \ 3) psychic damage and is [stunned](3-Mechanics/CLI/rules/conditions.md#Stunned)\
-    \ until the end of its next turn. On a successful save, it takes half as much\
-    \ damage and isn't [stunned](3-Mechanics/CLI/rules/conditions.md#Stunned)."
+    \ 3) psychic damage and is [stunned](/3-Mechanics/CLI/conditions.md#Stunned) until\
+    \ the end of its next turn. On a successful save, it takes half as much damage\
+    \ and isn't [stunned](/3-Mechanics/CLI/conditions.md#Stunned)."
   "name": "Howling Babble (Recharge 6)"
 "source":
 - "CM"
-"image": "3-Mechanics/CLI/bestiary/npc/token/shemshime-cm.webp"
+"image": "/3-Mechanics/CLI/bestiary/npc/token/shemshime-cm.webp"
 ```
 ^statblock

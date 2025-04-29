@@ -44,24 +44,24 @@ Champions of evil, death knights are armor-clad, skeletal warlords. Combining de
   "Dexterity": !!int "4"
   "Wisdom": !!int "5"
 "damage_immunities": "necrotic, poison"
-"condition_immunities": "[exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
-  \ [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened), [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"condition_immunities": "[exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
+  \ [frightened](/3-Mechanics/CLI/conditions.md#Frightened), [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
 "senses": "darkvision 120 ft., passive Perception 11"
 "languages": "Abyssal, Common"
 "cr": "11"
 "traits":
 - "desc": "The aspirant casts one of the following spells, using Charisma as the spellcasting\
-    \ ability (spell save DC 15):\n\nAt will: [Phantom Steed](3-Mechanics/CLI/spells/phantom-steed-xphb.md)\n\
-    \n1/day each: [Destructive Wave](3-Mechanics/CLI/spells/destructive-wave-xphb.md)\
-    \ (Necrotic), [Dispel Magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md)"
+    \ ability (spell save DC 15):\n\nAt will: [Phantom Steed](/3-Mechanics/CLI/spells/phantom-steed-xphb.md)\n\
+    \n1/day each: [Destructive Wave](/3-Mechanics/CLI/spells/destructive-wave-xphb.md)\
+    \ (Necrotic), [Dispel Magic](/3-Mechanics/CLI/spells/dispel-magic-xphb.md)"
   "name": "Spellcasting"
-- "desc": "The aspirant has [Advantage](3-Mechanics/CLI/rules/variant-rules/advantage-xphb.md)\
+- "desc": "The aspirant has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
     \ on saving throws against spells and other magical effects."
   "name": "Magic Resistance"
 - "desc": "Undead creatures of the aspirant's choice (excluding itself) in a 60-foot\
-    \ [Emanation](3-Mechanics/CLI/rules/variant-rules/emanation-area-of-effect-xphb.md)\
-    \ originating from it have [Advantage](3-Mechanics/CLI/rules/variant-rules/advantage-xphb.md)\
-    \ on attack rolls and saving throws. It can't use this trait if it has the [Incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated)\
+    \ [Emanation](/3-Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md)\
+    \ originating from it have [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
+    \ on attack rolls and saving throws. It can't use this trait if it has the [Incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated)\
     \ condition."
   "name": "Marshal Undead"
 "actions":
@@ -70,7 +70,7 @@ Champions of evil, death knights are armor-clad, skeletal warlords. Combining de
 - "desc": "Melee Attack Roll: +9, reach 5 ft. Hit: 14 (2d8 + 5) Slashing damage\
     \ plus 10 (3d6) Necrotic damage."
   "name": "Dread Blade"
-- "desc": "Dexterity Saving Throw: DC 15, each creature in a 20-foot-radius [Sphere](3-Mechanics/CLI/rules/variant-rules/sphere-area-of-effect-xphb.md)\
+- "desc": "Dexterity Saving Throw: DC 15, each creature in a 20-foot-radius [Sphere](/3-Mechanics/CLI/variant-rules/sphere-area-of-effect-xphb.md)\
     \ centered on a point the aspirant can see within 120 feet of itself. Failure:\
     \ 21 (6d6) Fire damage plus 21 (6d6) Necrotic damage. Success: Half damage."
   "name": "Hellfire Orb (Recharge 5-6)"
@@ -81,7 +81,7 @@ Champions of evil, death knights are armor-clad, skeletal warlords. Combining de
   "name": "Parry"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/undead/token/death-knight-aspirant-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/undead/token/death-knight-aspirant-xmm.webp"
 ```
 ^statblock
 

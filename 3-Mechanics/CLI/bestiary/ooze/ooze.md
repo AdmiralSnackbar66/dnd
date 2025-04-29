@@ -6,7 +6,6 @@ cssclasses: json5e-note
 
 - [Black Pudding](./black-pudding-xmm.md)
 - [Blob of Annihilation](./blob-of-annihilation-xmm.md)
-- [Dragonblood Ooze](./dragonblood-ooze-ftd.md)
 - [Gelatinous Cube](./gelatinous-cube-xmm.md)
 - [Gray Ooze](./gray-ooze-xmm.md)
 - [Inkling Mascot](./inkling-mascot-scc.md)

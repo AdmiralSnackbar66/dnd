@@ -14,7 +14,7 @@ You gain the following benefits.
 
 ## Escape Artist
 
-As a Bonus Action, you can take the [Disengage](3-Mechanics/CLI/rules/actions.md#Disengage) action, which also ends the [Grappled](3-Mechanics/CLI/rules/conditions.md#Grappled) condition on you.
+As a Bonus Action, you can take the [Disengage](/3-Mechanics/CLI/actions.md#Disengage) action, which also ends the [Grappled](/3-Mechanics/CLI/conditions.md#Grappled) condition on you.
 
 ## Quickness
 

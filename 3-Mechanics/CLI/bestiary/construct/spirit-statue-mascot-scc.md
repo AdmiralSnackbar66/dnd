@@ -51,11 +51,11 @@ Some of these spirit statues bond with and mentor a specific mage, but most serv
     \ + 2) bludgeoning damage."
   "name": "Slam"
 - "desc": "The spirit statue touches one creature. Once within the next 10 minutes,\
-    \ that creature can roll a d4 and add the number rolled to one ability check\
-    \ of its choice, immediately after rolling the d20."
+    \ that creature can roll a d4 and add the number rolled to one ability check of\
+    \ its choice, immediately after rolling the d20."
   "name": "Counsel of the Past (2/Day)"
 "source":
 - "SCC"
-"image": "3-Mechanics/CLI/bestiary/construct/token/spirit-statue-mascot-scc.webp"
+"image": "/3-Mechanics/CLI/bestiary/construct/token/spirit-statue-mascot-scc.webp"
 ```
 ^statblock

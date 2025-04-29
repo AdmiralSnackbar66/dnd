@@ -14,8 +14,8 @@ You gain the following benefits.
 
 ## Impersonation
 
-While you're disguised as a real or fictional person, you have Advantage on Charisma ([Deception](3-Mechanics/CLI/rules/skills.md#Deception) or [Performance](3-Mechanics/CLI/rules/skills.md#Performance)) checks to convince others that you are that person.
+While you're disguised as a real or fictional person, you have Advantage on Charisma ([Deception](/3-Mechanics/CLI/skills.md#Deception) or [Performance](/3-Mechanics/CLI/skills.md#Performance)) checks to convince others that you are that person.
 
 ## Mimicry
 
-You can mimic the sounds of other creatures, including speech. A creature that hears the mimicry must succeed on a Wisdom ([Insight](3-Mechanics/CLI/rules/skills.md#Insight)) check to determine the effect is faked (DC 8 plus your Charisma modifier and Proficiency Bonus).
+You can mimic the sounds of other creatures, including speech. A creature that hears the mimicry must succeed on a Wisdom ([Insight](/3-Mechanics/CLI/skills.md#Insight)) check to determine the effect is faked (DC 8 plus your Charisma modifier and Proficiency Bonus).

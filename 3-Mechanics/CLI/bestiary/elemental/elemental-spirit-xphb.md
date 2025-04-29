@@ -29,9 +29,9 @@ aliases: ["Elemental Spirit"]
   \ ft. (Water only)"
 "damage_resistances": "lightning, thunder (Air only)"
 "damage_immunities": "poison; fire (Fire only)"
-"condition_immunities": "[exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
-  \ [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed), [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified),\
-  \ [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"condition_immunities": "[exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
+  \ [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed), [petrified](/3-Mechanics/CLI/conditions.md#Petrified),\
+  \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": "Primordial, understands the languages you know"
 "traits":
@@ -43,11 +43,11 @@ aliases: ["Elemental Spirit"]
     \ (round down)."
   "name": "Multiattack"
 - "desc": "Melee Attack Roll: YourSpellAttack Bonus equals your spell attack modifier,\
-    \ reach 5 ft. Hit: 1d10 + 4 + the spell's level Bludgeoning (Earth only),\
-    \ Cold (Water only), Lightning (Air only), or Fire (Fire only) damage."
+    \ reach 5 ft. Hit: 1d10 + 4 + the spell's level Bludgeoning (Earth only), Cold\
+    \ (Water only), Lightning (Air only), or Fire (Fire only) damage."
   "name": "Slam"
 "source":
 - "XPHB"
-"image": "3-Mechanics/CLI/bestiary/elemental/token/elemental-spirit-xphb.webp"
+"image": "/3-Mechanics/CLI/bestiary/elemental/token/elemental-spirit-xphb.webp"
 ```
 ^statblock

@@ -45,12 +45,12 @@ While sometimes ill-tempered and territorial, brackish trudges are usually conte
     \ or from a critical hit. On a success, the trudge drops to 1 hit point instead."
   "name": "Fungal Fortitude"
 "actions":
-- "desc": "Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 16\
-    \ (2d10 + 5) piercing damage plus 3 (1d6) poison damage. If the target is\
-    \ a creature, it must succeed on a DC 15 Strength saving throw or be knocked [prone](3-Mechanics/CLI/rules/conditions.md#Prone)."
+- "desc": "Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 16 (2d10\
+    \ + 5) piercing damage plus 3 (1d6) poison damage. If the target is a creature,\
+    \ it must succeed on a DC 15 Strength saving throw or be knocked [prone](/3-Mechanics/CLI/conditions.md#Prone)."
   "name": "Tusk"
 "source":
 - "SCC"
-"image": "3-Mechanics/CLI/bestiary/plant/token/brackish-trudge-scc.webp"
+"image": "/3-Mechanics/CLI/bestiary/plant/token/brackish-trudge-scc.webp"
 ```
 ^statblock

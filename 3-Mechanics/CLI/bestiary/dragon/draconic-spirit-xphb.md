@@ -27,8 +27,8 @@ aliases: ["Draconic Spirit"]
 - !!int "14"
 "speed": "30 ft., fly 60 ft., swim 30 ft."
 "damage_resistances": "acid, cold, fire, lightning, poison"
-"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened),\
-  \ [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [frightened](/3-Mechanics/CLI/conditions.md#Frightened),\
+  \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
 "senses": "blindsight 30 ft., darkvision 60 ft., passive Perception 12"
 "languages": "Draconic, understands the languages you know"
 "traits":
@@ -43,11 +43,11 @@ aliases: ["Draconic Spirit"]
     \ reach 10 feet. Hit: 1d6 + 4 + the spell's level Piercing damage."
   "name": "Rend"
 - "desc": "Dexterity Saving Throw: DC equals your spell save DC, each creature in\
-    \ a 30-foot Cone. Failure: 2d6 damage of a type this spirit has Resistance\
-    \ to (your choice when you cast the spell). Success: Half damage."
+    \ a 30-foot Cone. Failure: 2d6 damage of a type this spirit has Resistance to\
+    \ (your choice when you cast the spell). Success: Half damage."
   "name": "Breath Weapon"
 "source":
 - "XPHB"
-"image": "3-Mechanics/CLI/bestiary/dragon/token/draconic-spirit-xphb.webp"
+"image": "/3-Mechanics/CLI/bestiary/dragon/token/draconic-spirit-xphb.webp"
 ```
 ^statblock

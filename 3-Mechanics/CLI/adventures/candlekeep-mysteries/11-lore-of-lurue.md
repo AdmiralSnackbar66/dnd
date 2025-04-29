@@ -8,7 +8,7 @@ aliases: ["Lore of Lurue"]
 # Lore of Lurue
 *Source: Candlekeep Mysteries, p. 114* 
 
-![Lore of Lurue](3-Mechanics/CLI/adventures/candlekeep-mysteries/img/077-10-001-lore-of-lurue.webp#center)
+![Lore of Lurue](/3-Mechanics/CLI/adventures/candlekeep-mysteries/img/077-10-001-lore-of-lurue.webp#center)
 
 **An Adventure for 8th-level Characters**  
 **Developed & Edited by Kim Mohan**  
@@ -39,7 +39,7 @@ The tome is large—twelve inches wide and sixteen inches tall—and contains hu
 
 ## Lore Comes to Life
 
-A successful DC 14 Intelligence ([Arcana](3-Mechanics/CLI/rules/skills.md#Arcana)) check confirms that the book is enchanted. As soon as a character opens it, a few sentences in Common appear on the first page, as if someone is writing it, word by word. As this text unfurls, read:
+A successful DC 14 Intelligence ([Arcana](/3-Mechanics/CLI/skills.md#Arcana)) check confirms that the book is enchanted. As soon as a character opens it, a few sentences in Common appear on the first page, as if someone is writing it, word by word. As this text unfurls, read:
 
 > [!readaloud] 
 > 
@@ -48,7 +48,7 @@ A successful DC 14 Intelligence ([Arcana](3-Mechanics/CLI/rules/skills.md#Arcana
 > "When you are ready to proceed, turn the page."
 ^2df
 
-When the reader turns the page, the book glows briefly, as a delayed-action [gate](3-Mechanics/CLI/spells/gate-xphb.md) spell is activated. Any creature within 10 feet of the book is pulled into the portal and transported to a demiplane along with any equipment it is wearing or carrying (see the ""Other Planes"" section in the "Dungeon Master's Guide" for more information on demiplanes). If other player characters are not in the vicinity when the gate is activated, they are free to move to and through the passage to join their comrades.
+When the reader turns the page, the book glows briefly, as a delayed-action [gate](/3-Mechanics/CLI/spells/gate-xphb.md) spell is activated. Any creature within 10 feet of the book is pulled into the portal and transported to a demiplane along with any equipment it is wearing or carrying (see the ""Other Planes"" section in the "Dungeon Master's Guide" for more information on demiplanes). If other player characters are not in the vicinity when the gate is activated, they are free to move to and through the passage to join their comrades.
 
 After the characters open and "enter" the book, their literal path through the demiplane is dictated by the story that Ecamane Truesilver penned long ago. The characters begin a short distance south of where a meadow meets the edge of a forest. If anyone tries to move away from the forest, they are halted by an impassable barrier of force that disallows any other route.
 
@@ -77,14 +77,14 @@ Once the characters have entered the book, read:
 > You're on the fringe of a meadow that borders a forest. Tall trees of several varieties stretch before you as far as the eye can see. Behind you is a range of formidable mountain peaks. As the remnant of the setting sun dips below the horizon, a rising full moon illuminates the darkening sky.
 ^2e2
 
-When one or more characters move to within 20 feet of the forest's edge, three [satyrs](3-Mechanics/CLI/bestiary/fey/satyr-xmm.md) come into view. When this happens, read:
+When one or more characters move to within 20 feet of the forest's edge, three [satyrs](/3-Mechanics/CLI/bestiary/fey/satyr-xmm.md) come into view. When this happens, read:
 
 > [!readaloud] 
 > 
 > Three bipedal creatures that combine the features of men and goats laugh drunkenly as they stumble from the woods. They sway back and forth while greeting you enthusiastically in Sylvan.
 ^2e3
 
-If none of the characters speaks Sylvan, one satyr laughs and greets the party in Elvish. A character can confirm the truth of what he says with a successful DC 16 Wisdom ([Insight](3-Mechanics/CLI/rules/skills.md#Insight)) check:
+If none of the characters speaks Sylvan, one satyr laughs and greets the party in Elvish. A character can confirm the truth of what he says with a successful DC 16 Wisdom ([Insight](/3-Mechanics/CLI/skills.md#Insight)) check:
 
 > [!readaloud] 
 > 
@@ -101,7 +101,7 @@ During the trip, the characters have an opportunity to converse with the satyrs.
 
 #### Random Encounters
 
-The journey with the satyrs should take at least 2 hours and as long as 6 hours, at your discretion. After every hour of travel, roll a `d20` and consult the Demiplane Encounters table to determine if the characters have an encounter at that point. If you get a previous result (other than "no encounter") a second time, that might be an appropriate spot to end the trip and proceed with the story.
+The journey with the satyrs should take at least 2 hours and as long as 6 hours, at your discretion. After every hour of travel, roll a `dice:d20|noform|noparens|avg` (`d20`) and consult the Demiplane Encounters table to determine if the characters have an encounter at that point. If you get a previous result (other than "no encounter") a second time, that might be an appropriate spot to end the trip and proceed with the story.
 
 **Demiplane Encounters**
 
@@ -110,11 +110,11 @@ The journey with the satyrs should take at least 2 hours and as long as 6 hours,
 | dice: d20 | Encounter |
 |-----------|-----------|
 | 1–5 | No encounter. |
-| 6–7 | Three [swarms of ravens](3-Mechanics/CLI/bestiary/beast/swarm-of-ravens-xmm.md) fly overhead. A successful DC 14 Dexterity ([Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)) group check allows the party to pass them by without being noticed. If the group check fails, the swarms attack. |
-| 8–9 | Two hungry [wereboars](3-Mechanics/CLI/bestiary/monstrosity/wereboar-xmm.md) barge out of the underbrush and attack the party. |
-| 10–13 | A nearby tree bleeds gold sap. A successful DC 16 Intelligence ([Nature](3-Mechanics/CLI/rules/skills.md#Nature)) or Wisdom ([Survival](3-Mechanics/CLI/rules/skills.md#Survival)) check reveals that the sap has healing properties. (The satyrs know about these properties.) Anyone who consumes the sap regains `2d4 + 2` hit points. The tree has enough sap for four doses. |
-| 14–16 | Three human [berserkers](3-Mechanics/CLI/bestiary/humanoid/berserker-xmm.md) pass nearby while on a hunt, pursuing a family of deer. If the characters make their presence known, the berserkers attack them instead. |
-| 17–20 | Four injured [wolves](3-Mechanics/CLI/bestiary/beast/wolf-xmm.md) come upon the party but keep their distance. Each has `1d8` hit points remaining. If approached, they instinctively snarl but then quickly whimper in pain. Their blood-matted fur is evidence of a recent attack on the wolves (they were wounded by hunters but escaped). If a character makes a successful DC 14 Wisdom ([Animal Handling](3-Mechanics/CLI/rules/skills.md#Animal%20Handling)) check, the wolves become calm and allow the characters to treat their wounds. If they are given aid, the wolves trail behind the party and assist in fights if needed. |
+| 6–7 | Three [swarms of ravens](/3-Mechanics/CLI/bestiary/beast/swarm-of-ravens-xmm.md) fly overhead. A successful DC 14 Dexterity ([Stealth](/3-Mechanics/CLI/skills.md#Stealth)) group check allows the party to pass them by without being noticed. If the group check fails, the swarms attack. |
+| 8–9 | Two hungry [wereboars](/3-Mechanics/CLI/bestiary/monstrosity/wereboar-xmm.md) barge out of the underbrush and attack the party. |
+| 10–13 | A nearby tree bleeds gold sap. A successful DC 16 Intelligence ([Nature](/3-Mechanics/CLI/skills.md#Nature)) or Wisdom ([Survival](/3-Mechanics/CLI/skills.md#Survival)) check reveals that the sap has healing properties. (The satyrs know about these properties.) Anyone who consumes the sap regains `dice:2d4+2\|noform\|noparens\|avg` (`2d4 + 2`) hit points. The tree has enough sap for four doses. |
+| 14–16 | Three human [berserkers](/3-Mechanics/CLI/bestiary/humanoid/berserker-xmm.md) pass nearby while on a hunt, pursuing a family of deer. If the characters make their presence known, the berserkers attack them instead. |
+| 17–20 | Four injured [wolves](/3-Mechanics/CLI/bestiary/beast/wolf-xmm.md) come upon the party but keep their distance. Each has `dice:1d8\|noform\|noparens\|avg` (`1d8`) hit points remaining. If approached, they instinctively snarl but then quickly whimper in pain. Their blood-matted fur is evidence of a recent attack on the wolves (they were wounded by hunters but escaped). If a character makes a successful DC 14 Wisdom ([Animal Handling](/3-Mechanics/CLI/skills.md#Animal%20Handling)) check, the wolves become calm and allow the characters to treat their wounds. If they are given aid, the wolves trail behind the party and assist in fights if needed. |
 ^demiplane-encounters
 
 ## Into the Wood
@@ -134,7 +134,7 @@ As the characters approach the clearing and the tree at the center of it, read:
 > "Pardon my rudeness for being asleep!" it says. "It's been a long time since I've seen travelers like you in these parts."
 ^2e8
 
-The tree is a [treant](3-Mechanics/CLI/bestiary/plant/treant-xmm.md). The satyrs call it call Feynor.
+The tree is a [treant](/3-Mechanics/CLI/bestiary/plant/treant-xmm.md). The satyrs call it call Feynor.
 
 Feynor embraces the satyrs and welcomes them home. The satyrs, who keep their wine reserves hidden nearby, quickly scamper off to get drunk and be merry, leaving the characters alone with the treant.
 
@@ -144,9 +144,9 @@ The treant takes a moment to communicate with the wildlife throughout the region
 
 #### Treasure
 
-Before the characters leave, Feynor uproots a corked wooden vial buried in the dirt and offers it to them. The vial contains a [potion of giant strength (hill)](3-Mechanics/CLI/items/potion-of-hill-giant-strength-xdmg.md), and the treant says as much. The potion vanishes when the characters leave the demiplane if it is not consumed before then.
+Before the characters leave, Feynor uproots a corked wooden vial buried in the dirt and offers it to them. The vial contains a [potion of giant strength (hill)](/3-Mechanics/CLI/items/potion-of-hill-giant-strength-xdmg.md), and the treant says as much. The potion vanishes when the characters leave the demiplane if it is not consumed before then.
 
-![Dewlight](3-Mechanics/CLI/adventures/candlekeep-mysteries/img/078-10-002-dewlight.webp#center)
+![Dewlight](/3-Mechanics/CLI/adventures/candlekeep-mysteries/img/078-10-002-dewlight.webp#center)
 
 ### Dewlight
 
@@ -157,14 +157,14 @@ A narrow path leads north from Polvarth Plateau, wending its way between densely
 > Moss-covered trees and overgrown brush suddenly thin out, giving way to a small glen not more than a hundred feet across. This area is peppered with colorful mushrooms growing virtually on top of one another, some of the clusters more than three feet high. A warm glow emanates from tiny lanterns that hang from each mushroom. Jutting up from the caps of the mushrooms, chimneys made of petrified bark let out wisps of acorn-scented smoke. These mushrooms appear to be homes—dozens of them—scattered around the clearing.
 ^2eb
 
-Moments before the characters emerged from the forest, the pixies and sprites that live in Dewlight detected their approach, turned [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible) for safety's sake, and fled into their homes for good measure. The lone exception is Wheeldoli, an elderly [sprite](3-Mechanics/CLI/bestiary/fey/sprite-xmm.md) whose curiosity outweighs his sense of caution. After a moment, he steps out from behind the stem of a mushroom and introduces himself:
+Moments before the characters emerged from the forest, the pixies and sprites that live in Dewlight detected their approach, turned [invisible](/3-Mechanics/CLI/conditions.md#Invisible) for safety's sake, and fled into their homes for good measure. The lone exception is Wheeldoli, an elderly [sprite](/3-Mechanics/CLI/bestiary/fey/sprite-xmm.md) whose curiosity outweighs his sense of caution. After a moment, he steps out from behind the stem of a mushroom and introduces himself:
 
 > [!readaloud] 
 > 
 > "Greetings, big folk. I, Wheeldoli, welcome you to Dewlight and suggest you be on your way."
 ^2ec
 
-Wheeldoli is prepared to turn [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible) and make himself scarce at the first sign of aggressiveness, but if the characters start by mentioning that they have spoken with Feynor, or if they talk to him about the book they discovered, the sprite becomes friendly and contributes some additional details about their situation.
+Wheeldoli is prepared to turn [invisible](/3-Mechanics/CLI/conditions.md#Invisible) and make himself scarce at the first sign of aggressiveness, but if the characters start by mentioning that they have spoken with Feynor, or if they talk to him about the book they discovered, the sprite becomes friendly and contributes some additional details about their situation.
 
 As a scholar among his kind, Wheeldoli knows about some of the gods revered by the big folk, and he shares his supposition about the nighttime thunderclaps and lightning strikes in the distance. "Signs of a battle brewing," he says. A group of vicious predators have been stalking through the forest of late, and Wheeldoli fears they are disciples of Malar the Beast Lord (see the "Cult of Malar" section later in the adventure). The disturbances to the north, he says, seem to be coming from the vicinity of the Pool of Eternal Spring, a hallowed site associated with a lesser deity known as Lurue the Unicorn. The sprite says he would not be surprised to find that Malar's minions are behind that turn of events as well.
 
@@ -176,9 +176,9 @@ When the characters have learned all they can from Wheeldoli, the sprite directs
 
 ### Webbed Path
 
-The pebbled path leading out of Dewlight soon turns into dirt, and the area on either side of it is sparsely covered with underbrush. After the characters walk for a few more minutes, they discover that the road ahead is covered in large patches of spiderwebs. The webbed path, 20 feet wide and 60 feet long, is difficult terrain. A creature that enters the area for the first time on a turn or starts its turn there must succeed on a DC 12 Dexterity saving throw or become [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained) by the webs. A [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained) creature can use its action to try to escape, doing so with a successful DC 12 Strength ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)) or Dexterity ([Acrobatics](3-Mechanics/CLI/rules/skills.md#Acrobatics)) check. Each 10-foot square of webbing has AC 10, 15 hit points, vulnerability to fire damage, and immunity to bludgeoning, poison, and psychic damage.
+The pebbled path leading out of Dewlight soon turns into dirt, and the area on either side of it is sparsely covered with underbrush. After the characters walk for a few more minutes, they discover that the road ahead is covered in large patches of spiderwebs. The webbed path, 20 feet wide and 60 feet long, is difficult terrain. A creature that enters the area for the first time on a turn or starts its turn there must succeed on a DC 12 Dexterity saving throw or become [restrained](/3-Mechanics/CLI/conditions.md#Restrained) by the webs. A [restrained](/3-Mechanics/CLI/conditions.md#Restrained) creature can use its action to try to escape, doing so with a successful DC 12 Strength ([Athletics](/3-Mechanics/CLI/skills.md#Athletics)) or Dexterity ([Acrobatics](/3-Mechanics/CLI/skills.md#Acrobatics)) check. Each 10-foot square of webbing has AC 10, 15 hit points, vulnerability to fire damage, and immunity to bludgeoning, poison, and psychic damage.
 
-Four cowardly [ettercaps](3-Mechanics/CLI/bestiary/monstrosity/ettercap-xmm.md) are lurking nearby, waiting for their webs to snag some prey. At the sound of intruders, they scurry into the underbrush and [hide](3-Mechanics/CLI/rules/actions.md#Hide), staying 30 feet away from the webbed path, loosely spread out. The ettercaps are ambush hunters and run from a prolonged fight.
+Four cowardly [ettercaps](/3-Mechanics/CLI/bestiary/monstrosity/ettercap-xmm.md) are lurking nearby, waiting for their webs to snag some prey. At the sound of intruders, they scurry into the underbrush and [hide](/3-Mechanics/CLI/actions.md#Hide), staying 30 feet away from the webbed path, loosely spread out. The ettercaps are ambush hunters and run from a prolonged fight.
 
 ### Hag's Hovel
 
@@ -194,20 +194,20 @@ The characters' path takes them into a densely forested area. By following a bre
 The following locations are keyed to the map of the hag's hovel.
 
 > [!gallery]
-> ![Map 10.1: Hags Hovel](3-Mechanics/CLI/adventures/candlekeep-mysteries/img/079-map-10-01-hags-hovel.webp#gallery)
-> ![Player Version](3-Mechanics/CLI/adventures/candlekeep-mysteries/img/080-map-10-01-hags-hovel-player.webp#gallery)
+> ![Map 10.1: Hags Hovel](/3-Mechanics/CLI/adventures/candlekeep-mysteries/img/079-map-10-01-hags-hovel.webp#gallery)
+> ![Player Version](/3-Mechanics/CLI/adventures/candlekeep-mysteries/img/080-map-10-01-hags-hovel-player.webp#gallery)
 
 #### H1. Dry Well
 
 The characters might correctly assume that this place is what it looks like: the site of a well (which is now abandoned). If they approach to within 5 feet of the stone wall, they can peer over the 2-foot-high wall into the hole, which is dark, but they don't get an idea of how deep the hole is or what's in it.
 
-If a character comes up to the stone wall and looks down inside the hole, this activity attracts the attention of a [grick alpha](3-Mechanics/CLI/bestiary/aberration/grick-ancient-xmm.md) that uses the place as a lair. The water source at the bottom of the 30-foot-deep hole has long since dried up, making it an ideal place for the grick to lurk when it's not out hunting.
+If a character comes up to the stone wall and looks down inside the hole, this activity attracts the attention of a [grick alpha](/3-Mechanics/CLI/bestiary/aberration/grick-ancient-xmm.md) that uses the place as a lair. The water source at the bottom of the 30-foot-deep hole has long since dried up, making it an ideal place for the grick to lurk when it's not out hunting.
 
-The grick's Stone Camouflage trait prevents the characters from realizing its presence—unless they shine a light source down into the hole or have some other way of seeing the bottom of the pit. If they don't see the grick at the same time it sees them, the monster lurches out of the well to confront its prey. A character who can see into the hole and has a passive Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) score of 14 or higher notices the grick before it attacks; any other characters start the encounter [surprised](3-Mechanics/CLI/rules/conditions.md#Surprised).
+The grick's Stone Camouflage trait prevents the characters from realizing its presence—unless they shine a light source down into the hole or have some other way of seeing the bottom of the pit. If they don't see the grick at the same time it sees them, the monster lurches out of the well to confront its prey. A character who can see into the hole and has a passive Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) score of 14 or higher notices the grick before it attacks; any other characters start the encounter [surprised](/3-Mechanics/CLI/conditions.md#Surprised).
 
 #### H2. Hag Shack
 
-This run-down shack is the occasional home of a [night hag](3-Mechanics/CLI/bestiary/fiend/night-hag-xmm.md) named Lanedrie Staggersoul. When she spends time on the Material Plane, she enjoys imprisoning and terrorizing denizens of the forest. Her two "house guests" at the moment are among the prisoners she has taken most recently.
+This run-down shack is the occasional home of a [night hag](/3-Mechanics/CLI/bestiary/fiend/night-hag-xmm.md) named Lanedrie Staggersoul. When she spends time on the Material Plane, she enjoys imprisoning and terrorizing denizens of the forest. Her two "house guests" at the moment are among the prisoners she has taken most recently.
 
 The only way into the shack is through the door on the east side. When a character first peers into the room, read:
 
@@ -216,13 +216,13 @@ The only way into the shack is through the door on the east side. When a charact
 > The inside of the shack is in a terrible state of disrepair. The only contents of note are a ramshackle bed, a scratched-up table, a warped wooden shelf with several containers on it, and a fireplace with wooden spoons and ladles hanging from hooks above it. To your left, two figures are bound and gagged on the floor while a blue-skinned hag looms over them. The captives appear to be dryads.
 ^2f2
 
-The night hag is focused on tormenting her captives and can be taken by surprise if the characters succeed on a DC 15 Dexterity ([Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)) group check. Lanedrie begins by using her claws and spells to teach the interlopers a lesson, but if the characters don't dispose of her promptly, she does not hesitate to cut her losses and uses a [plane shift](3-Mechanics/CLI/spells/plane-shift-xphb.md) spell to leave their company.
+The night hag is focused on tormenting her captives and can be taken by surprise if the characters succeed on a DC 15 Dexterity ([Stealth](/3-Mechanics/CLI/skills.md#Stealth)) group check. Lanedrie begins by using her claws and spells to teach the interlopers a lesson, but if the characters don't dispose of her promptly, she does not hesitate to cut her losses and uses a [plane shift](/3-Mechanics/CLI/spells/plane-shift-xphb.md) spell to leave their company.
 
-The two [dryads](3-Mechanics/CLI/bestiary/fey/dryad-xmm.md) are named Trekaila and Argentia. If the characters free them from their bonds, the dryads are appropriately grateful. If the characters ask how they got here, they sheepishly explain that the hag caught the two of them and a third dryad named Hanah unawares while they were paying little attention to their surroundings. Trekaila and Argentia are quick to disclose that Hanah was taken away by the hag several hours ago, and they fear that the worst might have happened to her. The dryads tell the characters about seeing the hag return from someplace that lies to the east of the shack and urge them to investigate.
+The two [dryads](/3-Mechanics/CLI/bestiary/fey/dryad-xmm.md) are named Trekaila and Argentia. If the characters free them from their bonds, the dryads are appropriately grateful. If the characters ask how they got here, they sheepishly explain that the hag caught the two of them and a third dryad named Hanah unawares while they were paying little attention to their surroundings. Trekaila and Argentia are quick to disclose that Hanah was taken away by the hag several hours ago, and they fear that the worst might have happened to her. The dryads tell the characters about seeing the hag return from someplace that lies to the east of the shack and urge them to investigate.
 
 ##### Treasure
 
-All of Lanedrie's prized possessions are sitting on the shelf. A character who makes a successful DC 12 Intelligence ([Arcana](3-Mechanics/CLI/rules/skills.md#Arcana) or [Investigation](3-Mechanics/CLI/rules/skills.md#Investigation)) check identifies two useful items: a [potion of clairvoyance](3-Mechanics/CLI/items/potion-of-clairvoyance-xdmg.md) and a [potion of healing (greater)](3-Mechanics/CLI/items/potion-of-greater-healing-xdmg.md). As figments of the demiplane, these potions vanish when the characters leave if they're not consumed before then.
+All of Lanedrie's prized possessions are sitting on the shelf. A character who makes a successful DC 12 Intelligence ([Arcana](/3-Mechanics/CLI/skills.md#Arcana) or [Investigation](/3-Mechanics/CLI/skills.md#Investigation)) check identifies two useful items: a [potion of clairvoyance](/3-Mechanics/CLI/items/potion-of-clairvoyance-xdmg.md) and a [potion of healing (greater)](/3-Mechanics/CLI/items/potion-of-greater-healing-xdmg.md). As figments of the demiplane, these potions vanish when the characters leave if they're not consumed before then.
 
 #### H3. Hag's Menagerie
 
@@ -235,7 +235,7 @@ Tucked in a clearing is a ramshackle structure 15 feet wide and three times as l
 > Eighteen cages, most of them occupied, line the walls of this grotesque menagerie.
 ^2f5
 
-The door to each cage is barred on the outside and features a small window through which the characters can see what's inside. Seven of the cages are empty (though their doors are still barred). Ten of them hold single specimens of various animals—a [baboon](3-Mechanics/CLI/bestiary/beast/baboon-xmm.md), a [hyena](3-Mechanics/CLI/bestiary/beast/hyena-xmm.md), a [boar](3-Mechanics/CLI/bestiary/beast/boar-xmm.md), an [ape](3-Mechanics/CLI/bestiary/beast/ape-xmm.md), a [vulture](3-Mechanics/CLI/bestiary/beast/vulture-xmm.md), a [blood hawk](3-Mechanics/CLI/bestiary/beast/blood-hawk-xmm.md), an [eagle](3-Mechanics/CLI/bestiary/beast/eagle-xmm.md), a [giant rat](3-Mechanics/CLI/bestiary/beast/giant-rat-xmm.md), a [hawk](3-Mechanics/CLI/bestiary/beast/hawk-xmm.md), and an [owl](3-Mechanics/CLI/bestiary/beast/owl-xmm.md). All of them are weakened from minor wounds and insufficient nourishment, but they are still able to fend for themselves. If the door is opened on an occupied cage, the animal inside immediately bolts (or flies) for freedom, doing what it must to foil any attempts to keep it from escaping.
+The door to each cage is barred on the outside and features a small window through which the characters can see what's inside. Seven of the cages are empty (though their doors are still barred). Ten of them hold single specimens of various animals—a [baboon](/3-Mechanics/CLI/bestiary/beast/baboon-xmm.md), a [hyena](/3-Mechanics/CLI/bestiary/beast/hyena-xmm.md), a [boar](/3-Mechanics/CLI/bestiary/beast/boar-xmm.md), an [ape](/3-Mechanics/CLI/bestiary/beast/ape-xmm.md), a [vulture](/3-Mechanics/CLI/bestiary/beast/vulture-xmm.md), a [blood hawk](/3-Mechanics/CLI/bestiary/beast/blood-hawk-xmm.md), an [eagle](/3-Mechanics/CLI/bestiary/beast/eagle-xmm.md), a [giant rat](/3-Mechanics/CLI/bestiary/beast/giant-rat-xmm.md), a [hawk](/3-Mechanics/CLI/bestiary/beast/hawk-xmm.md), and an [owl](/3-Mechanics/CLI/bestiary/beast/owl-xmm.md). All of them are weakened from minor wounds and insufficient nourishment, but they are still able to fend for themselves. If the door is opened on an occupied cage, the animal inside immediately bolts (or flies) for freedom, doing what it must to foil any attempts to keep it from escaping.
 
 The door of the last cage, in the far southeast corner of the building, has no window. The characters need to open the door to see what's inside:
 
@@ -244,7 +244,7 @@ The door of the last cage, in the far southeast corner of the building, has no w
 > Curled up on the floor is a dryad. Her arms and legs are bound, and she appears to be unconscious.
 ^2f6
 
-This [unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious) [dryad](3-Mechanics/CLI/bestiary/fey/dryad-xmm.md) is Hanah. If Trekaila and Argentia are present, they try to rush to Hanah's side and minister to her. Hanah has been reduced to 0 hit points from the hag's rough treatment, but she is stable. If the characters don't administer healing of their own, one of the other dryads casts a [goodberry](3-Mechanics/CLI/spells/goodberry-xphb.md) spell and force-feeds the berries to Hanah. If she regains even 1 hit point, Hanah becomes conscious.
+This [unconscious](/3-Mechanics/CLI/conditions.md#Unconscious) [dryad](/3-Mechanics/CLI/bestiary/fey/dryad-xmm.md) is Hanah. If Trekaila and Argentia are present, they try to rush to Hanah's side and minister to her. Hanah has been reduced to 0 hit points from the hag's rough treatment, but she is stable. If the characters don't administer healing of their own, one of the other dryads casts a [goodberry](/3-Mechanics/CLI/spells/goodberry-xphb.md) spell and force-feeds the berries to Hanah. If she regains even 1 hit point, Hanah becomes conscious.
 
 After she gets her bearings, Hanah says she's able to travel. She wants nothing more than to leave this place. Trekaila and Argentia, of course, are in complete agreement. The dryads part company with the characters, heading back toward Polvarth Plateau after wishing the adventurers success in whatever they are trying to do.
 
@@ -270,8 +270,8 @@ As the adventurers will discover, this cult of Malar (otherwise nameless) includ
 Malar believes that there is no better way to demonstrate his dominance than by using his cult members to help bring forth a corrupted version of the avatar of Lurue the Unicorn to serve the Beast Lord's ends in his newly claimed domain. It is this effort that the characters must foil if they are to see their role in the story of *Lore of Lurue* end happily.
 
 > [!gallery]
-> ![Map 10.2: Pool of Eternal Spring](3-Mechanics/CLI/adventures/candlekeep-mysteries/img/081-map-10-02-pool-of-eternal-spring.webp#gallery)
-> ![Player Version](3-Mechanics/CLI/adventures/candlekeep-mysteries/img/082-map-10-02-pool-of-eternal-spring-player.webp#gallery)
+> ![Map 10.2: Pool of Eternal Spring](/3-Mechanics/CLI/adventures/candlekeep-mysteries/img/081-map-10-02-pool-of-eternal-spring.webp#gallery)
+> ![Player Version](/3-Mechanics/CLI/adventures/candlekeep-mysteries/img/082-map-10-02-pool-of-eternal-spring-player.webp#gallery)
 
 #### Cult of Malar Campsite
 
@@ -291,9 +291,9 @@ The thunder and lightning should make it apparent which direction the characters
 > A group of vicious-looking warriors are gathered around the fire. They clink together their bone mugs and rip into raw animal flesh with their teeth. Fresh blood drips from their mouths and hands. It seems like a celebration of some sort. Occasionally, between the warriors' cruel laughs, you can hear a cry of "To the Beast Lord!"
 ^2fc
 
-Eight [berserkers](3-Mechanics/CLI/bestiary/humanoid/berserker-xmm.md) of the cult are consuming a pile of animals they have killed as a way of paying tribute to Malar. If they aren't tearing at the meat, they are playing with the dead bodies, kicking them to and fro. Two [worgs](3-Mechanics/CLI/bestiary/fey/worg-xmm.md) chained to nearby posts snarl and growl anytime a dead carcass gets close enough.
+Eight [berserkers](/3-Mechanics/CLI/bestiary/humanoid/berserker-xmm.md) of the cult are consuming a pile of animals they have killed as a way of paying tribute to Malar. If they aren't tearing at the meat, they are playing with the dead bodies, kicking them to and fro. Two [worgs](/3-Mechanics/CLI/bestiary/fey/worg-xmm.md) chained to nearby posts snarl and growl anytime a dead carcass gets close enough.
 
-This noisy revelry provides each character with advantage on any Dexterity ([Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)) check to get closer to the cult members. If the characters linger too long before acting, one of the worgs picks up their scent and, with a roar, alerts the berserkers to the characters' presence. The berserkers fight to the death until one remains. That warrior tries to retreat to the south, hoping to alert the cult members gathered at the pool (see below).
+This noisy revelry provides each character with advantage on any Dexterity ([Stealth](/3-Mechanics/CLI/skills.md#Stealth)) check to get closer to the cult members. If the characters linger too long before acting, one of the worgs picks up their scent and, with a roar, alerts the berserkers to the characters' presence. The berserkers fight to the death until one remains. That warrior tries to retreat to the south, hoping to alert the cult members gathered at the pool (see below).
 
 ## Peril at the Pool
 
@@ -310,11 +310,11 @@ In less troubling times, the Pool of Eternal Spring was a little slice of Mount 
 
 The cult of Malar has prepared the pool in anticipation of the winter solstice. By filling the Pool of Eternal Spring with offerings to Malar—creatures of the forest that have been brutally killed and slain, then tossed into the water—the cult has tainted it as a gesture of reverence to their deity. Unbeknownst to them, the arrival of the solstice triggers the final phase of Malar's plan.
 
-The cultists at the edge of the pool are six [werewolves](3-Mechanics/CLI/bestiary/monstrosity/werewolf-xmm.md). Five begin the encounter in hybrid form, and the one leading the chant is in humanoid form. The characters have come on the scene just in time to witness the final stage of the ceremony, which culminates at midnight. Before the characters can do anything to prevent it, a bolt of red lightning splits the sky and strikes the surface of the pool. When the resulting steam cloud dissipates, the [corrupted avatar of Lurue](3-Mechanics/CLI/bestiary/monstrosity/corrupted-avatar-of-lurue-cm.md) (see the accompanying stat block) materializes at the edge of the pool—and suddenly, the characters and the cultists have a common enemy (see "The Corrupted Avatar" for more information).
+The cultists at the edge of the pool are six [werewolves](/3-Mechanics/CLI/bestiary/monstrosity/werewolf-xmm.md). Five begin the encounter in hybrid form, and the one leading the chant is in humanoid form. The characters have come on the scene just in time to witness the final stage of the ceremony, which culminates at midnight. Before the characters can do anything to prevent it, a bolt of red lightning splits the sky and strikes the surface of the pool. When the resulting steam cloud dissipates, the [corrupted avatar of Lurue](/3-Mechanics/CLI/bestiary/monstrosity/corrupted-avatar-of-lurue-cm.md) (see the accompanying stat block) materializes at the edge of the pool—and suddenly, the characters and the cultists have a common enemy (see "The Corrupted Avatar" for more information).
 
 If any creature drinks the corrupted water from the pool, it must make a DC 15 Charisma saving throw. On a failed save, the creature gains a randomly determined form of short-term madness (see ""Madness"" in the "Dungeon Master's Guide").
 
-![Corrupted Avatar of Lurue](3-Mechanics/CLI/adventures/candlekeep-mysteries/img/083-637514193128459607.webp#center)
+![Corrupted Avatar of Lurue](/3-Mechanics/CLI/adventures/candlekeep-mysteries/img/083-637514193128459607.webp#center)
 
 ### The Corrupted Avatar
 
@@ -350,4 +350,4 @@ Regardless of the outcome of the characters' efforts, the book's final scene end
 
 As these words pass into the characters' consciousness, the book begins to pull the characters out of the story. When the last line is read, the characters return to the same spot in Candlekeep they left. *Lore of Lurue*, closed and sealed, rests where it did when the characters' experience began.
 
-If the characters defeated the corrupted unicorn before Selûne intervened, and thus they feel deserving of a reward, they might discover that Lurue herself has provided them with one. Sitting on the front cover of the book as the characters emerge from the demiplane is a moonstone and opal ring. A successful DC 18 Intelligence ([Arcana](3-Mechanics/CLI/rules/skills.md#Arcana)) check reveals this to be a [ring of shooting stars](3-Mechanics/CLI/items/ring-of-shooting-stars-xdmg.md). In addition, each character is the recipient of a supernatural gift from Lurue: a *charm of animal conjuring* (see ""Charms"" in the "Dungeon Master's Guide").
+If the characters defeated the corrupted unicorn before Selûne intervened, and thus they feel deserving of a reward, they might discover that Lurue herself has provided them with one. Sitting on the front cover of the book as the characters emerge from the demiplane is a moonstone and opal ring. A successful DC 18 Intelligence ([Arcana](/3-Mechanics/CLI/skills.md#Arcana)) check reveals this to be a [ring of shooting stars](/3-Mechanics/CLI/items/ring-of-shooting-stars-xdmg.md). In addition, each character is the recipient of a supernatural gift from Lurue: a *charm of animal conjuring* (see ""Charms"" in the "Dungeon Master's Guide").

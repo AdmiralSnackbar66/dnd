@@ -11,20 +11,20 @@ aliases: ["Glossary Conventions"]
 |    |    |
 |----|----|
 | AC | Armor Class |
-| C | [Concentration](3-Mechanics/CLI/rules/conditions.md#Concentration) |
+| C | [Concentration](/3-Mechanics/CLI/conditions.md#Concentration) |
 | CE | Chaotic Evil |
 | CG | Chaotic Good |
 | Cha. | Charisma |
 | CN | Chaotic Neutral |
 | Con. | Constitution |
 | CP | Copper Piece(s) |
-| CR | [Challenge Rating](3-Mechanics/CLI/rules/variant-rules/challenge-rating-xphb.md) |
-| DC | [Difficulty Class](3-Mechanics/CLI/rules/variant-rules/difficulty-class-xphb.md) |
+| CR | [Challenge Rating](/3-Mechanics/CLI/variant-rules/challenge-rating-xphb.md) |
+| DC | [Difficulty Class](/3-Mechanics/CLI/variant-rules/difficulty-class-xphb.md) |
 | Dex. | Dexterity |
 | DM | Dungeon Master |
 | EP | Electrum Piece(s) |
 | GP | Gold Piece(s) |
-| HP | [Hit Point](3-Mechanics/CLI/rules/variant-rules/hit-points-xphb.md)(s) |
+| HP | [Hit Point](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)(s) |
 | Int. | Intelligence |
 | LE | Lawful Evil |
 | LG | Lawful Good |
@@ -34,12 +34,12 @@ aliases: ["Glossary Conventions"]
 | NE | Neutral Evil |
 | NG | Neutral Good |
 | NPC | Nonplayer character |
-| PB | [Proficiency Bonus](3-Mechanics/CLI/rules/variant-rules/proficiency-xphb.md) |
+| PB | [Proficiency Bonus](/3-Mechanics/CLI/variant-rules/proficiency-xphb.md) |
 | PP | Platinum Piece(s) |
-| R | [Ritual](3-Mechanics/CLI/rules/variant-rules/ritual-xphb.md) |
+| R | [Ritual](/3-Mechanics/CLI/variant-rules/ritual-xphb.md) |
 | S | Somatic component |
 | SP | Silver Piece(s) |
 | Str. | Strength |
 | V | Verbal component |
 | Wis. | Wisdom |
-| XP | [Experience Point](3-Mechanics/CLI/rules/variant-rules/experience-points-xphb.md)(s) |
+| XP | [Experience Point](/3-Mechanics/CLI/variant-rules/experience-points-xphb.md)(s) |

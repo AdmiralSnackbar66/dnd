@@ -14,7 +14,7 @@ aliases: ["Mordenkainen's Magnificent Mansion"]
 ---
 # Mordenkainen's Magnificent Mansion
 *7th-level, Conjuration*  
-![](3-Mechanics/CLI/spells/img/mordenkainens-magnificent-mansion.webp#right)
+![](/3-Mechanics/CLI/spells/img/mordenkainens-magnificent-mansion.webp#right)
 
 - **Casting time:** 1 minute
 - **Range:** 300 feet
@@ -31,6 +31,6 @@ A staff of 100 near-transparent servants attends all who enter. You determine th
 
 When the spell ends, any creatures or objects left inside the extradimensional space are expelled into the unoccupied spaces nearest to the entrance.
 
-**Classes**: [Bard](3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 300. Available in the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 300. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> (as "Magnificent Mansion")*

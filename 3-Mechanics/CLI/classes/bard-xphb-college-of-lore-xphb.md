@@ -8,7 +8,7 @@ aliases: ["College of Lore"]
 ---
 # College of Lore
 *[Bard](./bard-xphb.md): Bard Subclass*  
-*Source: Player's Handbook (2024) p. 66*  
+*Source: Player's Handbook (2024) p. 66. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
 
 > [!tldr] Class and Feature Progression
 > 
@@ -56,7 +56,7 @@ You gain proficiency with three skills of your choice.
 
 ### Cutting Words (Level 3)
 
-You learn to use your wit to supernaturally distract, confuse, and otherwise sap the confidence and competence of others. When a creature that you can see within 60 feet of yourself makes a damage roll or succeeds on an ability check or attack roll, you can take a [Reaction](3-Mechanics/CLI/rules/variant-rules/reaction-xphb.md) to expend one use of your Bardic Inspiration; roll your Bardic Inspiration die, and subtract the number rolled from the creature's roll, reducing the damage or potentially turning the success into a failure.
+You learn to use your wit to supernaturally distract, confuse, and otherwise sap the confidence and competence of others. When a creature that you can see within 60 feet of yourself makes a damage roll or succeeds on an ability check or attack roll, you can take a [Reaction](/3-Mechanics/CLI/variant-rules/reaction-xphb.md) to expend one use of your Bardic Inspiration; roll your Bardic Inspiration die, and subtract the number rolled from the creature's roll, reducing the damage or potentially turning the success into a failure.
 
 ### Magical Discoveries (Level 6)
 
@@ -66,4 +66,4 @@ You always have the chosen spells prepared, and whenever you gain a Bard level, 
 
 ### Peerless Skill (Level 14)
 
-When you make an ability check or attack roll and fail, you can expend one use of Bardic Inspiration; roll the Bardic Inspiration die, and add the number rolled to the `d20`, potentially turning a failure into a success. On a failure, the Bardic Inspiration isn't expended.
+When you make an ability check or attack roll and fail, you can expend one use of Bardic Inspiration; roll the Bardic Inspiration die, and add the number rolled to the `dice:d20|noform|noparens|avg` (`d20`), potentially turning a failure into a success. On a failure, the Bardic Inspiration isn't expended.

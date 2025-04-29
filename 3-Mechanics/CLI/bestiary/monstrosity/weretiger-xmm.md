@@ -13,7 +13,7 @@ statblock: inline
 aliases: ["Weretiger"]
 ---
 # [Weretiger](3-Mechanics\CLI\bestiary\monstrosity/weretiger-xmm.md)
-*Source: Monster Manual (2024) p. 326*  
+*Source: Monster Manual (2024) p. 326. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
 
 ## Weretiger
 
@@ -70,8 +70,8 @@ Weretigers shape-shift from humanoid forms into tigers or tiger-humanoid hybrids
 - "desc": "Melee Attack Roll: +5, reach 5 ft. Hit: 12 (2d8 + 3) Piercing damage.\
     \ If the target is a Humanoid, it is subjected to the following effect. Constitution\
     \ Saving Throw: DC 13. Failure: The target is cursed. If the cursed target\
-    \ drops to 0 [Hit Points](3-Mechanics/CLI/rules/variant-rules/hit-points-xphb.md),\
-    \ it instead becomes a Weretiger under the DM's control and has 10 [Hit Points](3-Mechanics/CLI/rules/variant-rules/hit-points-xphb.md).\
+    \ drops to 0 [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md),\
+    \ it instead becomes a Weretiger under the DM's control and has 10 [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md).\
     \ Success: The target is immune to this weretiger's curse for 24 hours."
   "name": "Bite (Tiger or Hybrid Form Only)"
 - "desc": "Melee Attack Roll: +5, reach 5 ft. Hit: 10 (2d6 + 3) Slashing damage."
@@ -80,7 +80,7 @@ Weretigers shape-shift from humanoid forms into tigers or tiger-humanoid hybrids
     \ damage."
   "name": "Longbow (Humanoid or Hybrid Form Only)"
 "bonus_actions":
-- "desc": "The weretiger moves up to its [Speed](3-Mechanics/CLI/rules/variant-rules/speed-xphb.md)\
+- "desc": "The weretiger moves up to its [Speed](/3-Mechanics/CLI/variant-rules/speed-xphb.md)\
     \ without provoking Opportunity Attacks. At the end of this movement, the weretiger\
     \ can take the Hide action."
   "name": "Prowl (Tiger or Hybrid Form Only)"
@@ -91,7 +91,7 @@ Weretigers shape-shift from humanoid forms into tigers or tiger-humanoid hybrids
   "name": "Shape-Shift"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/monstrosity/token/weretiger-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/weretiger-xmm.webp"
 ```
 ^statblock
 

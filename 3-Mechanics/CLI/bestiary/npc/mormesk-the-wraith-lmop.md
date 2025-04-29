@@ -33,10 +33,10 @@ A wraith is the incorporeal remnant of a particularly hateful being. Most wraith
 "damage_resistances": "acid; cold; fire; lightning; thunder; bludgeoning, piercing,\
   \ slashing from nonmagical attacks that aren't silvered"
 "damage_immunities": "necrotic, poison"
-"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [grappled](3-Mechanics/CLI/rules/conditions.md#Grappled),\
-  \ [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed), [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified),\
-  \ [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned), [prone](3-Mechanics/CLI/rules/conditions.md#Prone),\
-  \ [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained)"
+"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [grappled](/3-Mechanics/CLI/conditions.md#Grappled),\
+  \ [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed), [petrified](/3-Mechanics/CLI/conditions.md#Petrified),\
+  \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned), [prone](/3-Mechanics/CLI/conditions.md#Prone),\
+  \ [restrained](/3-Mechanics/CLI/conditions.md#Restrained)"
 "senses": "darkvision 60 ft., passive Perception 12"
 "languages": "Common, Infernal"
 "cr": "3"
@@ -45,8 +45,7 @@ A wraith is the incorporeal remnant of a particularly hateful being. Most wraith
     \ there."
   "name": "Incorporeal Movement"
 - "desc": "While in sunlight, the wraith has disadvantage on attack rolls and on Wisdom\
-    \ ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) checks that rely\
-    \ on sight."
+    \ ([Perception](/3-Mechanics/CLI/skills.md#Perception)) checks that rely on sight."
   "name": "Sunlight Sensitivity"
 "actions":
 - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 16\
@@ -58,6 +57,6 @@ A wraith is the incorporeal remnant of a particularly hateful being. Most wraith
   "name": "Life Drain"
 "source":
 - "LMoP"
-"image": "3-Mechanics/CLI/bestiary/npc/token/mormesk-the-wraith-lmop.webp"
+"image": "/3-Mechanics/CLI/bestiary/npc/token/mormesk-the-wraith-lmop.webp"
 ```
 ^statblock

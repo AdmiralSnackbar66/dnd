@@ -51,9 +51,9 @@ He established Silverquill College on the principles of eloquence and leadership
 "traits":
 - "desc": "Shadrix casts one of the following spells, requiring no material components\
     \ and using Charisma as the spellcasting ability (spell save DC 23):\n\n1/day\
-    \ each: [darkness](3-Mechanics/CLI/spells/darkness-xphb.md), [daylight](3-Mechanics/CLI/spells/daylight-xphb.md),\
-    \ [hypnotic pattern](3-Mechanics/CLI/spells/hypnotic-pattern-xphb.md), [sending](3-Mechanics/CLI/spells/sending-xphb.md),\
-    \ [suggestion](3-Mechanics/CLI/spells/suggestion-xphb.md)"
+    \ each: [darkness](/3-Mechanics/CLI/spells/darkness-xphb.md), [daylight](/3-Mechanics/CLI/spells/daylight-xphb.md),\
+    \ [hypnotic pattern](/3-Mechanics/CLI/spells/hypnotic-pattern-xphb.md), [sending](/3-Mechanics/CLI/spells/sending-xphb.md),\
+    \ [suggestion](/3-Mechanics/CLI/spells/suggestion-xphb.md)"
   "name": "Spellcasting"
 - "desc": "If Shadrix fails a saving throw, he can choose to succeed instead."
   "name": "Legendary Resistance (3/Day)"
@@ -64,15 +64,15 @@ He established Silverquill College on the principles of eloquence and leadership
     \ (1d10 + 7) piercing damage plus 4 (1d8) radiant damage."
   "name": "Bite"
 - "desc": "Melee Weapon Attack: +14 to hit, reach 10 ft., one target. Hit: 10\
-    \ (1d6 + 7) slashing damage. If the target is a creature, it is wracked with\
-    \ despair and has disadvantage on attack rolls until the end of its next turn."
+    \ (1d6 + 7) slashing damage. If the target is a creature, it is wracked with despair\
+    \ and has disadvantage on attack rolls until the end of its next turn."
   "name": "Claw"
 - "desc": "Shadrix exhales an entwined burst of blinding radiance and unnerving shadow\
     \ in a 90-foot cone. Each creature in that area must make a DC 21 Constitution\
     \ saving throw. On a failed save, a creature takes 31 (7d8) radiant damage and\
-    \ 31 (7d8) psychic damage and is [blinded](3-Mechanics/CLI/rules/conditions.md#Blinded)\
+    \ 31 (7d8) psychic damage and is [blinded](/3-Mechanics/CLI/conditions.md#Blinded)\
     \ until the start of Shadrix's next turn. On a successful save, a creature takes\
-    \ half as much damage and isn't [blinded](3-Mechanics/CLI/rules/conditions.md#Blinded)."
+    \ half as much damage and isn't [blinded](/3-Mechanics/CLI/conditions.md#Blinded)."
   "name": "Illuminating Shadow Breath (Recharge 5-6)"
 "legendary_actions":
 - "desc": "Shadrix makes one Claw attack."
@@ -81,11 +81,11 @@ He established Silverquill College on the principles of eloquence and leadership
     \ speed without provoking opportunity attacks, then resumes his true form. During\
     \ this movement, he can move through creatures and objects as if they were difficult\
     \ terrain. If he moves through a creature, it must succeed on a DC 21 Constitution\
-    \ saving throw or become [blinded](3-Mechanics/CLI/rules/conditions.md#Blinded)\
-    \ until the end of its next turn. If Shadrix ends this move inside an object,\
-    \ he takes 5 (1d10) force damage and is shunted to the nearest unoccupied space."
+    \ saving throw or become [blinded](/3-Mechanics/CLI/conditions.md#Blinded) until\
+    \ the end of its next turn. If Shadrix ends this move inside an object, he takes\
+    \ 5 (1d10) force damage and is shunted to the nearest unoccupied space."
   "name": "Shadow Slip (Costs 2 Actions)"
-- "desc": "Shadrix magically summons 1d4 [inkling mascots](3-Mechanics/CLI/bestiary/ooze/inkling-mascot-scc.md)\
+- "desc": "Shadrix magically summons 1d4 [inkling mascots](/3-Mechanics/CLI/bestiary/ooze/inkling-mascot-scc.md)\
     \ in unoccupied spaces he can see within 60 feet of himself. The inklings obey\
     \ his commands and take their turns immediately after his. While any of these\
     \ inklings live, Shadrix has advantage on attack rolls and saving throws. These\
@@ -94,6 +94,6 @@ He established Silverquill College on the principles of eloquence and leadership
   "name": "Flash of Inspiration (Costs 3 Actions)"
 "source":
 - "SCC"
-"image": "3-Mechanics/CLI/bestiary/npc/token/shadrix-silverquill-scc.webp"
+"image": "/3-Mechanics/CLI/bestiary/npc/token/shadrix-silverquill-scc.webp"
 ```
 ^statblock

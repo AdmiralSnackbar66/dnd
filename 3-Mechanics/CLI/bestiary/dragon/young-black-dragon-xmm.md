@@ -11,7 +11,7 @@ statblock: inline
 aliases: ["Young Black Dragon"]
 ---
 # [Young Black Dragon](3-Mechanics\CLI\bestiary\dragon/young-black-dragon-xmm.md)
-*Source: Monster Manual (2024) p. 38*  
+*Source: Monster Manual (2024) p. 38. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
 
 Most young black dragons claim a hidden lair—typically a dismal place accessible through deadly ruins or a treacherous bog. They delight in exploiting fearful servants and might terrorize small communities or impress groups of kobolds or troglodytes into their service. Some ally themselves with powerful undead such as death knights and vampires or aberrations such as aboleths and kuo-toa.
 
@@ -69,12 +69,12 @@ Black dragons lurk in dismal ruins, polluted bogs, or other sites gripped by dec
     \ plus 3 (1d6) Acid damage."
   "name": "Rend"
 - "desc": "Dexterity Saving Throw: DC 14, each creature in a 30-foot-long, 5-foot-wide\
-    \ [Line](3-Mechanics/CLI/rules/variant-rules/line-area-of-effect-xphb.md). Failure:\
+    \ [Line](/3-Mechanics/CLI/variant-rules/line-area-of-effect-xphb.md). Failure:\
     \ 49 (14d6) Acid damage. Success: Half damage."
   "name": "Acid Breath (Recharge 5-6)"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/dragon/token/young-black-dragon-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/dragon/token/young-black-dragon-xmm.webp"
 ```
 ^statblock
 

@@ -13,6 +13,6 @@ aliases:
 
 
 
-While you wear these boots, you can cast [Levitate](3-Mechanics/CLI/spells/levitate-xphb.md) on yourself.
+While you wear these boots, you can cast [Levitate](/3-Mechanics/CLI/spells/levitate-xphb.md) on yourself.
 
-*Source: Dungeon Master's Guide (2024) p. 239. Available in the Free Rules (2024)*
+*Source: Dungeon Master's Guide (2024) p. 239. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*

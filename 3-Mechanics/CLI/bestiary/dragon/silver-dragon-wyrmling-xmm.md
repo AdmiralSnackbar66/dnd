@@ -12,7 +12,7 @@ statblock: inline
 aliases: ["Silver Dragon Wyrmling"]
 ---
 # [Silver Dragon Wyrmling](3-Mechanics\CLI\bestiary\dragon/silver-dragon-wyrmling-xmm.md)
-*Source: Monster Manual (2024) p. 278*  
+*Source: Monster Manual (2024) p. 278. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
 
 Silver dragon wyrmlings typically live with one or more parents or mentors, learning much about the world and its past before living on their own.
 
@@ -65,19 +65,19 @@ Silver dragons typically lair in picturesque mountain retreats or on sculpted cl
   "name": "Multiattack"
 - "desc": "Melee Attack Roll: +6, reach 5 ft. Hit: 9 (1d10 + 4) Piercing damage."
   "name": "Rend"
-- "desc": "Constitution Saving Throw: DC 13, each creature in a 15-foot [Cone](3-Mechanics/CLI/rules/variant-rules/cone-area-of-effect-xphb.md).\
+- "desc": "Constitution Saving Throw: DC 13, each creature in a 15-foot [Cone](/3-Mechanics/CLI/variant-rules/cone-area-of-effect-xphb.md).\
     \ Failure: 18 (4d8) Cold damage. Success: Half damage."
   "name": "Cold Breath (Recharge 5-6)"
-- "desc": "Constitution Saving Throw: DC 13, each creature in a 15-foot [Cone](3-Mechanics/CLI/rules/variant-rules/cone-area-of-effect-xphb.md).\
-    \ 1st Failure: The target has the [Incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated)\
+- "desc": "Constitution Saving Throw: DC 13, each creature in a 15-foot [Cone](/3-Mechanics/CLI/variant-rules/cone-area-of-effect-xphb.md).\
+    \ 1st Failure: The target has the [Incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated)\
     \ condition until the end of its next turn, when it repeats the save. 2nd Failure:\
-    \ The target has the [Paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed)\
-    \ condition, and it repeats the save at the end of each of its turns, ending the\
-    \ effect on itself on a success. After 1 minute, it succeeds automatically."
+    \ The target has the [Paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed) condition,\
+    \ and it repeats the save at the end of each of its turns, ending the effect on\
+    \ itself on a success. After 1 minute, it succeeds automatically."
   "name": "Paralyzing Breath"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/dragon/token/silver-dragon-wyrmling-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/dragon/token/silver-dragon-wyrmling-xmm.webp"
 ```
 ^statblock
 

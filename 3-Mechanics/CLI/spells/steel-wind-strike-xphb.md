@@ -25,10 +25,10 @@ aliases: ["Steel Wind Strike"]
 - **Components:** S, M (a Melee weapon worth 1+ SP)
 - **Duration:** Instantaneous
 
-You flourish the weapon used in the casting and then vanish to strike like the wind. Choose up to five creatures you can see within range. Make a melee spell attack against each target. On a hit, a target takes `6d10` Force damage.
+You flourish the weapon used in the casting and then vanish to strike like the wind. Choose up to five creatures you can see within range. Make a melee spell attack against each target. On a hit, a target takes `dice:6d10|noform|noparens|avg` (`6d10`) Force damage.
 
 You then teleport to an unoccupied space you can see within 5 feet of one of the targets.
 
-**Classes**: [Bard](3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Ranger](3-Mechanics/CLI/lists/list-spells-classes-ranger.md); [Wizard](3-Mechanics/CLI/lists/list-spells-classes-wizard.md); [Cleric (War Domain)](3-Mechanics/CLI/lists/list-spells-classes-cleric-xphb-war-domain-xphb.md "subclass=XPHB;class=XPHB")
+**Classes**: [Cleric (War Domain)](/3-Mechanics/CLI/lists/list-spells-classes-cleric-xphb-war-domain-xphb.md "subclass=XPHB;class=XPHB"); [Ranger](/3-Mechanics/CLI/lists/list-spells-classes-ranger.md); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
 *Source: Player's Handbook (2024) p. 320*

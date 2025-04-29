@@ -28,7 +28,7 @@ aliases: ["Fiendish Spirit"]
 "speed": "40 ft., climb 40 ft. (Demon only), fly 60 ft. (Devil only)"
 "damage_resistances": "fire"
 "damage_immunities": "poison"
-"condition_immunities": "[poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"condition_immunities": "[poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": "Abyssal, Infernal, Telepathy 60 ft."
 "traits":
@@ -40,7 +40,7 @@ aliases: ["Fiendish Spirit"]
 - "desc": "Magical Darkness doesn't impede the spirit's Darkvision."
   "name": "Devil's Sight (Devil Only)"
 - "desc": "The spirit has Advantage on saving throws against spells and other magical\
-    \ eff ects."
+    \ effects."
   "name": "Magic Resistance"
 "actions":
 - "desc": "The spirit makes a number of attacks equal to half this spell's level (round\
@@ -55,11 +55,11 @@ aliases: ["Fiendish Spirit"]
     \ unoccupied space it can see."
   "name": "Claws (Yugoloth Only)"
 - "desc": "Melee or Ranged Attack Roll: YourSpellAttack Bonus equals your spell\
-    \ attack modifier, reach 5 ft. or range 150 ft. Hit: 2d6 + 3 + the spell's\
-    \ level Fire damage."
+    \ attack modifier, reach 5 ft. or range 150 ft. Hit: 2d6 + 3 + the spell's level\
+    \ Fire damage."
   "name": "Fiery Strike (Devil Only)"
 "source":
 - "XPHB"
-"image": "3-Mechanics/CLI/bestiary/fiend/token/fiendish-spirit-xphb.webp"
+"image": "/3-Mechanics/CLI/bestiary/fiend/token/fiendish-spirit-xphb.webp"
 ```
 ^statblock

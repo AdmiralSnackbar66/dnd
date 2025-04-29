@@ -17,6 +17,6 @@ aliases:
 
 - **Ability.** Intelligence  
 - **Utilize.** Discern what a ceramic object held in the past 24 hours (DC 15)  
-- **Craft.** [Jug](3-Mechanics/CLI/items/jug-xphb.md), [Lamp](3-Mechanics/CLI/items/lamp-xphb.md)  
+- **Craft.** [Jug](/3-Mechanics/CLI/items/jug-xphb.md), [Lamp](/3-Mechanics/CLI/items/lamp-xphb.md)  
 
-*Source: Player's Handbook (2024) p. 221. Available in the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 221. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*

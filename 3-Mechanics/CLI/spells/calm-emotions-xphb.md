@@ -11,11 +11,15 @@ tags:
 - ttrpg-cli/spell/subclass/aberrant-sorcery
 - ttrpg-cli/spell/subclass/archfey-patron
 - ttrpg-cli/spell/subclass/college-of-lore
+- ttrpg-cli/spell/subclass/divine-soul
+- ttrpg-cli/spell/subclass/oath-of-redemption
 classes:
 - Bard
 - Bard (College of Lore)
 - Cleric
+- Paladin (Oath of Redemption)
 - Sorcerer (Aberrant Sorcery)
+- Sorcerer (Divine Soul)
 - Warlock (Archfey Patron)
 aliases: ["Calm Emotions"]
 ---
@@ -30,9 +34,9 @@ aliases: ["Calm Emotions"]
 
 Each Humanoid in a 20-foot-radius Sphere centered on a point you choose within range must succeed on a Charisma saving throw or be affected by one of the following effects (choose for each creature):
 
-- The creature has [Immunity](3-Mechanics/CLI/rules/variant-rules/immunity-xphb.md) to the [Charmed](3-Mechanics/CLI/rules/conditions.md#Charmed) and [Frightened](3-Mechanics/CLI/rules/conditions.md#Frightened) conditions until the spell ends. If the creature was already [Charmed](3-Mechanics/CLI/rules/conditions.md#Charmed) or [Frightened](3-Mechanics/CLI/rules/conditions.md#Frightened), those conditions are suppressed for the duration.  
+- The creature has [Immunity](/3-Mechanics/CLI/variant-rules/immunity-xphb.md) to the [Charmed](/3-Mechanics/CLI/conditions.md#Charmed) and [Frightened](/3-Mechanics/CLI/conditions.md#Frightened) conditions until the spell ends. If the creature was already [Charmed](/3-Mechanics/CLI/conditions.md#Charmed) or [Frightened](/3-Mechanics/CLI/conditions.md#Frightened), those conditions are suppressed for the duration.  
 - The creature becomes Indifferent about creatures of your choice that it's Hostile toward. This indifference ends if the target takes damage or witnesses its allies taking damage. When the spell ends, the creature's attitude returns to normal.  
 
-**Classes**: [Sorcerer (Aberrant Sorcery)](3-Mechanics/CLI/lists/list-spells-classes-sorcerer-xphb-aberrant-sorcery-xphb.md "subclass=XPHB;class=XPHB"); [Cleric](3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Bard (College of Lore)](3-Mechanics/CLI/lists/list-spells-classes-bard-xphb-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Warlock (Archfey Patron)](3-Mechanics/CLI/lists/list-spells-classes-warlock-xphb-archfey-patron-xphb.md "subclass=XPHB;class=XPHB")
+**Classes**: [Sorcerer (Divine Soul)](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer-xphb-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Sorcerer (Aberrant Sorcery)](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer-xphb-aberrant-sorcery-xphb.md "subclass=XPHB;class=XPHB"); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Warlock (Archfey Patron)](/3-Mechanics/CLI/lists/list-spells-classes-warlock-xphb-archfey-patron-xphb.md "subclass=XPHB;class=XPHB"); [Paladin (Oath of Redemption)](/3-Mechanics/CLI/lists/list-spells-classes-paladin-xphb-oath-of-redemption-xge.md "subclass=XGE;class=XPHB"); [Bard (College of Lore)](/3-Mechanics/CLI/lists/list-spells-classes-bard-xphb-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md)
 
-*Source: Player's Handbook (2024) p. 249. Available in the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 249. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*

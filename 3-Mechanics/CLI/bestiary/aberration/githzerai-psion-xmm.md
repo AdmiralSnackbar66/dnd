@@ -84,28 +84,28 @@ Characters might be drawn into conflicts involving githzerai and githyanki in va
 "traits":
 - "desc": "The githzerai casts one of the following spells, requiring no spell components\
     \ and using Intelligence as the spellcasting ability (spell save DC 16):\n\nAt\
-    \ will: [Mage Hand](3-Mechanics/CLI/spells/mage-hand-xphb.md) (the hand is Invisible)\n\
-    \n1/day each: [Plane Shift](3-Mechanics/CLI/spells/plane-shift-xphb.md), [See\
-    \ Invisibility](3-Mechanics/CLI/spells/see-invisibility-xphb.md)"
+    \ will: [Mage Hand](/3-Mechanics/CLI/spells/mage-hand-xphb.md) (the hand is\
+    \ Invisible)\n\n1/day each: [Plane Shift](/3-Mechanics/CLI/spells/plane-shift-xphb.md),\
+    \ [See Invisibility](/3-Mechanics/CLI/spells/see-invisibility-xphb.md)"
   "name": "Spellcasting"
-- "desc": "The githzerai casts [Feather Fall](3-Mechanics/CLI/spells/feather-fall-xphb.md)\
-    \ or [Shield](3-Mechanics/CLI/spells/shield-xphb.md) in response to the spell's\
+- "desc": "The githzerai casts [Feather Fall](/3-Mechanics/CLI/spells/feather-fall-xphb.md)\
+    \ or [Shield](/3-Mechanics/CLI/spells/shield-xphb.md) in response to the spell's\
     \ trigger, requiring no spell components and using the same spellcasting ability\
-    \ as Spellcasting.\n\nAt will: [Feather Fall](3-Mechanics/CLI/spells/feather-fall-xphb.md),\
-    \ [Shield](3-Mechanics/CLI/spells/shield-xphb.md)"
+    \ as Spellcasting.\n\nAt will: [Feather Fall](/3-Mechanics/CLI/spells/feather-fall-xphb.md),\
+    \ [Shield](/3-Mechanics/CLI/spells/shield-xphb.md)"
   "name": "Psionic Defense"
 "actions":
 - "desc": "The githzerai makes three Psychic Warp attacks."
   "name": "Multiattack"
 - "desc": "Melee or Ranged Attack Roll: +8, reach 5 ft. or range 120 ft. Hit:\
-    \ 26 (4d10 + 4) Psychic damage, and the target has the githzerai's choice of\
-    \ (A) the [Charmed](3-Mechanics/CLI/rules/conditions.md#Charmed) condition until\
-    \ the start of the githzerai's next turn or (B) the [Prone](3-Mechanics/CLI/rules/conditions.md#Prone)\
+    \ 26 (4d10 + 4) Psychic damage, and the target has the githzerai's choice of (A)\
+    \ the [Charmed](/3-Mechanics/CLI/conditions.md#Charmed) condition until the start\
+    \ of the githzerai's next turn or (B) the [Prone](/3-Mechanics/CLI/conditions.md#Prone)\
     \ condition, provided the target is a Large or smaller creature."
   "name": "Psychic Warp"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/aberration/token/githzerai-psion-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/aberration/token/githzerai-psion-xmm.webp"
 ```
 ^statblock
 

@@ -12,7 +12,7 @@ aliases: ["Trade Bars"]
 
 | Bar | Value | Dimensions |
 |-----|-------|------------|
-| [2-pound silver bar](3-Mechanics/CLI/items/silver-bar-2-pound-xdmg.md) | 10 GP | 5 in. long × 2 in. wide × 1/2 in. thick |
-| [5-pound silver bar](3-Mechanics/CLI/items/silver-bar-5-pound-xdmg.md) | 25 GP | 6 in. long × 2 in. wide × 1 in. thick |
-| [5-pound gold bar](3-Mechanics/CLI/items/gold-bar-5-pound-xdmg.md) | 250 GP | 5 in. long × 2 in. wide × 3/4 in. thick |
+| [2-pound silver bar](/3-Mechanics/CLI/items/silver-bar-2-pound-xdmg.md) | 10 GP | 5 in. long × 2 in. wide × 1/2 in. thick |
+| [5-pound silver bar](/3-Mechanics/CLI/items/silver-bar-5-pound-xdmg.md) | 25 GP | 6 in. long × 2 in. wide × 1 in. thick |
+| [5-pound gold bar](/3-Mechanics/CLI/items/gold-bar-5-pound-xdmg.md) | 250 GP | 5 in. long × 2 in. wide × 3/4 in. thick |
 ^trade-bars

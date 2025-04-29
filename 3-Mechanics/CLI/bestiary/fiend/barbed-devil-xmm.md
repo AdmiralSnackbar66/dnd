@@ -12,7 +12,7 @@ statblock: inline
 aliases: ["Barbed Devil"]
 ---
 # [Barbed Devil](3-Mechanics\CLI\bestiary\fiend/barbed-devil-xmm.md)
-*Source: Monster Manual (2024) p. 30*  
+*Source: Monster Manual (2024) p. 30. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
 
 ## Barbed Devil
 
@@ -55,20 +55,20 @@ Barbed devils rarely collect anything as prosaic as coins and gems. Rather, they
   "Perception": !!int "8"
 "damage_resistances": "cold"
 "damage_immunities": "fire, poison"
-"condition_immunities": "[poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
-"senses": "darkvision 120 ft. (unimpeded by magical darkness), passive Perception\
-  \ 18"
+"condition_immunities": "[poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
+"senses": "darkvision 120 ft. (unimpeded by magical [Darkness](/3-Mechanics/CLI/variant-rules/darkness-xphb.md)),\
+  \ passive Perception 18"
 "languages": "Infernal; telepathy 120 ft."
 "cr": "5"
 "traits":
-- "desc": "At the start of each of its turns, the devil deals 5 (1d10) Piercing\
-    \ damage to any creature it is grappling or any creature grappling it."
+- "desc": "At the start of each of its turns, the devil deals 5 (1d10) Piercing damage\
+    \ to any creature it is grappling or any creature grappling it."
   "name": "Barbed Hide"
 - "desc": "If the devil dies outside the Nine Hells, its body disappears in sulfurous\
-    \ smoke, and it gains a new body instantly, reviving with all its [Hit Points](3-Mechanics/CLI/rules/variant-rules/hit-points-xphb.md)\
+    \ smoke, and it gains a new body instantly, reviving with all its [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)\
     \ somewhere in the Nine Hells."
   "name": "Diabolical Restoration"
-- "desc": "The devil has [Advantage](3-Mechanics/CLI/rules/variant-rules/advantage-xphb.md)\
+- "desc": "The devil has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
     \ on saving throws against spells and other magical effects."
   "name": "Magic Resistance"
 "actions":
@@ -76,19 +76,18 @@ Barbed devils rarely collect anything as prosaic as coins and gems. Rather, they
     \ Flame attacks."
   "name": "Multiattack"
 - "desc": "Melee Attack Roll: +6, reach 5 ft. Hit: 10 (2d6 + 3) Piercing damage.\
-    \ If the target is a Large or smaller creature, it has the [Grappled](3-Mechanics/CLI/rules/conditions.md#Grappled)\
+    \ If the target is a Large or smaller creature, it has the [Grappled](/3-Mechanics/CLI/conditions.md#Grappled)\
     \ condition (escape DC 13) from both claws."
   "name": "Claws"
-- "desc": "Melee Attack Roll: +6, reach 10 ft. Hit: 14 (2d10 + 3) Slashing\
-    \ damage."
+- "desc": "Melee Attack Roll: +6, reach 10 ft. Hit: 14 (2d10 + 3) Slashing damage."
   "name": "Tail"
-- "desc": "Ranged Attack Roll: +5, range 150 ft. Hit: 17 (5d6) Fire damage.\
-    \ If the target is a flammable object that isn't being worn or carried, it starts\
-    \ burning."
+- "desc": "Ranged Attack Roll: +5, range 150 ft. Hit: 17 (5d6) Fire damage. If\
+    \ the target is a flammable object that isn't being worn or carried, it starts\
+    \ [burning](/3-Mechanics/CLI/traps-hazards/burning-xphb.md)."
   "name": "Hurl Flame"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/fiend/token/barbed-devil-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/fiend/token/barbed-devil-xmm.webp"
 ```
 ^statblock
 

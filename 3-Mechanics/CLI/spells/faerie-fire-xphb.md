@@ -13,12 +13,10 @@ tags:
 - ttrpg-cli/spell/subclass/archfey-patron
 - ttrpg-cli/spell/subclass/college-of-lore
 - ttrpg-cli/spell/subclass/light-domain
-- ttrpg-cli/spell/subclass/moon-domain
 classes:
 - Bard
 - Bard (College of Lore)
 - Cleric (Light Domain)
-- Cleric (Moon Domain)
 - Druid
 - Warlock (Archfey Patron)
 aliases: ["Faerie Fire"]
@@ -32,10 +30,10 @@ aliases: ["Faerie Fire"]
 - **Components:** V
 - **Duration:** Concentration, up to 1 minute
 
-Objects in a 20-foot Cube within range are outlined in blue, green, or violet light (your choice). Each creature in the Cube is also outlined if it fails a Dexterity saving throw. For the duration, objects and affected creatures shed [Dim Light](3-Mechanics/CLI/rules/variant-rules/dim-light-xphb.md) in a 10-foot radius and can't benefit from the [Invisible](3-Mechanics/CLI/rules/conditions.md#Invisible) condition.
+Objects in a 20-foot Cube within range are outlined in blue, green, or violet light (your choice). Each creature in the Cube is also outlined if it fails a Dexterity saving throw. For the duration, objects and affected creatures shed [Dim Light](/3-Mechanics/CLI/variant-rules/dim-light-xphb.md) in a 10-foot radius and can't benefit from the [Invisible](/3-Mechanics/CLI/conditions.md#Invisible) condition.
 
-[Attack](3-Mechanics/CLI/rules/actions.md#Attack) rolls against an affected creature or object have [Advantage](3-Mechanics/CLI/rules/variant-rules/advantage-xphb.md) if the attacker can see it.
+[Attack](/3-Mechanics/CLI/actions.md#Attack) rolls against an affected creature or object have [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md) if the attacker can see it.
 
-**Classes**: [Bard (College of Lore)](3-Mechanics/CLI/lists/list-spells-classes-bard-xphb-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Warlock (Archfey Patron)](3-Mechanics/CLI/lists/list-spells-classes-warlock-xphb-archfey-patron-xphb.md "subclass=XPHB;class=XPHB"); [Druid](3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Cleric (Moon Domain)](3-Mechanics/CLI/lists/list-spells-classes-cleric-xphb-moon-domain-tdcsr.md "subclass=TDCSR;class=XPHB"); [Cleric (Light Domain)](3-Mechanics/CLI/lists/list-spells-classes-cleric-xphb-light-domain-xphb.md "subclass=XPHB;class=XPHB")
+**Classes**: [Cleric (Light Domain)](/3-Mechanics/CLI/lists/list-spells-classes-cleric-xphb-light-domain-xphb.md "subclass=XPHB;class=XPHB"); [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Warlock (Archfey Patron)](/3-Mechanics/CLI/lists/list-spells-classes-warlock-xphb-archfey-patron-xphb.md "subclass=XPHB;class=XPHB"); [Bard (College of Lore)](/3-Mechanics/CLI/lists/list-spells-classes-bard-xphb-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md)
 
-*Source: Player's Handbook (2024) p. 271. Available in the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 271. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*

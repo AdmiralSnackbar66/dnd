@@ -10,10 +10,14 @@ tags:
 - ttrpg-cli/spell/level/1st-level
 - ttrpg-cli/spell/school/abjuration
 - ttrpg-cli/spell/subclass/college-of-lore
+- ttrpg-cli/spell/subclass/divine-soul
+- ttrpg-cli/spell/subclass/oath-of-redemption
 classes:
 - Bard
 - Bard (College of Lore)
 - Cleric
+- Paladin (Oath of Redemption)
+- Sorcerer (Divine Soul)
 aliases: ["Sanctuary"]
 ---
 # Sanctuary
@@ -29,6 +33,6 @@ You ward a creature within range. Until the spell ends, any creature who targets
 
 The spell ends if the warded creature makes an attack roll, casts a spell, or deals damage.
 
-**Classes**: [Cleric](3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Bard (College of Lore)](3-Mechanics/CLI/lists/list-spells-classes-bard-xphb-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](3-Mechanics/CLI/lists/list-spells-classes-bard.md)
+**Classes**: [Sorcerer (Divine Soul)](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer-xphb-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Paladin (Oath of Redemption)](/3-Mechanics/CLI/lists/list-spells-classes-paladin-xphb-oath-of-redemption-xge.md "subclass=XGE;class=XPHB"); [Bard (College of Lore)](/3-Mechanics/CLI/lists/list-spells-classes-bard-xphb-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md)
 
-*Source: Player's Handbook (2024) p. 313. Available in the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 313. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*

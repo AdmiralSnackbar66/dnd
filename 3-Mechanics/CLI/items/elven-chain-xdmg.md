@@ -13,10 +13,10 @@ aliases:
 ---
 # Elven Chain
 *Rare*  
-![](3-Mechanics/CLI/items/img/elven-chain.webp#right)
+![](/3-Mechanics/CLI/items/img/elven-chain.webp#right)
 
 
-You gain a +1 bonus to [Armor Class](3-Mechanics/CLI/rules/variant-rules/armor-class-xphb.md) while you wear this armor. You are considered trained with this armor even if you lack training with Medium or Heavy armor.
+You gain a +1 bonus to [Armor Class](/3-Mechanics/CLI/variant-rules/armor-class-xphb.md) while you wear this armor. You are considered trained with this armor even if you lack training with Medium or Heavy armor.
 
 **Variants**:
 - [Elven Chain Mail](#Elven%20Chain%20Mail)
@@ -35,4 +35,4 @@ You gain a +1 bonus to [Armor Class](3-Mechanics/CLI/rules/variant-rules/armor-c
 - **Weight**: 20.0 lbs.
 
 
-*Source: Dungeon Master's Guide (2024) p. 257. Available in the Free Rules (2024)*
+*Source: Dungeon Master's Guide (2024) p. 257. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*

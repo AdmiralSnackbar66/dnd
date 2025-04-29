@@ -11,7 +11,7 @@ statblock: inline
 aliases: ["Young White Dragon"]
 ---
 # [Young White Dragon](3-Mechanics\CLI\bestiary\dragon/young-white-dragon-xmm.md)
-*Source: Monster Manual (2024) p. 328*  
+*Source: Monster Manual (2024) p. 328. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
 
 Young white dragons defend their hunting grounds from rivals. In some cases, kobolds and groups of humanoids might offer food and treasure to young white dragons, attempting to keep the dragons satiated and less likely to prey on their communities.
 
@@ -59,7 +59,7 @@ White dragons brood in bitterly cold lairs clawed from stone and ice.
 "cr": "6"
 "traits":
 - "desc": "The dragon can move across and climb icy surfaces without needing to make\
-    \ an ability check. Additionally, [Difficult Terrain](3-Mechanics/CLI/rules/variant-rules/difficult-terrain-xphb.md)\
+    \ an ability check. Additionally, [Difficult Terrain](/3-Mechanics/CLI/variant-rules/difficult-terrain-xphb.md)\
     \ composed of ice or snow doesn't cost it extra movement."
   "name": "Ice Walk"
 "actions":
@@ -68,12 +68,12 @@ White dragons brood in bitterly cold lairs clawed from stone and ice.
 - "desc": "Melee Attack Roll: +7, reach 10 ft. Hit: 9 (2d4 + 4) Slashing damage\
     \ plus 2 (1d4) Cold damage."
   "name": "Rend"
-- "desc": "Constitution Saving Throw: DC 15, each creature in a 30-foot [Cone](3-Mechanics/CLI/rules/variant-rules/cone-area-of-effect-xphb.md).\
+- "desc": "Constitution Saving Throw: DC 15, each creature in a 30-foot [Cone](/3-Mechanics/CLI/variant-rules/cone-area-of-effect-xphb.md).\
     \ Failure: 40 (9d8) Cold damage. Success: Half damage."
   "name": "Cold Breath (Recharge 5-6)"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/dragon/token/young-white-dragon-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/dragon/token/young-white-dragon-xmm.webp"
 ```
 ^statblock
 

@@ -46,16 +46,16 @@ Witherbloom College studies the magic inherent in the natural cycle of life and 
   "Nature": !!int "6"
   "Perception": !!int "7"
 "damage_immunities": "poison"
-"condition_immunities": "[poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"condition_immunities": "[poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
 "senses": "passive Perception 17"
 "languages": "Common plus any two languages"
 "cr": "4"
 "traits":
 - "desc": "The apprentice casts one of the following spells, requiring no material\
-    \ components and using Wisdom as the spellcasting ability:\n\nAt will: [druidcraft](3-Mechanics/CLI/spells/druidcraft-xphb.md),\
-    \ [spare the dying](3-Mechanics/CLI/spells/spare-the-dying-xphb.md)\n\n1/day\
-    \ each: [death ward](3-Mechanics/CLI/spells/death-ward-xphb.md), [pass without\
-    \ trace](3-Mechanics/CLI/spells/pass-without-trace-xphb.md), [speak with plants](3-Mechanics/CLI/spells/speak-with-plants-xphb.md)"
+    \ components and using Wisdom as the spellcasting ability:\n\nAt will: [druidcraft](/3-Mechanics/CLI/spells/druidcraft-xphb.md),\
+    \ [spare the dying](/3-Mechanics/CLI/spells/spare-the-dying-xphb.md)\n\n1/day\
+    \ each: [death ward](/3-Mechanics/CLI/spells/death-ward-xphb.md), [pass without\
+    \ trace](/3-Mechanics/CLI/spells/pass-without-trace-xphb.md), [speak with plants](/3-Mechanics/CLI/spells/speak-with-plants-xphb.md)"
   "name": "Spellcasting"
 - "desc": "As long as the pledgemage has at least 1 hit point remaining, the pledgemage\
     \ regains 5 hit points at the start of its turn."
@@ -70,8 +70,8 @@ Witherbloom College studies the magic inherent in the natural cycle of life and 
   "name": "Verdant Talisman"
 "actions":
 - "desc": "Melee Spell Attack: +5 to hit, reach 15 ft., one target. Hit: 8 (1d10\
-    \ + 3) piercing damage plus 18 (4d8) poison damage. If the target is a Large\
-    \ or smaller creature, the apprentice can pull it up to 10 feet closer to itself."
+    \ + 3) piercing damage plus 18 (4d8) poison damage. If the target is a Large or\
+    \ smaller creature, the apprentice can pull it up to 10 feet closer to itself."
   "name": "Briar Vine"
 "bonus_actions":
 - "desc": "The pledgemage transforms into an avatar of plants and shadow. While in\
@@ -84,14 +84,14 @@ Witherbloom College studies the magic inherent in the natural cycle of life and 
 - "desc": "When the pledgemage sees a creature within 30 feet of itself drop to 0\
     \ hit points, the pledgemage channels the expended life essence and targets another\
     \ creature it can see within 30 feet of itself. The target must succeed on a DC\
-    \ 13 Constitution saving throw or become [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)\
-    \ for 1 minute. While [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)\
-    \ in this way, the target takes 3 (1d6) poison damage at the start of each of\
-    \ its turns. The target can repeat the save at the end of each of its turns, ending\
-    \ the effect on itself on a success."
+    \ 13 Constitution saving throw or become [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)\
+    \ for 1 minute. While [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned) in this\
+    \ way, the target takes 3 (1d6) poison damage at the start of each of its turns.\
+    \ The target can repeat the save at the end of each of its turns, ending the effect\
+    \ on itself on a success."
   "name": "Wither Burst"
 "source":
 - "SCC"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/witherbloom-pledgemage-scc.webp"
+"image": "/3-Mechanics/CLI/bestiary/humanoid/token/witherbloom-pledgemage-scc.webp"
 ```
 ^statblock

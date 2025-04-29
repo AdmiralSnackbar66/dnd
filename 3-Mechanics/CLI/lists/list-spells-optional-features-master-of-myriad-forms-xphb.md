@@ -9,4 +9,4 @@ aliases: ["Spells for Master of Myriad Forms"]
 
 ## 2nd Level
 
-- [Alter Self](3-Mechanics/CLI/spells/alter-self-xphb.md "XPHB")
+- [Alter Self](/3-Mechanics/CLI/spells/alter-self-xphb.md "XPHB")

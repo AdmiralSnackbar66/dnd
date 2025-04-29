@@ -6,7 +6,7 @@ tags:
 aliases: ["Creature Size and Space"]
 ---
 # Creature Size and Space
-*Source: Dungeon Master's Guide (2024) p. 44* 
+*Source: Dungeon Master's Guide (2024) p. 44. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>* 
 
 **Creature Size and Space**
 

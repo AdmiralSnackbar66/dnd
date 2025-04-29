@@ -13,6 +13,6 @@ aliases:
 
 
 
-While wearing this ring, you can cast [Jump](3-Mechanics/CLI/spells/jump-xphb.md) from it, but can target only yourself when you do so.
+While wearing this ring, you can cast [Jump](/3-Mechanics/CLI/spells/jump-xphb.md) from it, but can target only yourself when you do so.
 
-*Source: Dungeon Master's Guide (2024) p. 293. Available in the Free Rules (2024)*
+*Source: Dungeon Master's Guide (2024) p. 293. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*

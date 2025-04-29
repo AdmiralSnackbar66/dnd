@@ -7,6 +7,6 @@ tags:
 aliases: ["Whispers of the Grave"]
 ---
 # Whispers of the Grave
-*Source: Player's Handbook (2024) p. 157*  
+*Source: Player's Handbook (2024) p. 157. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
 **Prerequisite**: 7th Warlock
-You can cast [Speak with Dead](3-Mechanics/CLI/spells/speak-with-dead-xphb.md) without expending a spell slot.
+You can cast [Speak with Dead](/3-Mechanics/CLI/spells/speak-with-dead-xphb.md) without expending a spell slot.

@@ -35,8 +35,8 @@ You can give the same appearance or different ones to the targets. The spell can
 
 The changes wrought by this spell fail to hold up to physical inspection. For example, if you use this spell to add a hat to a creature's outfit, objects pass through the hat.
 
-A creature that takes the [Study](3-Mechanics/CLI/rules/actions.md#Study) action to examine a target can make an Intelligence ([Investigation](3-Mechanics/CLI/rules/skills.md#Investigation)) check against your spell save DC. If it succeeds, it becomes aware that the target is disguised.
+A creature that takes the [Study](/3-Mechanics/CLI/actions.md#Study) action to examine a target can make an Intelligence ([Investigation](/3-Mechanics/CLI/skills.md#Investigation)) check against your spell save DC. If it succeeds, it becomes aware that the target is disguised.
 
-**Classes**: [Sorcerer](3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Bard](3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Warlock (Archfey Patron)](3-Mechanics/CLI/lists/list-spells-classes-warlock-xphb-archfey-patron-xphb.md "subclass=XPHB;class=XPHB"); [Ranger (Gloom Stalker)](3-Mechanics/CLI/lists/list-spells-classes-ranger-xphb-gloom-stalker-xphb.md "subclass=XPHB;class=XPHB"); [Wizard (Illusionist)](3-Mechanics/CLI/lists/list-spells-classes-wizard-xphb-illusionist-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Wizard (Illusionist)](/3-Mechanics/CLI/lists/list-spells-classes-wizard-xphb-illusionist-xphb.md "subclass=XPHB;class=XPHB"); [Warlock (Archfey Patron)](/3-Mechanics/CLI/lists/list-spells-classes-warlock-xphb-archfey-patron-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Ranger (Gloom Stalker)](/3-Mechanics/CLI/lists/list-spells-classes-ranger-xphb-gloom-stalker-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 314. Available in the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 314. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*

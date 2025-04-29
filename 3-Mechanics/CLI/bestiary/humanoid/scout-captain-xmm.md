@@ -54,13 +54,13 @@ Scouts are warriors of the wilderness, trained in hunting and tracking. They mig
 - "desc": "The scout makes two attacks, using Shortsword or Longbow in any combination."
   "name": "Multiattack"
 - "desc": "Melee Attack Roll: +5, reach 5 ft. Hit: 6 (1d6 + 3) Piercing damage,\
-    \ plus 10 (3d6) Piercing damage if the attack was made with [Advantage](3-Mechanics/CLI/rules/variant-rules/advantage-xphb.md)."
+    \ plus 10 (3d6) Piercing damage if the attack was made with [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)."
   "name": "Shortsword"
 - "desc": "Ranged Attack Roll: +5, range 150/600 ft. Hit: 7 (1d8 + 3) Piercing\
-    \ damage, plus 10 (3d6) Piercing damage if the attack was made with [Advantage](3-Mechanics/CLI/rules/variant-rules/advantage-xphb.md)."
+    \ damage, plus 10 (3d6) Piercing damage if the attack was made with [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)."
   "name": "Longbow"
 "bonus_actions":
-- "desc": "The scout has [Advantage](3-Mechanics/CLI/rules/variant-rules/advantage-xphb.md)\
+- "desc": "The scout has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
     \ on the next attack roll it makes during the current turn."
   "name": "Aim"
 "reactions":
@@ -69,7 +69,7 @@ Scouts are warriors of the wilderness, trained in hunting and tracking. They mig
   "name": "Uncanny Dodge"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/scout-captain-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/humanoid/token/scout-captain-xmm.webp"
 ```
 ^statblock
 

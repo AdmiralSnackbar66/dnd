@@ -52,22 +52,22 @@ A nymph doesn't require food, drink, or sleep.
   "Persuasion": !!int "6"
 "damage_resistances": "psychic"
 "damage_immunities": "poison"
-"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened),\
-  \ [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [frightened](/3-Mechanics/CLI/conditions.md#Frightened),\
+  \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
 "senses": "passive Perception 10"
 "languages": "Common, Sylvan"
 "cr": "2"
 "traits":
 - "desc": "The naiad's spellcasting ability is Charisma (spell save DC 14). It can\
     \ innately cast the following spells, requiring no material components:\n\nAt\
-    \ will: [minor illusion](3-Mechanics/CLI/spells/minor-illusion-xphb.md)\n\n\
-    1/day each: [fly](3-Mechanics/CLI/spells/fly-xphb.md), [hypnotic pattern](3-Mechanics/CLI/spells/hypnotic-pattern-xphb.md)\n\
-    \n3/day: [phantasmal force](3-Mechanics/CLI/spells/phantasmal-force-xphb.md)"
+    \ will: [minor illusion](/3-Mechanics/CLI/spells/minor-illusion-xphb.md)\n\n\
+    1/day each: [fly](/3-Mechanics/CLI/spells/fly-xphb.md), [hypnotic pattern](/3-Mechanics/CLI/spells/hypnotic-pattern-xphb.md)\n\
+    \n3/day: [phantasmal force](/3-Mechanics/CLI/spells/phantasmal-force-xphb.md)"
   "name": "Innate Spellcasting"
 - "desc": "The naiad can breathe air and water."
   "name": "Amphibious"
-- "desc": "The naiad is [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible)\
-    \ while fully immersed in water."
+- "desc": "The naiad is [invisible](/3-Mechanics/CLI/conditions.md#Invisible) while\
+    \ fully immersed in water."
   "name": "Invisible in Water"
 - "desc": "The naiad has advantage on saving throws against spells and other magical\
     \ effects."
@@ -81,6 +81,6 @@ A nymph doesn't require food, drink, or sleep.
 "source":
 - "MOT"
 - "CM"
-"image": "3-Mechanics/CLI/bestiary/fey/token/naiad-mot.webp"
+"image": "/3-Mechanics/CLI/bestiary/fey/token/naiad-mot.webp"
 ```
 ^statblock

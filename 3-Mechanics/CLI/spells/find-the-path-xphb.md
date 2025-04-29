@@ -8,10 +8,12 @@ tags:
 - ttrpg-cli/spell/class/druid
 - ttrpg-cli/spell/level/6th-level
 - ttrpg-cli/spell/school/divination
+- ttrpg-cli/spell/subclass/divine-soul
 classes:
 - Bard
 - Cleric
 - Druid
+- Sorcerer (Divine Soul)
 aliases: ["Find the Path"]
 ---
 # Find the Path
@@ -27,6 +29,6 @@ You magically sense the most direct physical route to a location you name. You m
 
 For the duration, as long as you are on the same plane of existence as the destination, you know how far it is and in what direction it lies. Whenever you face a choice of paths along the way there, you know which path is the most direct.
 
-**Classes**: [Cleric](3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Bard](3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Druid](3-Mechanics/CLI/lists/list-spells-classes-druid.md)
+**Classes**: [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Sorcerer (Divine Soul)](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer-xphb-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md)
 
-*Source: Player's Handbook (2024) p. 273. Available in the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 273. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*

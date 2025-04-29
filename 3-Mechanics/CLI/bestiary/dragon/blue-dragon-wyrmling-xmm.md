@@ -12,7 +12,7 @@ statblock: inline
 aliases: ["Blue Dragon Wyrmling"]
 ---
 # [Blue Dragon Wyrmling](3-Mechanics\CLI\bestiary\dragon/blue-dragon-wyrmling-xmm.md)
-*Source: Monster Manual (2024) p. 48*  
+*Source: Monster Manual (2024) p. 48. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
 
 Blue dragon wyrmlings often serve other powerful creatures, learning the ways of control and establishing fearful reputations among weaker creatures. Many wyrmlings initially serve loyally, but as their powers grow to match their ambitions, they eventually betray or abandon their associates. These wyrmlings tempt small groups of creatures into their service, rewarding them with modest treasures and promises of future power.
 
@@ -67,12 +67,12 @@ Blue dragons dwell in arid lands. Their lairs might be death traps meant to ento
     \ plus 3 (1d6) Lightning damage."
   "name": "Rend"
 - "desc": "Dexterity Saving Throw: DC 12, each creature in a 30-foot-long, 5-foot-wide\
-    \ [Line](3-Mechanics/CLI/rules/variant-rules/line-area-of-effect-xphb.md). Failure:\
+    \ [Line](/3-Mechanics/CLI/variant-rules/line-area-of-effect-xphb.md). Failure:\
     \ 21 (6d6) Lightning damage. Success: Half damage."
   "name": "Lightning Breath (Recharge 5-6)"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/dragon/token/blue-dragon-wyrmling-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/dragon/token/blue-dragon-wyrmling-xmm.webp"
 ```
 ^statblock
 

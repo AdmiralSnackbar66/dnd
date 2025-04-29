@@ -7,6 +7,6 @@ tags:
 aliases: ["Thirsting Blade"]
 ---
 # Thirsting Blade
-*Source: Player's Handbook (2024) p. 157*  
+*Source: Player's Handbook (2024) p. 157. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
 **Prerequisite**: 5th Warlock
-You gain the Extra Attack feature for your pact weapon only. With that feature, you can attack twice with the weapon instead of once when you take the [Attack](3-Mechanics/CLI/rules/actions.md#Attack) action on your turn.
+You gain the Extra Attack feature for your pact weapon only. With that feature, you can attack twice with the weapon instead of once when you take the [Attack](/3-Mechanics/CLI/actions.md#Attack) action on your turn.

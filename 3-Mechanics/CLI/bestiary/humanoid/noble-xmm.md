@@ -11,7 +11,7 @@ statblock: inline
 aliases: ["Noble"]
 ---
 # [Noble](3-Mechanics\CLI\bestiary\humanoid/noble-xmm.md)
-*Source: Monster Manual (2024) p. 227*  
+*Source: Monster Manual (2024) p. 227. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
 
 A noble's social advantages typically grant the noble access to greater education and training than most common folk, while nobles' experience with business or politics makes many adept negotiators.
 
@@ -57,7 +57,7 @@ Nobles encompass a variety of people with social influence. They might be rulers
   "name": "Parry"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/noble-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/humanoid/token/noble-xmm.webp"
 ```
 ^statblock
 

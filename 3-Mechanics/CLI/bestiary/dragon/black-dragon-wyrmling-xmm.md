@@ -11,7 +11,7 @@ statblock: inline
 aliases: ["Black Dragon Wyrmling"]
 ---
 # [Black Dragon Wyrmling](3-Mechanics\CLI\bestiary\dragon/black-dragon-wyrmling-xmm.md)
-*Source: Monster Manual (2024) p. 38*  
+*Source: Monster Manual (2024) p. 38. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
 
 Black dragon wyrmlings lurk in bogs and polluted waterways, hunting for prey and weaker creatures to overpower. While older wyrmlings eventually seek their own territories, recently hatched ones might hunt one another, seeking dominance over their clutch and slaying rivals they can't subjugate.
 
@@ -69,12 +69,12 @@ Black dragons lurk in dismal ruins, polluted bogs, or other sites gripped by dec
     \ plus 2 (1d4) Acid damage."
   "name": "Rend"
 - "desc": "Dexterity Saving Throw: DC 11, each creature in a 15-foot-long, 5-foot-wide\
-    \ [Line](3-Mechanics/CLI/rules/variant-rules/line-area-of-effect-xphb.md). Failure:\
+    \ [Line](/3-Mechanics/CLI/variant-rules/line-area-of-effect-xphb.md). Failure:\
     \ 22 (5d8) Acid damage. Success: Half damage."
   "name": "Acid Breath (Recharge 5-6)"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/dragon/token/black-dragon-wyrmling-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/dragon/token/black-dragon-wyrmling-xmm.webp"
 ```
 ^statblock
 

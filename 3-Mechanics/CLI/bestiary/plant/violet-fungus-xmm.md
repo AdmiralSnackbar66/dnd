@@ -11,7 +11,7 @@ statblock: inline
 aliases: ["Violet Fungus"]
 ---
 # [Violet Fungus](3-Mechanics\CLI\bestiary\plant/violet-fungus-xmm.md)
-*Source: Monster Manual (2024) p. 126*  
+*Source: Monster Manual (2024) p. 126. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
 
 Slow but mobile, violet fungi rot any flesh they touch with their lashing tendrils.
 
@@ -40,8 +40,8 @@ The dank, sunless Underdark is a fertile breeding ground for weird and dangerous
 - !!int "3"
 - !!int "1"
 "speed": "5 ft."
-"condition_immunities": "[blinded](3-Mechanics/CLI/rules/conditions.md#Blinded), [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed),\
-  \ [deafened](3-Mechanics/CLI/rules/conditions.md#Deafened), [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened)"
+"condition_immunities": "[blinded](/3-Mechanics/CLI/conditions.md#Blinded), [charmed](/3-Mechanics/CLI/conditions.md#Charmed),\
+  \ [deafened](/3-Mechanics/CLI/conditions.md#Deafened), [frightened](/3-Mechanics/CLI/conditions.md#Frightened)"
 "senses": "blindsight 30 ft., passive Perception 6"
 "languages": ""
 "cr": "1/4"
@@ -52,7 +52,7 @@ The dank, sunless Underdark is a fertile breeding ground for weird and dangerous
   "name": "Rotting Touch"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/plant/token/violet-fungus-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/plant/token/violet-fungus-xmm.webp"
 ```
 ^statblock
 

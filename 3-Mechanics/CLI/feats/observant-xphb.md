@@ -14,8 +14,8 @@ You gain the following benefits.
 
 ## Keen Observer
 
-Choose one of the following skills: [Insight](3-Mechanics/CLI/rules/skills.md#Insight), [Investigation](3-Mechanics/CLI/rules/skills.md#Investigation), or [Perception](3-Mechanics/CLI/rules/skills.md#Perception). If you lack proficiency with the chosen skill, you gain proficiency in it, and if you already have proficiency in it, you gain Expertise in it.
+Choose one of the following skills: [Insight](/3-Mechanics/CLI/skills.md#Insight), [Investigation](/3-Mechanics/CLI/skills.md#Investigation), or [Perception](/3-Mechanics/CLI/skills.md#Perception). If you lack proficiency with the chosen skill, you gain proficiency in it, and if you already have proficiency in it, you gain Expertise in it.
 
 ## Quick Search
 
-You can take the [Search](3-Mechanics/CLI/rules/actions.md#Search) action as a Bonus Action.
+You can take the [Search](/3-Mechanics/CLI/actions.md#Search) action as a Bonus Action.

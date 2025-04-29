@@ -11,7 +11,7 @@ statblock: inline
 aliases: ["Young Copper Dragon"]
 ---
 # [Young Copper Dragon](3-Mechanics\CLI\bestiary\dragon/young-copper-dragon-xmm.md)
-*Source: Monster Manual (2024) p. 78*  
+*Source: Monster Manual (2024) p. 78. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
 
 Young copper dragons forge strong connections with a community or group of friends while flitting from one artistic fixation to the next.
 
@@ -62,21 +62,20 @@ Copper dragons typically inhabit multichamber caves and renovated ruins.
 - "desc": "The dragon makes three Rend attacks. It can replace one attack with a use\
     \ of Slowing Breath."
   "name": "Multiattack"
-- "desc": "Melee Attack Roll: +7, reach 10 ft. Hit: 15 (2d10 + 4) Slashing\
-    \ damage."
+- "desc": "Melee Attack Roll: +7, reach 10 ft. Hit: 15 (2d10 + 4) Slashing damage."
   "name": "Rend"
 - "desc": "Dexterity Saving Throw: DC 14, each creature in a 40-foot-long, 5-foot-wide\
-    \ [Line](3-Mechanics/CLI/rules/variant-rules/line-area-of-effect-xphb.md). Failure:\
+    \ [Line](/3-Mechanics/CLI/variant-rules/line-area-of-effect-xphb.md). Failure:\
     \ 40 (9d8) Acid damage. Success: Half damage."
   "name": "Acid Breath (Recharge 5-6)"
-- "desc": "Constitution Saving Throw: DC 14, each creature in a 30-foot [Cone](3-Mechanics/CLI/rules/variant-rules/cone-area-of-effect-xphb.md).\
-    \ Failure: The target can't take Reactions; its [Speed](3-Mechanics/CLI/rules/variant-rules/speed-xphb.md)\
-    \ is halved; and it can take either an action or a [Bonus Action](3-Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md)\
+- "desc": "Constitution Saving Throw: DC 14, each creature in a 30-foot [Cone](/3-Mechanics/CLI/variant-rules/cone-area-of-effect-xphb.md).\
+    \ Failure: The target can't take Reactions; its [Speed](/3-Mechanics/CLI/variant-rules/speed-xphb.md)\
+    \ is halved; and it can take either an action or a [Bonus Action](/3-Mechanics/CLI/variant-rules/bonus-action-xphb.md)\
     \ on its turn, not both. This effect lasts until the end of its next turn."
   "name": "Slowing Breath"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/dragon/token/young-copper-dragon-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/dragon/token/young-copper-dragon-xmm.webp"
 ```
 ^statblock
 

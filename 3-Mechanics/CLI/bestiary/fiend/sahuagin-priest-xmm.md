@@ -58,16 +58,16 @@ Sahuagin constantly war on any peoples living near their territory. Merfolk and 
 "traits":
 - "desc": "The sahuagin casts one of the following spells, requiring no Material components\
     \ and using Wisdom as the spellcasting ability (spell save DC 12):\n\nAt will:\
-    \ [Thaumaturgy](3-Mechanics/CLI/spells/thaumaturgy-xphb.md)\n\n2/day each:\
-    \ [Hold Person](3-Mechanics/CLI/spells/hold-person-xphb.md), [Tongues](3-Mechanics/CLI/spells/tongues-xphb.md)"
+    \ [Thaumaturgy](/3-Mechanics/CLI/spells/thaumaturgy-xphb.md)\n\n2/day each:\
+    \ [Hold Person](/3-Mechanics/CLI/spells/hold-person-xphb.md), [Tongues](/3-Mechanics/CLI/spells/tongues-xphb.md)"
   "name": "Spellcasting"
-- "desc": "The sahuagin casts [Bless](3-Mechanics/CLI/spells/bless-xphb.md) or [Healing\
-    \ Word](3-Mechanics/CLI/spells/healing-word-xphb.md), using the same spellcasting\
-    \ ability as Spellcasting.\n\n2/day: [Bless](3-Mechanics/CLI/spells/bless-xphb.md),\
-    \ [Healing Word](3-Mechanics/CLI/spells/healing-word-xphb.md)"
+- "desc": "The sahuagin casts [Bless](/3-Mechanics/CLI/spells/bless-xphb.md) or [Healing\
+    \ Word](/3-Mechanics/CLI/spells/healing-word-xphb.md), using the same spellcasting\
+    \ ability as Spellcasting.\n\n2/day: [Bless](/3-Mechanics/CLI/spells/bless-xphb.md),\
+    \ [Healing Word](/3-Mechanics/CLI/spells/healing-word-xphb.md)"
   "name": "Fiendish Aid (2/Day)"
-- "desc": "The sahuagin has [Advantage](3-Mechanics/CLI/rules/variant-rules/advantage-xphb.md)\
-    \ on attack rolls against any creature that doesn't have all its [Hit Points](3-Mechanics/CLI/rules/variant-rules/hit-points-xphb.md)."
+- "desc": "The sahuagin has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
+    \ on attack rolls against any creature that doesn't have all its [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)."
   "name": "Blood Frenzy"
 - "desc": "The sahuagin can breathe air and water, but it must be submerged at least\
     \ once every 4 hours to avoid suffocating outside water."
@@ -83,7 +83,7 @@ Sahuagin constantly war on any peoples living near their territory. Merfolk and 
   "name": "Spectral Jaws"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/fiend/token/sahuagin-priest-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/fiend/token/sahuagin-priest-xmm.webp"
 ```
 ^statblock
 

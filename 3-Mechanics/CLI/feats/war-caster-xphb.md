@@ -14,11 +14,11 @@ You gain the following benefits.
 
 ## Concentration
 
-You have Advantage on Constitution saving throws that you make to maintain [Concentration](3-Mechanics/CLI/rules/conditions.md#Concentration).
+You have Advantage on Constitution saving throws that you make to maintain [Concentration](/3-Mechanics/CLI/conditions.md#Concentration).
 
 ## Reactive Spell
 
-When a creature provokes an [Opportunity Attack](3-Mechanics/CLI/rules/actions.md#Opportunity%20Attack) from you by leaving your reach, you can take a Reaction to cast a spell at the creature rather than making an [Opportunity Attack](3-Mechanics/CLI/rules/actions.md#Opportunity%20Attack). The spell must have a casting time of one action and must target only that creature.
+When a creature provokes an [Opportunity Attack](/3-Mechanics/CLI/actions.md#Opportunity%20Attack) from you by leaving your reach, you can take a Reaction to cast a spell at the creature rather than making an [Opportunity Attack](/3-Mechanics/CLI/actions.md#Opportunity%20Attack). The spell must have a casting time of one action and must target only that creature.
 
 ## Somatic Components
 

@@ -41,7 +41,7 @@ Jade Tigress is a powerfully built woman whose body has been honed by intense ph
   "Insight": !!int "6"
   "Perception": !!int "6"
 "damage_resistances": "poison"
-"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened)"
+"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [frightened](/3-Mechanics/CLI/conditions.md#Frightened)"
 "senses": "passive Perception 16"
 "languages": "Common"
 "cr": "8"
@@ -52,16 +52,16 @@ Jade Tigress is a powerfully built woman whose body has been honed by intense ph
 "actions":
 - "desc": "Jade Tigress makes three attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 13\
-    \ (2d8 + 4) force damage, and if the target is a creature, it must succeed on\
-    \ a DC 15 Constitution saving throw or be [stunned](3-Mechanics/CLI/rules/conditions.md#Stunned)\
+- "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 13 (2d8\
+    \ + 4) force damage, and if the target is a creature, it must succeed on a DC\
+    \ 15 Constitution saving throw or be [stunned](/3-Mechanics/CLI/conditions.md#Stunned)\
     \ until the end of Jade Tigress's next turn."
   "name": "Force Strike"
 - "desc": "Ranged Weapon Attack: +5 to hit, range 20/60 ft., one target. Hit:\
     \ 4 (1d4 + 2) piercing damage plus 7 (3d4) poison damage, and the target must\
-    \ succeed on a DC 15 Constitution saving throw or gain 1 level of [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion)."
+    \ succeed on a DC 15 Constitution saving throw or gain 1 level of [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion)."
   "name": "Poisoned Dart"
-- "desc": "Jade Tigress regains 2d8 + 2 hit points, and all levels of [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion)\
+- "desc": "Jade Tigress regains 2d8 + 2 hit points, and all levels of [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion)\
     \ end on her."
   "name": "Heal Self (Recharges after a Long Rest)"
 "bonus_actions":
@@ -69,12 +69,12 @@ Jade Tigress is a powerfully built woman whose body has been honed by intense ph
   "name": "Nimble Escape"
 "reactions":
 - "desc": "In response to being hit by a ranged weapon attack, Jade Tigress deflects\
-    \ the missile. The damage she takes from the attack is reduced by 1d10 + 9.\
-    \ If the damage is reduced to 0, Jade Tigress catches the missile if it's small\
-    \ enough to hold in one hand and Jade Tigress has a hand free."
+    \ the missile. The damage she takes from the attack is reduced by 1d10 + 9. If\
+    \ the damage is reduced to 0, Jade Tigress catches the missile if it's small enough\
+    \ to hold in one hand and Jade Tigress has a hand free."
   "name": "Deflect Missile"
 "source":
 - "CM"
-"image": "3-Mechanics/CLI/bestiary/npc/token/jade-tigress-cm.webp"
+"image": "/3-Mechanics/CLI/bestiary/npc/token/jade-tigress-cm.webp"
 ```
 ^statblock

@@ -31,11 +31,10 @@ aliases: ["Animated Object"]
 "actions":
 - "desc": "Melee Attack Roll: YourSpellAttack Bonus equals your spell attack modifier,\
     \ reach 5 ft. Hit: Force damage equal to 1d4 + 3, 2d6 + 3 + your spellcasting\
-    \ ability modifier (Large), or 2d12 + 3 + your spellcasting ability modifier\
-    \ (Huge)."
+    \ ability modifier (Large), or 2d12 + 3 + your spellcasting ability modifier (Huge)."
   "name": "Slam"
 "source":
 - "XPHB"
-"image": "3-Mechanics/CLI/bestiary/construct/token/animated-object-xphb.webp"
+"image": "/3-Mechanics/CLI/bestiary/construct/token/animated-object-xphb.webp"
 ```
 ^statblock

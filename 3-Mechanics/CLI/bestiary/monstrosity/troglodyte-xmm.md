@@ -52,12 +52,12 @@ Troglodytes prefer to ambush prey and can change their scale color to blend in w
 "cr": "1/4"
 "traits":
 - "desc": "Constitution Saving Throw: DC 12, any creature (other than a troglodyte)\
-    \ that starts its turn in a 5-foot [Emanation](3-Mechanics/CLI/rules/variant-rules/emanation-area-of-effect-xphb.md)\
-    \ originating from the troglodyte. Failure: The target has the [Poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)\
+    \ that starts its turn in a 5-foot [Emanation](/3-Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md)\
+    \ originating from the troglodyte. Failure: The target has the [Poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)\
     \ condition until the start of its next turn. Success: The target is immune\
     \ to the Stench of all troglodytes for 1 hour."
   "name": "Stench"
-- "desc": "While in sunlight, the troglodyte has [Disadvantage](3-Mechanics/CLI/rules/variant-rules/disadvantage-xphb.md)\
+- "desc": "While in sunlight, the troglodyte has [Disadvantage](/3-Mechanics/CLI/variant-rules/disadvantage-xphb.md)\
     \ on ability checks and attack rolls."
   "name": "Sunlight Sensitivity"
 "actions":
@@ -65,7 +65,7 @@ Troglodytes prefer to ambush prey and can change their scale color to blend in w
   "name": "Rend"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/monstrosity/token/troglodyte-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/troglodyte-xmm.webp"
 ```
 ^statblock
 

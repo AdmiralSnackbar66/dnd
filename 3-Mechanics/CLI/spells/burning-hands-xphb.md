@@ -17,12 +17,14 @@ tags:
 - ttrpg-cli/spell/subclass/evoker
 - ttrpg-cli/spell/subclass/fiend-patron
 - ttrpg-cli/spell/subclass/light-domain
+- ttrpg-cli/spell/subclass/way-of-the-sun-soul
 classes:
 - Bard
 - Bard (College of Lore)
 - Cleric (Light Domain)
 - Druid (Circle of the Land)
 - Fighter (Eldritch Knight)
+- Monk (Way of the Sun Soul)
 - Rogue (Arcane Trickster)
 - Sorcerer
 - Warlock (Fiend Patron)
@@ -39,12 +41,12 @@ aliases: ["Burning Hands"]
 - **Components:** V, S
 - **Duration:** Instantaneous
 
-A thin sheet of flames shoots forth from you. Each creature in a 15-foot Cone makes a Dexterity saving throw, taking `3d6` Fire damage on a failed save or half as much damage on a successful one.
+A thin sheet of flames shoots forth from you. Each creature in a 15-foot Cone makes a Dexterity saving throw, taking `dice:3d6|noform|noparens|avg` (`3d6`) Fire damage on a failed save or half as much damage on a successful one.
 
-Flammable objects in the Cone that aren't being worn or carried start [burning](3-Mechanics/CLI/traps-hazards/burning-xphb.md).
+Flammable objects in the Cone that aren't being worn or carried start [burning](/3-Mechanics/CLI/traps-hazards/burning-xphb.md).
 
-**Using a Higher-Level Spell Slot.** The damage increases by `1d6` for each spell slot level above 1.
+**Using a Higher-Level Spell Slot.** The damage increases by `dice:1d6|noform|noparens|avg|text(1d6)` for each spell slot level above 1.
 
-**Classes**: [Druid (Circle of the Land)](3-Mechanics/CLI/lists/list-spells-classes-druid-xphb-circle-of-the-land-xphb.md "subclass=XPHB;class=XPHB"); [Wizard (Evoker)](3-Mechanics/CLI/lists/list-spells-classes-wizard-xphb-evoker-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Rogue (Arcane Trickster)](3-Mechanics/CLI/lists/list-spells-classes-rogue-xphb-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Bard (College of Lore)](3-Mechanics/CLI/lists/list-spells-classes-bard-xphb-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Fighter (Eldritch Knight)](3-Mechanics/CLI/lists/list-spells-classes-fighter-xphb-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Warlock (Fiend Patron)](3-Mechanics/CLI/lists/list-spells-classes-warlock-xphb-fiend-patron-xphb.md "subclass=XPHB;class=XPHB"); [Bard](3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](3-Mechanics/CLI/lists/list-spells-classes-wizard.md); [Cleric (Light Domain)](3-Mechanics/CLI/lists/list-spells-classes-cleric-xphb-light-domain-xphb.md "subclass=XPHB;class=XPHB")
+**Classes**: [Cleric (Light Domain)](/3-Mechanics/CLI/lists/list-spells-classes-cleric-xphb-light-domain-xphb.md "subclass=XPHB;class=XPHB"); [Druid (Circle of the Land)](/3-Mechanics/CLI/lists/list-spells-classes-druid-xphb-circle-of-the-land-xphb.md "subclass=XPHB;class=XPHB"); [Warlock (Fiend Patron)](/3-Mechanics/CLI/lists/list-spells-classes-warlock-xphb-fiend-patron-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Monk (Way of the Sun Soul)](/3-Mechanics/CLI/lists/list-spells-classes-monk-xphb-way-of-the-sun-soul-xge.md "subclass=XGE;class=XPHB"); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard (Evoker)](/3-Mechanics/CLI/lists/list-spells-classes-wizard-xphb-evoker-xphb.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](/3-Mechanics/CLI/lists/list-spells-classes-rogue-xphb-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Fighter (Eldritch Knight)](/3-Mechanics/CLI/lists/list-spells-classes-fighter-xphb-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Bard (College of Lore)](/3-Mechanics/CLI/lists/list-spells-classes-bard-xphb-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 248. Available in the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 248. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*

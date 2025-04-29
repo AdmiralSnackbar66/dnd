@@ -45,26 +45,26 @@ Quaggoths frequently collect in small bands led by the most fearsome group membe
 "skillsaves":
   "Athletics": !!int "5"
 "damage_immunities": "poison"
-"condition_immunities": "[poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"condition_immunities": "[poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
 "senses": "darkvision 120 ft., passive Perception 12"
 "languages": "Undercommon"
 "cr": "3"
 "traits":
 - "desc": "The quaggoth casts one of the following spells, requiring no spell components\
     \ and using Wisdom as the spellcasting ability (spell save DC 12):\n\nAt will:\
-    \ [Mage Hand](3-Mechanics/CLI/spells/mage-hand-xphb.md) (the hand is Invisible),\
-    \ [Minor Illusion](3-Mechanics/CLI/spells/minor-illusion-xphb.md)\n\n2/day:\
-    \ [Mind Spike](3-Mechanics/CLI/spells/mind-spike-xphb.md)"
+    \ [Mage Hand](/3-Mechanics/CLI/spells/mage-hand-xphb.md) (the hand is Invisible),\
+    \ [Minor Illusion](/3-Mechanics/CLI/spells/minor-illusion-xphb.md)\n\n2/day:\
+    \ [Mind Spike](/3-Mechanics/CLI/spells/mind-spike-xphb.md)"
   "name": "Spellcasting"
-- "desc": "The quaggoth casts [Feather Fall](3-Mechanics/CLI/spells/feather-fall-xphb.md)\
-    \ or [Shield](3-Mechanics/CLI/spells/shield-xphb.md) in response to the spell's\
+- "desc": "The quaggoth casts [Feather Fall](/3-Mechanics/CLI/spells/feather-fall-xphb.md)\
+    \ or [Shield](/3-Mechanics/CLI/spells/shield-xphb.md) in response to the spell's\
     \ trigger, requiring no spell components and using the same spellcasting ability\
-    \ as Spellcasting.\n\n3/day: [Feather Fall](3-Mechanics/CLI/spells/feather-fall-xphb.md),\
-    \ [Shield](3-Mechanics/CLI/spells/shield-xphb.md)"
+    \ as Spellcasting.\n\n3/day: [Feather Fall](/3-Mechanics/CLI/spells/feather-fall-xphb.md),\
+    \ [Shield](/3-Mechanics/CLI/spells/shield-xphb.md)"
   "name": "Psionic Defense (3/Day)"
-- "desc": "While [Bloodied](3-Mechanics/CLI/rules/variant-rules/bloodied-xphb.md),\
-    \ the quaggoth has [Advantage](3-Mechanics/CLI/rules/variant-rules/advantage-xphb.md)\
-    \ on attack rolls."
+- "desc": "While [Bloodied](/3-Mechanics/CLI/variant-rules/bloodied-xphb.md), the\
+    \ quaggoth has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md) on\
+    \ attack rolls."
   "name": "Bloodied Fury"
 "actions":
 - "desc": "The quaggoth makes two Claw attacks."
@@ -74,7 +74,7 @@ Quaggoths frequently collect in small bands led by the most fearsome group membe
   "name": "Claw"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/monstrosity/token/quaggoth-thonot-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/quaggoth-thonot-xmm.webp"
 ```
 ^statblock
 

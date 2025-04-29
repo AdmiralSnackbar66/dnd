@@ -9,8 +9,10 @@ tags:
 - ttrpg-cli/spell/class/wizard
 - ttrpg-cli/spell/level/5th-level
 - ttrpg-cli/spell/school/conjuration
+- ttrpg-cli/spell/subclass/horizon-walker
 classes:
 - Bard
+- Ranger (Horizon Walker)
 - Sorcerer
 - Warlock
 - Wizard
@@ -33,6 +35,6 @@ When you first gain the ability to cast this spell, you learn the sigil sequence
 
 You can create a permanent teleportation circle by casting this spell in the same location every day for 365 days.
 
-**Classes**: [Sorcerer](3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Bard](3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Warlock](3-Mechanics/CLI/lists/list-spells-classes-warlock.md); [Wizard](3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Ranger (Horizon Walker)](/3-Mechanics/CLI/lists/list-spells-classes-ranger-xphb-horizon-walker-xge.md "subclass=XGE;class=XPHB"); [Warlock](/3-Mechanics/CLI/lists/list-spells-classes-warlock.md); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 332. Available in the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 332. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*

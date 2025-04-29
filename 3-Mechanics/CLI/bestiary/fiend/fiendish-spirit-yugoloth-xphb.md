@@ -28,12 +28,12 @@ aliases: ["Fiendish Spirit (Yugoloth)"]
 "speed": "40 ft."
 "damage_resistances": "fire"
 "damage_immunities": "poison"
-"condition_immunities": "[poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"condition_immunities": "[poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": "Abyssal, Infernal, Telepathy 60 ft."
 "traits":
 - "desc": "The spirit has Advantage on saving throws against spells and other magical\
-    \ eff ects."
+    \ effects."
   "name": "Magic Resistance"
 "actions":
 - "desc": "The spirit makes a number of attacks equal to half this spell's level (round\

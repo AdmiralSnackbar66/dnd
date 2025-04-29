@@ -8,7 +8,7 @@ aliases: ["The Price of Beauty"]
 # The Price of Beauty
 *Source: Candlekeep Mysteries, p. 75* 
 
-![The Price of Beauty](3-Mechanics/CLI/adventures/candlekeep-mysteries/img/050-07-001-book.webp#center)
+![The Price of Beauty](/3-Mechanics/CLI/adventures/candlekeep-mysteries/img/050-07-001-book.webp#center)
 
 **An Adventure for 5th-level Characters**  
 **Developed & Edited by Scott Fitzgerald Gray**  
@@ -31,7 +31,7 @@ Depending on how you bring the book into the possession of the characters, they 
 > "Ah. Forgive this disturbance," the acolyte says. "But I'm looking for..." They stop short as they catch sight of *The Price of Beauty*. "Yes, I'm looking for that." Then, looking over your group, the acolyte appears saddened. "But you haven't seen anyone else... well, you haven't seen Falthrax, have you?"
 ^1f2
 
-The [acolyte](3-Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm.md) is Lorris Niss, a middle-aged, neutral good half-elf searching for a missing friend. Falthrax Loderr is a shield dwarf acolyte whom Lorris last saw two days before. Lorris is clearly upset but maintains her composure as she shares the following information:
+The [acolyte](/3-Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm.md) is Lorris Niss, a middle-aged, neutral good half-elf searching for a missing friend. Falthrax Loderr is a shield dwarf acolyte whom Lorris last saw two days before. Lorris is clearly upset but maintains her composure as she shares the following information:
 
 - Falthrax is a dear friend who has been troubled of late by depression; he talked of feeling as though his life is passing him by.  
 - The dwarf's mood had improved in the last tenday after he discovered a book in the Candlekeep stacks—*The Price of Beauty*. Already a worshiper of Sune, god of beauty, Falthrax talked of how the book spoke to him, and how its advice on meditation and self-worth was helping him.  
@@ -67,17 +67,17 @@ Ten years ago, a coven of green hags calling themselves the Fetid Gaze tricked S
 
 The temple consists of three buildings. What was once Sylvarie's private tower has been taken over by the hags as a lair, and a former shrine to Sune has become a prison for the cursed elf. The main bathhouse looks exactly as Sylvarie built it, and it continues to provide services to visitors. Most of the staff of the bathhouse are the coven's wicked minions in disguise, but also here are an undercover Harper agent, a water spirit, and a cursed kobold—all potential allies who can reveal the coven's malicious machinations.
 
-![Azirssa, Greensong, and Morganna](3-Mechanics/CLI/adventures/candlekeep-mysteries/img/051-07-002-azirssa.webp#center)
+![Azirssa, Greensong, and Morganna](/3-Mechanics/CLI/adventures/candlekeep-mysteries/img/051-07-002-azirssa.webp#center)
 
 ### The Fetid Gaze
 
-Three [green hags](3-Mechanics/CLI/bestiary/fey/green-hag-xmm.md) named Dread Morgan, Vile Sazha, and Auntie Greenbones were once rivals who dwelled in an area of the Feywild coterminous with the High Forest. A decade ago, during a time when the boundaries between the planes thinned, the hags became aware of the magic spring controlled by Sylvarie—and decided to control and corrupt it for their own purposes. The covetous hags each knew part of a ritual for crafting magic paintings that could bind mortal creatures with a terrible curse. After agreeing to share their knowledge and work together, they formed a coven dedicated to claiming Sylvarie's temple and making it a base for their nefarious plans.
+Three [green hags](/3-Mechanics/CLI/bestiary/fey/green-hag-xmm.md) named Dread Morgan, Vile Sazha, and Auntie Greenbones were once rivals who dwelled in an area of the Feywild coterminous with the High Forest. A decade ago, during a time when the boundaries between the planes thinned, the hags became aware of the magic spring controlled by Sylvarie—and decided to control and corrupt it for their own purposes. The covetous hags each knew part of a ritual for crafting magic paintings that could bind mortal creatures with a terrible curse. After agreeing to share their knowledge and work together, they formed a coven dedicated to claiming Sylvarie's temple and making it a base for their nefarious plans.
 
 The hags use their powers of illusion to pose as three elf sisters named Morganna, Azirssa, and Greensong. They are typically found in the bathhouse by day and in their tower lair at night. Each hag carries a master key that opens all the doors in the bathhouse and the tower.
 
 #### Dread Morgan
 
-In her true form, the neutral evil [Dread Morgan](3-Mechanics/CLI/bestiary/fey/hag-of-the-fetid-gaze-cm.md) appears as a thin, pale creature whose long, matted black hair is festooned with ornaments made from bones and teeth. Her mouth curves up unnaturally high at the corners, and her bloodred lips are covered in blisters and boils.
+In her true form, the neutral evil [Dread Morgan](/3-Mechanics/CLI/bestiary/fey/hag-of-the-fetid-gaze-cm.md) appears as a thin, pale creature whose long, matted black hair is festooned with ornaments made from bones and teeth. Her mouth curves up unnaturally high at the corners, and her bloodred lips are covered in blisters and boils.
 
 In her disguised form, the hag appears as Morganna, a slender moon elf with smooth black hair and sparkling sapphire eyes. She speaks in a husky, alluring voice and focuses on the business of running the bathhouse.
 
@@ -101,7 +101,7 @@ Dread Morgan knows the ritual needed to bind a creature's desire to a cursed pai
 
 #### Vile Sazha
 
-Without her disguise, the chaotic evil [Vile Sazha](3-Mechanics/CLI/bestiary/fey/hag-of-the-fetid-gaze-cm.md) appears as a hunched figure with one muscular and one withered arm. She has catlike eyes, and rust-red hair covers her head, back, and arms. Her sharp fangs cause her to slur when she speaks, and she hisses and screeches when threatened.
+Without her disguise, the chaotic evil [Vile Sazha](/3-Mechanics/CLI/bestiary/fey/hag-of-the-fetid-gaze-cm.md) appears as a hunched figure with one muscular and one withered arm. She has catlike eyes, and rust-red hair covers her head, back, and arms. Her sharp fangs cause her to slur when she speaks, and she hisses and screeches when threatened.
 
 In her disguised form, she appears as Azirssa, an athletic sun elf with copper hair who wears an ornate breastplate with a red fur mantle. She has a confident and jovial voice, and she promotes physical strength and good health.
 
@@ -125,9 +125,9 @@ Vile Sazha knows how to create a suitable canvas for the hags' cursed paintings.
 
 #### Auntie Greenbones
 
-The eldest member of the Fetid Gaze, the lawful evil [Auntie Greenbones](3-Mechanics/CLI/bestiary/fey/hag-of-the-fetid-gaze-cm.md) often defers to the other two hags on decision-making. In her true form, she is shriveled and worn, her dark green skin covered in bark and fungus. Insects crawl across her and hide in the thick braid of white hair that curls around her shoulders like a serpent. Anyone who stares into her milky-white, seemingly blind eyes sees a reflection of their own face made decrepit and withered by age.
+The eldest member of the Fetid Gaze, the lawful evil [Auntie Greenbones](/3-Mechanics/CLI/bestiary/fey/hag-of-the-fetid-gaze-cm.md) often defers to the other two hags on decision-making. In her true form, she is shriveled and worn, her dark green skin covered in bark and fungus. Insects crawl across her and hide in the thick braid of white hair that curls around her shoulders like a serpent. Anyone who stares into her milky-white, seemingly blind eyes sees a reflection of their own face made decrepit and withered by age.
 
-The hag's disguise is that of Greensong, a cheerful, rosy-cheeked wood elf who feigns blindness. She wears a delicate white veil across her eyes and speaks in a singsong voice, giggling often. She keeps her guard dog, Morty, with her at all times. This disguised [hell hound](3-Mechanics/CLI/bestiary/fiend/hell-hound-xmm.md) appears as a mastiff with bloodshot eyes.
+The hag's disguise is that of Greensong, a cheerful, rosy-cheeked wood elf who feigns blindness. She wears a delicate white veil across her eyes and speaks in a singsong voice, giggling often. She keeps her guard dog, Morty, with her at all times. This disguised [hell hound](/3-Mechanics/CLI/bestiary/fiend/hell-hound-xmm.md) appears as a mastiff with bloodshot eyes.
 
 Auntie Greenbones knows how to infuse demon ichor into the paints needed to create the cursed paintings that drive the coven's evil bargains. This recipe is inscribed on the inside of Morty's collar.
 
@@ -149,39 +149,39 @@ Auntie Greenbones knows how to infuse demon ichor into the paints needed to crea
 
 > [!note] Coven Spells
 > 
-> Each member of [the Fetid Gaze](3-Mechanics/CLI/bestiary/fey/hag-of-the-fetid-gaze-cm.md) has access to coven spells, as described in the "Hag Covens" sidebar in the "Monster Manual". The green hags use the following list of spells for their Shared Spellcasting trait, replacing the suggested spells:
+> Each member of [the Fetid Gaze](/3-Mechanics/CLI/bestiary/fey/hag-of-the-fetid-gaze-cm.md) has access to coven spells, as described in the "Hag Covens" sidebar in the "Monster Manual". The green hags use the following list of spells for their Shared Spellcasting trait, replacing the suggested spells:
 > 
-> 1st level (4 slots): [charm person](3-Mechanics/CLI/spells/charm-person-xphb.md), [witch bolt](3-Mechanics/CLI/spells/witch-bolt-xphb.md)
+> 1st level (4 slots): [charm person](/3-Mechanics/CLI/spells/charm-person-xphb.md), [witch bolt](/3-Mechanics/CLI/spells/witch-bolt-xphb.md)
 > 
-> 2nd level (3 slots): [alter self](3-Mechanics/CLI/spells/alter-self-xphb.md), [suggestion](3-Mechanics/CLI/spells/suggestion-xphb.md)
+> 2nd level (3 slots): [alter self](/3-Mechanics/CLI/spells/alter-self-xphb.md), [suggestion](/3-Mechanics/CLI/spells/suggestion-xphb.md)
 > 
-> 3rd level (3 slots): [dispel magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md), [glyph of warding](3-Mechanics/CLI/spells/glyph-of-warding-xphb.md), [slow](3-Mechanics/CLI/spells/slow-xphb.md)
+> 3rd level (3 slots): [dispel magic](/3-Mechanics/CLI/spells/dispel-magic-xphb.md), [glyph of warding](/3-Mechanics/CLI/spells/glyph-of-warding-xphb.md), [slow](/3-Mechanics/CLI/spells/slow-xphb.md)
 > 
-> 4th level (3 slots): [blight](3-Mechanics/CLI/spells/blight-xphb.md), [polymorph](3-Mechanics/CLI/spells/polymorph-xphb.md)
+> 4th level (3 slots): [blight](/3-Mechanics/CLI/spells/blight-xphb.md), [polymorph](/3-Mechanics/CLI/spells/polymorph-xphb.md)
 > 
-> 5th level (2 slots): [dominate person](3-Mechanics/CLI/spells/dominate-person-xphb.md), [seeming](3-Mechanics/CLI/spells/seeming-xphb.md)
+> 5th level (2 slots): [dominate person](/3-Mechanics/CLI/spells/dominate-person-xphb.md), [seeming](/3-Mechanics/CLI/spells/seeming-xphb.md)
 > 
-> 6th level (1 slot): [Otto's irresistible dance](3-Mechanics/CLI/spells/ottos-irresistible-dance-xphb.md)
+> 6th level (1 slot): [Otto's irresistible dance](/3-Mechanics/CLI/spells/ottos-irresistible-dance-xphb.md)
 ^coven-spells
 
 #### Coven Minions
 
-The hags of the Fetid Gaze employ a number of minions to maintain the appearance that the bathhouse is running normally. Twice a day, the hags use their coven spells (see the "Coven Spells" sidebar) to cast [seeming](3-Mechanics/CLI/spells/seeming-xphb.md) on their minions, disguising them suitably for their roles.
+The hags of the Fetid Gaze employ a number of minions to maintain the appearance that the bathhouse is running normally. Twice a day, the hags use their coven spells (see the "Coven Spells" sidebar) to cast [seeming](/3-Mechanics/CLI/spells/seeming-xphb.md) on their minions, disguising them suitably for their roles.
 
 The following creatures serve the hags:
 
-- Saeth, a [cambion](3-Mechanics/CLI/bestiary/fiend/cambion-xmm.md), was recruited by Dread Morgan in exchange for a gift of unusual components and secret rituals that he intends to put toward his own evil and ambitious plans one day. Saeth specifically wants to learn the secrets of the cursed paintings, and he is happy to betray his employers to obtain them. He carries a master key that opens all the locks in the bathhouse and the tower except the door to the tower studio (area T15). He also carries the coven's *hag eye*, which is disguised as a cat's-eye pin on his jacket. For more information on the *hag eye*, see the "Hags" section in the "Monster Manual".  
-- Morty, a [hell hound](3-Mechanics/CLI/bestiary/fiend/hell-hound-xmm.md), belongs to Auntie Greenbones and is her loyal pet. The fiend never leaves her side and fights to the death to defend her. Vile Sazha hates Morty almost as much as she hates dwarves, and would love to see him dead.  
-- Six [scarecrows](3-Mechanics/CLI/bestiary/construct/scarecrow-xmm.md) were created by the hags to replace the acolytes of Sune who ran the bathhouse with Sylvarie, and whom the hags murdered when they took over. The scarecrows are disguised as attractive humanoids. They don't speak in their roles as bathhouse staff, but they nod and smile if spoken to.  
-- Two [gargoyles](3-Mechanics/CLI/bestiary/elemental/gargoyle-xmm.md) act as the guardians for the coven's lair in the tower beyond the bathhouse, disguised as statues of other kinds.  
+- Saeth, a [cambion](/3-Mechanics/CLI/bestiary/fiend/cambion-xmm.md), was recruited by Dread Morgan in exchange for a gift of unusual components and secret rituals that he intends to put toward his own evil and ambitious plans one day. Saeth specifically wants to learn the secrets of the cursed paintings, and he is happy to betray his employers to obtain them. He carries a master key that opens all the locks in the bathhouse and the tower except the door to the tower studio (area T15). He also carries the coven's *hag eye*, which is disguised as a cat's-eye pin on his jacket. For more information on the *hag eye*, see the "Hags" section in the "Monster Manual".  
+- Morty, a [hell hound](/3-Mechanics/CLI/bestiary/fiend/hell-hound-xmm.md), belongs to Auntie Greenbones and is her loyal pet. The fiend never leaves her side and fights to the death to defend her. Vile Sazha hates Morty almost as much as she hates dwarves, and would love to see him dead.  
+- Six [scarecrows](/3-Mechanics/CLI/bestiary/construct/scarecrow-xmm.md) were created by the hags to replace the acolytes of Sune who ran the bathhouse with Sylvarie, and whom the hags murdered when they took over. The scarecrows are disguised as attractive humanoids. They don't speak in their roles as bathhouse staff, but they nod and smile if spoken to.  
+- Two [gargoyles](/3-Mechanics/CLI/bestiary/elemental/gargoyle-xmm.md) act as the guardians for the coven's lair in the tower beyond the bathhouse, disguised as statues of other kinds.  
 
 #### Roleplaying the Hags
 
 The hags use Sylvarie's tower as their personal lair, but they spend their days in the bathhouse, maintaining their disguises. There, they meet with visitors and seek out potential new clients to manipulate. At night, they retreat to the tower and torment their current victims before resting.
 
-If any guests become suspicious of the hags or their minions, the hags try to use [suggestion](3-Mechanics/CLI/spells/suggestion-xphb.md) or [dominate person](3-Mechanics/CLI/spells/dominate-person-xphb.md) to isolate those characters so they can be captured or killed discreetly.
+If any guests become suspicious of the hags or their minions, the hags try to use [suggestion](/3-Mechanics/CLI/spells/suggestion-xphb.md) or [dominate person](/3-Mechanics/CLI/spells/dominate-person-xphb.md) to isolate those characters so they can be captured or killed discreetly.
 
-Once the hags become aware that the adventurers aren't at the temple for its services, they try to distract them by beseeching the characters for aid, in exchange for one of their special rituals. The hags first try to recruit the characters to destroy Cyrena, the [naiad](3-Mechanics/CLI/bestiary/fey/naiad-cm.md) who is bound to the baths (area T5), claiming that a "capricious elemental spirit" has been attacking guests and trying to claim the bathhouse as its home. If the characters appear particularly capable or dangerous, the hags might also try to trick them into destroying Sylvarie in the sacred pool below the abandoned shrine (area T12), hoping that the cursed elf-turned-medusa petrifies one or more of them in the process.
+Once the hags become aware that the adventurers aren't at the temple for its services, they try to distract them by beseeching the characters for aid, in exchange for one of their special rituals. The hags first try to recruit the characters to destroy Cyrena, the [naiad](/3-Mechanics/CLI/bestiary/fey/naiad-cm.md) who is bound to the baths (area T5), claiming that a "capricious elemental spirit" has been attacking guests and trying to claim the bathhouse as its home. If the characters appear particularly capable or dangerous, the hags might also try to trick them into destroying Sylvarie in the sacred pool below the abandoned shrine (area T12), hoping that the cursed elf-turned-medusa petrifies one or more of them in the process.
 
 The coven's greatest weakness is the hags' contempt for one another. Each yearns to learn the others' secrets for creating the cursed paintings so that they can replace their rivals with their own daughters one day. Characters who learn these secrets can thus gain considerable leverage over the hags.
 
@@ -209,9 +209,9 @@ All such benefits last no longer than a year, and they end immediately if the pa
 
 #### Destroying the Paintings
 
-The paintings' magic persists even if the hags are killed, and destroying a painting is the only way to end its curse. Any creature that studies all three parts of the procedure for creating a cursed painting knows that the painting is impervious to damage unless its magic can be momentarily disrupted. Without full knowledge of the procedure, it takes 1 hour of studying a painting and a successful DC 18 Intelligence ([Arcana](3-Mechanics/CLI/rules/skills.md#Arcana)) check to determine this fact.
+The paintings' magic persists even if the hags are killed, and destroying a painting is the only way to end its curse. Any creature that studies all three parts of the procedure for creating a cursed painting knows that the painting is impervious to damage unless its magic can be momentarily disrupted. Without full knowledge of the procedure, it takes 1 hour of studying a painting and a successful DC 18 Intelligence ([Arcana](/3-Mechanics/CLI/skills.md#Arcana)) check to determine this fact.
 
-A creature can use an action to try to destroy a painting, doing so with a successful DC 18 Strength ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)) check. On a failed check, the creature takes 14 (`4d6`) psychic damage. Any character who uses an action to examine the painting knows, with a successful DC 18 Intelligence ([Arcana](3-Mechanics/CLI/rules/skills.md#Arcana)) check, that the painting can also be destroyed by splashing it with fresh blood from a celestial.
+A creature can use an action to try to destroy a painting, doing so with a successful DC 18 Strength ([Athletics](/3-Mechanics/CLI/skills.md#Athletics)) check. On a failed check, the creature takes `dice:4d6|noform|noparens|avg|text(14)` (`4d6`) psychic damage. Any character who uses an action to examine the painting knows, with a successful DC 18 Intelligence ([Arcana](/3-Mechanics/CLI/skills.md#Arcana)) check, that the painting can also be destroyed by splashing it with fresh blood from a celestial.
 
 A compulsion placed on each cursed creature prevents it from trying to destroy a cursed painting.
 
@@ -219,13 +219,13 @@ A compulsion placed on each cursed creature prevents it from trying to destroy a
 
 In addition to the missing Falthrax, several other victims of the hags' curse are presently at the temple:
 
-**Sylvarie Silversong** (a neutral good moon elf) founded the Temple of the Restful Lily after being drawn to the hot spring by the visions of Sune. Her deep-seated insecurity over serving the god of beauty was her downfall. Hoping to develop more confidence in her role as a priest of Sune, she was drawn into a bargain with the hags that saw her transformed into a [medusa](3-Mechanics/CLI/bestiary/monstrosity/medusa-xmm.md) and trapped in the temple's former shrine for ten years. See area T12 for more information.
+**Sylvarie Silversong** (a neutral good moon elf) founded the Temple of the Restful Lily after being drawn to the hot spring by the visions of Sune. Her deep-seated insecurity over serving the god of beauty was her downfall. Hoping to develop more confidence in her role as a priest of Sune, she was drawn into a bargain with the hags that saw her transformed into a [medusa](/3-Mechanics/CLI/bestiary/monstrosity/medusa-xmm.md) and trapped in the temple's former shrine for ten years. See area T12 for more information.
 
-**Gorba Daardenrian** (a lawful neutral dragonborn of gold dragon ancestry) was a mighty warrior who sought even greater strength through her bargain with the hags. When she realized the true nature of the bargain shortly before the curse struck, the dragonborn returned to the temple to challenge the coven, but she became a withered husk of her former self as she arrived (use the [commoner](3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md) stat block for her current state). Now trapped here, she is especially fearful of Vile Sazha, who torments her relentlessly.
+**Gorba Daardenrian** (a lawful neutral dragonborn of gold dragon ancestry) was a mighty warrior who sought even greater strength through her bargain with the hags. When she realized the true nature of the bargain shortly before the curse struck, the dragonborn returned to the temple to challenge the coven, but she became a withered husk of her former self as she arrived (use the [commoner](/3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md) stat block for her current state). Now trapped here, she is especially fearful of Vile Sazha, who torments her relentlessly.
 
-**Glitter** (a chaotic good male tiefling) is a member of the Waterdeep Jewelers Guild, as well as an informant for one of the Masked Lords of the city. He came to the temple wanting to be a few inches taller, thinking the extra height would prove advantageous when conducting business transactions, but he renounced the hags' bargain when his new, taller form didn't suit him. The hags' curse transformed him into a kobold (though he uses the [spy](3-Mechanics/CLI/bestiary/humanoid/spy-xmm.md) stat block). In his new form, Glitter now bitterly serves the hags, speaking eloquently and addressing guests kindly. If the characters agree to help him undo the hags' curse, Glitter assures them they will gain a powerful ally in Waterdeep, as well as receive 500 gp in gems as soon as he can return to the city.
+**Glitter** (a chaotic good male tiefling) is a member of the Waterdeep Jewelers Guild, as well as an informant for one of the Masked Lords of the city. He came to the temple wanting to be a few inches taller, thinking the extra height would prove advantageous when conducting business transactions, but he renounced the hags' bargain when his new, taller form didn't suit him. The hags' curse transformed him into a kobold (though he uses the [spy](/3-Mechanics/CLI/bestiary/humanoid/spy-xmm.md) stat block). In his new form, Glitter now bitterly serves the hags, speaking eloquently and addressing guests kindly. If the characters agree to help him undo the hags' curse, Glitter assures them they will gain a powerful ally in Waterdeep, as well as receive 500 gp in gems as soon as he can return to the city.
 
-**Falthrax Loderr** (a neutral good shield dwarf [commoner](3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md)) became fearful of growing old after a lifetime of dedication to Candlekeep. After coming through the portal and being drawn in by the splendor and magic of the bathhouse, he bargained with the hags to restore his youth. But when second thoughts caused him to renounce the bargain, the hags' curse aged him well into his venerable years, and he is now wracked with constant pain. Having no idea how to return to Candlekeep and his old life, he has accepted his fate with quiet resignation, and he weeps quietly to himself when anyone speaks to him.
+**Falthrax Loderr** (a neutral good shield dwarf [commoner](/3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md)) became fearful of growing old after a lifetime of dedication to Candlekeep. After coming through the portal and being drawn in by the splendor and magic of the bathhouse, he bargained with the hags to restore his youth. But when second thoughts caused him to renounce the bargain, the hags' curse aged him well into his venerable years, and he is now wracked with constant pain. Having no idea how to return to Candlekeep and his old life, he has accepted his fate with quiet resignation, and he weeps quietly to himself when anyone speaks to him.
 
 ### Guests of the Temple
 
@@ -237,21 +237,21 @@ The Temple of the Restful Lily is known among the more elite folk of the Sword C
 
 | dice: d8 | Guest(s) |
 |----------|----------|
-| 1 | A [drow](3-Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm.md) poses as Jarlaxle Baenre, the leader of a famous mercenary band called Bregan D'aerthe, in the hope of obtaining discounted treatments. The impostor's disguise is easily detected by anyone who has met the real Jarlaxle. |
-| 2 | A [veteran](3-Mechanics/CLI/bestiary/humanoid/warrior-veteran-xmm.md) of the Flaming Fist, a ruthless mercenary company based in the city of Baldur's Gate, has come to the temple to recover from a leg injury. The treatments and physical therapy are helping, but the mercenary is bored and looking for excitement. |
-| 3 | A pair of halfling [scouts](3-Mechanics/CLI/bestiary/humanoid/scout-xmm.md) from the coastal city of Neverwinter used the profits from a recent shady job to treat themselves to a luxurious stay at the temple, but they are paranoid about other guests recognizing them. |
-| 4 | A merchant and her wife (both [commoners](3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md)) have come to the bathhouse to celebrate their anniversary, but it is clear that the two are having relationship issues. One of them wants to go home, while the other does not. |
-| 5 | A young [knight](3-Mechanics/CLI/bestiary/humanoid/knight-xmm.md) who belongs to an order called the Purple Dragons has traveled all the way to the temple from Cormyr, seeking Sune's advice on how best to impress their betrothed. |
-| 6 | A dwarf [noble](3-Mechanics/CLI/bestiary/humanoid/noble-xmm.md) from Citadel Adbar, a dwarven city-stronghold far to the north, recently suffered a magical malady causing them to lose all their hair. Wearing a wig and fake beard, they have come to the temple hoping to find a cure for the condition before the truth is found out. |
-| 7 | A rock gnome inventor (use the [noble](3-Mechanics/CLI/bestiary/humanoid/noble-xmm.md) stat block) from the city of Silverymoon has come to the bathhouse to sell the owners a collection of cleaning gadgets. |
-| 8 | A lawful neutral [assassin](3-Mechanics/CLI/bestiary/humanoid/assassin-xmm.md) targeting evil nobles has come to the bathhouse to hide out from the authorities, after recently botching an assignment in Waterdeep or some other city of your choice. |
+| 1 | A [drow](/3-Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm.md) poses as Jarlaxle Baenre, the leader of a famous mercenary band called Bregan D'aerthe, in the hope of obtaining discounted treatments. The impostor's disguise is easily detected by anyone who has met the real Jarlaxle. |
+| 2 | A [veteran](/3-Mechanics/CLI/bestiary/humanoid/warrior-veteran-xmm.md) of the Flaming Fist, a ruthless mercenary company based in the city of Baldur's Gate, has come to the temple to recover from a leg injury. The treatments and physical therapy are helping, but the mercenary is bored and looking for excitement. |
+| 3 | A pair of halfling [scouts](/3-Mechanics/CLI/bestiary/humanoid/scout-xmm.md) from the coastal city of Neverwinter used the profits from a recent shady job to treat themselves to a luxurious stay at the temple, but they are paranoid about other guests recognizing them. |
+| 4 | A merchant and her wife (both [commoners](/3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md)) have come to the bathhouse to celebrate their anniversary, but it is clear that the two are having relationship issues. One of them wants to go home, while the other does not. |
+| 5 | A young [knight](/3-Mechanics/CLI/bestiary/humanoid/knight-xmm.md) who belongs to an order called the Purple Dragons has traveled all the way to the temple from Cormyr, seeking Sune's advice on how best to impress their betrothed. |
+| 6 | A dwarf [noble](/3-Mechanics/CLI/bestiary/humanoid/noble-xmm.md) from Citadel Adbar, a dwarven city-stronghold far to the north, recently suffered a magical malady causing them to lose all their hair. Wearing a wig and fake beard, they have come to the temple hoping to find a cure for the condition before the truth is found out. |
+| 7 | A rock gnome inventor (use the [noble](/3-Mechanics/CLI/bestiary/humanoid/noble-xmm.md) stat block) from the city of Silverymoon has come to the bathhouse to sell the owners a collection of cleaning gadgets. |
+| 8 | A lawful neutral [assassin](/3-Mechanics/CLI/bestiary/humanoid/assassin-xmm.md) targeting evil nobles has come to the bathhouse to hide out from the authorities, after recently botching an assignment in Waterdeep or some other city of your choice. |
 ^temple-guests
 
 ### Arriving at the Temple
 
 The Temple of the Restful Lily is built around a fey-enchanted hot spring in a large open grove in the High Forest. The woodland trail accessed through the portal created by *The Price of Beauty* leads to the temple from the east after a journey of a quarter mile. A longer trail leads west from the temple, winds northward, and ends at the edge of the forest south of Silverymoon. Both trails converge on the south side of the bathhouse building and the double doors leading into area T1.
 
-If the characters put off entering the bathhouse building to first wander the grounds, the [cambion](3-Mechanics/CLI/bestiary/fiend/cambion-xmm.md) Saeth (see "Coven Minions" earlier in the adventure) leaves area T1 to intercept them. He encourages the characters to return with him to the bathhouse, describing the abandoned shrine as a dangerous place to be avoided, and saying that the tower is a private residence that cannot be entered. He does not force the issue, however.
+If the characters put off entering the bathhouse building to first wander the grounds, the [cambion](/3-Mechanics/CLI/bestiary/fiend/cambion-xmm.md) Saeth (see "Coven Minions" earlier in the adventure) leaves area T1 to intercept them. He encourages the characters to return with him to the bathhouse, describing the abandoned shrine as a dangerous place to be avoided, and saying that the tower is a private residence that cannot be entered. He does not force the issue, however.
 
 Saeth calls for reinforcements if he is attacked or if anyone tries to forcibly enter the abandoned shrine or the tower. If the characters are intent on starting this part of the adventure with combat, you might lead off with a challenging fight against the hags and all their servants, then have the characters put the pieces of the mystery together in the aftermath.
 
@@ -271,8 +271,8 @@ The following features are common to all areas of the bathhouse, the tower, and 
 ^relaxing-at-the-restful-lily
 
 - **Walls and Floors.** The bathhouse and the tower are luxuriously appointed, with walls and floors of polished stone. The stonework in the abandoned shrine is crumbling and caked with grime.  
-- **Doors.** Inside the bathhouse and the tower, wooden doors are carved with images of water lilies. Doors in the bathhouse are normally unlocked, but they can be locked by anyone who has a master key. Doors in the tower are normally locked. Unless otherwise noted, a locked door can be opened with a successful DC 15 Dexterity check using thieves' tools, broken in with a successful DC 15 Strength ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)) check, or attacked. A door has AC 15, 18 hit points, and immunity to poison and psychic damage.  
-- **Windows.** Within the bathhouse and the tower, finely made windows display abstract designs in stained glass. A window can be broken through with a successful DC 12 Strength ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)) check or attacked; each one has AC 13, 3 hit points, and immunity to poison and psychic damage.  
+- **Doors.** Inside the bathhouse and the tower, wooden doors are carved with images of water lilies. Doors in the bathhouse are normally unlocked, but they can be locked by anyone who has a master key. Doors in the tower are normally locked. Unless otherwise noted, a locked door can be opened with a successful DC 15 Dexterity check using thieves' tools, broken in with a successful DC 15 Strength ([Athletics](/3-Mechanics/CLI/skills.md#Athletics)) check, or attacked. A door has AC 15, 18 hit points, and immunity to poison and psychic damage.  
+- **Windows.** Within the bathhouse and the tower, finely made windows display abstract designs in stained glass. A window can be broken through with a successful DC 12 Strength ([Athletics](/3-Mechanics/CLI/skills.md#Athletics)) check or attacked; each one has AC 13, 3 hit points, and immunity to poison and psychic damage.  
 - **Light.** All areas of the bathhouse and the tower are filled with bright light during the day and evening, either from sunlight or lanterns. After midnight, these areas are dark unless characters are using a light source. The ground floor of the shrine (area T11) is unlit, while its basement is lit by a magic pool (see area T12 for details).  
 
 ### Temple Locations T1-T9
@@ -280,8 +280,8 @@ The following features are common to all areas of the bathhouse, the tower, and 
 The following locations are keyed to the maps of the Temple of the Restful Lily.
 
 > [!gallery]
-> ![Map 7.1: Temple of the Restful Lily](3-Mechanics/CLI/adventures/candlekeep-mysteries/img/052-map-7-01-temple-of-the-restful-lily.webp#gallery)
-> ![Player Version](3-Mechanics/CLI/adventures/candlekeep-mysteries/img/053-map-7-01-temple-of-the-restful-lily-player.webp#gallery)
+> ![Map 7.1: Temple of the Restful Lily](/3-Mechanics/CLI/adventures/candlekeep-mysteries/img/052-map-7-01-temple-of-the-restful-lily.webp#gallery)
+> ![Player Version](/3-Mechanics/CLI/adventures/candlekeep-mysteries/img/053-map-7-01-temple-of-the-restful-lily-player.webp#gallery)
 
 #### T1. Lobby
 
@@ -292,7 +292,7 @@ The following locations are keyed to the maps of the Temple of the Restful Lily.
 > "Welcome, friends, to the Restful Lily. Freshen yourselves in our luxurious bathhouse. Or perhaps you'd enjoy a massage? Haircut? A shave or pedicure? Oh! Road-tired feet simply cry out for comfort! Whatever your pleasure, I am here to serve."
 ^213
 
-The lobby is staffed by the disguised [cambion](3-Mechanics/CLI/bestiary/fiend/cambion-xmm.md) Saeth (see "Coven Minions" earlier in the adventure). He greets the characters warmly and is happy to explain the treatments and services on offer (as noted in the "Relaxing at the Restful Lily" sidebar). If the characters ask about the missing Falthrax, Saeth feigns ignorance. If the characters aren't interested in the Restful Lily's services at present, he encourages them to look around. In any event, as soon as he is able to do so, he leaves the characters to their own devices and slips away to inform one of the hags about the party's arrival before returning to his desk. The characters are free to explore the temple on their own at this point.
+The lobby is staffed by the disguised [cambion](/3-Mechanics/CLI/bestiary/fiend/cambion-xmm.md) Saeth (see "Coven Minions" earlier in the adventure). He greets the characters warmly and is happy to explain the treatments and services on offer (as noted in the "Relaxing at the Restful Lily" sidebar). If the characters ask about the missing Falthrax, Saeth feigns ignorance. If the characters aren't interested in the Restful Lily's services at present, he encourages them to look around. In any event, as soon as he is able to do so, he leaves the characters to their own devices and slips away to inform one of the hags about the party's arrival before returning to his desk. The characters are free to explore the temple on their own at this point.
 
 #### T2. Changing Rooms
 
@@ -301,7 +301,7 @@ The lobby is staffed by the disguised [cambion](3-Mechanics/CLI/bestiary/fiend/c
 > A corridor beyond the lobby runs between two rows of curtained cubicles, where guests can change out of traveling clothes and armor. Each cubicle contains a wooden stool, two white robes hanging on hooks, and a large wooden trunk with a lock.
 ^215
 
-If the characters pay to enter the baths or want to enjoy any of the other facilities, they are asked to change and store their weapons and equipment here. One robe of each pair is sized for Medium characters, while the other fits Small characters. Saeth gives a character a numbered key that corresponds to that character's cubicle and trunk. He carries a master key that opens all the trunks. As an action, a character can try to pick the lock on a trunk using thieves' tools, doing so with a successful DC 15 Dexterity check, or force open a trunk with a successful DC 12 Strength ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)) check.
+If the characters pay to enter the baths or want to enjoy any of the other facilities, they are asked to change and store their weapons and equipment here. One robe of each pair is sized for Medium characters, while the other fits Small characters. Saeth gives a character a numbered key that corresponds to that character's cubicle and trunk. He carries a master key that opens all the trunks. As an action, a character can try to pick the lock on a trunk using thieves' tools, doing so with a successful DC 15 Dexterity check, or force open a trunk with a successful DC 12 Strength ([Athletics](/3-Mechanics/CLI/skills.md#Athletics)) check.
 
 #### T3. Lounge
 
@@ -310,7 +310,7 @@ If the characters pay to enter the baths or want to enjoy any of the other facil
 > Large cushioned chairs are set around this open space. Calming music fills the air, which carries a floral scent. A bar takes up one corner of the room, alongside shelves of expensive wines and spirits and baskets of fresh fruit. Two tables stand along one wall, each set up as a manicure and pedicure station with nail files, clippers, and bottles of nail varnish.
 ^217
 
-The lounge is watched over by two members of the staff, who serve drinks to the guests and perform other mundane tasks asked of them. Both are disguised [scarecrows](3-Mechanics/CLI/bestiary/construct/scarecrow-xmm.md) (see "Coven Minions" earlier in the adventure). The music is a permanent auditory illusion.
+The lounge is watched over by two members of the staff, who serve drinks to the guests and perform other mundane tasks asked of them. Both are disguised [scarecrows](/3-Mechanics/CLI/bestiary/construct/scarecrow-xmm.md) (see "Coven Minions" earlier in the adventure). The music is a permanent auditory illusion.
 
 During the day, the hag Dread Morgan is often here in the guise of the moon elf Morganna, talking to other guests and trying to convince likely prospects to indulge in the temple's "special treatments." She takes notice of the characters and welcomes them, playing the part of a gracious host while she tries to learn as much about them as possible.
 
@@ -321,25 +321,25 @@ During the day, the hag Dread Morgan is often here in the guise of the moon elf 
 > An iron fence overgrown with ivy surrounds this small garden. An earthen path weaves between a scattering of trees, flower bushes, and stone benches. Various iron weights, wooden poles, and heavy sacks are strewn about the place.
 ^219
 
-In the guise of Azirssa, one of the elf sisters, Vile Sazha uses the garden as a place to exercise and torment guests with physical training. One of the trees in the garden is an [awakened tree](3-Mechanics/CLI/bestiary/plant/awakened-tree-xmm.md) under her control, which she uses in her workouts and which defends her if she is attacked.
+In the guise of Azirssa, one of the elf sisters, Vile Sazha uses the garden as a place to exercise and torment guests with physical training. One of the trees in the garden is an [awakened tree](/3-Mechanics/CLI/bestiary/plant/awakened-tree-xmm.md) under her control, which she uses in her workouts and which defends her if she is attacked.
 
 When the characters arrive, a few other guests of the temple might be here, looking exhausted and clutching aching limbs while the disguised hag sarcastically congratulates them on doing their best.
 
 ##### Azirssa's Workouts
 
-Any character who wants to can join in one of the [hag's](3-Mechanics/CLI/bestiary/fey/green-hag-xmm.md) workouts. If any characters look particularly unfit or scrawny, Vile Sazha singles them out and tries to goad them into joining in, offering them a magic potion if they can complete three activities. A character can give up, ending a workout activity at any time. The three activities are as follows:
+Any character who wants to can join in one of the [hag's](/3-Mechanics/CLI/bestiary/fey/green-hag-xmm.md) workouts. If any characters look particularly unfit or scrawny, Vile Sazha singles them out and tries to goad them into joining in, offering them a magic potion if they can complete three activities. A character can give up, ending a workout activity at any time. The three activities are as follows:
 
 - **Squats.** To complete this activity, a character must perform three sets of continuous squats and succeed on three incrementally harder Constitution checks—DC 10, DC 13, and DC 16, respectively. A character who fails a check has disadvantage on the next Constitution check they make as part of this activity. A character who fails three checks in a row must finish a short or long rest before attempting this activity again.  
 
 ##### Tug-of-War
 
-To complete this activity, a character must stay on their feet in a tug-of-war against the awakened tree. Have the character make DC 16 Strength ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)) checks until a check either fails by 5 or more or succeeds. In the former case, the character falls [prone](3-Mechanics/CLI/rules/conditions.md#Prone) and takes 3 (`1d6`) bludgeoning damage from being pulled to the ground by the tree. In the latter case, the character wins the tug-of-war. In either case, the contest ends.
+To complete this activity, a character must stay on their feet in a tug-of-war against the awakened tree. Have the character make DC 16 Strength ([Athletics](/3-Mechanics/CLI/skills.md#Athletics)) checks until a check either fails by 5 or more or succeeds. In the former case, the character falls [prone](/3-Mechanics/CLI/conditions.md#Prone) and takes `dice:1d6|noform|noparens|avg|text(3)` (`1d6`) bludgeoning damage from being pulled to the ground by the tree. In the latter case, the character wins the tug-of-war. In either case, the contest ends.
 
-- **Chain Skipping.** To complete this activity, a character must succeed on three DC 13 Dexterity ([Acrobatics](3-Mechanics/CLI/rules/skills.md#Acrobatics)) checks, representing their attempt to stay on their feet while they try to jump over a heavy metal chain being spun by Vile Sazha and the awakened tree. If a check fails, the character is knocked off balance, and the DC for the next check becomes 15. If a check fails by 5 or more, the character is also struck by the chain and takes 7 (`2d6`) bludgeoning damage.  
+- **Chain Skipping.** To complete this activity, a character must succeed on three DC 13 Dexterity ([Acrobatics](/3-Mechanics/CLI/skills.md#Acrobatics)) checks, representing their attempt to stay on their feet while they try to jump over a heavy metal chain being spun by Vile Sazha and the awakened tree. If a check fails, the character is knocked off balance, and the DC for the next check becomes 15. If a check fails by 5 or more, the character is also struck by the chain and takes `dice:2d6|noform|noparens|avg|text(7)` (`2d6`) bludgeoning damage.  
 
 ##### Treasure
 
-If a character completes all three workout activities, Azirssa begrudgingly gives them a [potion of giant strength (hill)](3-Mechanics/CLI/items/potion-of-hill-giant-strength-xdmg.md) as a reward. If more than one character completes all three activities, Vile Sazha gives the potion to the character who had the fewest failed checks or the one she likes best (a purely subjective choice on her part).
+If a character completes all three workout activities, Azirssa begrudgingly gives them a [potion of giant strength (hill)](/3-Mechanics/CLI/items/potion-of-hill-giant-strength-xdmg.md) as a reward. If more than one character completes all three activities, Vile Sazha gives the potion to the character who had the fewest failed checks or the one she likes best (a purely subjective choice on her part).
 
 #### T5. Bath and Hot Spring
 
@@ -352,17 +352,17 @@ This bathhouse is built around a natural hot spring. The pool is 10 feet deep, a
 
 ##### Hot Spring
 
-A creature that spends at least 1 hour in the bath gains the benefit of a [greater restoration](3-Mechanics/CLI/spells/greater-restoration-xphb.md) spell (the creature decides which of the spell's effects is bestowed on it). A creature can benefit from this property of the pool only once per month. Beyond the effect of the spell, the water causes a creature's skin to appear healthier and younger, tones down the appearance of scars and burns, and helps to regrow lost hair.
+A creature that spends at least 1 hour in the bath gains the benefit of a [greater restoration](/3-Mechanics/CLI/spells/greater-restoration-xphb.md) spell (the creature decides which of the spell's effects is bestowed on it). A creature can benefit from this property of the pool only once per month. Beyond the effect of the spell, the water causes a creature's skin to appear healthier and younger, tones down the appearance of scars and burns, and helps to regrow lost hair.
 
-A fey creature called a [naiad](3-Mechanics/CLI/bestiary/fey/naiad-mot.md) (see the accompanying stat block) is bound to this spring in the same way that a dryad maintains a connection to a tree. The [naiad](3-Mechanics/CLI/bestiary/fey/naiad-cm.md), Cyrena, came to an understanding with Sylvarie when the elf founded the temple: the [naiad](3-Mechanics/CLI/bestiary/fey/naiad-cm.md) was allowed access to the pool and its magic in exchange for swearing to protect the waters.
+A fey creature called a [naiad](/3-Mechanics/CLI/bestiary/fey/naiad-mot.md) (see the accompanying stat block) is bound to this spring in the same way that a dryad maintains a connection to a tree. The [naiad](/3-Mechanics/CLI/bestiary/fey/naiad-cm.md), Cyrena, came to an understanding with Sylvarie when the elf founded the temple: the [naiad](/3-Mechanics/CLI/bestiary/fey/naiad-cm.md) was allowed access to the pool and its magic in exchange for swearing to protect the waters.
 
-Cyrena can cause the water to harm creatures of her choice as though it were an equivalent volume of acid. Currently, she has made the water harmful to the hags and their minions, and she can make it harmful to characters who offend or threaten her. Any such creature that enters the pool or starts its turn immersed in it takes 11 (`2d10`) acid damage.
+Cyrena can cause the water to harm creatures of her choice as though it were an equivalent volume of acid. Currently, she has made the water harmful to the hags and their minions, and she can make it harmful to characters who offend or threaten her. Any such creature that enters the pool or starts its turn immersed in it takes `dice:2d10|noform|noparens|avg|text(11)` (`2d10`) acid damage.
 
-Cyrena knows the hags and their minions for what they truly are. Because the water of the pool is harmful to them, they have been forced to leave the [naiad](3-Mechanics/CLI/bestiary/fey/naiad-cm.md) alone, even as they plot to destroy her.
+Cyrena knows the hags and their minions for what they truly are. Because the water of the pool is harmful to them, they have been forced to leave the [naiad](/3-Mechanics/CLI/bestiary/fey/naiad-cm.md) alone, even as they plot to destroy her.
 
-Cyrena doesn't know what happened to Sylvarie, but even after ten years, she is sad about her friend's disappearance. Her nervousness around other creatures has prevented the [naiad](3-Mechanics/CLI/bestiary/fey/naiad-cm.md) from asking directly for aid. She perceives dangerous-looking creatures as servants of the hags. If she believes a character to be pure of heart or an ally of nature, she begs them to help her discover what happened to Sylvarie.
+Cyrena doesn't know what happened to Sylvarie, but even after ten years, she is sad about her friend's disappearance. Her nervousness around other creatures has prevented the [naiad](/3-Mechanics/CLI/bestiary/fey/naiad-cm.md) from asking directly for aid. She perceives dangerous-looking creatures as servants of the hags. If she believes a character to be pure of heart or an ally of nature, she begs them to help her discover what happened to Sylvarie.
 
-![Naiad](3-Mechanics/CLI/adventures/candlekeep-mysteries/img/054-637266349920661945.webp#center)
+![Naiad](/3-Mechanics/CLI/adventures/candlekeep-mysteries/img/054-637266349920661945.webp#center)
 
 #### T6. Kitchen
 
@@ -373,11 +373,11 @@ Cyrena doesn't know what happened to Sylvarie, but even after ten years, she is 
 
 By day, Auntie Greenbones is usually here, in disguise as the blind wood elf Greensong with her faithful hound Morty at her side. She prepares delicious-looking but tainted meals for guests of the temple, often slipping in putrid ingredients or traces of poison. Any guest who suffers the effect of a tainted meal is told that they are feeling toxins and impurities leaving their body as a result of the healthy living the temple promotes.
 
-The hag keeps her awful ingredients hidden in a secret compartment in the kitchen cupboards, which can be found with a successful DC 15 Intelligence ([Investigation](3-Mechanics/CLI/rules/skills.md#Investigation)) check (see "Treasure" below). If her stash is discovered, Greensong feigns innocence and says, untruthfully, that the drow aesthetician Ilmar (see area T7) was seen poking around in the kitchen a few days ago.
+The hag keeps her awful ingredients hidden in a secret compartment in the kitchen cupboards, which can be found with a successful DC 15 Intelligence ([Investigation](/3-Mechanics/CLI/skills.md#Investigation)) check (see "Treasure" below). If her stash is discovered, Greensong feigns innocence and says, untruthfully, that the drow aesthetician Ilmar (see area T7) was seen poking around in the kitchen a few days ago.
 
 ##### Treasure
 
-Auntie Greenbones's stash includes beholder tears, ground unicorn hoof, chimera vomit, and other foul reagents of your choice. These ingredients are worth a total of 100 gp to an alchemist or a poisoner. The stash also includes a stoppered and labeled glass vial containing three doses of [assassin's blood](3-Mechanics/CLI/items/assassins-blood-xdmg.md) (see ""Poisons"" in the "Dungeon Master's Guide").
+Auntie Greenbones's stash includes beholder tears, ground unicorn hoof, chimera vomit, and other foul reagents of your choice. These ingredients are worth a total of 100 gp to an alchemist or a poisoner. The stash also includes a stoppered and labeled glass vial containing three doses of [assassin's blood](/3-Mechanics/CLI/items/assassins-blood-xdmg.md) (see ""Poisons"" in the "Dungeon Master's Guide").
 
 #### T7. Treatment Rooms
 
@@ -386,27 +386,27 @@ Auntie Greenbones's stash includes beholder tears, ground unicorn hoof, chimera 
 > These adjoining chambers, dimly lit with shrouded lamps, are each furnished with a bed whose frame can be tilted and folded into different positions. Shelves and counters hold an array of perfumes, oils, and lotions, and scented candles that fill the room with a pleasantly invigorating scent.
 ^224
 
-Guests who request haircuts, shaving, waxing, or massages are tended to in these treatment rooms. Ilmar Mizzrym (a chaotic good [drow](3-Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm.md)) works here as the head aesthetician of the bathhouse. He wears a simple belted silk robe and flat shoes, and speaks in a soft, hushed voice. Without armor, his AC is 12.
+Guests who request haircuts, shaving, waxing, or massages are tended to in these treatment rooms. Ilmar Mizzrym (a chaotic good [drow](/3-Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm.md)) works here as the head aesthetician of the bathhouse. He wears a simple belted silk robe and flat shoes, and speaks in a soft, hushed voice. Without armor, his AC is 12.
 
-Ilmar is secretly a Harper agent and worshiper of Eilistraee who goes by the code name Dusk. He was a close friend of Sylvarie's years ago, but fell out of touch with her before the temple was built. If the characters get on Ilmar's good side with roleplaying or a successful DC 17 Charisma ([Persuasion](3-Mechanics/CLI/rules/skills.md#Persuasion)) check, he confides his true identity to them and shares his story.
+Ilmar is secretly a Harper agent and worshiper of Eilistraee who goes by the code name Dusk. He was a close friend of Sylvarie's years ago, but fell out of touch with her before the temple was built. If the characters get on Ilmar's good side with roleplaying or a successful DC 17 Charisma ([Persuasion](/3-Mechanics/CLI/skills.md#Persuasion)) check, he confides his true identity to them and shares his story.
 
 ##### Ilmar's Search
 
 Three months ago, Ilmar received a haunting vision of his old friend Sylvarie, who appeared to be in a suffering state, and appearing as though her face was being reflected in a broken mirror. Looking into his former friend's activities since they parted ways led him to Silverymoon a month ago, then to the temple. Ilmar instinctively suspected that the goings-on at the bathhouse hid some dark secret and decided to investigate by posing as an aesthetician seeking employment.
 
-Ilmar has seen through the illusions covering the hags and their minions, and he shares that knowledge if he trusts the characters. He suspects that information about Sylvarie's fate can be found in the shrine or the tower, but has so far been unable to investigate those areas because the coven's minions keep a close eye on him. (The two disguised [scarecrows](3-Mechanics/CLI/bestiary/construct/scarecrow-xmm.md) from area T9 lurk around the guest rooms at night, and the [gargoyle](3-Mechanics/CLI/bestiary/elemental/gargoyle-xmm.md) above the tower entrance of area T13 watches the grounds north of the bathhouse for any sign of Ilmar skulking around.)
+Ilmar has seen through the illusions covering the hags and their minions, and he shares that knowledge if he trusts the characters. He suspects that information about Sylvarie's fate can be found in the shrine or the tower, but has so far been unable to investigate those areas because the coven's minions keep a close eye on him. (The two disguised [scarecrows](/3-Mechanics/CLI/bestiary/construct/scarecrow-xmm.md) from area T9 lurk around the guest rooms at night, and the [gargoyle](/3-Mechanics/CLI/bestiary/elemental/gargoyle-xmm.md) above the tower entrance of area T13 watches the grounds north of the bathhouse for any sign of Ilmar skulking around.)
 
 If the characters agree to help discover what happened to Sylvarie, Ilmar offers to join them, or to help by creating a distraction in the bathhouse that might give the characters a chance to slip into the tower or the shrine unnoticed.
 
 ##### Treasure
 
-Ilmar keeps a silvered [shortsword](3-Mechanics/CLI/items/shortsword-xphb.md), a [hand crossbow](3-Mechanics/CLI/items/hand-crossbow-xphb.md) with twenty [bolts](3-Mechanics/CLI/items/bolts-20-xphb.md), and a [spell scroll](3-Mechanics/CLI/items/spell-scroll-xdmg.md) of [greater restoration](3-Mechanics/CLI/spells/greater-restoration-xphb.md) hidden underneath the massage bed in the south treatment room. These can be discovered by any character who searches the room. He keeps a vial of [oil of slipperiness](3-Mechanics/CLI/items/oil-of-slipperiness-xdmg.md) hidden among the massage lotions and oils on the shelf in the north treatment room. It can be spotted with a successful DC 14 Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) check.
+Ilmar keeps a silvered [shortsword](/3-Mechanics/CLI/items/shortsword-xphb.md), a [hand crossbow](/3-Mechanics/CLI/items/hand-crossbow-xphb.md) with twenty [bolts](/3-Mechanics/CLI/items/bolts-20-xphb.md), and a [spell scroll](/3-Mechanics/CLI/items/spell-scroll-xdmg.md) of [greater restoration](/3-Mechanics/CLI/spells/greater-restoration-xphb.md) hidden underneath the massage bed in the south treatment room. These can be discovered by any character who searches the room. He keeps a vial of [oil of slipperiness](/3-Mechanics/CLI/items/oil-of-slipperiness-xdmg.md) hidden among the massage lotions and oils on the shelf in the north treatment room. It can be spotted with a successful DC 14 Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) check.
 
 #### T8. Storage
 
 A silk-curtained doorway leads into a storage room piled high with crates and items on shelves. Stock and supplies for the bathhouse are kept here, including towels, robes, bed linens, bottles, and stores of grain, fruits, nuts, and salted meat.
 
-When the characters first enter this area, one [scarecrow](3-Mechanics/CLI/bestiary/construct/scarecrow-xmm.md) disguised as a humanoid staff member (see "Coven Minions" earlier in the adventure) is present, sorting supplies and arranging boxes.
+When the characters first enter this area, one [scarecrow](/3-Mechanics/CLI/bestiary/construct/scarecrow-xmm.md) disguised as a humanoid staff member (see "Coven Minions" earlier in the adventure) is present, sorting supplies and arranging boxes.
 
 #### T9. Guest Rooms
 
@@ -417,20 +417,20 @@ All the rooms in this area have the same basic features, plus additional content
 > This well-furnished guest room contains a comfortable bed, a sturdy chest for storage, a wall lantern, a full-length mirror, and a desk that holds small bottles of lotions and soaps.
 ^229
 
-Each guest of the temple is given a key that locks both the door and the chest, either of which can also be opened with a successful DC 15 Dexterity check using thieves' tools or forced open with a successful DC 15 Strength ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)) check. The hags and Saeth each carry a master key.
+Each guest of the temple is given a key that locks both the door and the chest, either of which can also be opened with a successful DC 15 Dexterity check using thieves' tools or forced open with a successful DC 15 Strength ([Athletics](/3-Mechanics/CLI/skills.md#Athletics)) check. The hags and Saeth each carry a master key.
 
-During the day, two disguised [scarecrows](3-Mechanics/CLI/bestiary/construct/scarecrow-xmm.md) (see "Coven Minions" earlier in the adventure) clean any unoccupied rooms. If the characters are staying here, the hags might instruct the scarecrows to "misplace" (steal) any potions, weapons, or other valuable items left in the characters' rooms.
+During the day, two disguised [scarecrows](/3-Mechanics/CLI/bestiary/construct/scarecrow-xmm.md) (see "Coven Minions" earlier in the adventure) clean any unoccupied rooms. If the characters are staying here, the hags might instruct the scarecrows to "misplace" (steal) any potions, weapons, or other valuable items left in the characters' rooms.
 
 ##### Working Late
 
-If the characters take rooms and spend one or more nights at the temple, the character who has the highest passive Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) score is awakened at a time of your choice by a quiet disturbance:
+If the characters take rooms and spend one or more nights at the temple, the character who has the highest passive Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) score is awakened at a time of your choice by a quiet disturbance:
 
 > [!readaloud] 
 > 
 > A kobold with white scales and purple eyes is fiddling with the lock on one of the guest room doors. He wears a patchwork dress and is quietly cursing and whispering.
 ^22b
 
-Glitter, a tiefling [spy](3-Mechanics/CLI/bestiary/humanoid/spy-xmm.md) transformed into a kobold by the hags (see "Coven Victims" earlier in the adventure), is working late for his masters. He is trying to fix a broken lock, though the characters might assume he is trying to break into the room by picking the lock. He has [darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) out to a range of 60 feet and doesn't need light to do his work.
+Glitter, a tiefling [spy](/3-Mechanics/CLI/bestiary/humanoid/spy-xmm.md) transformed into a kobold by the hags (see "Coven Victims" earlier in the adventure), is working late for his masters. He is trying to fix a broken lock, though the characters might assume he is trying to break into the room by picking the lock. He has [darkvision](/3-Mechanics/CLI/senses.md#Darkvision) out to a range of 60 feet and doesn't need light to do his work.
 
 Glitter immediately surrenders if confronted and tries to explain himself. If any character treats him kindly or seems to be heroic, he might tell the characters the truth of his transformation and beg their help to undo the curse. Glitter knows what happened to Sylvarie, as well as the layout of the bathhouse and the tower. He also knows that the hags store a selection of their cursed paintings in the servants' quarters in the tower (area T17).
 
@@ -447,11 +447,11 @@ This room is the quarters of Ilmar Mizzrym (see area T7). A character who search
 
 ##### Treasure
 
-The sack holds three diamonds (50 gp each) and a silver [holy symbol](3-Mechanics/CLI/items/holy-symbol-xphb.md) of Eilistraee (25 gp), the drow god of beauty, dance, and the hunt. A [chain shirt](3-Mechanics/CLI/items/chain-shirt-xphb.md) and a [rapier](3-Mechanics/CLI/items/rapier-xphb.md) are stored inside the room's locked chest.
+The sack holds three diamonds (50 gp each) and a silver [holy symbol](/3-Mechanics/CLI/items/holy-symbol-xphb.md) of Eilistraee (25 gp), the drow god of beauty, dance, and the hunt. A [chain shirt](/3-Mechanics/CLI/items/chain-shirt-xphb.md) and a [rapier](/3-Mechanics/CLI/items/rapier-xphb.md) are stored inside the room's locked chest.
 
 #### T11. Abandoned Shrine
 
-This former shrine to Sune has fallen into disrepair over a decade of neglect. It is partially hidden behind the baths and obscured by overgrown trees and scrub. If the characters haven't already scouted the grounds, any character in the baths (area T5) who has a passive Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) score of 13 or higher spots the ruined stone building behind the trees. Characters who travel from the bathhouse to the tower can easily see the shrine.
+This former shrine to Sune has fallen into disrepair over a decade of neglect. It is partially hidden behind the baths and obscured by overgrown trees and scrub. If the characters haven't already scouted the grounds, any character in the baths (area T5) who has a passive Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) score of 13 or higher spots the ruined stone building behind the trees. Characters who travel from the bathhouse to the tower can easily see the shrine.
 
 > [!readaloud] 
 > 
@@ -460,9 +460,9 @@ This former shrine to Sune has fallen into disrepair over a decade of neglect. I
 > "Welcome, dearest ones. Come find the beauty within you."
 ^231
 
-During the day, the shrine is quiet. At night, any character moving around the shrine who has a passive Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) score of 14 or higher hears what sounds like sobbing or muttering coming from within.
+During the day, the shrine is quiet. At night, any character moving around the shrine who has a passive Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) score of 14 or higher hears what sounds like sobbing or muttering coming from within.
 
-The door is sealed firmly, as are the shrine's four windows, and all are coated by an unnaturally resilient resin of the hags' creation. A character can open a door or window as an action, but only by forcing it with a successful DC 20 Strength ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)) check. Any of the hags can touch an area of resin as an action, causing it to turn into slime that flows away over 1 minute.
+The door is sealed firmly, as are the shrine's four windows, and all are coated by an unnaturally resilient resin of the hags' creation. A character can open a door or window as an action, but only by forcing it with a successful DC 20 Strength ([Athletics](/3-Mechanics/CLI/skills.md#Athletics)) check. Any of the hags can touch an area of resin as an action, causing it to turn into slime that flows away over 1 minute.
 
 A hole in the roof 30 feet above the statue of Sune (see below) offers another way in, and is just big enough for a Medium creature to squeeze through. One of the hags comes here at night every few days to throw down firewood and scraps of food for Sylvarie.
 
@@ -477,7 +477,7 @@ When the characters get a good look inside the shrine, read the following:
 
 A grime-encrusted statue of Sune stands against the far wall. The statue's expression might once have suggested smiling laughter, but streaks of dirt now make it appear as though she is weeping. Behind the statue, a staircase descends into darkness.
 
-The broken glass covering the floor imposes disadvantage on Dexterity ([Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)) checks made to move through the area. If any creature without footwear or other protection moves across the broken glass, treat the area as covered in [caltrops](3-Mechanics/CLI/items/caltrops-xphb.md) (see ""Adventuring Gear"" in the "Player's Handbook").
+The broken glass covering the floor imposes disadvantage on Dexterity ([Stealth](/3-Mechanics/CLI/skills.md#Stealth)) checks made to move through the area. If any creature without footwear or other protection moves across the broken glass, treat the area as covered in [caltrops](/3-Mechanics/CLI/items/caltrops-xphb.md) (see ""Adventuring Gear"" in the "Player's Handbook").
 
 #### T12. Sacred Pool
 
@@ -488,7 +488,7 @@ The stairs behind the statue in the shrine lead down to a dimly lit chamber.
 > A soft white glow rises from a square pool set into the floor of this chamber. Torn cushions, rugs, tapestries, and clothing have been piled in one corner as a makeshift bed, while twigs and scraps of deadfall form a simple campfire nearby.
 ^235
 
-Sylvarie has been transformed into a [medusa](3-Mechanics/CLI/bestiary/monstrosity/medusa-xmm.md) and spends most of her time in this chamber. The glowing light is produced by an object at the bottom of the pool (see "Treasure" below). The pool is also home to a [water weird](3-Mechanics/CLI/bestiary/elemental/water-weird-xmm.md) that has been Sylvarie's only companion for the ten years of her incarceration. The water weird fights alongside her if it perceives that she is threatened.
+Sylvarie has been transformed into a [medusa](/3-Mechanics/CLI/bestiary/monstrosity/medusa-xmm.md) and spends most of her time in this chamber. The glowing light is produced by an object at the bottom of the pool (see "Treasure" below). The pool is also home to a [water weird](/3-Mechanics/CLI/bestiary/elemental/water-weird-xmm.md) that has been Sylvarie's only companion for the ten years of her incarceration. The water weird fights alongside her if it perceives that she is threatened.
 
 ##### Sylvarie's Curse
 
@@ -496,17 +496,17 @@ Sylvarie Silversong was a devoted priest of Sune who shared her knowledge and up
 
 The hags used her insecurity to manipulate and corrupt Sylvarie ten years ago. Concealing their true nature, they enticed the priest into a dark bargain—and a terrible curse. After a year, the painting created of Sylvarie that had boosted her esteem transformed her into a medusa. When she tried to strike back against the hags, they sealed her in the shrine, hoping that its great mirrors would turn her to stone. For fear of petrifying herself, Sylvarie destroyed the shrine's mirrors.
 
-Sylvarie attacks characters who descend into this area, believing they have been sent by the hags to torment her. A character can use an action to try to convince Sylvarie to stand down, first by making the party's good intentions clear and next by succeeding on a DC 15 Charisma ([Persuasion](3-Mechanics/CLI/rules/skills.md#Persuasion)) check. If a truce is achieved, Sylvarie blindfolds herself with a strip of cloth so that the characters aren't [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified) by her gaze accidentally. She removes the blindfold if she is forced to defend herself.
+Sylvarie attacks characters who descend into this area, believing they have been sent by the hags to torment her. A character can use an action to try to convince Sylvarie to stand down, first by making the party's good intentions clear and next by succeeding on a DC 15 Charisma ([Persuasion](/3-Mechanics/CLI/skills.md#Persuasion)) check. If a truce is achieved, Sylvarie blindfolds herself with a strip of cloth so that the characters aren't [petrified](/3-Mechanics/CLI/conditions.md#Petrified) by her gaze accidentally. She removes the blindfold if she is forced to defend herself.
 
-The curse that transformed Sylvarie doesn't end until her portrait in area T18 is destroyed. The painting's destruction has the added benefit of restoring Sylvarie's neutral good alignment, whereupon she offers to do everything she can to help the party rid the temple of the evil creatures infesting it. If the characters destroyed Sylvarie's painting before coming here, they encounter Sylvarie in her true form: a neutral good moon elf [priest](3-Mechanics/CLI/bestiary/humanoid/priest-xmm.md) who is not wearing armor (AC 10). In this case, she is weeping by the pool and grateful to be free of the hags' curse.
+The curse that transformed Sylvarie doesn't end until her portrait in area T18 is destroyed. The painting's destruction has the added benefit of restoring Sylvarie's neutral good alignment, whereupon she offers to do everything she can to help the party rid the temple of the evil creatures infesting it. If the characters destroyed Sylvarie's painting before coming here, they encounter Sylvarie in her true form: a neutral good moon elf [priest](/3-Mechanics/CLI/bestiary/humanoid/priest-xmm.md) who is not wearing armor (AC 10). In this case, she is weeping by the pool and grateful to be free of the hags' curse.
 
 ##### Treasure
 
-Submerged in the pool is [Radiance](3-Mechanics/CLI/items/radiance-cm.md), a [+1 wand of the war mage](3-Mechanics/CLI/items/1-wand-of-the-war-mage-xdmg.md) in the form of an exquisite golden hand mirror. While surrounded by darkness, it sheds dim light in a 5-foot radius. A creature that is attuned to Radiance can use a bonus action while holding the mirror to cast the [enhance ability](3-Mechanics/CLI/spells/enhance-ability-xphb.md) spell, chosing itself and no other creature as the spell's target. Once this property of the wand is used, it can't be used again until the next dawn. The wand is Sylvarie's, but she offers it to the characters as a reward for ending her curse.
+Submerged in the pool is [Radiance](/3-Mechanics/CLI/items/radiance-cm.md), a [+1 wand of the war mage](/3-Mechanics/CLI/items/1-wand-of-the-war-mage-xdmg.md) in the form of an exquisite golden hand mirror. While surrounded by darkness, it sheds dim light in a 5-foot radius. A creature that is attuned to Radiance can use a bonus action while holding the mirror to cast the [enhance ability](/3-Mechanics/CLI/spells/enhance-ability-xphb.md) spell, chosing itself and no other creature as the spell's target. Once this property of the wand is used, it can't be used again until the next dawn. The wand is Sylvarie's, but she offers it to the characters as a reward for ending her curse.
 
 > [!gallery]
-> ![Map 7.2: Temple of the Restful Lily—Tower Floors](3-Mechanics/CLI/adventures/candlekeep-mysteries/img/055-map-7-02-temple-of-the-restful-lily.webp#gallery)
-> ![Player Version](3-Mechanics/CLI/adventures/candlekeep-mysteries/img/056-map-7-02-temple-of-the-restful-lily-player.webp#gallery)
+> ![Map 7.2: Temple of the Restful Lily—Tower Floors](/3-Mechanics/CLI/adventures/candlekeep-mysteries/img/055-map-7-02-temple-of-the-restful-lily.webp#gallery)
+> ![Player Version](/3-Mechanics/CLI/adventures/candlekeep-mysteries/img/056-map-7-02-temple-of-the-restful-lily-player.webp#gallery)
 
 #### T13–T18. Tower
 
@@ -515,7 +515,7 @@ Submerged in the pool is [Radiance](3-Mechanics/CLI/items/radiance-cm.md), a [+1
 > A finely crafted stone tower rises among the trees not far from the bathhouse. A statue of a sharp-featured winged elf crouches above the front door, whose bright red surface is decorated with golden swirls.
 ^239
 
-The door is locked. The elf statue over the door is a [gargoyle](3-Mechanics/CLI/bestiary/elemental/gargoyle-xmm.md) servant of the hags, wrapped in illusion magic (see "Coven Minions" earlier in the adventure). It watches the door but makes no move unless the characters go inside, whereupon it flies off to report to one of the hags.
+The door is locked. The elf statue over the door is a [gargoyle](/3-Mechanics/CLI/bestiary/elemental/gargoyle-xmm.md) servant of the hags, wrapped in illusion magic (see "Coven Minions" earlier in the adventure). It watches the door but makes no move unless the characters go inside, whereupon it flies off to report to one of the hags.
 
 #### T13. Tower Foyer
 
@@ -524,7 +524,7 @@ The door is locked. The elf statue over the door is a [gargoyle](3-Mechanics/CLI
 > This foyer has a central spiral staircase leading up. The staircase is flanked by two closed doors, each one set in the middle of a stone wall. A thin, weak-looking dragonborn is feebly trying to sweep the floor here with a well-worn broom.
 ^23b
 
-The cursed dragonborn, Gorba Daardenrian (see "Coven Victims" earlier in the adventure), is so weak that she can barely hold her broom. When she sees the characters, she desperately tries to make them leave so she doesn't get into trouble. In the time she has spent at the temple, she has learned what happened to Sylvarie and knows the layout of the tower, but she will not share that information unless her fear of the characters can be overcome with roleplaying, a successful DC 20 Charisma ([Persuasion](3-Mechanics/CLI/rules/skills.md#Persuasion)) check, or suitable magic.
+The cursed dragonborn, Gorba Daardenrian (see "Coven Victims" earlier in the adventure), is so weak that she can barely hold her broom. When she sees the characters, she desperately tries to make them leave so she doesn't get into trouble. In the time she has spent at the temple, she has learned what happened to Sylvarie and knows the layout of the tower, but she will not share that information unless her fear of the characters can be overcome with roleplaying, a successful DC 20 Charisma ([Persuasion](/3-Mechanics/CLI/skills.md#Persuasion)) check, or suitable magic.
 
 Both the doors in this area are locked, and Gorba does not have the keys to them.
 
@@ -541,7 +541,7 @@ The dresser has clothes scattered across it but holds nothing of value.
 
 ##### Treasure
 
-Characters who search the wardrobe find a suit of [scale mail](3-Mechanics/CLI/items/scale-mail-xphb.md) armor customized for a wearer with a tail, and a pair of [shortswords](3-Mechanics/CLI/items/shortsword-xphb.md) ornately scribed with Infernal glyphs (50 gp each).
+Characters who search the wardrobe find a suit of [scale mail](/3-Mechanics/CLI/items/scale-mail-xphb.md) armor customized for a wearer with a tail, and a pair of [shortswords](/3-Mechanics/CLI/items/shortsword-xphb.md) ornately scribed with Infernal glyphs (50 gp each).
 
 #### T15. Tower Studio
 
@@ -556,9 +556,9 @@ Any characters who requested special magical treatments from one of the three si
 
 ##### Tools and Supplies
 
-The wooden chest is locked. As an action, a character can try to pick the lock using thieves' tools, doing so with a successful DC 18 Dexterity check, or break open the chest with a successful DC 20 Strength ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)) check.
+The wooden chest is locked. As an action, a character can try to pick the lock using thieves' tools, doing so with a successful DC 18 Dexterity check, or break open the chest with a successful DC 20 Strength ([Athletics](/3-Mechanics/CLI/skills.md#Athletics)) check.
 
-Inside the chest are the materials the hags use for creating cursed paintings, including three blank canvases and paints infused with demon ichor. A character who examines the canvas determines that it is made of humanoid skin with a successful DC 15 Wisdom ([Medicine](3-Mechanics/CLI/rules/skills.md#Medicine) or [Perception](3-Mechanics/CLI/rules/skills.md#Perception)) check. Physically touching the canvas grants advantage on the check. The paints appear normal unless examined closely by a character who has proficiency in the [Arcana](3-Mechanics/CLI/rules/skills.md#Arcana) or [Religion](3-Mechanics/CLI/rules/skills.md#Religion) skill, whereupon their fiendish nature becomes clear.
+Inside the chest are the materials the hags use for creating cursed paintings, including three blank canvases and paints infused with demon ichor. A character who examines the canvas determines that it is made of humanoid skin with a successful DC 15 Wisdom ([Medicine](/3-Mechanics/CLI/skills.md#Medicine) or [Perception](/3-Mechanics/CLI/skills.md#Perception)) check. Physically touching the canvas grants advantage on the check. The paints appear normal unless examined closely by a character who has proficiency in the [Arcana](/3-Mechanics/CLI/skills.md#Arcana) or [Religion](/3-Mechanics/CLI/skills.md#Religion) skill, whereupon their fiendish nature becomes clear.
 
 ##### Treasure
 
@@ -575,7 +575,7 @@ The canvases are worth 200 gp each and the paints are worth 100 gp in total, tho
 
 This kitchen is normally used by the coven's scarecrow minions to prepare meals for the hags and Saeth, but it now has a new servant in Falthrax Loderr, the cursed Candlekeep acolyte. The central staircase leads to the upper floors, and an unlocked door leads to area T17.
 
-Falthrax (see "Coven Victims" earlier in the adventure) uses the [commoner](3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md) stat block and panics at the sight of intruders. He warns the characters that they should leave immediately while trying to appear loyal to the hags for the benefit of the [gargoyle](3-Mechanics/CLI/bestiary/elemental/gargoyle-xmm.md) disguised as the elf statue, which has been placed here by the hags to watch over the coven's latest victim.
+Falthrax (see "Coven Victims" earlier in the adventure) uses the [commoner](/3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md) stat block and panics at the sight of intruders. He warns the characters that they should leave immediately while trying to appear loyal to the hags for the benefit of the [gargoyle](/3-Mechanics/CLI/bestiary/elemental/gargoyle-xmm.md) disguised as the elf statue, which has been placed here by the hags to watch over the coven's latest victim.
 
 If the characters try to go upstairs or ask too many questions of Falthrax, the gargoyle attacks. If it is reduced to half its hit points or fewer, it flees by smashing out a window and tries to alert the hags.
 
@@ -610,7 +610,7 @@ The top floor of the tower has been turned into the lair of the Fetid Gaze. Each
 
 ##### Glyph of Warding
 
-Scratched into the floor at the top of the stairs is a glyph created by a [glyph of warding](3-Mechanics/CLI/spells/glyph-of-warding-xphb.md) spell. The hags use this glyph to eliminate intruders. It can be detected with a successful DC 13 Intelligence ([Investigation](3-Mechanics/CLI/rules/skills.md#Investigation)) check and triggers when any creature except the hags or their minions passes over it. When triggered, the glyph splashes acid in a 20-foot-radius sphere centered on it—big enough to splatter the whole room and the central staircase, top to bottom. This sphere spreads around corners. Each creature in the area must make a DC 13 Dexterity saving throw, taking 22 (`5d8`) acid damage on a failed save, or half as much damage on a successful one.
+Scratched into the floor at the top of the stairs is a glyph created by a [glyph of warding](/3-Mechanics/CLI/spells/glyph-of-warding-xphb.md) spell. The hags use this glyph to eliminate intruders. It can be detected with a successful DC 13 Intelligence ([Investigation](/3-Mechanics/CLI/skills.md#Investigation)) check and triggers when any creature except the hags or their minions passes over it. When triggered, the glyph splashes acid in a 20-foot-radius sphere centered on it—big enough to splatter the whole room and the central staircase, top to bottom. This sphere spreads around corners. Each creature in the area must make a DC 13 Dexterity saving throw, taking `dice:5d8|noform|noparens|avg|text(22)` (`5d8`) acid damage on a failed save, or half as much damage on a successful one.
 
 ##### Dark Mementos
 
@@ -618,7 +618,7 @@ The objects in the crates are souvenirs claimed from the hags' victims over ten 
 
 ##### Treasure
 
-Most of the hags' mementos are worthless, but a search of the room turns up a [spell scroll](3-Mechanics/CLI/items/spell-scroll-xdmg.md) of [clairvoyance](3-Mechanics/CLI/spells/clairvoyance-xphb.md) in a leather scroll case that has so far escaped destruction.
+Most of the hags' mementos are worthless, but a search of the room turns up a [spell scroll](/3-Mechanics/CLI/items/spell-scroll-xdmg.md) of [clairvoyance](/3-Mechanics/CLI/spells/clairvoyance-xphb.md) in a leather scroll case that has so far escaped destruction.
 
 ## Conclusion
 

@@ -18,10 +18,10 @@ aliases:
 ---
 # Ammunition of Slaying
 *Ammunition, very rare*  
-![](3-Mechanics/CLI/items/img/ammunition-of-slaying.webp#right)
+![](/3-Mechanics/CLI/items/img/ammunition-of-slaying.webp#right)
 
 
-This magic ammunition is meant to slay creatures of a particular type, which the DM chooses or determines randomly by rolling on the table below. If a creature of that type takes damage from the ammunition, the creature makes a DC 17 Constitution saving throw, taking an extra `6d10` Force damage on a failed save or half as much extra damage on a successful one.
+This magic ammunition is meant to slay creatures of a particular type, which the DM chooses or determines randomly by rolling on the table below. If a creature of that type takes damage from the ammunition, the creature makes a DC 17 Constitution saving throw, taking an extra `dice:6d10|noform|noparens|avg` (`6d10`) Force damage on a failed save or half as much extra damage on a successful one.
 
 After dealing its extra damage to a creature, the ammunition becomes nonmagical.
 
@@ -78,4 +78,4 @@ After dealing its extra damage to a creature, the ammunition becomes nonmagical.
 - **Weight**: 0.075 lbs.
 
 
-*Source: Dungeon Master's Guide (2024) p. 228*
+*Source: Dungeon Master's Guide (2024) p. 228. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*

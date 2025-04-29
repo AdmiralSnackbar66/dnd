@@ -9,25 +9,25 @@ aliases: ["Spells for Fiend Patron"]
 
 ## 1st Level
 
-- [Burning Hands](3-Mechanics/CLI/spells/burning-hands-xphb.md "XPHB") at class level 3
-- [Command](3-Mechanics/CLI/spells/command-xphb.md "XPHB") at class level 3
+- [Burning Hands](/3-Mechanics/CLI/spells/burning-hands-xphb.md "XPHB") at class level 3
+- [Command](/3-Mechanics/CLI/spells/command-xphb.md "XPHB") at class level 3
 
 ## 2nd Level
 
-- [Scorching Ray](3-Mechanics/CLI/spells/scorching-ray-xphb.md "XPHB") at class level 3
-- [Suggestion](3-Mechanics/CLI/spells/suggestion-xphb.md "XPHB") at class level 3
+- [Scorching Ray](/3-Mechanics/CLI/spells/scorching-ray-xphb.md "XPHB") at class level 3
+- [Suggestion](/3-Mechanics/CLI/spells/suggestion-xphb.md "XPHB") at class level 3
 
 ## 3rd Level
 
-- [Fireball](3-Mechanics/CLI/spells/fireball-xphb.md "XPHB") at class level 3
-- [Stinking Cloud](3-Mechanics/CLI/spells/stinking-cloud-xphb.md "XPHB") at class level 3
+- [Fireball](/3-Mechanics/CLI/spells/fireball-xphb.md "XPHB") at class level 3
+- [Stinking Cloud](/3-Mechanics/CLI/spells/stinking-cloud-xphb.md "XPHB") at class level 3
 
 ## 4th Level
 
-- [Fire Shield](3-Mechanics/CLI/spells/fire-shield-xphb.md "XPHB") at class level 3
-- [Wall of Fire](3-Mechanics/CLI/spells/wall-of-fire-xphb.md "XPHB") at class level 3
+- [Fire Shield](/3-Mechanics/CLI/spells/fire-shield-xphb.md "XPHB") at class level 3
+- [Wall of Fire](/3-Mechanics/CLI/spells/wall-of-fire-xphb.md "XPHB") at class level 3
 
 ## 5th Level
 
-- [Geas](3-Mechanics/CLI/spells/geas-xphb.md "XPHB") at class level 3
-- [Insect Plague](3-Mechanics/CLI/spells/insect-plague-xphb.md "XPHB") at class level 3
+- [Geas](/3-Mechanics/CLI/spells/geas-xphb.md "XPHB") at class level 3
+- [Insect Plague](/3-Mechanics/CLI/spells/insect-plague-xphb.md "XPHB") at class level 3

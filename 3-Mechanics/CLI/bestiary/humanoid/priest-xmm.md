@@ -11,7 +11,7 @@ statblock: inline
 aliases: ["Priest"]
 ---
 # [Priest](3-Mechanics\CLI\bestiary\humanoid/priest-xmm.md)
-*Source: Monster Manual (2024) p. 248*  
+*Source: Monster Manual (2024) p. 248. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
 
 Priests draw on their beliefs to heal the needful and smite their foes. They can channel their faith as spells and empower their weapons with divine might.
 
@@ -74,27 +74,27 @@ Roll on or choose a result from the Priest Roles table to inspire different sort
 "cr": "2"
 "traits":
 - "desc": "The priest casts one of the following spells, using Wisdom as the spellcasting\
-    \ ability:\n\nAt will: [Light](3-Mechanics/CLI/spells/light-xphb.md), [Thaumaturgy](3-Mechanics/CLI/spells/thaumaturgy-xphb.md)\n\
-    \n1/day: [Spirit Guardians](3-Mechanics/CLI/spells/spirit-guardians-xphb.md)"
+    \ ability:\n\nAt will: [Light](/3-Mechanics/CLI/spells/light-xphb.md), [Thaumaturgy](/3-Mechanics/CLI/spells/thaumaturgy-xphb.md)\n\
+    \n1/day: [Spirit Guardians](/3-Mechanics/CLI/spells/spirit-guardians-xphb.md)"
   "name": "Spellcasting"
-- "desc": "The priest casts [Bless](3-Mechanics/CLI/spells/bless-xphb.md), [Dispel\
-    \ Magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md), [Healing Word](3-Mechanics/CLI/spells/healing-word-xphb.md),\
-    \ or [Lesser Restoration](3-Mechanics/CLI/spells/lesser-restoration-xphb.md),\
-    \ using the same spellcasting ability as Spellcasting.\n\n3/day: [Bless](3-Mechanics/CLI/spells/bless-xphb.md),\
-    \ [Dispel Magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md), [Healing Word](3-Mechanics/CLI/spells/healing-word-xphb.md),\
-    \ [Lesser Restoration](3-Mechanics/CLI/spells/lesser-restoration-xphb.md)"
+- "desc": "The priest casts [Bless](/3-Mechanics/CLI/spells/bless-xphb.md), [Dispel\
+    \ Magic](/3-Mechanics/CLI/spells/dispel-magic-xphb.md), [Healing Word](/3-Mechanics/CLI/spells/healing-word-xphb.md),\
+    \ or [Lesser Restoration](/3-Mechanics/CLI/spells/lesser-restoration-xphb.md),\
+    \ using the same spellcasting ability as Spellcasting.\n\n3/day: [Bless](/3-Mechanics/CLI/spells/bless-xphb.md),\
+    \ [Dispel Magic](/3-Mechanics/CLI/spells/dispel-magic-xphb.md), [Healing Word](/3-Mechanics/CLI/spells/healing-word-xphb.md),\
+    \ [Lesser Restoration](/3-Mechanics/CLI/spells/lesser-restoration-xphb.md)"
   "name": "Divine Aid (3/Day)"
 "actions":
 - "desc": "The priest makes two attacks, using Mace or Radiant Flame in any combination."
   "name": "Multiattack"
-- "desc": "Melee Attack Roll: +5, reach 5 ft. Hit: 6 (1d6 + 3) Bludgeoning\
-    \ damage plus 5 (2d4) Radiant damage."
+- "desc": "Melee Attack Roll: +5, reach 5 ft. Hit: 6 (1d6 + 3) Bludgeoning damage\
+    \ plus 5 (2d4) Radiant damage."
   "name": "Mace"
 - "desc": "Ranged Attack Roll: +5, range 60 ft. Hit: 11 (2d10) Radiant damage."
   "name": "Radiant Flame"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/priest-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/humanoid/token/priest-xmm.webp"
 ```
 ^statblock
 

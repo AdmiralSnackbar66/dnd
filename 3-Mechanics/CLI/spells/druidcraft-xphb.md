@@ -7,19 +7,22 @@ tags:
 - ttrpg-cli/spell/feat/druidic-warrior
 - ttrpg-cli/spell/feat/magic-initiate
 - ttrpg-cli/spell/feat/strixhaven-initiate
+- ttrpg-cli/spell/feat/wood-elf-magic
 - ttrpg-cli/spell/level/cantrip
 - ttrpg-cli/spell/optfeature/pact-of-the-tome
 - ttrpg-cli/spell/race/elf
 - ttrpg-cli/spell/school/transmutation
+- ttrpg-cli/spell/subclass/arcane-archer
 - ttrpg-cli/spell/subclass/college-of-lore
 classes:
 - Bard (College of Lore)
 - Druid
+- Fighter (Arcane Archer)
 aliases: ["Druidcraft"]
 ---
 # Druidcraft
 *cantrip, Transmutation*  
-![](3-Mechanics/CLI/spells/img/druidcraft.webp#right)
+![](/3-Mechanics/CLI/spells/img/druidcraft.webp#right)
 
 - **Casting time:** 1 Action
 - **Range:** 30 feet
@@ -46,6 +49,6 @@ You light or snuff out a candle, a torch, or a campfire.
 
 ## Summary
 
-**Classes**: [Bard (College of Lore)](3-Mechanics/CLI/lists/list-spells-classes-bard-xphb-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Druid](3-Mechanics/CLI/lists/list-spells-classes-druid.md)
+**Classes**: [Fighter (Arcane Archer)](/3-Mechanics/CLI/lists/list-spells-classes-fighter-xphb-arcane-archer-xge.md "subclass=XGE;class=XPHB"); [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Bard (College of Lore)](/3-Mechanics/CLI/lists/list-spells-classes-bard-xphb-college-of-lore-xphb.md "subclass=XPHB;class=XPHB")
 
-*Source: Player's Handbook (2024) p. 266. Available in the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 266. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*

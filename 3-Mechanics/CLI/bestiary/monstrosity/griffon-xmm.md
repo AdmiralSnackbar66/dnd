@@ -15,7 +15,7 @@ statblock: inline
 aliases: ["Griffon"]
 ---
 # [Griffon](3-Mechanics\CLI\bestiary\monstrosity/griffon-xmm.md)
-*Source: Monster Manual (2024) p. 159*  
+*Source: Monster Manual (2024) p. 159. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
 
 ## Griffon
 
@@ -72,12 +72,12 @@ Countless tales surround griffons. Roll on or choose a result from the Griffon T
 - "desc": "The griffon makes two Rend attacks."
   "name": "Multiattack"
 - "desc": "Melee Attack Roll: +6, reach 5 ft. Hit: 8 (1d8 + 4) Piercing damage.\
-    \ If the target is a Medium or smaller creature, it has the [Grappled](3-Mechanics/CLI/rules/conditions.md#Grappled)\
+    \ If the target is a Medium or smaller creature, it has the [Grappled](/3-Mechanics/CLI/conditions.md#Grappled)\
     \ condition (escape DC 14) from both of the griffon's front claws."
   "name": "Rend"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/monstrosity/token/griffon-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/griffon-xmm.webp"
 ```
 ^statblock
 

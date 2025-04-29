@@ -9,4 +9,4 @@ aliases: ["Spells for Warrior of the Elements"]
 
 ## Cantrip
 
-- [Elementalism](3-Mechanics/CLI/spells/elementalism-xphb.md "XPHB") as cantrip, at class level 3
+- [Elementalism](/3-Mechanics/CLI/spells/elementalism-xphb.md "XPHB") as cantrip, at class level 3

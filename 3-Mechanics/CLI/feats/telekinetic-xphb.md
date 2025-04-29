@@ -14,7 +14,7 @@ You gain the following benefits.
 
 ## Minor Telekinesis
 
-You learn the [Mage Hand](3-Mechanics/CLI/spells/mage-hand-xphb.md) spell. You can cast it without Verbal or Somatic components, you can make the spectral hand [Invisible](3-Mechanics/CLI/rules/conditions.md#Invisible), and its range and the distance it can be away from you both increase by 30 feet when you cast it. The spell's spellcasting ability is the ability increased by this feat.
+You learn the [Mage Hand](/3-Mechanics/CLI/spells/mage-hand-xphb.md) spell. You can cast it without Verbal or Somatic components, you can make the spectral hand [Invisible](/3-Mechanics/CLI/conditions.md#Invisible), and its range and the distance it can be away from you both increase by 30 feet when you cast it. The spell's spellcasting ability is the ability increased by this feat.
 
 ## Telekinetic Shove
 

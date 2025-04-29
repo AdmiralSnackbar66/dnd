@@ -35,7 +35,7 @@ Meenlocks have no form of communication other than telepathy. They can use it to
 
 > [!note] Telepathic Torment
 > 
-> Up to four meenlocks can telepathically torment one [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated) creature, filling its mind with disturbing sounds and dreadful imagery. Participating meenlocks can't use their telepathy for any other purpose during this time, though they can move about and take actions and reactions as normal. This torment has no effect on a creature that is immune to the [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened) condition. If the creature is susceptible and remains [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated) for 1 hour, the creature must make a Wisdom saving throw, taking 10 (`3d6`) psychic damage on a failed save, or half as much damage on a successful one. The save DC is 10 + the number of meenlocks participating in the torment, considering only those that remain within sight of the victim for the entire hour and aren't [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated) during it. The process can be repeated. A humanoid that drops to 0 hit points as a result of this damage instantly transforms into a meenlock at full health and under the DM's control. Only a [wish](3-Mechanics/CLI/spells/wish-xphb.md) spell or divine intervention can restore a transformed creature to its former state.
+> Up to four meenlocks can telepathically torment one [incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated) creature, filling its mind with disturbing sounds and dreadful imagery. Participating meenlocks can't use their telepathy for any other purpose during this time, though they can move about and take actions and reactions as normal. This torment has no effect on a creature that is immune to the [frightened](/3-Mechanics/CLI/conditions.md#Frightened) condition. If the creature is susceptible and remains [incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated) for 1 hour, the creature must make a Wisdom saving throw, taking `dice:3d6|noform|noparens|avg|text(10)` (`3d6`) psychic damage on a failed save, or half as much damage on a successful one. The save DC is 10 + the number of meenlocks participating in the torment, considering only those that remain within sight of the victim for the entire hour and aren't [incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated) during it. The process can be repeated. A humanoid that drops to 0 hit points as a result of this damage instantly transforms into a meenlock at full health and under the DM's control. Only a [wish](/3-Mechanics/CLI/spells/wish-xphb.md) spell or divine intervention can restore a transformed creature to its former state.
 ^telepathic-torment
 
 ```statblock
@@ -59,18 +59,18 @@ Meenlocks have no form of communication other than telepathy. They can use it to
   "Stealth": !!int "6"
   "Perception": !!int "4"
   "Survival": !!int "2"
-"condition_immunities": "[frightened](3-Mechanics/CLI/rules/conditions.md#Frightened)"
+"condition_immunities": "[frightened](/3-Mechanics/CLI/conditions.md#Frightened)"
 "senses": "darkvision 120 ft., passive Perception 14"
 "languages": "telepathy 120 ft."
 "cr": "2"
 "traits":
 - "desc": "Any beast or humanoid that starts its turn within 10 feet of the meenlock\
-    \ must succeed on a DC 11 Wisdom saving throw or be [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened)\
+    \ must succeed on a DC 11 Wisdom saving throw or be [frightened](/3-Mechanics/CLI/conditions.md#Frightened)\
     \ until the start of the creature's next turn."
   "name": "Fear Aura"
 - "desc": "While in bright light, the meenlock has disadvantage on attack rolls, as\
-    \ well as on Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception))\
-    \ checks that rely on sight."
+    \ well as on Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) checks\
+    \ that rely on sight."
   "name": "Light Sensitivity"
 - "desc": "As a bonus action, the meenlock can teleport to an unoccupied space within\
     \ 30 feet of it, provided that both the space it's teleporting from and its destination\
@@ -79,14 +79,14 @@ Meenlocks have no form of communication other than telepathy. They can use it to
 "actions":
 - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 7 (2d4\
     \ + 2) slashing damage, and the target must succeed on a DC 11 Constitution saving\
-    \ throw or be [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed) for 1\
-    \ minute. The target can repeat the saving throw at the end of each of its turns,\
-    \ ending the effect on itself on a success."
+    \ throw or be [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed) for 1 minute.\
+    \ The target can repeat the saving throw at the end of each of its turns, ending\
+    \ the effect on itself on a success."
   "name": "Claws"
 "source":
 - "VGM"
 - "CM"
-"image": "3-Mechanics/CLI/bestiary/fey/token/meenlock-vgm.webp"
+"image": "/3-Mechanics/CLI/bestiary/fey/token/meenlock-vgm.webp"
 ```
 ^statblock
 

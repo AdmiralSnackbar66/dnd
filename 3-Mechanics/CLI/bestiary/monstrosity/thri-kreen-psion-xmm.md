@@ -61,9 +61,9 @@ Thri-kreen are mantis-like wanderers who harness their innate camouflage and psy
 "traits":
 - "desc": "The thri-kreen casts one of the following spells, requiring no spell components\
     \ and using Intelligence as the spellcasting ability (spell save DC 15):\n\nAt\
-    \ will: [Mage Hand](3-Mechanics/CLI/spells/mage-hand-xphb.md) (the hand is Invisible)\n\
-    \n1/day each: [Detect Thoughts](3-Mechanics/CLI/spells/detect-thoughts-xphb.md),\
-    \ [Sending](3-Mechanics/CLI/spells/sending-xphb.md), [Synaptic Static](3-Mechanics/CLI/spells/synaptic-static-xphb.md)"
+    \ will: [Mage Hand](/3-Mechanics/CLI/spells/mage-hand-xphb.md) (the hand is\
+    \ Invisible)\n\n1/day each: [Detect Thoughts](/3-Mechanics/CLI/spells/detect-thoughts-xphb.md),\
+    \ [Sending](/3-Mechanics/CLI/spells/sending-xphb.md), [Synaptic Static](/3-Mechanics/CLI/spells/synaptic-static-xphb.md)"
   "name": "Spellcasting"
 "actions":
 - "desc": "The thri-kreen makes three Psionic Lance attacks."
@@ -73,7 +73,7 @@ Thri-kreen are mantis-like wanderers who harness their innate camouflage and psy
   "name": "Psionic Lance"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/monstrosity/token/thri-kreen-psion-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/thri-kreen-psion-xmm.webp"
 ```
 ^statblock
 

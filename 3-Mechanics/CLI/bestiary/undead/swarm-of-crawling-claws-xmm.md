@@ -11,7 +11,7 @@ statblock: inline
 aliases: ["Swarm of Crawling Claws"]
 ---
 # [Swarm of Crawling Claws](3-Mechanics\CLI\bestiary\undead/swarm-of-crawling-claws-xmm.md)
-*Source: Monster Manual (2024) p. 83*  
+*Source: Monster Manual (2024) p. 83. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
 
 Swarms of crawling claws are typically animated by depraved necromancers. Occasionally, these grotesque swarms arise from mass graves or after tragedies, refusing to let their murderers escape their grasp.
 
@@ -47,30 +47,30 @@ Crawling claws are severed hands that move and act of their own murderous accord
 "speed": "30 ft., climb 30 ft."
 "damage_resistances": "bludgeoning, piercing, slashing"
 "damage_immunities": "necrotic, poison"
-"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
-  \ [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened), [grappled](3-Mechanics/CLI/rules/conditions.md#Grappled),\
-  \ [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated), [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed),\
-  \ [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified), [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned),\
-  \ [prone](3-Mechanics/CLI/rules/conditions.md#Prone), [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained),\
-  \ [stunned](3-Mechanics/CLI/rules/conditions.md#Stunned)"
+"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
+  \ [frightened](/3-Mechanics/CLI/conditions.md#Frightened), [grappled](/3-Mechanics/CLI/conditions.md#Grappled),\
+  \ [incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated), [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed),\
+  \ [petrified](/3-Mechanics/CLI/conditions.md#Petrified), [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned),\
+  \ [prone](/3-Mechanics/CLI/conditions.md#Prone), [restrained](/3-Mechanics/CLI/conditions.md#Restrained),\
+  \ [stunned](/3-Mechanics/CLI/conditions.md#Stunned)"
 "senses": "blindsight 30 ft., passive Perception 10"
 "languages": "understands Common but can't speak"
 "cr": "3"
 "traits":
 - "desc": "The swarm can occupy another creature's space and vice versa, and the swarm\
     \ can move through any opening large enough for a Tiny creature. The swarm can't\
-    \ regain [Hit Points](3-Mechanics/CLI/rules/variant-rules/hit-points-xphb.md)\
-    \ or gain [Temporary Hit Points](3-Mechanics/CLI/rules/variant-rules/temporary-hit-points-xphb.md)."
+    \ regain [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md) or gain\
+    \ [Temporary Hit Points](/3-Mechanics/CLI/variant-rules/temporary-hit-points-xphb.md)."
   "name": "Swarm"
 "actions":
 - "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 20 (4d8 + 2) Necrotic damage,\
-    \ or 11 (2d8 + 2) Necrotic damage if the swarm is [Bloodied](3-Mechanics/CLI/rules/variant-rules/bloodied-xphb.md).\
-    \ If the target is a Medium or smaller creature, it has the [Prone](3-Mechanics/CLI/rules/conditions.md#Prone)\
+    \ or 11 (2d8 + 2) Necrotic damage if the swarm is [Bloodied](/3-Mechanics/CLI/variant-rules/bloodied-xphb.md).\
+    \ If the target is a Medium or smaller creature, it has the [Prone](/3-Mechanics/CLI/conditions.md#Prone)\
     \ condition."
   "name": "Swarm of Grasping Hands"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/undead/token/swarm-of-crawling-claws-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/undead/token/swarm-of-crawling-claws-xmm.webp"
 ```
 ^statblock
 

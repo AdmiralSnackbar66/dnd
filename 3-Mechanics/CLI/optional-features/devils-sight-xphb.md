@@ -7,6 +7,6 @@ tags:
 aliases: ["Devil's Sight"]
 ---
 # Devil's Sight
-*Source: Player's Handbook (2024) p. 155*  
+*Source: Player's Handbook (2024) p. 155. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
 **Prerequisite**: 2nd Warlock
-You can see normally in [Dim Light](3-Mechanics/CLI/rules/variant-rules/dim-light-xphb.md) and [Darkness](3-Mechanics/CLI/rules/variant-rules/darkness-xphb.md)—both magical and nonmagical—within 120 feet of yourself.
+You can see normally in [Dim Light](/3-Mechanics/CLI/variant-rules/dim-light-xphb.md) and [Darkness](/3-Mechanics/CLI/variant-rules/darkness-xphb.md)—both magical and nonmagical—within 120 feet of yourself.

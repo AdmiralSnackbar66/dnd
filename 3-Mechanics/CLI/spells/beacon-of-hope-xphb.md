@@ -9,12 +9,14 @@ tags:
 - ttrpg-cli/spell/level/3rd-level
 - ttrpg-cli/spell/school/abjuration
 - ttrpg-cli/spell/subclass/college-of-lore
+- ttrpg-cli/spell/subclass/divine-soul
 - ttrpg-cli/spell/subclass/oath-of-devotion
 classes:
 - Bard
 - Bard (College of Lore)
 - Cleric
 - Paladin (Oath of Devotion)
+- Sorcerer (Divine Soul)
 aliases: ["Beacon of Hope"]
 ---
 # Beacon of Hope
@@ -26,8 +28,8 @@ aliases: ["Beacon of Hope"]
 - **Components:** V, S
 - **Duration:** Concentration, up to 1 minute
 
-Choose any number of creatures within range. For the duration, each target has [Advantage](3-Mechanics/CLI/rules/variant-rules/advantage-xphb.md) on Wisdom saving throws and Death Saving Throws and regains the maximum number of [Hit Points](3-Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) possible from any healing.
+Choose any number of creatures within range. For the duration, each target has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md) on Wisdom saving throws and Death Saving Throws and regains the maximum number of [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md) possible from any healing.
 
-**Classes**: [Cleric](3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Bard (College of Lore)](3-Mechanics/CLI/lists/list-spells-classes-bard-xphb-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Paladin (Oath of Devotion)](3-Mechanics/CLI/lists/list-spells-classes-paladin-xphb-oath-of-devotion-xphb.md "subclass=XPHB;class=XPHB")
+**Classes**: [Paladin (Oath of Devotion)](/3-Mechanics/CLI/lists/list-spells-classes-paladin-xphb-oath-of-devotion-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer (Divine Soul)](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer-xphb-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Bard (College of Lore)](/3-Mechanics/CLI/lists/list-spells-classes-bard-xphb-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md)
 
-*Source: Player's Handbook (2024) p. 245. Available in the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 245. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*

@@ -14,7 +14,7 @@ statblock: inline
 aliases: ["Zombie"]
 ---
 # [Zombie](3-Mechanics\CLI\bestiary\undead/zombie-xmm.md)
-*Source: Monster Manual (2024) p. 346, Player's Handbook (2024) p. 359*  
+*Source: Monster Manual (2024) p. 346, Player's Handbook (2024) p. 359. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
 
 Humanoid zombies usually serve as guardians, servants, or soldiers for evil magic-users. In rare cases, foul magic might result in widespread reanimation of the dead, unleashing hordes of zombies to terrorize the living.
 
@@ -53,26 +53,25 @@ Zombies are usually created from Humanoid corpses, but the remains of other crea
 "saves":
   "Wisdom": !!int "0"
 "damage_immunities": "poison"
-"condition_immunities": "[exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
-  \ [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"condition_immunities": "[exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
+  \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
 "senses": "darkvision 60 ft., passive Perception 8"
 "languages": "understands Common plus one other language but can't speak"
 "cr": "1/4"
 "traits":
-- "desc": "If damage reduces the zombie to 0 [Hit Points](3-Mechanics/CLI/rules/variant-rules/hit-points-xphb.md),\
+- "desc": "If damage reduces the zombie to 0 [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md),\
     \ it makes a Constitution saving throw (DC 5 plus the damage taken) unless the\
-    \ damage is Radiant or from a [Critical Hit](3-Mechanics/CLI/rules/variant-rules/critical-hit-xphb.md).\
-    \ On a successful save, the zombie drops to 1 [Hit Point](3-Mechanics/CLI/rules/variant-rules/hit-points-xphb.md)\
+    \ damage is Radiant or from a [Critical Hit](/3-Mechanics/CLI/variant-rules/critical-hit-xphb.md).\
+    \ On a successful save, the zombie drops to 1 [Hit Point](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)\
     \ instead."
   "name": "Undead Fortitude"
 "actions":
-- "desc": "Melee Attack Roll: +3, reach 5 ft. Hit: 5 (1d8 + 1) Bludgeoning\
-    \ damage."
+- "desc": "Melee Attack Roll: +3, reach 5 ft. Hit: 5 (1d8 + 1) Bludgeoning damage."
   "name": "Slam"
 "source":
 - "XMM"
 - "XPHB"
-"image": "3-Mechanics/CLI/bestiary/undead/token/zombie-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/undead/token/zombie-xmm.webp"
 ```
 ^statblock
 

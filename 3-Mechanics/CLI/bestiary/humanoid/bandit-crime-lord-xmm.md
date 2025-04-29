@@ -74,7 +74,7 @@ Roll on or choose a result from the Bandit Motivations table to determine the ci
 - "desc": "If the bandit is subjected to an effect that allows it to make a Dexterity\
     \ saving throw to take only half damage, the bandit instead takes no damage if\
     \ it succeeds on the save and only half damage if it fails. It can't use this\
-    \ trait if it has the [Incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated)\
+    \ trait if it has the [Incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated)\
     \ condition."
   "name": "Evasion"
 "actions":
@@ -87,13 +87,13 @@ Roll on or choose a result from the Bandit Motivations table to determine the ci
     \ damage plus 14 (4d6) Poison damage."
   "name": "Pistol"
 "bonus_actions":
-- "desc": "The bandit gives itself [Advantage](3-Mechanics/CLI/rules/variant-rules/advantage-xphb.md)\
+- "desc": "The bandit gives itself [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
     \ on the next attack roll it makes during the current turn. If that attack hits,\
     \ the target takes an extra 28 (8d6) Poison damage."
   "name": "Deadly Aim"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/bandit-crime-lord-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/humanoid/token/bandit-crime-lord-xmm.webp"
 ```
 ^statblock
 

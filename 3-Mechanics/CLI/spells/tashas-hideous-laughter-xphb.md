@@ -34,12 +34,12 @@ aliases: ["Tasha's Hideous Laughter"]
 - **Components:** V, S, M (a tart and a feather)
 - **Duration:** Concentration, up to 1 minute
 
-One creature of your choice that you can see within range makes a Wisdom saving throw. On a failed save, it has the [Prone](3-Mechanics/CLI/rules/conditions.md#Prone) and [Incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated) conditions for the duration. During that time, it laughs uncontrollably if it's capable of laughter, and it can't end the [Prone](3-Mechanics/CLI/rules/conditions.md#Prone) condition on itself.
+One creature of your choice that you can see within range makes a Wisdom saving throw. On a failed save, it has the [Prone](/3-Mechanics/CLI/conditions.md#Prone) and [Incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated) conditions for the duration. During that time, it laughs uncontrollably if it's capable of laughter, and it can't end the [Prone](/3-Mechanics/CLI/conditions.md#Prone) condition on itself.
 
-At the end of each of its turns and each time it takes damage, it makes another Wisdom saving throw. The target has [Advantage](3-Mechanics/CLI/rules/variant-rules/advantage-xphb.md) on the save if the save is triggered by damage. On a successful save, the spell ends.
+At the end of each of its turns and each time it takes damage, it makes another Wisdom saving throw. The target has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md) on the save if the save is triggered by damage. On a successful save, the spell ends.
 
 **Using a Higher-Level Spell Slot.** You can target one additional creature for each spell slot level about 1.
 
-**Classes**: [Rogue (Arcane Trickster)](3-Mechanics/CLI/lists/list-spells-classes-rogue-xphb-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Bard (College of Lore)](3-Mechanics/CLI/lists/list-spells-classes-bard-xphb-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Fighter (Eldritch Knight)](3-Mechanics/CLI/lists/list-spells-classes-fighter-xphb-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Bard](3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Warlock (Great Old One Patron)](3-Mechanics/CLI/lists/list-spells-classes-warlock-xphb-great-old-one-patron-xphb.md "subclass=XPHB;class=XPHB"); [Warlock](3-Mechanics/CLI/lists/list-spells-classes-warlock.md); [Wizard](3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Rogue (Arcane Trickster)](/3-Mechanics/CLI/lists/list-spells-classes-rogue-xphb-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Warlock](/3-Mechanics/CLI/lists/list-spells-classes-warlock.md); [Fighter (Eldritch Knight)](/3-Mechanics/CLI/lists/list-spells-classes-fighter-xphb-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Bard (College of Lore)](/3-Mechanics/CLI/lists/list-spells-classes-bard-xphb-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md); [Warlock (Great Old One Patron)](/3-Mechanics/CLI/lists/list-spells-classes-warlock-xphb-great-old-one-patron-xphb.md "subclass=XPHB;class=XPHB")
 
-*Source: Player's Handbook (2024) p. 331. Available in the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 331. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> (as "Hideous Laughter")*

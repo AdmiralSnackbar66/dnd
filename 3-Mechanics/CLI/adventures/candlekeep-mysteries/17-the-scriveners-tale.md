@@ -8,7 +8,7 @@ aliases: ["The Scrivener's Tale"]
 # The Scrivener's Tale
 *Source: Candlekeep Mysteries, p. 184* 
 
-![The Scrivener's Tale](3-Mechanics/CLI/adventures/candlekeep-mysteries/img/126-16-001-the-scriveners-tale.webp#center)
+![The Scrivener's Tale](/3-Mechanics/CLI/adventures/candlekeep-mysteries/img/126-16-001-the-scriveners-tale.webp#center)
 
 **An Adventure for 14th-level Characters**  
 **Edited by Scott Fitzgerald Gray**  
@@ -27,7 +27,7 @@ This adventure can be tied to any research undertaken by the characters in Candl
 
 *The Scrivener's Tale* is bound in soft brown leather, its title embossed on the book's cover and spine. It is seven inches tall and five inches wide. Its pages appear to be ancient, delicate parchment, but any attempt to damage the book fails, confirming that it is indestructible.
 
-The writing, in Sylvan, on each of the book's seventy-two pages is in a fine, spidery hand, using black ink flecked with silver. A [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md) spell reveals that the book gives off auras of illusion and transmutation magic, but an [identify](3-Mechanics/CLI/spells/identify-xphb.md) spell does not reveal the magical mark it bestows.
+The writing, in Sylvan, on each of the book's seventy-two pages is in a fine, spidery hand, using black ink flecked with silver. A [detect magic](/3-Mechanics/CLI/spells/detect-magic-xphb.md) spell reveals that the book gives off auras of illusion and transmutation magic, but an [identify](/3-Mechanics/CLI/spells/identify-xphb.md) spell does not reveal the magical mark it bestows.
 
 ### Tale of Revenge
 
@@ -39,7 +39,7 @@ The details of *The Scrivener's Tale* indicate that the Princess of the Shadow G
 
 ## The Scrivener's Mark
 
-Machil Rillyn ordered *The Scrivener's Tale* hidden away by the scholars of Candlekeep because he understood the potency of its magic, having borne the scrivener's mark until he paid to have a [wish](3-Mechanics/CLI/spells/wish-xphb.md) spell cast to end its effect on him.
+Machil Rillyn ordered *The Scrivener's Tale* hidden away by the scholars of Candlekeep because he understood the potency of its magic, having borne the scrivener's mark until he paid to have a [wish](/3-Mechanics/CLI/spells/wish-xphb.md) spell cast to end its effect on him.
 
 When a character reads even a small part of *The Scrivener's Tale* for the first time, all the characters feel the magic of the book wash over them. After finishing a short or long rest, each character discovers that 20 percent of their skin is covered in writing that matches portions of *The Scrivener's Tale*. The text starts at the character's fingertips and winds around one arm to the shoulder, chest, and back. The lettering in the Elvish script is tiny but precise and legible. Each character also gains the level 1 benefit and drawback of the mark, as noted in the Scrivener's Mark Effects table. Any character marked in this way must make a DC 20 Charisma saving throw every third dawn thereafter. On a failed save, the level of that character's mark increases by 1. Each additional level of the mark covers another 20 percent of the character's skin with writing until 80 percent of the character's body is covered; the character also gains a new benefit (up to level 4) and a new drawback, in addition to retaining the ones from lower levels. A character can choose to fail the saving throw, and a character instantly becomes aware of any new benefits and drawbacks.
 
@@ -47,54 +47,54 @@ This progression means that the adventure might end after 12 days as a character
 
 You can adjust the progression of the mark as you see fit. If you want to run lengthy side adventures while the characters travel overland to Baldur's Gate, you might lower the DC of the Charisma saving throw or call for the save at longer intervals. Conversely, if the characters have access to enough magic that they're likely to finish the adventure quickly, the effects of the mark might increase by one level every day at dawn with no saving throw allowed.
 
-The mark can't be removed from any character except by a [wish](3-Mechanics/CLI/spells/wish-xphb.md) spell or by destroying the Princess of the Shadow Glass, either of which ends the mark on all the characters. If a character dies and returns to life, the scrivener's mark remains in place.
+The mark can't be removed from any character except by a [wish](/3-Mechanics/CLI/spells/wish-xphb.md) spell or by destroying the Princess of the Shadow Glass, either of which ends the mark on all the characters. If a character dies and returns to life, the scrivener's mark remains in place.
 
 **Scrivener's Mark Effects**
 
 | Level | Benefit and Drawback |
 |-------|----------------------|
 | 1 | Benefit: You can speak, read, and write Sylvan, and magic can't put you to sleep. Drawback: You no longer cast a reflection or a shadow. |
-| 2 | Benefit: You can cast the [message](3-Mechanics/CLI/spells/message-xphb.md) cantrip at will, no components required. Drawback: Magic potions no longer affect you. |
-| 3 | Benefit: Choose one of the following spells: [blur](3-Mechanics/CLI/spells/blur-xphb.md), [invisibility](3-Mechanics/CLI/spells/invisibility-xphb.md), [mirror image](3-Mechanics/CLI/spells/mirror-image-xphb.md), [phantasmal force](3-Mechanics/CLI/spells/phantasmal-force-xphb.md), or [silence](3-Mechanics/CLI/spells/silence-xphb.md). You can cast the chosen spell once (save DC 15), no components required, and you regain the ability to cast this spell after you finish a long rest. Drawback: You can't attune or be attuned to magic items. |
+| 2 | Benefit: You can cast the [message](/3-Mechanics/CLI/spells/message-xphb.md) cantrip at will, no components required. Drawback: Magic potions no longer affect you. |
+| 3 | Benefit: Choose one of the following spells: [blur](/3-Mechanics/CLI/spells/blur-xphb.md), [invisibility](/3-Mechanics/CLI/spells/invisibility-xphb.md), [mirror image](/3-Mechanics/CLI/spells/mirror-image-xphb.md), [phantasmal force](/3-Mechanics/CLI/spells/phantasmal-force-xphb.md), or [silence](/3-Mechanics/CLI/spells/silence-xphb.md). You can cast the chosen spell once (save DC 15), no components required, and you regain the ability to cast this spell after you finish a long rest. Drawback: You can't attune or be attuned to magic items. |
 | 4 | Benefit: You cease to age naturally, and magical aging no longer affects you. Drawback: You become as brittle as glass. You gain vulnerability to bludgeoning, piercing, and slashing damage, and effects that grant you resistance or immunity to such damage are suppressed. |
-| 5 | Drawback: If the Princess of the Shadow Glass has not been released from her prison by the time your mark reaches this level, you transform into a statue made of solid, smoky gray glass. You are [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified) while in this state. Any magic that ends the [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified) condition restores your true form until the next dawn, when you revert to a glass statue. |
+| 5 | Drawback: If the Princess of the Shadow Glass has not been released from her prison by the time your mark reaches this level, you transform into a statue made of solid, smoky gray glass. You are [petrified](/3-Mechanics/CLI/conditions.md#Petrified) while in this state. Any magic that ends the [petrified](/3-Mechanics/CLI/conditions.md#Petrified) condition restores your true form until the next dawn, when you revert to a glass statue. |
 ^scriveners-mark-effects
 
 ### Assessing the Mark
 
 Whether making use of their own experience and knowledge or seeking information from the sages of Candlekeep, the characters can assess the magic that has afflicted them to learn the following:
 
-- Any character who has proficiency in the [Arcana](3-Mechanics/CLI/rules/skills.md#Arcana) skill and inspects the writing confirms that spells such as [dispel magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md), [greater restoration](3-Mechanics/CLI/spells/greater-restoration-xphb.md), and [remove curse](3-Mechanics/CLI/spells/remove-curse-xphb.md) aren't powerful enough to remove it.  
-- With a successful DC 18 Intelligence ([Arcana](3-Mechanics/CLI/rules/skills.md#Arcana)) check, a character determines that the affliction is progressive but double-edged, granting benefits as well as negative effects. (The characters would be correct to assume that the drawbacks outweigh the benefits, but there's no way to know until the benefits and drawbacks are bestowed.)  
+- Any character who has proficiency in the [Arcana](/3-Mechanics/CLI/skills.md#Arcana) skill and inspects the writing confirms that spells such as [dispel magic](/3-Mechanics/CLI/spells/dispel-magic-xphb.md), [greater restoration](/3-Mechanics/CLI/spells/greater-restoration-xphb.md), and [remove curse](/3-Mechanics/CLI/spells/remove-curse-xphb.md) aren't powerful enough to remove it.  
+- With a successful DC 18 Intelligence ([Arcana](/3-Mechanics/CLI/skills.md#Arcana)) check, a character determines that the affliction is progressive but double-edged, granting benefits as well as negative effects. (The characters would be correct to assume that the drawbacks outweigh the benefits, but there's no way to know until the benefits and drawbacks are bestowed.)  
 
 ### Inquiries in Candlekeep
 
 Knowing that *The Scrivener's Tale* came to them from Ramilir, the characters are likely to question him about the book's origins. Horrified at having mistakenly given the characters the tome, the acolyte does what he can to make amends.
 
-Ramilir (a human [commoner](3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md)) is a hardworking, earnest man in his mid-forties. He takes great pride in his work—and is mortified by his mistake. He explains how *The Scrivener's Tale* came to Candlekeep under the condition that no one ever open it, and that it has been shelved with other dangerous volumes for ten years. While collecting books for several scholars at the same time, Ramilir guesses that he must have accidentally taken *The Scrivener's Tale* instead of a book intended for another scholar, then placed the unrecognized tome in with the characters' books. A successful DC 10 Wisdom ([Insight](3-Mechanics/CLI/rules/skills.md#Insight)) check confirms that the acolyte's mistake was an honest one.
+Ramilir (a human [commoner](/3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md)) is a hardworking, earnest man in his mid-forties. He takes great pride in his work—and is mortified by his mistake. He explains how *The Scrivener's Tale* came to Candlekeep under the condition that no one ever open it, and that it has been shelved with other dangerous volumes for ten years. While collecting books for several scholars at the same time, Ramilir guesses that he must have accidentally taken *The Scrivener's Tale* instead of a book intended for another scholar, then placed the unrecognized tome in with the characters' books. A successful DC 10 Wisdom ([Insight](/3-Mechanics/CLI/skills.md#Insight)) check confirms that the acolyte's mistake was an honest one.
 
 In response to any discussion of the mark that has appeared on the characters, Ramilir suggests that they speak with one of the Great Readers of Candlekeep: Teles Ahvoste, a scholar who specializes in curses. The acolyte arranges that meeting, then escorts the characters to Teles a few hours later.
 
 > [!note] Seeking Higher Knowledge
 > 
-> As they try to learn more about the affliction that has befallen them, the characters might use magic such as [commune](3-Mechanics/CLI/spells/commune-xphb.md), [divination](3-Mechanics/CLI/spells/divination-xphb.md), or [legend lore](3-Mechanics/CLI/spells/legend-lore-xphb.md) spells. The Princess of the Shadow Glass has the ability to misdirect such inquiries.
+> As they try to learn more about the affliction that has befallen them, the characters might use magic such as [commune](/3-Mechanics/CLI/spells/commune-xphb.md), [divination](/3-Mechanics/CLI/spells/divination-xphb.md), or [legend lore](/3-Mechanics/CLI/spells/legend-lore-xphb.md) spells. The Princess of the Shadow Glass has the ability to misdirect such inquiries.
 > 
-> **The Scrivener's Tale.** Questions asked about the book with [commune](3-Mechanics/CLI/spells/commune-xphb.md) or [divination](3-Mechanics/CLI/spells/divination-xphb.md) spells yield only the information given earlier in the adventure. The [legend lore](3-Mechanics/CLI/spells/legend-lore-xphb.md) spell returns only the following response: "The shackle that is the key, the prison built by a prisoner." That cryptic clue refers to the manner in which the book binds the Princess of the Shadow Glass, even as it allows her to magically mark the book's readers and others near and dear to them.
+> **The Scrivener's Tale.** Questions asked about the book with [commune](/3-Mechanics/CLI/spells/commune-xphb.md) or [divination](/3-Mechanics/CLI/spells/divination-xphb.md) spells yield only the information given earlier in the adventure. The [legend lore](/3-Mechanics/CLI/spells/legend-lore-xphb.md) spell returns only the following response: "The shackle that is the key, the prison built by a prisoner." That cryptic clue refers to the manner in which the book binds the Princess of the Shadow Glass, even as it allows her to magically mark the book's readers and others near and dear to them.
 > 
-> **Princess of the Shadow Glass.** [Commune](3-Mechanics/CLI/spells/commune-xphb.md) and [divination](3-Mechanics/CLI/spells/divination-xphb.md) spells reveal nothing about the Princess of the Shadow Glass, who has magically hidden her history under other names. If the characters learn the names "[Nintra Siotta](3-Mechanics/CLI/bestiary/npc/nintra-siotta-cm.md)" or "Lady of Dread Omens" later in the adventure and use those names in their inquiries, such magic returns the hoped-for results.
+> **Princess of the Shadow Glass.** [Commune](/3-Mechanics/CLI/spells/commune-xphb.md) and [divination](/3-Mechanics/CLI/spells/divination-xphb.md) spells reveal nothing about the Princess of the Shadow Glass, who has magically hidden her history under other names. If the characters learn the names "[Nintra Siotta](/3-Mechanics/CLI/bestiary/npc/nintra-siotta-cm.md)" or "Lady of Dread Omens" later in the adventure and use those names in their inquiries, such magic returns the hoped-for results.
 > 
-> The [legend lore](3-Mechanics/CLI/spells/legend-lore-xphb.md) spell returns an especially cryptic result for the princess: "Glass omens, dread crowns, three princesses, shadow lady, deathless is the seeker." The response alludes to each of [Nintra Siotta](3-Mechanics/CLI/bestiary/npc/nintra-siotta-cm.md)'s known titles—Princess of the Shadow Glass, Lady of Dread Omens, and Seeker of the Three Crowns.
+> The [legend lore](/3-Mechanics/CLI/spells/legend-lore-xphb.md) spell returns an especially cryptic result for the princess: "Glass omens, dread crowns, three princesses, shadow lady, deathless is the seeker." The response alludes to each of [Nintra Siotta](/3-Mechanics/CLI/bestiary/npc/nintra-siotta-cm.md)'s known titles—Princess of the Shadow Glass, Lady of Dread Omens, and Seeker of the Three Crowns.
 > 
-> **Haven of the Red Quill.** When the characters learn the name of the ancient library beneath the fallen city of Delimbiyran, [commune](3-Mechanics/CLI/spells/commune-xphb.md) and [divination](3-Mechanics/CLI/spells/divination-xphb.md) return no information regarding the site, because it is warded against divination magic as a side effect of the scrivener's binding ritual. [Legend lore](3-Mechanics/CLI/spells/legend-lore-xphb.md) returns the following: "Where once was a dream of kinship and valor, disparate kin under three crowns, wisdom was preserved in deep places. In that depth was a great deed done, the quill named, and the scrivener showed his cunning."
+> **Haven of the Red Quill.** When the characters learn the name of the ancient library beneath the fallen city of Delimbiyran, [commune](/3-Mechanics/CLI/spells/commune-xphb.md) and [divination](/3-Mechanics/CLI/spells/divination-xphb.md) return no information regarding the site, because it is warded against divination magic as a side effect of the scrivener's binding ritual. [Legend lore](/3-Mechanics/CLI/spells/legend-lore-xphb.md) returns the following: "Where once was a dream of kinship and valor, disparate kin under three crowns, wisdom was preserved in deep places. In that depth was a great deed done, the quill named, and the scrivener showed his cunning."
 ^seeking-higher-knowledge
 
 #### Great Reader Teles Ahvoste
 
-Teles Ahvoste (a human [archmage](3-Mechanics/CLI/bestiary/humanoid/archmage-xmm.md)) is Candlekeep's foremost expert on the subject of curses. Born and raised in the magocracy of Halruaa, Teles has always been comfortable around magic but also understands its inherent dangers.
+Teles Ahvoste (a human [archmage](/3-Mechanics/CLI/bestiary/humanoid/archmage-xmm.md)) is Candlekeep's foremost expert on the subject of curses. Born and raised in the magocracy of Halruaa, Teles has always been comfortable around magic but also understands its inherent dangers.
 
 If the characters are still seeking any of the information in the "Assessing the Mark" section, Ahvoste can provide it. Teles can also reveal that *The Scrivener's Tale* was brought to Candlekeep by Machil Rillyn, an adventurer from a noble family in Baldur's Gate. Teles doesn't know what became of Rillyn, but if the characters don't automatically think about traveling to Baldur's Gate to question the noble, Teles suggests they do so.
 
-At your discretion, Teles might offer to stay in touch with the characters once they leave Candlekeep, providing support and answering their questions by way of [sending](3-Mechanics/CLI/spells/sending-xphb.md) spells.
+At your discretion, Teles might offer to stay in touch with the characters once they leave Candlekeep, providing support and answering their questions by way of [sending](/3-Mechanics/CLI/spells/sending-xphb.md) spells.
 
 ##### Personality Trait
 
@@ -127,23 +127,23 @@ Read the following boxed text only to the players whose characters experience th
 
 The dream, which ends abruptly, is meant to be mysterious. The dream's imagery will make more sense as the adventure progresses.
 
-Any character who has proficiency in the [History](3-Mechanics/CLI/rules/skills.md#History) skill, or who succeeds on a DC 15 Intelligence ([History](3-Mechanics/CLI/rules/skills.md#History)) check, remembers that the silver circlet, the adamantine crown, and the golden crown were symbols of Phalorm, also known as the Realm of Three Crowns. This kingdom fell to an invasion of goblinoids nearly nine hundred years ago.
+Any character who has proficiency in the [History](/3-Mechanics/CLI/skills.md#History) skill, or who succeeds on a DC 15 Intelligence ([History](/3-Mechanics/CLI/skills.md#History)) check, remembers that the silver circlet, the adamantine crown, and the golden crown were symbols of Phalorm, also known as the Realm of Three Crowns. This kingdom fell to an invasion of goblinoids nearly nine hundred years ago.
 
 ## A Troubled Journey
 
-Whether the characters travel overland or teleport to Baldur's Gate, they come under attack by forces serving the Queen of Air and Darkness, who yearns to possess *The Scrivener's Tale* in order to control the Princess of the Shadow Glass. Because the Queen of Air and Darkness banished the princess, the ritual of the scrivener that bound the princess established a connection between the queen and the book, as well as between her and creatures marked by the book. That connection was lost when Machil Rillyn used a [wish](3-Mechanics/CLI/spells/wish-xphb.md) spell to break the mark. When the characters became marked by the book, that connection activated once more. The Queen of Air and Darkness assumes the marked characters must have the book in their possession—and she wants it back.
+Whether the characters travel overland or teleport to Baldur's Gate, they come under attack by forces serving the Queen of Air and Darkness, who yearns to possess *The Scrivener's Tale* in order to control the Princess of the Shadow Glass. Because the Queen of Air and Darkness banished the princess, the ritual of the scrivener that bound the princess established a connection between the queen and the book, as well as between her and creatures marked by the book. That connection was lost when Machil Rillyn used a [wish](/3-Mechanics/CLI/spells/wish-xphb.md) spell to break the mark. When the characters became marked by the book, that connection activated once more. The Queen of Air and Darkness assumes the marked characters must have the book in their possession—and she wants it back.
 
 ### Marked for Death
 
-Agents of the Queen of Air and Darkness dispatch four [fomorians](3-Mechanics/CLI/bestiary/giant/fomorian-xmm.md) to intercept the party. Riding in howdahs strapped to the fomorians' backs are four [wood elf wizards](3-Mechanics/CLI/bestiary/humanoid/wood-elf-wizard-cm.md) (use the [drow mage](3-Mechanics/CLI/bestiary/humanoid/bandit-deceiver-xmm.md) stat block but omit the Sunlight Sensitivity trait). This attack can take place at any location. The queen's servants are just as likely to assault the characters in a crowded street as they are to set up an ambush in a remote location. All are fanatically loyal to the queen and fight to the end.
+Agents of the Queen of Air and Darkness dispatch four [fomorians](/3-Mechanics/CLI/bestiary/giant/fomorian-xmm.md) to intercept the party. Riding in howdahs strapped to the fomorians' backs are four [wood elf wizards](/3-Mechanics/CLI/bestiary/humanoid/wood-elf-wizard-cm.md) (use the [drow mage](/3-Mechanics/CLI/bestiary/humanoid/bandit-deceiver-xmm.md) stat block but omit the Sunlight Sensitivity trait). This attack can take place at any location. The queen's servants are just as likely to assault the characters in a crowded street as they are to set up an ambush in a remote location. All are fanatically loyal to the queen and fight to the end.
 
-If the characters capture and subdue one or more of these assailants, threats and intimidation do nothing to break their loyalty to the Queen of Air and Darkness. Effective roleplaying, magic, or a successful DC 18 Charisma ([Deception](3-Mechanics/CLI/rules/skills.md#Deception) or [Persuasion](3-Mechanics/CLI/rules/skills.md#Persuasion)) check enables the characters to convince the elves and fomorians that they are not a threat to the Gloaming Court.
+If the characters capture and subdue one or more of these assailants, threats and intimidation do nothing to break their loyalty to the Queen of Air and Darkness. Effective roleplaying, magic, or a successful DC 18 Charisma ([Deception](/3-Mechanics/CLI/skills.md#Deception) or [Persuasion](/3-Mechanics/CLI/skills.md#Persuasion)) check enables the characters to convince the elves and fomorians that they are not a threat to the Gloaming Court.
 
 If they believe the characters, and particularly if the characters agree (truthfully or otherwise) to help the queen destroy the Princess of the Shadow Glass, the elves and fomorians can reveal that the Queen of Air and Darkness sent them from the Feywild to slay the marked characters and steal back *The Scrivener's Tale*. The queen is set on ending the threat of the princess by destroying the book and all those connected to it.
 
 If the characters ask about the Princess of the Shadow Glass, the elves say that she was exiled from the Gloaming Court for treason against the Queen of Air and Darkness. They know that *The Scrivener's Tale* is linked to a ritual that trapped the Princess of the Shadow Glass in an extradimensional prison after her exile, but they do not know that her prison is the book.
 
-The characters might also use the [speak with dead](3-Mechanics/CLI/spells/speak-with-dead-xphb.md) spell to learn some of the above information from fallen enemies.
+The characters might also use the [speak with dead](/3-Mechanics/CLI/spells/speak-with-dead-xphb.md) spell to learn some of the above information from fallen enemies.
 
 #### Treasure
 
@@ -151,13 +151,13 @@ Each wizard wears a ring of gleaming black glass (worth 10 gp) on the third fing
 
 ### Other Foes
 
-If the characters dispatch the fomorians and the elves, you can have other creatures loyal to the Queen of Air and Darkness home in on them. Level-appropriate creatures that might serve the queen include an [archmage](3-Mechanics/CLI/bestiary/humanoid/archmage-xmm.md) with a [death slaad](3-Mechanics/CLI/bestiary/aberration/death-slaad-xmm.md) bodyguard, a pair of elf [vampires](3-Mechanics/CLI/bestiary/undead/vampire-xmm.md), a team of four [assassins](3-Mechanics/CLI/bestiary/humanoid/assassin-xmm.md), or an [adult green dragon](3-Mechanics/CLI/bestiary/dragon/adult-green-dragon-xmm.md). After the failure of the first group to deliver the characters, subsequent foes might follow the party for a time, watching the characters' movements and trying to determine their plans. Being shadowed by the queen's agents for days on end can be unsettling for the characters and the players alike.
+If the characters dispatch the fomorians and the elves, you can have other creatures loyal to the Queen of Air and Darkness home in on them. Level-appropriate creatures that might serve the queen include an [archmage](/3-Mechanics/CLI/bestiary/humanoid/archmage-xmm.md) with a [death slaad](/3-Mechanics/CLI/bestiary/aberration/death-slaad-xmm.md) bodyguard, a pair of elf [vampires](/3-Mechanics/CLI/bestiary/undead/vampire-xmm.md), a team of four [assassins](/3-Mechanics/CLI/bestiary/humanoid/assassin-xmm.md), or an [adult green dragon](/3-Mechanics/CLI/bestiary/dragon/adult-green-dragon-xmm.md). After the failure of the first group to deliver the characters, subsequent foes might follow the party for a time, watching the characters' movements and trying to determine their plans. Being shadowed by the queen's agents for days on end can be unsettling for the characters and the players alike.
 
-While being shadowed, the characters can try to treat with the queen's fey agents. With suitable roleplaying or a successful DC 20 Charisma ([Deception](3-Mechanics/CLI/rules/skills.md#Deception) or [Persuasion](3-Mechanics/CLI/rules/skills.md#Persuasion)) check, they can convince the agents that they're attempting to destroy the book on the queen's behalf, buying them time to continue their investigations.
+While being shadowed, the characters can try to treat with the queen's fey agents. With suitable roleplaying or a successful DC 20 Charisma ([Deception](/3-Mechanics/CLI/skills.md#Deception) or [Persuasion](/3-Mechanics/CLI/skills.md#Persuasion)) check, they can convince the agents that they're attempting to destroy the book on the queen's behalf, buying them time to continue their investigations.
 
 ### Voice of the Princess
 
-When the characters became imbued with the scrivener's mark, the magic of *The Scrivener's Tale* tied them to the Princess of the Shadow Glass. After the first assault by agents of the Queen of Air and Darkness, the [princess](3-Mechanics/CLI/bestiary/npc/nintra-siotta-cm.md) communicates telepathically with a character of your choice. See the end of the adventure for her stat block and guidance on how to portray her.
+When the characters became imbued with the scrivener's mark, the magic of *The Scrivener's Tale* tied them to the Princess of the Shadow Glass. After the first assault by agents of the Queen of Air and Darkness, the [princess](/3-Mechanics/CLI/bestiary/npc/nintra-siotta-cm.md) communicates telepathically with a character of your choice. See the end of the adventure for her stat block and guidance on how to portray her.
 
 The princess, who does not reveal her true name, claims to be the only one who can destroy the Queen of Air and Darkness and free the Gloaming Court from that tyrannical ruler. It's clear that the speaker's hatred of the queen runs deep, as she's unable to keep her scorn out of her voice.
 
@@ -167,7 +167,7 @@ If the characters require further enticement, the princess offers to immediately
 
 #### Charm of the Shadow Glass
 
-This charm allows you to cast the [shatter](3-Mechanics/CLI/spells/shatter-xphb.md) spell (save DC 16) as an action, no components required. The next time you finish a short or long rest after casting the spell, you gain temporary hit points equal to double your proficiency bonus. Once it is used three times, this charm goes away.
+This charm allows you to cast the [shatter](/3-Mechanics/CLI/spells/shatter-xphb.md) spell (save DC 16) as an action, no components required. The next time you finish a short or long rest after casting the spell, you gain temporary hit points equal to double your proficiency bonus. Once it is used three times, this charm goes away.
 
 ## Baldur's Gate
 
@@ -179,15 +179,15 @@ A number of separate agencies keep a semblance of order in Baldur's Gate. The mo
 
 After arriving in Baldur's Gate, the characters can make general inquiries about the retired adventurer and patriar Machil Rillyn. They learn that Rillyn House, his noble estate, is in the Upper City. Their inquiries also inform the characters that Machil died ten years ago (not long after gifting *The Scrivener's Tale* to Candlekeep), having built up a fortune as an adventurer but squandering most of it before his death. His family is now led by his niece, Yvandre, who has only recently begun to regain her family's former standing.
 
-![Yvandre Rillyn](3-Mechanics/CLI/adventures/candlekeep-mysteries/img/127-16-002-yvandre-rillyn.webp#center)
+![Yvandre Rillyn](/3-Mechanics/CLI/adventures/candlekeep-mysteries/img/127-16-002-yvandre-rillyn.webp#center)
 
-The characters' status as seasoned adventurers means they have no difficulty entering the Upper City, finding Rillyn House, and arranging an audience with Yvandre Rillyn. Taresson the butler (a human [commoner](3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md)) meets them at the gate and takes their message to Yvandre. If he can see the writing on their skin resulting from the scrivener's mark, Taresson recognizes the mark from having seen it on Machil Rillyn and promptly brings the characters to see Yvandre.
+The characters' status as seasoned adventurers means they have no difficulty entering the Upper City, finding Rillyn House, and arranging an audience with Yvandre Rillyn. Taresson the butler (a human [commoner](/3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md)) meets them at the gate and takes their message to Yvandre. If he can see the writing on their skin resulting from the scrivener's mark, Taresson recognizes the mark from having seen it on Machil Rillyn and promptly brings the characters to see Yvandre.
 
 #### Yvandre Rillyn
 
-The driving force behind the Rillyn family's revival, Yvandre (a human [veteran](3-Mechanics/CLI/bestiary/humanoid/warrior-veteran-xmm.md)) is an iron-willed and accomplished swordfighter as well as a rising political figure in Baldur's Gate. Her manner is brusque but professional. She is happy to deal with anyone who appears likely to further her family's goals, but she can be ruthless toward those who cross her. A former member of the Flaming Fist, she has many friends in that mercenary company who would be only too happy to make trouble for the characters on her behalf.
+The driving force behind the Rillyn family's revival, Yvandre (a human [veteran](/3-Mechanics/CLI/bestiary/humanoid/warrior-veteran-xmm.md)) is an iron-willed and accomplished swordfighter as well as a rising political figure in Baldur's Gate. Her manner is brusque but professional. She is happy to deal with anyone who appears likely to further her family's goals, but she can be ruthless toward those who cross her. A former member of the Flaming Fist, she has many friends in that mercenary company who would be only too happy to make trouble for the characters on her behalf.
 
-If Yvandre is attacked, `1d4` [guards](3-Mechanics/CLI/bestiary/humanoid/guard-xmm.md) arrive at the end of each of her turns until twenty have appeared.
+If Yvandre is attacked, `dice:1d4|noform|noparens|avg` (`1d4`) [guards](/3-Mechanics/CLI/bestiary/humanoid/guard-xmm.md) arrive at the end of each of her turns until twenty have appeared.
 
 ##### Personality Trait
 
@@ -209,13 +209,13 @@ If Yvandre is attacked, `1d4` [guards](3-Mechanics/CLI/bestiary/humanoid/guard-x
 
 Yvandre works to conceal her anger as she talks about how her uncle, Machil, squandered the Rillyn fortune. Instead of establishing a legacy and serving the needs of Baldur's Gate with the riches earned during his adventuring career, he continued his mercenary explorations, seeking glory and plunder across the Sword Coast. Machil found less glory over time, though, and even less wealth.
 
-Yvandre knows that Machil discovered *The Scrivener's Tale* in a vault deep beneath the ruins of Delimbiyran. That capital city of the lost kingdom of the same name once stood near where the town of Daggerford is now. Yvandre knows also that her uncle suffered briefly from a magical malady that produced strange writing on his skin, and which he finally overcame only by spending the last of the family fortune on a [wish](3-Mechanics/CLI/spells/wish-xphb.md) spell.
+Yvandre knows that Machil discovered *The Scrivener's Tale* in a vault deep beneath the ruins of Delimbiyran. That capital city of the lost kingdom of the same name once stood near where the town of Daggerford is now. Yvandre knows also that her uncle suffered briefly from a magical malady that produced strange writing on his skin, and which he finally overcame only by spending the last of the family fortune on a [wish](/3-Mechanics/CLI/spells/wish-xphb.md) spell.
 
 Deep in debt and clearly shaken by his experience, Machil was killed by unknown assailants a month later—no doubt someone calling in a debt, Yvandre assumes. (In truth, Machil was murdered by agents of the Queen of Air and Darkness, who were looking for the book.) Those who accompanied Machil on his final expedition were mercenaries, and Yvandre doesn't know who they were or where they might be found.
 
-With suitable roleplaying or a successful DC 15 Charisma ([Persuasion](3-Mechanics/CLI/rules/skills.md#Persuasion)) check, Yvandre informs the characters that Machil's possessions have been stored away since his death. Anything of value was sold off years ago, but a few "worthless journals and letters" remain. She offers to let the characters look through her uncle's possessions in return for an equal share of the wealth they might earn as a result of information found in his old notes.
+With suitable roleplaying or a successful DC 15 Charisma ([Persuasion](/3-Mechanics/CLI/skills.md#Persuasion)) check, Yvandre informs the characters that Machil's possessions have been stored away since his death. Anything of value was sold off years ago, but a few "worthless journals and letters" remain. She offers to let the characters look through her uncle's possessions in return for an equal share of the wealth they might earn as a result of information found in his old notes.
 
-Characters who want to take a stealthier approach to gaining information at the estate (or who anger Yvandre) can try to approach Taresson or other servants. With a bribe of at least 100 gp in addition to suitable roleplaying or a successful DC 15 Charisma ([Intimidation](3-Mechanics/CLI/rules/skills.md#Intimidation) or [Persuasion](3-Mechanics/CLI/rules/skills.md#Persuasion)) check, Taresson can be convinced to grant the characters access to Machil's possessions.
+Characters who want to take a stealthier approach to gaining information at the estate (or who anger Yvandre) can try to approach Taresson or other servants. With a bribe of at least 100 gp in addition to suitable roleplaying or a successful DC 15 Charisma ([Intimidation](/3-Mechanics/CLI/skills.md#Intimidation) or [Persuasion](/3-Mechanics/CLI/skills.md#Persuasion)) check, Taresson can be convinced to grant the characters access to Machil's possessions.
 
 #### Machil's Remaining Possessions
 
@@ -231,22 +231,22 @@ Machil's notes and journals are packed haphazardly into three boxes in this stor
 - A vellum map labeled "Delimbiyran and Environs" shows a few locations in the aboveground ruins of the city. A note written on the map in Elvish identifies one site as "Haven of the Red Quill." The handwriting matches that seen in *The Scriven**er's Tale*.  
 - A folio torn from an unknown tome details the history of Delimbiyran and Phalorm. Also called the Realm of Three Crowns, Phalorm was one of the many kingdoms of old in the North. When the Realm of Three Crowns fell, the kingdom of Delimbiyran rose after it.  
 - Tucked into the folio is a sheaf of notes written by Machil. The notes talk of the adventurer seeking "the shadow glass," which he expected to be a great treasure.  
-- Within a stack of old bills marked "Past Due," the characters find an unsigned and apparently unsent letter from Machil, which reads: "To my family. Forgive me the vanity that took me from you, and must soon claim my life or soul. You know how ambition corrupted my love for you. I pray that someone avenges the evils done by [Nintra Siotta](3-Mechanics/CLI/bestiary/npc/nintra-siotta-cm.md), Princess of the Shadow Glass, Lady of Dread Omens, Seeker of the Three Crowns. But spend not your own lives against it. The scrivener bound her in his haven, and only there can I be free of her. But it is too late for me." (Machil wrote the letter when he knew he was being pursued by agents of the Gloaming Court but was killed before he could send it.)  
+- Within a stack of old bills marked "Past Due," the characters find an unsigned and apparently unsent letter from Machil, which reads: "To my family. Forgive me the vanity that took me from you, and must soon claim my life or soul. You know how ambition corrupted my love for you. I pray that someone avenges the evils done by [Nintra Siotta](/3-Mechanics/CLI/bestiary/npc/nintra-siotta-cm.md), Princess of the Shadow Glass, Lady of Dread Omens, Seeker of the Three Crowns. But spend not your own lives against it. The scrivener bound her in his haven, and only there can I be free of her. But it is too late for me." (Machil wrote the letter when he knew he was being pursued by agents of the Gloaming Court but was killed before he could send it.)  
 - A piece of parchment is shot through with dry rot and crumbles when handled. What remains of the parchment afterward displays writing in Machil's hand, which reads: "... stairs among the surface ruins of Delimbiyran and descended deep to the Haven of the Red Quill. The guardians almost finished us before the door was opened. Gods, how I wish..."  
 
 The characters are welcome to take or copy any of the documents, but Taresson makes a record of any items removed from the room.
 
-Any character who rifles through the other objects in the room can make a DC 15 Dexterity ([Sleight of Hand](3-Mechanics/CLI/rules/skills.md#Sleight%20of%20Hand)) check. On a success, the character pockets a random trinket (determined by rolling on the [Trinkets table](3-Mechanics/CLI/items/trinket-xphb.md) in the "Player's Handbook"). On a failed check, the character sends a pile of dusty items spilling to the floor and earns a stern look from Taresson.
+Any character who rifles through the other objects in the room can make a DC 15 Dexterity ([Sleight of Hand](/3-Mechanics/CLI/skills.md#Sleight%20of%20Hand)) check. On a success, the character pockets a random trinket (determined by rolling on the [Trinkets table](/3-Mechanics/CLI/items/trinket-xphb.md) in the "Player's Handbook"). On a failed check, the character sends a pile of dusty items spilling to the floor and earns a stern look from Taresson.
 
 #### Crimes against House Rillyn
 
-If the characters commit murder or other crimes in House Rillyn, they are tracked down `4d12` hours later by one of Yvandre's allies, an [adult copper dragon](3-Mechanics/CLI/bestiary/dragon/adult-copper-dragon-xmm.md) named Hastarglyrr, who demands gold from them to pay for damages and for [raise dead](3-Mechanics/CLI/spells/raise-dead-xphb.md) spells.
+If the characters commit murder or other crimes in House Rillyn, they are tracked down `dice:4d12|noform|noparens|avg` (`4d12`) hours later by one of Yvandre's allies, an [adult copper dragon](/3-Mechanics/CLI/bestiary/dragon/adult-copper-dragon-xmm.md) named Hastarglyrr, who demands gold from them to pay for damages and for [raise dead](/3-Mechanics/CLI/spells/raise-dead-xphb.md) spells.
 
-![Entrance to the Haven of the Red Quill](3-Mechanics/CLI/adventures/candlekeep-mysteries/img/128-16-003-entrance-to-the-haven.webp#center)
+![Entrance to the Haven of the Red Quill](/3-Mechanics/CLI/adventures/candlekeep-mysteries/img/128-16-003-entrance-to-the-haven.webp#center)
 
 ## Haven of the Red Quill
 
-With Machil's notes and map in hand, the characters are ready to retrace the late adventurer's steps to the place where *The Scrivener's Tale* was found: the library called the Haven of the Red Quill, hidden beneath the ruins of Delimbiyran. An overland journey from Baldur's Gate or Candlekeep would take a month, so the characters' best course of action is to teleport to Delimbiyran or the nearby town of Daggerford. If the characters lack the means to teleport themselves, Teles Ahvoste can cast the [teleport](3-Mechanics/CLI/spells/teleport-xphb.md) spell for them, or he might know a suitable spellcaster in Baldur's Gate who owes him a favor, or whom the characters can hire for the job.
+With Machil's notes and map in hand, the characters are ready to retrace the late adventurer's steps to the place where *The Scrivener's Tale* was found: the library called the Haven of the Red Quill, hidden beneath the ruins of Delimbiyran. An overland journey from Baldur's Gate or Candlekeep would take a month, so the characters' best course of action is to teleport to Delimbiyran or the nearby town of Daggerford. If the characters lack the means to teleport themselves, Teles Ahvoste can cast the [teleport](/3-Mechanics/CLI/spells/teleport-xphb.md) spell for them, or he might know a suitable spellcaster in Baldur's Gate who owes him a favor, or whom the characters can hire for the job.
 
 ### Exploring Delimbiyran
 
@@ -260,11 +260,11 @@ At your discretion, there might be other dungeon complexes of your own design hi
 
 ### Entering the Haven
 
-The entrance to the library is a vertical shaft that plunges deep into the bedrock, with a crumbling stone staircase clinging to its stark gray walls. A successful DC 14 Wisdom ([Survival](3-Mechanics/CLI/rules/skills.md#Survival)) check indicates that no one has passed this way in years.
+The entrance to the library is a vertical shaft that plunges deep into the bedrock, with a crumbling stone staircase clinging to its stark gray walls. A successful DC 14 Wisdom ([Survival](/3-Mechanics/CLI/skills.md#Survival)) check indicates that no one has passed this way in years.
 
 #### Dark Manipulation
 
-As the characters prepare to explore the Haven of the Red Quill, the [Princess of the Shadow Glass](3-Mechanics/CLI/bestiary/npc/nintra-siotta-cm.md) telepathically urges them to follow Machil's route into the haven and destroy the ghost of Zyrian the scrivener, whom she describes as the queen's evil pawn—the same pawn who cursed the party with his scrivener's mark.
+As the characters prepare to explore the Haven of the Red Quill, the [Princess of the Shadow Glass](/3-Mechanics/CLI/bestiary/npc/nintra-siotta-cm.md) telepathically urges them to follow Machil's route into the haven and destroy the ghost of Zyrian the scrivener, whom she describes as the queen's evil pawn—the same pawn who cursed the party with his scrivener's mark.
 
 If the characters refuse to aid her, the princess continually makes telepathic contact with random characters, urging them to reconsider before it's too late. She tries to convince the characters that if they don't vanquish the ghost quickly, the scrivener's mark will destroy them. At the same time, she uses the link binding her to the characters to gain an instinctive sense of their actions, though she is not aware of the details of what they're doing. "Destroy the scrivener," she says, "and I will rid you of his evil mark!" She also says, "The only way this ends well is with us saving each other!"
 
@@ -274,15 +274,15 @@ The library ruins have the following features:
 
 - **Floors, Walls, and Ceilings.** All areas of the ruins except the cavern (area H7) are worked stone. Ceilings are 30 feet high, except in area H8, which has a domed ceiling 50 feet high.  
 - **Light.** Unless otherwise noted, all areas are unlit.  
-- **Golems and Mummies.** Each section of wall marked "G" or "M" on the map indicates the location of a hidden stone golem (G) or mummy (M) in stasis. A [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md) spell reveals an aura of conjuration magic emanating from that section of wall. When called for in the text, the golems and mummies phase out of the walls and materialize in the dungeon. Until then, they are hidden and can't be harmed.  
+- **Golems and Mummies.** Each section of wall marked "G" or "M" on the map indicates the location of a hidden stone golem (G) or mummy (M) in stasis. A [detect magic](/3-Mechanics/CLI/spells/detect-magic-xphb.md) spell reveals an aura of conjuration magic emanating from that section of wall. When called for in the text, the golems and mummies phase out of the walls and materialize in the dungeon. Until then, they are hidden and can't be harmed.  
 
 ### Haven Locations
 
 The following locations are keyed to the map of the Haven of the Red Quill.
 
 > [!gallery]
-> ![Map 16.1: Haven of the Red Quill](3-Mechanics/CLI/adventures/candlekeep-mysteries/img/129-map-16-01-haven-of-the-red-quill.webp#gallery)
-> ![Player Version](3-Mechanics/CLI/adventures/candlekeep-mysteries/img/130-map-16-01-haven-of-the-red-quill-player.webp#gallery)
+> ![Map 16.1: Haven of the Red Quill](/3-Mechanics/CLI/adventures/candlekeep-mysteries/img/129-map-16-01-haven-of-the-red-quill.webp#gallery)
+> ![Player Version](/3-Mechanics/CLI/adventures/candlekeep-mysteries/img/130-map-16-01-haven-of-the-red-quill-player.webp#gallery)
 
 #### H1. Deep Stairwell
 
@@ -295,7 +295,7 @@ The wall near the top of the stairs has the word "HAVEN" and a crude picture of 
 
 The birds are harmless. Images of the silver circlet, the adamantine crown, and the golden crown from the characters' dream are still recognizable in the mosaic.
 
-Descending the crumbling stairs on foot is perilous, and each creature doing so must make a DC 14 Dexterity saving throw. On a failed save, a creature either tumbles down the stairs before being able to stop itself or pitches over the edge and falls to the ground below, taking 14 (`4d6`) bludgeoning damage in either event.
+Descending the crumbling stairs on foot is perilous, and each creature doing so must make a DC 14 Dexterity saving throw. On a failed save, a creature either tumbles down the stairs before being able to stop itself or pitches over the edge and falls to the ground below, taking `dice:4d6|noform|noparens|avg|text(14)` (`4d6`) bludgeoning damage in either event.
 
 When the characters reach the bottom, they see an open archway at the base of the stairs. Beyond this archway lies area H2.
 
@@ -308,7 +308,7 @@ When the characters reach the bottom, they see an open archway at the base of th
 
 Though this area appears dangerous at first glance, a dwarf or any character who has a background or a proficiency related to stonework can tell that it's stable.
 
-Ten years earlier, Machil and his companions collapsed the archway in the north wall as they left, leaving it blocked. A Small character can squeeze through gaps in the rock with a successful DC 20 Dexterity check, but unless the characters pass the barrier by magical means, it needs to be cleared. For each hour of work, one character can make a DC 15 Strength ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)) check or Intelligence check using mason's tools. On a failed check, a character triggers a short rockfall and takes 7 (`2d6`) bludgeoning damage. After three successful checks, the archway is cleared.
+Ten years earlier, Machil and his companions collapsed the archway in the north wall as they left, leaving it blocked. A Small character can squeeze through gaps in the rock with a successful DC 20 Dexterity check, but unless the characters pass the barrier by magical means, it needs to be cleared. For each hour of work, one character can make a DC 15 Strength ([Athletics](/3-Mechanics/CLI/skills.md#Athletics)) check or Intelligence check using mason's tools. On a failed check, a character triggers a short rockfall and takes `dice:2d6|noform|noparens|avg|text(7)` (`2d6`) bludgeoning damage. After three successful checks, the archway is cleared.
 
 #### H3. Central Chamber
 
@@ -340,7 +340,7 @@ The room is dark when the characters enter. Any creature in the room that speaks
 
 ##### Warded Door
 
-The door in the center of the concave wall opens by sliding into the wall, but it's sealed by powerful magic. The door is airtight and imbued with a dimensional lock that prevents characters from teleporting through it. It is impervious to damage, and its magic cannot be dispelled or dismissed by anything short of a [wish](3-Mechanics/CLI/spells/wish-xphb.md) spell. Opening the door requires fitting the three key runes carried by the haven's stone golems (see below) into the three indentations on the door. Any character who has proficiency in the [Arcana](3-Mechanics/CLI/rules/skills.md#Arcana) skill recognizes that the indentations have the shape of arcane glyphs. Any inspection of the indentations suggests that each is meant to have an object of the same shape pressed into it.
+The door in the center of the concave wall opens by sliding into the wall, but it's sealed by powerful magic. The door is airtight and imbued with a dimensional lock that prevents characters from teleporting through it. It is impervious to damage, and its magic cannot be dispelled or dismissed by anything short of a [wish](/3-Mechanics/CLI/spells/wish-xphb.md) spell. Opening the door requires fitting the three key runes carried by the haven's stone golems (see below) into the three indentations on the door. Any character who has proficiency in the [Arcana](/3-Mechanics/CLI/skills.md#Arcana) skill recognizes that the indentations have the shape of arcane glyphs. Any inspection of the indentations suggests that each is meant to have an object of the same shape pressed into it.
 
 The first time a character tries to damage the sealed door or open it with an ability check or magic, or if a character touches any of the indentations, the ghostly figure of an elf steps through the door. (If the characters try to break through the door by dealing damage to it with a spell, go to "Opening the Door" below. The fight that immediately ensues will have the characters taking on the haven's guardians without knowing what's going on, but the ghost of Zyrian the scrivener can fill them in during the battle.)
 
@@ -348,11 +348,11 @@ The spectral elf initially ignores the characters and wanders around the room, n
 
 ##### Zyrian the Scrivener
 
-The ghostly figure is Zyrian the scrivener, the archmage who created the Haven of the Red Quill to preserve the lore of Phalorm. Zyrian (use the [ghost](3-Mechanics/CLI/bestiary/undead/ghost-xmm.md) stat block) doesn't attack the characters unless attacked first. He disappears if reduced to 0 hit points, but the magic that binds him to this place causes him to re-form at full health after 1 minute with no knowledge of any previous interaction with the characters. Zyrian can be permanently destroyed by reducing his ghost to 0 hit points after the haven's guardian creatures have been dispatched and the door sealing off area H8 has been opened. (See "Opening the Door" and "Guardian Battle" below for more information.) If this is done, Zyrian screams as he passes on from the world.
+The ghostly figure is Zyrian the scrivener, the archmage who created the Haven of the Red Quill to preserve the lore of Phalorm. Zyrian (use the [ghost](/3-Mechanics/CLI/bestiary/undead/ghost-xmm.md) stat block) doesn't attack the characters unless attacked first. He disappears if reduced to 0 hit points, but the magic that binds him to this place causes him to re-form at full health after 1 minute with no knowledge of any previous interaction with the characters. Zyrian can be permanently destroyed by reducing his ghost to 0 hit points after the haven's guardian creatures have been dispatched and the door sealing off area H8 has been opened. (See "Opening the Door" and "Guardian Battle" below for more information.) If this is done, Zyrian screams as he passes on from the world.
 
 If the characters attack Zyrian at once, he fights back and begins to speak, saying, "You shall not free her! I will protect the free peoples of the world against the Princess of the Shadow Glass until the end of time!" If the characters show Zyrian the writing of the scrivener's mark on them, the ghost immediately understands what has happened to them and becomes kindly and coherent.
 
-Zyrian can fill in any details of the story of the Princess of the Shadow Glass that the characters haven't sussed out. He then relates how, shortly before the fall of Phalorm, the Princess of the Shadow Glass attempted to subvert and destroy that kingdom and was bound into *The Scrivener's Tale* by a powerful ritual created by Zyrian. The ghost can't open the sealed door into the great library (area H8), but Zyrian can explain how the characters can do so (see below) and how they can end the threat posed by [Nintra Siotta](3-Mechanics/CLI/bestiary/npc/nintra-siotta-cm.md) (as described in area H8).
+Zyrian can fill in any details of the story of the Princess of the Shadow Glass that the characters haven't sussed out. He then relates how, shortly before the fall of Phalorm, the Princess of the Shadow Glass attempted to subvert and destroy that kingdom and was bound into *The Scrivener's Tale* by a powerful ritual created by Zyrian. The ghost can't open the sealed door into the great library (area H8), but Zyrian can explain how the characters can do so (see below) and how they can end the threat posed by [Nintra Siotta](/3-Mechanics/CLI/bestiary/npc/nintra-siotta-cm.md) (as described in area H8).
 
 Throughout any of the characters' interactions with Zyrian, the Princess of the Shadow Glass is a continual presence in their minds, moving telepathically from character to character to frantically warn them that the ghost is lying, and that it and its guardian creatures must be destroyed.
 
@@ -364,7 +364,7 @@ Zyrian knows that the guardians are summoned when any damage-dealing spell is di
 
 ##### Guardian Battle
 
-Three [stone golems](3-Mechanics/CLI/bestiary/construct/stone-golem-xmm.md) (carved to resemble an 8-foot-tall crowned dwarf, a 10-foot-tall crowned elf, and a 12-foot-tall crowned human, respectively) guard the haven. Each golem has a key rune set into its chest that fits one of the indentations on the door to area H8. The golems are joined by an effectively unlimited number of undead scholars, all of which use the [mummy](3-Mechanics/CLI/bestiary/undead/mummy-xmm.md) stat block but are lawful neutral. The scholar mummies are wrapped in funeral robes set with purple-glowing runes of oath-binding, recognized as such by any character who has proficiency in the [Arcana](3-Mechanics/CLI/rules/skills.md#Arcana) or [History](3-Mechanics/CLI/rules/skills.md#History) skill.
+Three [stone golems](/3-Mechanics/CLI/bestiary/construct/stone-golem-xmm.md) (carved to resemble an 8-foot-tall crowned dwarf, a 10-foot-tall crowned elf, and a 12-foot-tall crowned human, respectively) guard the haven. Each golem has a key rune set into its chest that fits one of the indentations on the door to area H8. The golems are joined by an effectively unlimited number of undead scholars, all of which use the [mummy](/3-Mechanics/CLI/bestiary/undead/mummy-xmm.md) stat block but are lawful neutral. The scholar mummies are wrapped in funeral robes set with purple-glowing runes of oath-binding, recognized as such by any character who has proficiency in the [Arcana](/3-Mechanics/CLI/skills.md#Arcana) or [History](/3-Mechanics/CLI/skills.md#History) skill.
 
 When the fight starts, two mummies per character emerge from stasis at each of the locations marked "M" on the map. When half of those mummies are destroyed, the first stone golem and one more mummy per character emerge from stasis. When the first stone golem is reduced to 0 hit points, its key rune pops out of its crumbling form and the second stone golem appears—along with one more mummy per character to sustain the pressure. The third stone golem emerges 1 round later, along with two more mummies per character. Reducing each golem to 0 hit points allows the characters to claim its key rune.
 
@@ -374,7 +374,7 @@ You can adjust the number of mummies depending on whether the characters are hav
 
 ##### Treasure
 
-A character who succeeds on a DC 15 Intelligence ([Investigation](3-Mechanics/CLI/rules/skills.md#Investigation)) check made while searching this area finds a [spell scroll](3-Mechanics/CLI/items/spell-scroll-xdmg.md) of [conjure fey](3-Mechanics/CLI/spells/conjure-fey-xphb.md) jammed into a compartment in one of the lecterns.
+A character who succeeds on a DC 15 Intelligence ([Investigation](/3-Mechanics/CLI/skills.md#Investigation)) check made while searching this area finds a [spell scroll](/3-Mechanics/CLI/items/spell-scroll-xdmg.md) of [conjure fey](/3-Mechanics/CLI/spells/conjure-fey-xphb.md) jammed into a compartment in one of the lecterns.
 
 #### H5. Dragon Fresco
 
@@ -383,9 +383,9 @@ A character who succeeds on a DC 15 Intelligence ([Investigation](3-Mechanics/CL
 > The floor of this room is covered with filth and moldering debris, and reeks of untold generations of rats. A faded fresco on the back wall depicts several human, elf, and dwarf wizards battling a black dragon.
 ^4bb
 
-The floor of this room is so covered with detritus that the whole room is difficult terrain. Any inspection of the debris spots fragments of well-gnawed bone, which can be recognized as humanoid with a successful DC 15 Wisdom ([Medicine](3-Mechanics/CLI/rules/skills.md#Medicine)) check. These are the decades-old bones of unknown adventurers who were killed by the guardians of the haven.
+The floor of this room is so covered with detritus that the whole room is difficult terrain. Any inspection of the debris spots fragments of well-gnawed bone, which can be recognized as humanoid with a successful DC 15 Wisdom ([Medicine](/3-Mechanics/CLI/skills.md#Medicine)) check. These are the decades-old bones of unknown adventurers who were killed by the guardians of the haven.
 
-A [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md) spell reveals three magical auras in this room. Two of these auras—one of divination magic and one of conjuration magic—emanate from a pair of magic items hidden beneath a loose flagstone in the middle of the floor (see "Treasure" below). The third aura is one of transmutation magic, and it comes from an iron wand embedded in the north wall (see "Fresco" below).
+A [detect magic](/3-Mechanics/CLI/spells/detect-magic-xphb.md) spell reveals three magical auras in this room. Two of these auras—one of divination magic and one of conjuration magic—emanate from a pair of magic items hidden beneath a loose flagstone in the middle of the floor (see "Treasure" below). The third aura is one of transmutation magic, and it comes from an iron wand embedded in the north wall (see "Fresco" below).
 
 ##### Fresco
 
@@ -394,13 +394,13 @@ Characters who examine the fresco that spans the north wall notice the following
 - The dragon is as big as one would expect an adult black dragon to be, and it clutches a small chest in one of its foreclaws. This chest, like the dragon, is a flat image rendered as part of the fresco, but it has a deep, half-inch-diameter hole bored into it.  
 - The wizards, like the dragon, are life-sized. One of them appears to hold a 1-foot-long black wand. This wand is not part of the fresco; it's an actual iron wand embedded in the wall, and it looks like it can be removed.  
 
-The first creature that touches the wand triggers a [chain lightning](3-Mechanics/CLI/spells/chain-lightning-xphb.md) spell (save DC 17) that springs from it, targeting that creature. The bolts that spring from that creature then target other creatures randomly. Once the spell goes off, the wand is safe to handle and can be removed from its indentation.
+The first creature that touches the wand triggers a [chain lightning](/3-Mechanics/CLI/spells/chain-lightning-xphb.md) spell (save DC 17) that springs from it, targeting that creature. The bolts that spring from that creature then target other creatures randomly. Once the spell goes off, the wand is safe to handle and can be removed from its indentation.
 
-The half-inch hole in the fresco is as deep as the wand is long. If the wand is inserted fully into this hole, there's an audible "click" as the wand locks into place and the dragon vanishes from the fresco. At the same time, an [adult black dragon](3-Mechanics/CLI/bestiary/dragon/adult-black-dragon-xmm.md) materializes in the middle of the room. The dragon, whose name is Caustilancer, has been trapped in the fresco for hundreds of years. It has no quarrel with the characters but attacks them if they harm it or stand in its way. If it's given a clear path to the exit, the dragon stomps through areas H3 and H2 before escaping the dungeon by flying up the shaft in area H1.
+The half-inch hole in the fresco is as deep as the wand is long. If the wand is inserted fully into this hole, there's an audible "click" as the wand locks into place and the dragon vanishes from the fresco. At the same time, an [adult black dragon](/3-Mechanics/CLI/bestiary/dragon/adult-black-dragon-xmm.md) materializes in the middle of the room. The dragon, whose name is Caustilancer, has been trapped in the fresco for hundreds of years. It has no quarrel with the characters but attacks them if they harm it or stand in its way. If it's given a clear path to the exit, the dragon stomps through areas H3 and H2 before escaping the dungeon by flying up the shaft in area H1.
 
 ##### Treasure
 
-A loose flagstone near the center of the room (at the location shown on the map) can be lifted, but it must first be spotted beneath the filth and debris by conducting a thorough search of the room and making a successful DC 18 Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) check. Beneath the loose flagstone is a 3-foot-deep, 4-foot-wide cubbyhole that holds three rotted crates (empty), several empty glass vials, a [potion of giant strength (fire)](3-Mechanics/CLI/items/potion-of-fire-giant-strength-xdmg.md), and a bundled-up [robe of eyes](3-Mechanics/CLI/items/robe-of-eyes-xdmg.md).
+A loose flagstone near the center of the room (at the location shown on the map) can be lifted, but it must first be spotted beneath the filth and debris by conducting a thorough search of the room and making a successful DC 18 Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) check. Beneath the loose flagstone is a 3-foot-deep, 4-foot-wide cubbyhole that holds three rotted crates (empty), several empty glass vials, a [potion of giant strength (fire)](/3-Mechanics/CLI/items/potion-of-fire-giant-strength-xdmg.md), and a bundled-up [robe of eyes](/3-Mechanics/CLI/items/robe-of-eyes-xdmg.md).
 
 #### H6. Bunkroom
 
@@ -411,7 +411,7 @@ A loose flagstone near the center of the room (at the location shown on the map)
 > A door in the north wall has been smashed open, and a damp draft comes from beyond it.
 ^4bf
 
-The haven's scholars and mages once slept here. The floor is covered with slippery mold. If a fight occurs here, each creature that moves more than half its speed on its turn must succeed on a DC 15 Dexterity saving throw or fall [prone](3-Mechanics/CLI/rules/conditions.md#Prone). The stone golems automatically succeed on this save.
+The haven's scholars and mages once slept here. The floor is covered with slippery mold. If a fight occurs here, each creature that moves more than half its speed on its turn must succeed on a DC 15 Dexterity saving throw or fall [prone](/3-Mechanics/CLI/conditions.md#Prone). The stone golems automatically succeed on this save.
 
 #### H7. Deep Spring
 
@@ -441,31 +441,31 @@ Closer examination of the ritual circle reveals that it contains a semicircle of
 
 ##### Summoning Nintra
 
-The process for destroying the [Princess of the Shadow Glass](3-Mechanics/CLI/bestiary/npc/nintra-siotta-cm.md) can be learned from Zyrian the scrivener in area H4. The first part of the ritual summons Nintra, who must be reduced to 0 hit points. The second part of the ritual then destroys the Princess of the Shadow Glass for all time (see "Nintra's End" below). If the characters do not speak with Zyrian for some reason, spending an hour searching the books of the library turns up references to the ritual that created The Scrivener's Tale and bound Nintra, and to the second part that can destroy the evil archfey.
+The process for destroying the [Princess of the Shadow Glass](/3-Mechanics/CLI/bestiary/npc/nintra-siotta-cm.md) can be learned from Zyrian the scrivener in area H4. The first part of the ritual summons Nintra, who must be reduced to 0 hit points. The second part of the ritual then destroys the Princess of the Shadow Glass for all time (see "Nintra's End" below). If the characters do not speak with Zyrian for some reason, spending an hour searching the books of the library turns up references to the ritual that created The Scrivener's Tale and bound Nintra, and to the second part that can destroy the evil archfey.
 
-To begin, a character imbued with the scrivener's mark must stand in the ritual circle, light six candles, and invoke all of the princess's names: [Nintra Siotta](3-Mechanics/CLI/bestiary/npc/nintra-siotta-cm.md), the Princess of the Shadow Glass, Lady of Dread Omens, and Seeker of the Three Crowns. The marked character must use the parchment and ink found in the circle to express in writing their intent to free Nintra—whereupon the Princess of the Shadow Glass appears in the circle and the fight begins.
+To begin, a character imbued with the scrivener's mark must stand in the ritual circle, light six candles, and invoke all of the princess's names: [Nintra Siotta](/3-Mechanics/CLI/bestiary/npc/nintra-siotta-cm.md), the Princess of the Shadow Glass, Lady of Dread Omens, and Seeker of the Three Crowns. The marked character must use the parchment and ink found in the circle to express in writing their intent to free Nintra—whereupon the Princess of the Shadow Glass appears in the circle and the fight begins.
 
 ##### Fighting Nintra
 
-[Nintra](3-Mechanics/CLI/bestiary/npc/nintra-siotta-cm.md) screams in ecstasy when she is finally released from The Scrivener's Tale, then attacks at once. (During the fight, you can have Teles use [sending](3-Mechanics/CLI/spells/sending-xphb.md) to contact the characters in a panic, telling them that The Scrivener's Tale flared with light just moments before, releasing a shadowy form within.) Even if the characters have played the part of Nintra's helpers thus far, her link to them through the book makes her aware of any intention to destroy her, and she tells the characters that their betrayal will be their undoing.
+[Nintra](/3-Mechanics/CLI/bestiary/npc/nintra-siotta-cm.md) screams in ecstasy when she is finally released from The Scrivener's Tale, then attacks at once. (During the fight, you can have Teles use [sending](/3-Mechanics/CLI/spells/sending-xphb.md) to contact the characters in a panic, telling them that The Scrivener's Tale flared with light just moments before, releasing a shadowy form within.) Even if the characters have played the part of Nintra's helpers thus far, her link to them through the book makes her aware of any intention to destroy her, and she tells the characters that their betrayal will be their undoing.
 
-As a bonus action in the first round of combat, Nintra summons six shadow glass warriors. Each one steps out of one of the wall-mounted panes of glass around the room and resembles an elf made of smoky gray glass. Use the [gladiator](3-Mechanics/CLI/bestiary/humanoid/gladiator-xmm.md) stat block to represent the glass warriors. When one is reduced to 0 hit points, it shatters like glass, and the scattered shards melt away to vapor in 1 round.
+As a bonus action in the first round of combat, Nintra summons six shadow glass warriors. Each one steps out of one of the wall-mounted panes of glass around the room and resembles an elf made of smoky gray glass. Use the [gladiator](/3-Mechanics/CLI/bestiary/humanoid/gladiator-xmm.md) stat block to represent the glass warriors. When one is reduced to 0 hit points, it shatters like glass, and the scattered shards melt away to vapor in 1 round.
 
-[Nintra](3-Mechanics/CLI/bestiary/npc/nintra-siotta-cm.md) treats the library as her lair for the purpose of using her lair actions, but she cannot use those actions elsewhere in the Haven of the Red Quill.
+[Nintra](/3-Mechanics/CLI/bestiary/npc/nintra-siotta-cm.md) treats the library as her lair for the purpose of using her lair actions, but she cannot use those actions elsewhere in the Haven of the Red Quill.
 
 ##### Scrivener's Marks
 
-[Nintra](3-Mechanics/CLI/bestiary/npc/nintra-siotta-cm.md) is aware of what type of scrivener's mark each character bears when the fight begins. If any character has a level 4 mark, or if Nintra is having too hard a time in the fight and needs an additional edge, she can use an action to force a character to make a DC 20 Charisma saving throw. On a failed save, the character's mark becomes one of the next higher level.
+[Nintra](/3-Mechanics/CLI/bestiary/npc/nintra-siotta-cm.md) is aware of what type of scrivener's mark each character bears when the fight begins. If any character has a level 4 mark, or if Nintra is having too hard a time in the fight and needs an additional edge, she can use an action to force a character to make a DC 20 Charisma saving throw. On a failed save, the character's mark becomes one of the next higher level.
 
 ##### Nintra's End
 
-When [Nintra](3-Mechanics/CLI/bestiary/npc/nintra-siotta-cm.md) is reduced to 0 hit points, she falls to the ground, [unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious). To complete the process, a character with one or more levels of the scrivener's mark must extinguish the candles, whereupon Nintra turns to ash, as does The Scrivener's Tale in Candlekeep. The panes of shadow glass lose their magic when Nintra is destroyed and shatter harmlessly, and the scrivener's mark fades from all the characters.
+When [Nintra](/3-Mechanics/CLI/bestiary/npc/nintra-siotta-cm.md) is reduced to 0 hit points, she falls to the ground, [unconscious](/3-Mechanics/CLI/conditions.md#Unconscious). To complete the process, a character with one or more levels of the scrivener's mark must extinguish the candles, whereupon Nintra turns to ash, as does The Scrivener's Tale in Candlekeep. The panes of shadow glass lose their magic when Nintra is destroyed and shatter harmlessly, and the scrivener's mark fades from all the characters.
 
 If the ritual is not completed, Nintra regains all her hit points and expended spells in 1 hour. During that time, she is immune to damage. If she returns to life, Nintra summons six more shadow glass warriors and sets them on the characters, then tries to flee.
 
 ##### Treasure
 
-Any character who succeeds on a DC 18 Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) check while searching through or collecting shards of shadow glass, or who checks the shards with a [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md) spell, notes an aura of abjuration magic around one small piece of shadow glass. That shard functions as an [Ioun stone (awareness)](3-Mechanics/CLI/items/ioun-stone-awareness-xdmg.md).
+Any character who succeeds on a DC 18 Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) check while searching through or collecting shards of shadow glass, or who checks the shards with a [detect magic](/3-Mechanics/CLI/spells/detect-magic-xphb.md) spell, notes an aura of abjuration magic around one small piece of shadow glass. That shard functions as an [Ioun stone (awareness)](/3-Mechanics/CLI/items/ioun-stone-awareness-xdmg.md).
 
 The books in the library amount to nearly ten thousand volumes and cover a host of subjects including arcana, history, and nature. If the characters want to sell the collection, you can decide what it might be worth, but the characters should earn at least 50,000 gp for the lot (see also "A Little Light Reading" below). Such a reward might take the form of one or two very rare magic items, a small keep, a large parcel of land, or a seaworthy galley with a full crew.
 
@@ -495,7 +495,7 @@ If the characters allowed Caustilancer the black dragon to escape into the wild,
 
 ## Nintra Siotta, Princess of the Shadow Glass
 
-[Nintra Siotta](3-Mechanics/CLI/bestiary/npc/nintra-siotta-cm.md), a chaotic evil archfey who was exiled from the Gloaming Court by the Queen of Air and Darkness long ago, is known in Faerûn by three titles: Princess of the Shadow Glass, Lady of Dread Omens, and Seeker of the Three Crowns. She appears as a 9-foot-tall humanoid made of smoky gray glass, wrapped in a cloak-like darkness that appears to devour the light.
+[Nintra Siotta](/3-Mechanics/CLI/bestiary/npc/nintra-siotta-cm.md), a chaotic evil archfey who was exiled from the Gloaming Court by the Queen of Air and Darkness long ago, is known in Faerûn by three titles: Princess of the Shadow Glass, Lady of Dread Omens, and Seeker of the Three Crowns. She appears as a 9-foot-tall humanoid made of smoky gray glass, wrapped in a cloak-like darkness that appears to devour the light.
 
 Nintra's eyes burn with green fire, and she speaks in a high, musical voice. Deception comes naturally to her, but imprisonment in *The Scrivener's Tale*has made her impatient and prone to telepathic outbursts that betray her cruel nature.
 
@@ -515,11 +515,11 @@ Nintra's eyes burn with green fire, and she speaks in a high, musical voice. Dec
 
 "Why should I worry about the schemes of others? No one is my equal in cunning."
 
-![Nintra Siotta](3-Mechanics/CLI/adventures/candlekeep-mysteries/img/131-637514193168543010.webp#center)
+![Nintra Siotta](/3-Mechanics/CLI/adventures/candlekeep-mysteries/img/131-637514193168543010.webp#center)
 
 ### Lair Actions
 
 On initiative count 20 (losing initiative ties), Nintra can take a lair action to cause one of the following effects; she can't use the same effect two rounds in a row:
 
-- Nintra targets one pane of shadow glass in her lair, causing it to explode into shards. Each creature within 20 feet of the exploding pane must make a DC 18 Dexterity saving throw, taking 13 (`3d8`) piercing damage on a failed save, or half as much damage on a successful one. The shards fade away to vapor and the pane is restored to normal at the next initiative count 20.  
-- Nintra targets one pane of shadow glass in her lair, briefly transforming it into a swirling vortex. One creature of her choice within 20 feet of the pane must succeed on a DC 20 Strength saving throw or be drawn into the vortex, taking 11 (`2d10`) necrotic damage. The creature is then teleported to an unoccupied space within 5 feet of another pane of shadow glass in Nintra's lair (determined randomly).
+- Nintra targets one pane of shadow glass in her lair, causing it to explode into shards. Each creature within 20 feet of the exploding pane must make a DC 18 Dexterity saving throw, taking `dice:3d8|noform|noparens|avg|text(13)` (`3d8`) piercing damage on a failed save, or half as much damage on a successful one. The shards fade away to vapor and the pane is restored to normal at the next initiative count 20.  
+- Nintra targets one pane of shadow glass in her lair, briefly transforming it into a swirling vortex. One creature of her choice within 20 feet of the pane must succeed on a DC 20 Strength saving throw or be drawn into the vortex, taking `dice:2d10|noform|noparens|avg|text(11)` (`2d10`) necrotic damage. The creature is then teleported to an unoccupied space within 5 feet of another pane of shadow glass in Nintra's lair (determined randomly).

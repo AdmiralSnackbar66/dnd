@@ -11,7 +11,7 @@ statblock: inline
 aliases: ["Gray Ooze"]
 ---
 # [Gray Ooze](3-Mechanics\CLI\bestiary\ooze/gray-ooze-xmm.md)
-*Source: Monster Manual (2024) p. 151*  
+*Source: Monster Manual (2024) p. 151. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
 
 Gray oozes appear in areas affected by unpredictable magic. Magic-users who fail in their attempts to bind elemental spirits to the bodies of Constructs might also accidentally create gray oozes.
 
@@ -43,10 +43,10 @@ Gray oozes are predatory, corrosive slimes that blend in with stony surroundings
 "skillsaves":
   "Stealth": !!int "2"
 "damage_resistances": "acid, cold, fire"
-"condition_immunities": "[blinded](3-Mechanics/CLI/rules/conditions.md#Blinded), [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed),\
-  \ [deafened](3-Mechanics/CLI/rules/conditions.md#Deafened), [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
-  \ [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened), [grappled](3-Mechanics/CLI/rules/conditions.md#Grappled),\
-  \ [prone](3-Mechanics/CLI/rules/conditions.md#Prone), [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained)"
+"condition_immunities": "[blinded](/3-Mechanics/CLI/conditions.md#Blinded), [charmed](/3-Mechanics/CLI/conditions.md#Charmed),\
+  \ [deafened](/3-Mechanics/CLI/conditions.md#Deafened), [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
+  \ [frightened](/3-Mechanics/CLI/conditions.md#Frightened), [grappled](/3-Mechanics/CLI/conditions.md#Grappled),\
+  \ [prone](/3-Mechanics/CLI/conditions.md#Prone), [restrained](/3-Mechanics/CLI/conditions.md#Restrained)"
 "senses": "blindsight 60 ft., passive Perception 8"
 "languages": ""
 "cr": "1/2"
@@ -58,20 +58,20 @@ Gray oozes are predatory, corrosive slimes that blend in with stony surroundings
     \ dealing any damage. Any nonmagical weapon takes a cumulative -1 penalty to attack\
     \ rolls immediately after dealing damage to the ooze and coming into contact with\
     \ it. The weapon is destroyed if the penalty reaches -5. The penalty can be removed\
-    \ by casting the [Mending](3-Mechanics/CLI/spells/mending-xphb.md) spell on the\
+    \ by casting the [Mending](/3-Mechanics/CLI/spells/mending-xphb.md) spell on the\
     \ weapon.\n\nThe ooze can eat through 2-inch-thick, nonmagical metal or wood in\
     \ 1 round."
   "name": "Corrosive Form"
 "actions":
-- "desc": "Melee Attack Roll: +3, reach 5 ft. Hit: 10 (2d8 + 1) Acid damage.\
-    \ Nonmagical armor worn by the target takes a -1 penalty to the AC it offers.\
-    \ The armor is destroyed if the penalty reduces its AC to 10. The penalty can\
-    \ be removed by casting the [Mending](3-Mechanics/CLI/spells/mending-xphb.md)\
-    \ spell on the armor."
+- "desc": "Melee Attack Roll: +3, reach 5 ft. Hit: 10 (2d8 + 1) Acid damage. Nonmagical\
+    \ armor worn by the target takes a -1 penalty to the AC it offers. The armor is\
+    \ destroyed if the penalty reduces its AC to 10. The penalty can be removed by\
+    \ casting the [Mending](/3-Mechanics/CLI/spells/mending-xphb.md) spell on the\
+    \ armor."
   "name": "Pseudopod"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/ooze/token/gray-ooze-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/ooze/token/gray-ooze-xmm.webp"
 ```
 ^statblock
 

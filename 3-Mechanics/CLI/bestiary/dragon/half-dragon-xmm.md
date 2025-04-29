@@ -11,7 +11,7 @@ statblock: inline
 aliases: ["Half-Dragon"]
 ---
 # [Half-Dragon](3-Mechanics\CLI\bestiary\dragon/half-dragon-xmm.md)
-*Source: Monster Manual (2024) p. 163*  
+*Source: Monster Manual (2024) p. 163. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
 
 ## Half-Dragon
 
@@ -67,7 +67,7 @@ Half-dragons share personality traits and agendas with the dragon who spawned th
 - "desc": "Melee Attack Roll: +7, reach 10 ft. Hit: 6 (1d4 + 4) Slashing damage\
     \ plus 7 (2d6) damage of the type chosen for the Draconic Origin trait."
   "name": "Claw"
-- "desc": "Dexterity Saving Throw: DC 14, each creature in a 30-foot [Cone](3-Mechanics/CLI/rules/variant-rules/cone-area-of-effect-xphb.md).\
+- "desc": "Dexterity Saving Throw: DC 14, each creature in a 30-foot [Cone](/3-Mechanics/CLI/variant-rules/cone-area-of-effect-xphb.md).\
     \ Failure: 28 (8d6) damage of the type chosen for the Draconic Origin trait.\
     \ Success: Half damage."
   "name": "Dragon's Breath (Recharge 5-6)"
@@ -76,7 +76,7 @@ Half-dragons share personality traits and agendas with the dragon who spawned th
   "name": "Leap"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/dragon/token/half-dragon-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/dragon/token/half-dragon-xmm.webp"
 ```
 ^statblock
 

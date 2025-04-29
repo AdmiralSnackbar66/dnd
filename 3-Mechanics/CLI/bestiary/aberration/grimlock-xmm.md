@@ -11,7 +11,7 @@ statblock: inline
 aliases: ["Grimlock"]
 ---
 # [Grimlock](3-Mechanics\CLI\bestiary\aberration/grimlock-xmm.md)
-*Source: Monster Manual (2024) p. 160*  
+*Source: Monster Manual (2024) p. 160. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
 
 ## Grimlock
 
@@ -67,12 +67,12 @@ Roll on or choose a result from the Grimlock Tasks table to inspire how grimlock
 "languages": ""
 "cr": "1/4"
 "actions":
-- "desc": "Melee Attack Roll: +5, reach 5 ft. Hit: 6 (1d6 + 3) Bludgeoning\
-    \ damage plus 2 (1d4) Psychic damage."
+- "desc": "Melee Attack Roll: +5, reach 5 ft. Hit: 6 (1d6 + 3) Bludgeoning damage\
+    \ plus 2 (1d4) Psychic damage."
   "name": "Bone Cudgel"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/aberration/token/grimlock-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/aberration/token/grimlock-xmm.webp"
 ```
 ^statblock
 

@@ -45,20 +45,20 @@ A lichen lich looks like a skeleton covered with fungi and bark-like lichen. A l
   "Survival": !!int "11"
 "damage_resistances": "cold, necrotic"
 "damage_immunities": "poison"
-"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
-  \ [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened), [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed),\
-  \ [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned), [stunned](3-Mechanics/CLI/rules/conditions.md#Stunned)"
+"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
+  \ [frightened](/3-Mechanics/CLI/conditions.md#Frightened), [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed),\
+  \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned), [stunned](/3-Mechanics/CLI/conditions.md#Stunned)"
 "senses": "truesight 120 ft., passive Perception 21"
 "languages": "Common, Druidic, Sylvan"
 "cr": "18"
 "traits":
 - "desc": "The lich casts one of the following spells using Wisdom as the spellcasting\
-    \ ability (save DC 19):\n\nAt will: [druidcraft](3-Mechanics/CLI/spells/druidcraft-xphb.md)\n\
-    \n1/day each: [antilife shell](3-Mechanics/CLI/spells/antilife-shell-xphb.md),\
-    \ [dispel magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md), [speak with plants](3-Mechanics/CLI/spells/speak-with-plants-xphb.md),\
-    \ [transport via plants](3-Mechanics/CLI/spells/transport-via-plants-xphb.md),\
-    \ \n\n3/day each: [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md),\
-    \ [fog cloud](3-Mechanics/CLI/spells/fog-cloud-xphb.md), [pass without trace](3-Mechanics/CLI/spells/pass-without-trace-xphb.md)"
+    \ ability (save DC 19):\n\nAt will: [druidcraft](/3-Mechanics/CLI/spells/druidcraft-xphb.md)\n\
+    \n1/day each: [antilife shell](/3-Mechanics/CLI/spells/antilife-shell-xphb.md),\
+    \ [dispel magic](/3-Mechanics/CLI/spells/dispel-magic-xphb.md), [speak with plants](/3-Mechanics/CLI/spells/speak-with-plants-xphb.md),\
+    \ [transport via plants](/3-Mechanics/CLI/spells/transport-via-plants-xphb.md),\
+    \ \n\n3/day each: [detect magic](/3-Mechanics/CLI/spells/detect-magic-xphb.md),\
+    \ [fog cloud](/3-Mechanics/CLI/spells/fog-cloud-xphb.md), [pass without trace](/3-Mechanics/CLI/spells/pass-without-trace-xphb.md)"
   "name": "Spellcasting"
 - "desc": "If the lich fails a saving throw, it can choose to succeed instead."
   "name": "Legendary Resistance (3/Day)"
@@ -69,14 +69,14 @@ A lichen lich looks like a skeleton covered with fungi and bark-like lichen. A l
 "actions":
 - "desc": "The lich makes four attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: +9 to hit, reach 10 ft., one creature. Hit:\
-    \ 17 (5d6) poison damage, and the target must succeed on a DC 19 Constitution\
-    \ saving throw or be [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)\
-    \ for 1 minute. The target can repeat the saving throw at the end of each of its\
-    \ turns, ending the effect on itself on a success."
+- "desc": "Melee Weapon Attack: +9 to hit, reach 10 ft., one creature. Hit: 17\
+    \ (5d6) poison damage, and the target must succeed on a DC 19 Constitution saving\
+    \ throw or be [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned) for 1 minute.\
+    \ The target can repeat the saving throw at the end of each of its turns, ending\
+    \ the effect on itself on a success."
   "name": "Poisonous Touch"
-- "desc": "Ranged Spell Attack: +9 to hit, range 60 ft., one target. Hit: 14\
-    \ (4d6) necrotic damage."
+- "desc": "Ranged Spell Attack: +9 to hit, range 60 ft., one target. Hit: 14 (4d6)\
+    \ necrotic damage."
   "name": "Wither"
 - "desc": "The lich fills up to ten 10-foot cubes with fire. Every cube must be within\
     \ 150 feet of the lich and occupy a space the lich can see, and each cube must\
@@ -89,11 +89,11 @@ A lichen lich looks like a skeleton covered with fungi and bark-like lichen. A l
 "legendary_actions":
 - "desc": "The lich makes an attack."
   "name": "Attack"
-- "desc": "The lich targets one [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)\
+- "desc": "The lich targets one [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)\
     \ creature it can see within 30 feet of it. The target must succeed on a DC 19\
-    \ Constitution saving throw or fall [unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious)\
-    \ until the [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned) condition\
-    \ ends on it."
+    \ Constitution saving throw or fall [unconscious](/3-Mechanics/CLI/conditions.md#Unconscious)\
+    \ until the [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned) condition ends\
+    \ on it."
   "name": "Poison Prick (Cost 2 Actions)"
 - "desc": "The lich targets one creature it can see within 30 feet of it. The target\
     \ must succeed on a DC 19 Constitution saving throw or take 11 (2d10) necrotic\
@@ -107,8 +107,8 @@ A lichen lich looks like a skeleton covered with fungi and bark-like lichen. A l
 - "desc": "- Poisonous spores fill a 10-foot cube that the lich can see within 120\
     \ feet of it. Any creature that enters the cloud for the first time on a turn\
     \ or starts its turn there must succeed on a DC 19 Constitution saving throw or\
-    \ be [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned) until the end of\
-    \ its next turn. The cloud lasts for 1 minute or until it is dispersed by a strong\
+    \ be [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned) until the end of its\
+    \ next turn. The cloud lasts for 1 minute or until it is dispersed by a strong\
     \ wind.  \n- The lich commands the might of its diseased grove, creating a shambling\
     \ mound. The shambling mound appears in an unoccupied space within 30 feet of\
     \ the lich, acts on its own initiative count, and obeys the lich's commands. The\
@@ -117,14 +117,14 @@ A lichen lich looks like a skeleton covered with fungi and bark-like lichen. A l
     \ a point on the ground that the lich can see within 120 feet of it. The lich\
     \ is unaffected by the roots and vines. For all other creatures, the area becomes\
     \ difficult terrain, and each creature in the area must succeed on a DC 19 Strength\
-    \ saving throw or be [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained)\
-    \ by the roots. As an action, a creature can try to free itself or another creature\
-    \ within its reach, doing so with a successful DC 19 Strength ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics))\
+    \ saving throw or be [restrained](/3-Mechanics/CLI/conditions.md#Restrained) by\
+    \ the roots. As an action, a creature can try to free itself or another creature\
+    \ within its reach, doing so with a successful DC 19 Strength ([Athletics](/3-Mechanics/CLI/skills.md#Athletics))\
     \ check. The roots and vines wilt away when the lich uses this lair action again\
     \ or when the lich dies.  "
   "name": ""
 "source":
 - "CM"
-"image": "3-Mechanics/CLI/bestiary/undead/token/lichen-lich-cm.webp"
+"image": "/3-Mechanics/CLI/bestiary/undead/token/lichen-lich-cm.webp"
 ```
 ^statblock

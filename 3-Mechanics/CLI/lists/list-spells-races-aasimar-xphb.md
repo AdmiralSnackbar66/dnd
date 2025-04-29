@@ -9,4 +9,4 @@ aliases: ["Spells for Aasimar"]
 
 ## Cantrip
 
-- [Light](3-Mechanics/CLI/spells/light-xphb.md "XPHB") as cantrip
+- [Light](/3-Mechanics/CLI/spells/light-xphb.md "XPHB") as cantrip

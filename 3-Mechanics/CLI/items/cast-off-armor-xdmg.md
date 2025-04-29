@@ -27,7 +27,7 @@ aliases:
 
 
 
-You can doff this armor as a [Magic](3-Mechanics/CLI/rules/actions.md#Magic) action.
+You can doff this armor as a [Magic](/3-Mechanics/CLI/actions.md#Magic) action.
 
 **Variants**:
 - [Cast-Off Breastplate](#Cast-Off%20Breastplate)

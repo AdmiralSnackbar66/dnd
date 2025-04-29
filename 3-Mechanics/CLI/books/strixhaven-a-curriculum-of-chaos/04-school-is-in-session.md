@@ -12,7 +12,7 @@ The following four chapters present a series of Dungeons & Dragons adventures op
 
 "Chapters 1" and "2" contain all the information the players need to play Strixhaven students. Each adventure takes place over the course of one academic year. For instance, "Campus Kerfuffle," the adventure in this chapter, takes place during the characters' first year at the university. "Hunt for Mage Tower," in chapter 4, takes place during the characters' second year at the university, and so on. The adventures can be run consecutively as a campaign or individually, as described below.
 
-![Strixhaven students are of...](3-Mechanics/CLI/books/strixhaven-a-curriculum-of-chaos/img/025-03-001-chapter-splash.webp#center "Strixhaven students are often in awe of their surroundings at the famed university of magic")
+![Strixhaven students are of...](/3-Mechanics/CLI/books/strixhaven-a-curriculum-of-chaos/img/025-03-001-chapter-splash.webp#center "Strixhaven students are often in awe of their surroundings at the famed university of magic")
 
 ## Running the Adventures
 
@@ -29,9 +29,9 @@ Spells and equipment mentioned in these adventures are described in the "Player'
 
 ### A Strixhaven Campaign
 
-If you run these adventures as a campaign, one villain is behind the chaos on campus: the bullywug [Murgaxor](3-Mechanics/CLI/bestiary/npc/murgaxor-scc.md) Grenshel, a disgruntled former student who attended Strixhaven centuries ago. [Murgaxor](3-Mechanics/CLI/bestiary/npc/murgaxor-scc.md)—who uses evil magic to sustain his life force—focuses his all-consuming desire for revenge on destroying Strixhaven University.
+If you run these adventures as a campaign, one villain is behind the chaos on campus: the bullywug [Murgaxor](/3-Mechanics/CLI/bestiary/npc/murgaxor-scc.md) Grenshel, a disgruntled former student who attended Strixhaven centuries ago. [Murgaxor](/3-Mechanics/CLI/bestiary/npc/murgaxor-scc.md)—who uses evil magic to sustain his life force—focuses his all-consuming desire for revenge on destroying Strixhaven University.
 
-The adventures assume you're playing a Strixhaven campaign, and each adventure provides information about how [Murgaxor](3-Mechanics/CLI/bestiary/npc/murgaxor-scc.md)'s influence corrupts and warps creatures and places on campus. The end of each adventure provides information that foreshadows or sets up the events of the next adventure. The characters ultimately confront [Murgaxor](3-Mechanics/CLI/bestiary/npc/murgaxor-scc.md) in chapter 6, where the villain is described in detail.
+The adventures assume you're playing a Strixhaven campaign, and each adventure provides information about how [Murgaxor](/3-Mechanics/CLI/bestiary/npc/murgaxor-scc.md)'s influence corrupts and warps creatures and places on campus. The end of each adventure provides information that foreshadows or sets up the events of the next adventure. The characters ultimately confront [Murgaxor](/3-Mechanics/CLI/bestiary/npc/murgaxor-scc.md) in chapter 6, where the villain is described in detail.
 
 ### Character Creation
 
@@ -47,15 +47,15 @@ Rather than playing the four adventures as a campaign, you can run them as stand
 
 If you run any of these adventures separately, you should ask the players to create characters of the appropriate starting level for the adventure, as shown in the Adventure Levels table.
 
-![Standalone Adventures; Adventure Levels](3-Mechanics/CLI/tables/standalone-adventures-adventure-levels-scc.md)
+![Standalone Adventures; Adventure Levels](/3-Mechanics/CLI/tables/standalone-adventures-adventure-levels-scc.md)
 
 #### Relationships
 
 If you run chapter 4, 5, or 6 as a standalone adventure, you should ask each player to choose at least one student to be a Friend, a Beloved, or a Rival, as described in the "Relationship rules" later in this chapter. The Starting Relationship Points table lists the number of points a character has at the start with the chosen Friend, Beloved, or Rival.
 
-![Relationships; Starting Relationship Points](3-Mechanics/CLI/tables/relationships-starting-relationship-points-scc.md)
+![Relationships; Starting Relationship Points](/3-Mechanics/CLI/tables/relationships-starting-relationship-points-scc.md)
 
-![First-year students rush t...](3-Mechanics/CLI/books/strixhaven-a-curriculum-of-chaos/img/026-03-002-first-year-students.webp#center "First-year students rush to class carrying armloads of books—and all their excitement for the start of a new academic year")
+![First-year students rush t...](/3-Mechanics/CLI/books/strixhaven-a-curriculum-of-chaos/img/026-03-002-first-year-students.webp#center "First-year students rush to class carrying armloads of books—and all their excitement for the start of a new academic year")
 
 ### Using the Maps
 
@@ -81,13 +81,13 @@ Finally, as the characters are completing tasks together for their courses or ha
 
 The sections on the following pages give special rules for certain aspects of university life. Players can use the sheet below to keep track of the effects of those rules on their characters. Each player should have a copy to use during the course of the adventures. The tracking sheet includes the following parts:
 
-![](3-Mechanics/CLI/books/strixhaven-a-curriculum-of-chaos/img/027-03-003-strixhaven-memories.webp#center)
+![](/3-Mechanics/CLI/books/strixhaven-a-curriculum-of-chaos/img/027-03-003-strixhaven-memories.webp#center)
 
 - **Relationships.** The player notes here the names of each student NPC with whom their character has a Relationship. The player should track how many Relationship Points their character has with each NPC; whether that NPC is a Friend, a Rival, or a Beloved; whether that NPC confers Beloved Inspiration; and that NPC's Bond Boon or Bond Bane, whichever is applicable.  
 - **Report Cards.** This section includes places to track the results of each Exam.  
 - **Extracurriculars.** The player notes the Extracurriculars in which their character is participating. The player should also note each Extracurricular's NPC member. Remind players that while their character participates in an Extracurricular, they gain a positive or negative Relationship Point with its associated student NPC.  
 - **Job.** The player should note their character's job, if any. Remind the player that while their character holds a job, the character gains a positive or negative Relationship Point with its associated student coworker, whom they should also note on this sheet.  
-- **Student Dice.** The player should track the Student Dice their character has from passing Exams and from Extracurriculars. They should also note the skills their character can expend the Student Dice on. They should check the "`d4`" box whenever they gain a Student Die, and they should erase the check mark when they expend the die.  
+- **Student Dice.** The player should track the Student Dice their character has from passing Exams and from Extracurriculars. They should also note the skills their character can expend the Student Dice on. They should check the "`dice:d4|noform|noparens|avg` (`d4`)" box whenever they gain a Student Die, and they should erase the check mark when they expend the die.  
 
 > [!note] Opting Out of These Rules
 > 
@@ -108,13 +108,13 @@ Characters can gain the benefit from a new Extracurricular only by joining it at
 
 ### Extracurricular Benefits
 
-![Students find many magical...](3-Mechanics/CLI/books/strixhaven-a-curriculum-of-chaos/img/028-03-004.webp#center "Students find many magical ways to celebrate their achievements")
+![Students find many magical...](/3-Mechanics/CLI/books/strixhaven-a-curriculum-of-chaos/img/028-03-004.webp#center "Students find many magical ways to celebrate their achievements")
 
 While a student participates in an Extracurricular, they gain a Student Die and a Relationship Point, as explained below.
 
 #### Student Dice
 
-Each character gains one Student Die for each Extracurricular they are participating in. A Student Die is a `d4` the player can roll and add to an ability check that the character makes, provided the check uses one of the skills listed in the Extracurricular's description. The player can wait until after rolling the `d20` before rolling the Student Die, but must do so before you say whether the check succeeds or fails. No more than one Student Die can be rolled per check. After rolling a Student Die, a player can't roll it again until the character finishes a long rest.
+Each character gains one Student Die for each Extracurricular they are participating in. A Student Die is a `dice:d4|noform|noparens|avg` (`d4`) the player can roll and add to an ability check that the character makes, provided the check uses one of the skills listed in the Extracurricular's description. The player can wait until after rolling the `dice:d20|noform|noparens|avg` (`d20`) before rolling the Student Die, but must do so before you say whether the check succeeds or fails. No more than one Student Die can be rolled per check. After rolling a Student Die, a player can't roll it again until the character finishes a long rest.
 
 #### Relationship Point
 
@@ -130,113 +130,113 @@ Student characters can join any of the following Extracurriculars.
 
 #### Dead Languages Society
 
-- **Skills.** [Athletics](3-Mechanics/CLI/rules/skills.md#Athletics), [History](3-Mechanics/CLI/rules/skills.md#History)  
-- **Member.** [[#Drazhomir Yarnask]], [[#Quentillius Antiphiun Melentor III]]  
+- **Skills.** [Athletics](/3-Mechanics/CLI/skills.md#Athletics), [History](/3-Mechanics/CLI/skills.md#History)  
+- **Member.** Drazhomir Yarnask, Quentillius A. Melentor III  
 
 These linguistics lovers take advantage of Strixhaven's deep repository of tomes written in ancient and near-extinct languages, teaching themselves these tongues and often translating their favorite works.
 
 #### Distinguished Society of Fine Artists
 
-- **Skills.** [Performance](3-Mechanics/CLI/rules/skills.md#Performance) or [Sleight of Hand](3-Mechanics/CLI/rules/skills.md#Sleight%20of%20Hand)  
-- **Member.** [[#Cadoras Damellawar]], [[#Nora Ann Wu]]  
+- **Skills.** [Performance](/3-Mechanics/CLI/skills.md#Performance) or [Sleight of Hand](/3-Mechanics/CLI/skills.md#Sleight%20of%20Hand)  
+- **Member.** Cadoras Damellawar, Nora Ann Wu  
 
 These painters, sculptors, printmakers, and mosaic artists gather to create fine works and to discuss the latest techniques and trends in the world of art.
 
 #### Dragonchess Club
 
-- **Skills.** [Deception](3-Mechanics/CLI/rules/skills.md#Deception), [Investigation](3-Mechanics/CLI/rules/skills.md#Investigation)  
-- **Member.** [[#Bhedum "Rampart" Sooviij]], [[#Tilana Kapule]]  
+- **Skills.** [Deception](/3-Mechanics/CLI/skills.md#Deception), [Investigation](/3-Mechanics/CLI/skills.md#Investigation)  
+- **Member.** Bhedum "Rampart" Sooviij, Tilana Kapule  
 
 These experts in the game of dragonchess discuss the latest in strategy, compete against one another, and test out homemade variations of game rules.
 
 #### Dragonsguard Historical Society
 
-- **Skills.** [Arcana](3-Mechanics/CLI/rules/skills.md#Arcana), [History](3-Mechanics/CLI/rules/skills.md#History)  
-- **Member.** [[#Bhedum "Rampart" Sooviij]]
+- **Skills.** [Arcana](/3-Mechanics/CLI/skills.md#Arcana), [History](/3-Mechanics/CLI/skills.md#History)  
+- **Member.** Bhedum "Rampart" Sooviij  
 
 These historians are fascinated by all time periods, and they regularly meet to discuss, debate, and deep dive into members' favorite topics.
 
 #### Fantastical Horticulture Club
 
-- **Skills.** [Nature](3-Mechanics/CLI/rules/skills.md#Nature), [Survival](3-Mechanics/CLI/rules/skills.md#Survival)  
-- **Member.** [[#Urzmaktok Grojsh]] 
+- **Skills.** [Nature](/3-Mechanics/CLI/skills.md#Nature), [Survival](/3-Mechanics/CLI/skills.md#Survival)  
+- **Member.** Urzmaktok Grojsh  
 
 These green-thumbed experts love mixing magic and gardening to create new strains of vegetation, many of which they cultivate on campus.
 
 #### Future Entrepreneurs of Strixhaven
 
-- **Skills.** [Insight](3-Mechanics/CLI/rules/skills.md#Insight), [Persuasion](3-Mechanics/CLI/rules/skills.md#Persuasion)  
-- **Member.** [[#Grayson Wildemere]] 
+- **Skills.** [Insight](/3-Mechanics/CLI/skills.md#Insight), [Persuasion](/3-Mechanics/CLI/skills.md#Persuasion)  
+- **Member.** Grayson Wildemere  
 
 These enterprising students discuss business theories. They often create small start-ups to sell wares and services appealing to students. The funds they generate fuel the club's activities.
 
 #### Intramural Gymnastics Club
 
-- **Skills.** [Acrobatics](3-Mechanics/CLI/rules/skills.md#Acrobatics), [Performance](3-Mechanics/CLI/rules/skills.md#Performance)  
-- **Member.** [[#Zanther Bowen]] 
+- **Skills.** [Acrobatics](/3-Mechanics/CLI/skills.md#Acrobatics), [Performance](/3-Mechanics/CLI/skills.md#Performance)  
+- **Member.** Zanther Bowen  
 
 These graceful gymnasts work to hone their craft, and they compete against each other in dazzling floor routines.
 
 #### Intramural Silkball Club
 
-- **Skills.** [Athletics](3-Mechanics/CLI/rules/skills.md#Athletics), [Intimidation](3-Mechanics/CLI/rules/skills.md#Intimidation)  
-- **Member.** [[#Javenesh Stoutclaw]], [[#Melwythorne]], [[#Tilana Kapule]]  
+- **Skills.** [Athletics](/3-Mechanics/CLI/skills.md#Athletics), [Intimidation](/3-Mechanics/CLI/skills.md#Intimidation)  
+- **Member.** Javenesh Stoutclaw, Melwythorne, Tilana Kapule  
 
 These hardy athletes train together and compete in the rough-and-tumble Strixhaven game of silkball, which is played in muddy fields with balls made of spider silk.
 
 #### Intramural Water-Dancing Club
 
-- **Skills.** [Athletics](3-Mechanics/CLI/rules/skills.md#Athletics), [Performance](3-Mechanics/CLI/rules/skills.md#Performance)  
-- **Member.** [[#Larine Arneza]] 
+- **Skills.** [Athletics](/3-Mechanics/CLI/skills.md#Athletics), [Performance](/3-Mechanics/CLI/skills.md#Performance)  
+- **Member.** Larine Arneza  
 
 These swimming enthusiasts combine their athletic skills with the finesse of artists as they choreograph water dances to the latest popular songs.
 
 #### Live-Action Roleplaying Guild
 
-- **Skills.** [Animal Handling](3-Mechanics/CLI/rules/skills.md#Animal%20Handling), [Performance](3-Mechanics/CLI/rules/skills.md#Performance)  
-- **Member.** [[#Cadoras Damellawar]], [[#Rosimyffenbip "Rosie" Wuzfeddlims]]
+- **Skills.** [Animal Handling](/3-Mechanics/CLI/skills.md#Animal%20Handling), [Performance](/3-Mechanics/CLI/skills.md#Performance)  
+- **Member.** Cadoras Damellawar, Rosimyffenbip "Rosie" Wuzfeddlims  
 
 These storytelling enthusiasts engage in a mix of strategy and playacting—often involving mascots—when they enact fantastical narratives that they resolve with special rules.
 
 #### Mage Tower Cheer Squad
 
-- **Skills.** [Perception](3-Mechanics/CLI/rules/skills.md#Perception), [Persuasion](3-Mechanics/CLI/rules/skills.md#Persuasion)  
-- **Member.** [[#Zanther Bowen]] 
+- **Skills.** [Perception](/3-Mechanics/CLI/skills.md#Perception), [Persuasion](/3-Mechanics/CLI/skills.md#Persuasion)  
+- **Member.** Zanther Bowen  
 
 With their coordinated cheers, outfits, and school spirit, these cheerleaders inspire pride in the official Strixhaven University Mage Tower teams.
 
 #### Playactors Drama Guild
 
-- **Skills.** [Arcana](3-Mechanics/CLI/rules/skills.md#Arcana), [Deception](3-Mechanics/CLI/rules/skills.md#Deception)  
-- **Member.** [[#Quentillius Antiphiun Melentor III]], [[#Rubina Larkingdale]] 
+- **Skills.** [Arcana](/3-Mechanics/CLI/skills.md#Arcana), [Deception](/3-Mechanics/CLI/skills.md#Deception)  
+- **Member.** Quentillius A. Melentor III, Rubina Larkingdale  
 
 These actors work together to create productions of brilliant stagecraft, often involving new spins on old classics as well as displays of magic and music.
 
 #### Strixhaven Iron-Lifters Society
 
-- **Skills.** [Athletics](3-Mechanics/CLI/rules/skills.md#Athletics), [Medicine](3-Mechanics/CLI/rules/skills.md#Medicine)  
-- **Member.** [[#Greta Gorunn]]  
+- **Skills.** [Athletics](/3-Mechanics/CLI/skills.md#Athletics), [Medicine](/3-Mechanics/CLI/skills.md#Medicine)  
+- **Member.** Greta Gorunn  
 
 These bodybuilders support each other in developing strong muscles and even stronger friendships.
 
 #### Strixhaven Show Band Association
 
-- **Skills.** [Sleight of Hand](3-Mechanics/CLI/rules/skills.md#Sleight%20of%20Hand), [Performance](3-Mechanics/CLI/rules/skills.md#Performance)  
-- **Member.** [[#Aurora Luna Wynterstarr]], [[#Rubina Larkingdale]]  
+- **Skills.** [Sleight of Hand](/3-Mechanics/CLI/skills.md#Sleight%20of%20Hand), [Performance](/3-Mechanics/CLI/skills.md#Performance)  
+- **Member.** Aurora Luna Wynterstarr, Rubina Larkingdale  
 
 These music enthusiasts play instruments such as hurdy-gurdies, bagpipes, flutes, and drums, and they regularly perform rousing concerts.
 
 #### Strixhaven Star
 
-- **Skills.** [Investigation](3-Mechanics/CLI/rules/skills.md#Investigation), [Insight](3-Mechanics/CLI/rules/skills.md#Insight)  
-- **Member.** [[#Grayson Wildemere]], [[#Mina Lee]]  
+- **Skills.** [Investigation](/3-Mechanics/CLI/skills.md#Investigation), [Insight](/3-Mechanics/CLI/skills.md#Insight)  
+- **Member.** Grayson Wildemere, Mina Lee  
 
 These truth seekers and wordsmiths report on campus news, regularly interviewing important figures and producing the monthly *Strixhaven Star* newspaper, which is distributed across the campus.
 
 #### Student-Mages of Faith
 
-- **Skills.** [Insight](3-Mechanics/CLI/rules/skills.md#Insight), [Religion](3-Mechanics/CLI/rules/skills.md#Religion)  
-- **Member.** [[#Melwythorne]], [[#Shuvadri Glintmantle]]
+- **Skills.** [Insight](/3-Mechanics/CLI/skills.md#Insight), [Religion](/3-Mechanics/CLI/skills.md#Religion)  
+- **Member.** Melwythorne, Shuvadri Glintmantle  
 
 These pious students of many faiths gather to share prayers and theological debates and to celebrate one another's high holidays.
 
@@ -256,7 +256,7 @@ While a student has a Job, they earn a wage and a Relationship Point, as explain
 
 A student who works a Job gains 5 gp at the start of each week that they hold the Job. If a student quits during the academic year, they stop earning this money at the end of the week in which they quit.
 
-![Strixhaven student employe...](3-Mechanics/CLI/books/strixhaven-a-curriculum-of-chaos/img/029-03-005.webp#center "Strixhaven student employees work beside staff members to fill the many jobs available on campus")
+![Strixhaven student employe...](/3-Mechanics/CLI/books/strixhaven-a-curriculum-of-chaos/img/029-03-005.webp#center "Strixhaven student employees work beside staff members to fill the many jobs available on campus")
 
 #### Relationship Point
 
@@ -269,47 +269,47 @@ Student characters can find work at the places below. A number of possible posit
 #### Biblioplex
 
 - **Jobs.** Book clerk, book shelver, café worker, cleanup crew member, garden tender, store worker  
-- **Coworker.**  [[#Drazhomir Yarnask]]
+- **Coworker.** Drazhomir Yarnask  
 
 #### Bow's End Tavern
 
 - **Jobs.** Assistant manager, cleanup crew member, cook, host, server  
-- **Coworker.** [[#Javenesh Stoutclaw]]  
+- **Coworker.** Javenesh Stoutclaw  
 
 #### Campus Grounds
 
 - **Jobs.** Graffiti eraser, lawn manicurist, litter retriever, sidewalk sweeper, statuary repairer, trash collector  
-- **Coworker.** [[#Shuvadri Glintmantle]]  
+- **Coworker.** Shuvadri Glintmantle  
 
 #### Campus Magic Labs
 
 - **Jobs.** Cleanup crew member, specimen preparer, volunteer lab partner  
-- **Coworker.** [[#Urzmaktok Grojsh]]  
+- **Coworker.** Urzmaktok Grojsh  
 
 #### Dormitories
 
 - **Jobs.** Cleanup crew member, events assistant, front-desk worker, resident assistant  
-- **Coworker.** [[#Nora Ann Wu]]  
+- **Coworker.** Nora Ann Wu  
 
 #### Firejolt Café
 
 - **Jobs.** Barista, cashier, cleanup crew member, server  
-- **Coworker.** [[#Mina Lee]]
+- **Coworker.** Mina Lee  
 
 #### Intramural Fields
 
 - **Jobs.** Cleanup crew member, crowd manager, equipment assistant, groundskeeper, referee  
-- **Coworker.** [[#Rosimyffenbip "Rosie" Wuzfeddlims]] 
+- **Coworker.** Rosimyffenbip "Rosie" Wuzfeddlims  
 
 #### Strixhaven Performing Arts Society
 
 - **Jobs.** Cleanup crew member, general assistant, refreshments expert, stagehand, ticket taker, usher  
-- **Coworker.** [[#Larine Arneza]]  
+- **Coworker.** Larine Arneza  
 
 #### Strixhaven Stadium
 
 - **Jobs.** Cleanup crew member, entertainment assistant, equipment assistant, groundskeeper, refreshments expert, ticket taker, usher  
-- **Coworker.** [[#Aurora Luna Wynterstarr]], [[#Greta Gorunn]]  
+- **Coworker.** Aurora Luna Wynterstarr, Greta Gorunn  
 
 ## Exams
 
@@ -331,13 +331,13 @@ The Studying phase of an Exam represents the characters brushing up on their cou
 
 During the Studying phase, each character must succeed on an ability check against a DC noted in the encounter. They can use any ability and skill they wish when making this check, but they can make it only once.
 
-For example, one student might make an Intelligence ([History](3-Mechanics/CLI/rules/skills.md#History)) check to pore over their books, while another student makes a Charisma ([Performance](3-Mechanics/CLI/rules/skills.md#Performance)) check to create a series of spoken mnemonic devices. A third student might make a Dexterity ([Sleight of Hand](3-Mechanics/CLI/rules/skills.md#Sleight%20of%20Hand)) check to create reminding gestures or practice any physical components that are part of a course, such as the somatic gestures involved in spellcasting.
+For example, one student might make an Intelligence ([History](/3-Mechanics/CLI/skills.md#History)) check to pore over their books, while another student makes a Charisma ([Performance](/3-Mechanics/CLI/skills.md#Performance)) check to create a series of spoken mnemonic devices. A third student might make a Dexterity ([Sleight of Hand](/3-Mechanics/CLI/skills.md#Sleight%20of%20Hand)) check to create reminding gestures or practice any physical components that are part of a course, such as the somatic gestures involved in spellcasting.
 
 On a successful check, the character gains one reroll to use during the character's next Testing phase.
 
 #### Pulling an All-Nighter
 
-After pulling an all-nighter, a character gains two rerolls to use during the next Testing phase if the character succeeds on the ability check. Doing so imposes a cost: the character gains 1 level of [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion) that takes effect at the start of the day of the Exam. This level of [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion) can't be removed until after the Exam.
+After pulling an all-nighter, a character gains two rerolls to use during the next Testing phase if the character succeeds on the ability check. Doing so imposes a cost: the character gains 1 level of [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion) that takes effect at the start of the day of the Exam. This level of [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion) can't be removed until after the Exam.
 
 #### Studying Together
 
@@ -353,7 +353,7 @@ Once the Studying phase of an Exam is over, have the players record any rerolls 
 
 #### Ability Checks
 
-Each Exam's Testing phase consists of two ability checks, with specifics (including the DC) noted in the encounter. If a character gained any rerolls during the Studying phase, the character can use one reroll when making a Testing ability check, rerolling the check's `d20` and using the new roll.
+Each Exam's Testing phase consists of two ability checks, with specifics (including the DC) noted in the encounter. If a character gained any rerolls during the Studying phase, the character can use one reroll when making a Testing ability check, rerolling the check's `dice:d20|noform|noparens|avg` (`d20`) and using the new roll.
 
 Each character's Testing phase has three possible results:
 
@@ -363,11 +363,11 @@ Each character's Testing phase has three possible results:
 
 #### Cheating
 
-An unscrupulous character can cheat on an Exam. Doing so requires a successful Charisma ([Deception](3-Mechanics/CLI/rules/skills.md#Deception)) check and a successful Dexterity ([Sleight of Hand](3-Mechanics/CLI/rules/skills.md#Sleight%20of%20Hand)) check, both using the DC set for the Exam. If a character cheats, they can't use any rerolls from their Studying phase.
+An unscrupulous character can cheat on an Exam. Doing so requires a successful Charisma ([Deception](/3-Mechanics/CLI/skills.md#Deception)) check and a successful Dexterity ([Sleight of Hand](/3-Mechanics/CLI/skills.md#Sleight%20of%20Hand)) check, both using the DC set for the Exam. If a character cheats, they can't use any rerolls from their Studying phase.
 
 If the character fails either of these checks, a proctor or other authority figure notices the cheating, and the student fails the exam.
 
-If the Charisma ([Deception](3-Mechanics/CLI/rules/skills.md#Deception)) and Dexterity ([Sleight of Hand](3-Mechanics/CLI/rules/skills.md#Sleight%20of%20Hand)) checks are both successful, the character successfully cheats and aces the Exam.
+If the Charisma ([Deception](/3-Mechanics/CLI/skills.md#Deception)) and Dexterity ([Sleight of Hand](/3-Mechanics/CLI/skills.md#Sleight%20of%20Hand)) checks are both successful, the character successfully cheats and aces the Exam.
 
 #### Failed Exam
 
@@ -377,7 +377,7 @@ A student who must attend tutoring can't take part in any Extracurriculars or Jo
 
 #### Student Dice
 
-A Student Die gained from an Exam is a `d4` the player can roll and add to an ability check that the character makes, provided the check uses one of the two skills featured in the Exam. The player can wait until after rolling the `d20` before rolling the Student Die, but must do so before you say whether the check succeeds or fails. No more than one Student Die can be rolled per check. After rolling a Student Die, a player can't roll it again until the character finishes a long rest.
+A Student Die gained from an Exam is a `dice:d4|noform|noparens|avg` (`d4`) the player can roll and add to an ability check that the character makes, provided the check uses one of the two skills featured in the Exam. The player can wait until after rolling the `dice:d20|noform|noparens|avg` (`d20`) before rolling the Student Die, but must do so before you say whether the check succeeds or fails. No more than one Student Die can be rolled per check. After rolling a Student Die, a player can't roll it again until the character finishes a long rest.
 
 Players should note any Student Dice they gain and the skills those dice can apply to on their tracking sheet.
 
@@ -391,7 +391,7 @@ These rules provide characters with benefits—or drawbacks!—based on their so
 
 The rules encompass only interactions with student NPCs. Professors, administrators, and other older adults aren't part of the Relationship rules.
 
-![A Witherbloom student heal...](3-Mechanics/CLI/books/strixhaven-a-curriculum-of-chaos/img/030-03-006-a-witherbloom-student-heals-a-friend.webp#center "A Witherbloom student heals a friend from Silverquill")
+![A Witherbloom student heal...](/3-Mechanics/CLI/books/strixhaven-a-curriculum-of-chaos/img/030-03-006-a-witherbloom-student-heals-a-friend.webp#center "A Witherbloom student heals a friend from Silverquill")
 
 ### Session Zero
 
@@ -442,7 +442,7 @@ At any time during the adventures in this book, a character can end their friend
 
 Once a student NPC has become a character's Friend, the character has the option of deepening the Relationship. The next time a Relationship encounter happens with the Friend, the character can express a wish for a deeper connection with that NPC. This might be a romantic pairing, a deeper platonic camaraderie, or a sibling-like bond. Before this encounter takes place, talk to the player to ensure a clear understanding of what sort of Relationship they seek with the NPC.
 
-![Students discuss their sha...](3-Mechanics/CLI/books/strixhaven-a-curriculum-of-chaos/img/031-03-007-sunset-date.webp#center "Students discuss their shared interests during a sunset date")
+![Students discuss their sha...](/3-Mechanics/CLI/books/strixhaven-a-curriculum-of-chaos/img/031-03-007-sunset-date.webp#center "Students discuss their shared interests during a sunset date")
 
 ##### Becoming Beloveds
 
@@ -474,7 +474,7 @@ The student NPCs are meant to interact with the characters primarily in roleplay
 
 In general, avoid putting these student NPCs in danger with the characters. In situations when you need stat blocks for these NPCs, use the stat block indicated for them in the Student NPC Stat Blocks table, where the stat blocks depend on the student's year during the current adventure. These stat blocks can be found in "chapter 7", and in the table, "[College]" refers to the name of the NPC's college: Lorehold, Prismari, Quandrix, Silverquill, or Witherbloom.
 
-![Student NPC Stat Blocks](3-Mechanics/CLI/tables/student-npc-stat-blocks-scc.md)
+![Student NPC Stat Blocks](/3-Mechanics/CLI/tables/student-npc-stat-blocks-scc.md)
 
 #### Aurora Luna Wynterstarr
 
@@ -486,7 +486,7 @@ An accomplished musician on several instruments, Aurora is often found at Bow's 
 
 She works as a groundskeeper at the Strixhaven Stadium, where she takes great pleasure in using magic to blight undesirable vegetation on the field.
 
-![Aurora Luna Wynterstarr](3-Mechanics/CLI/books/strixhaven-a-curriculum-of-chaos/img/032-03-008-aurora.webp#center)
+![Aurora Luna Wynterstarr](/3-Mechanics/CLI/books/strixhaven-a-curriculum-of-chaos/img/032-03-008-aurora.webp#center)
 
 > [!note] 
 > 
@@ -504,7 +504,7 @@ Since their name is difficult to pronounce without a trunk, Bhedum has taken to 
 
 Rampart's opponents at the Dragonchess Club find themselves outmatched time and again by the loxodon's technique, though Rampart is a gracious winner. They attend all their classes clad in gilded, centuries-old plate armor, with an immense and similarly decorated sword strapped to their back. Rampart explains that doing so better simulates the battlefield conditions they study.
 
-![Bhedum &quot;Rampart&quot; Sooviij](3-Mechanics/CLI/books/strixhaven-a-curriculum-of-chaos/img/033-03-009-bhedum.webp#center)
+![Bhedum &quot;Rampart&quot; Sooviij](/3-Mechanics/CLI/books/strixhaven-a-curriculum-of-chaos/img/033-03-009-bhedum.webp#center)
 
 > [!note] 
 > 
@@ -522,7 +522,7 @@ Cadoras is a jolly soul, and anyone who spends time with him ends up chuckling a
 
 Cadoras does have some strange eating habits; he sometimes eats an entire jar of pickled onions in a single sitting and then drinks the vinegar.
 
-![Cadoras Damellawar](3-Mechanics/CLI/books/strixhaven-a-curriculum-of-chaos/img/034-03-010-cadoras.webp#center)
+![Cadoras Damellawar](/3-Mechanics/CLI/books/strixhaven-a-curriculum-of-chaos/img/034-03-010-cadoras.webp#center)
 
 > [!note] 
 > 
@@ -540,7 +540,7 @@ Drazhomir is so soft-spoken that many of his peers must ask him to speak up to b
 
 Drazhomir's greatest love is poetry. As a member of the university's Dead Languages Society, he scours ancient literature for stirring poems written in old tongues, reading them to the rest of the group in a soft, resonant voice that comes directly from his soul.
 
-![Drazhomir Yarnask](3-Mechanics/CLI/books/strixhaven-a-curriculum-of-chaos/img/035-03-011-drazhomir.webp#center)
+![Drazhomir Yarnask](/3-Mechanics/CLI/books/strixhaven-a-curriculum-of-chaos/img/035-03-011-drazhomir.webp#center)
 
 > [!note] 
 > 
@@ -558,7 +558,7 @@ Grayson comes from an old, moneyed, and influential family. To him, studying at 
 
 Grayson has become a writer for the *Strixhaven Star*, where he's responsible for the gossip column. His writing style is biting, and he uses this platform to expose bullies and mock ignorance. Many of his peers are leery of him, but some have witnessed him paying for poorer students' books and other supplies—a fact he tries to keep secret.
 
-![Grayson Wildemere](3-Mechanics/CLI/books/strixhaven-a-curriculum-of-chaos/img/036-03-012-grayson.webp#center)
+![Grayson Wildemere](/3-Mechanics/CLI/books/strixhaven-a-curriculum-of-chaos/img/036-03-012-grayson.webp#center)
 
 > [!note] 
 > 
@@ -576,7 +576,7 @@ Greta is often heard long before she is seen, as her raucous laughter echoes thr
 
 A fervent member of the Strixhaven Iron-Lifters Society, she has already started to break long-held records in both powerlifting and weightlifting. When not training or competing (or occasionally studying), Greta spends her time in Bow's End Tavern carousing. As beer isn't free, she helps out at Strixhaven Stadium, setting up and putting away heavy equipment. Most people would begrudge the hard labor, but Greta happily does it, reasoning that she is being paid to work out.
 
-![Greta Gorunn](3-Mechanics/CLI/books/strixhaven-a-curriculum-of-chaos/img/037-03-013-greta.webp#center)
+![Greta Gorunn](/3-Mechanics/CLI/books/strixhaven-a-curriculum-of-chaos/img/037-03-013-greta.webp#center)
 
 Greta makes a point to write regularly to her older brother, Grog, whom she misses terribly.
 
@@ -596,7 +596,7 @@ Javenesh is an imposing and powerfully built owlin who looks permanently scruffy
 
 Contrary to what people initially assume, Javenesh is a friendly sort. To make ends meet, he works at Bow's End Tavern, managing servers and keeping the peace, relying on his rough appearance to dissuade those intent on making trouble. When not attending classes, Javenesh is an intimidating presence at the Intramural Silkball Club, where few people want to see him barreling toward them. He wishes more people would take the effort to get to know him, rather than be put off by his size and rough exterior.
 
-![Javenesh Stoutclaw](3-Mechanics/CLI/books/strixhaven-a-curriculum-of-chaos/img/038-03-014-javenesh.webp#center)
+![Javenesh Stoutclaw](/3-Mechanics/CLI/books/strixhaven-a-curriculum-of-chaos/img/038-03-014-javenesh.webp#center)
 
 > [!note] 
 > 
@@ -612,7 +612,7 @@ Contrary to what people initially assume, Javenesh is a friendly sort. To make e
 
 Some think Larine is aloof to the point of being rude, but her friends say that nothing is further from the truth. She is a delightful presence and doesn't ignore social obligations so much as get distracted easily. Larine is a member of the Intramural Water-Dancing Club, where she performs underwater balletic movements effortlessly. Despite her swimming ability, her tendency to lose focus means learning group choreography takes her more time and effort. Larine has a natural affinity with animals, especially aquatic species, and she's working on a solo synchronized swimming routine that replaces the other students with a shoal of fish. Rehearsals aren't going well. As an employee of the Strixhaven Performing Arts Society, Larine is a ticket taker, a job she's recently switched to as a result of struggling to give correct change while working at the box office.
 
-![Larine Arneza](3-Mechanics/CLI/books/strixhaven-a-curriculum-of-chaos/img/039-03-015-larine.webp#center)
+![Larine Arneza](/3-Mechanics/CLI/books/strixhaven-a-curriculum-of-chaos/img/039-03-015-larine.webp#center)
 
 > [!note] 
 > 
@@ -630,7 +630,7 @@ Towering over most students, Melwythorne strikes an imposing figure, especially 
 
 He is also a member of the Student-Mages of Faith. He enjoys helping his fellow students celebrate their high holidays and discussing theology and spirituality. For him, the natural world and all living beings form a vast consciousness across all planes of existence, transcending the power and reach of any one deity.
 
-![Melwythorne](3-Mechanics/CLI/books/strixhaven-a-curriculum-of-chaos/img/040-03-016-melwythorne.webp#center)
+![Melwythorne](/3-Mechanics/CLI/books/strixhaven-a-curriculum-of-chaos/img/040-03-016-melwythorne.webp#center)
 
 > [!note] 
 > 
@@ -648,7 +648,7 @@ Mina's greatest love is the use of language; she adores how subtle differences i
 
 Mina's love of language and nuance has led her to join the *Strixhaven Star* as an investigative journalist. Here, she reveals truth, corrects misconceptions, and combats injustice. She has also taken a job as a server at Firejolt Café, which not only provides some cash but also puts her in a position to overhear snippets of conversation that might provide leads for her journalistic investigations.
 
-![Mina Lee](3-Mechanics/CLI/books/strixhaven-a-curriculum-of-chaos/img/041-03-017-mina-lee.webp#center)
+![Mina Lee](/3-Mechanics/CLI/books/strixhaven-a-curriculum-of-chaos/img/041-03-017-mina-lee.webp#center)
 
 > [!note] 
 > 
@@ -666,7 +666,7 @@ Rarely without a smile on her face, Nora is a kind person who is generous with h
 
 Nora is a passionate member of the Distinguished Society of Fine Artists. As such, she spends hours on the potter's wheel throwing clay. Despite her enthusiasm, her technical skill is lacking. Her tutors, in attempts to be encouraging, often describe Nora's work as rustic or naive. Undeterred, Nora continues to produce terrible mug after terrible mug, which she gives as gifts to her friends.
 
-![Nora Ann Wu](3-Mechanics/CLI/books/strixhaven-a-curriculum-of-chaos/img/042-03-018-nora-ann-wu.webp#center)
+![Nora Ann Wu](/3-Mechanics/CLI/books/strixhaven-a-curriculum-of-chaos/img/042-03-018-nora-ann-wu.webp#center)
 
 > [!note] 
 > 
@@ -682,7 +682,7 @@ Nora is a passionate member of the Distinguished Society of Fine Artists. As suc
 
 Quentillius approaches all his endeavors with the utmost seriousness. He believes one should either do something correctly or not at all. Quentillius is a member of the university's Playactors Drama Guild, where his dedication to what he calls "the craft" is absolute. He looks down on other actors who are slow to memorize lines or who miss cues. Backstage crew members fare better, as Quentillius regards them as crucial and often brings them and the director flowers or notes of thanks. While Quentillius is a powerful presence on stage—especially in romantic roles—critics have called his performances histrionic. To better perform his future roles in ancient plays, Quentillius has joined the Dead Languages Society. He plans to perform his roles in the plays' original languages, regardless of whether the rest of the production is translated.
 
-![Quentillius Antiphiun Melentor III](3-Mechanics/CLI/books/strixhaven-a-curriculum-of-chaos/img/043-03-019-quentillius.webp#center)
+![Quentillius Antiphiun Melentor III](/3-Mechanics/CLI/books/strixhaven-a-curriculum-of-chaos/img/043-03-019-quentillius.webp#center)
 
 > [!note] 
 > 
@@ -700,7 +700,7 @@ Excitable and impish, Rosimyffenbip is proud of her name; she insists you can ca
 
 Rosie referees silkball and takes fair play very seriously. Woe betide any participant who feels the wrath of her whistle. Rosie is also an enthusiastic participant in Strixhaven's Live-Action Roleplaying Guild. She insists on roleplaying only "monsters" and delights in chasing down participants to "eat" them. Many a participant has heard giggling approaching them at high speed before their character's death.
 
-![Rosimyffenbip &quot;Rosie&quot; Wuzfeddlims](3-Mechanics/CLI/books/strixhaven-a-curriculum-of-chaos/img/044-03-020-rosie.webp#center)
+![Rosimyffenbip &quot;Rosie&quot; Wuzfeddlims](/3-Mechanics/CLI/books/strixhaven-a-curriculum-of-chaos/img/044-03-020-rosie.webp#center)
 
 > [!note] 
 > 
@@ -718,7 +718,7 @@ When Rubina walks into a room, people take notice. A measured performer with gra
 
 Rubina is part of the Strixhaven Show Band Association and has moved from playing to conducting. No previous student conductor has demanded and received such unwavering respect as Rubina. With merely a look and a raised eyebrow, she can quiet even the most raucous orchestra sections.
 
-![Rubina Larkingdale](3-Mechanics/CLI/books/strixhaven-a-curriculum-of-chaos/img/045-03-021-rubina.webp#center)
+![Rubina Larkingdale](/3-Mechanics/CLI/books/strixhaven-a-curriculum-of-chaos/img/045-03-021-rubina.webp#center)
 
 > [!note] 
 > 
@@ -738,7 +738,7 @@ Also a member of the Student-Mages of Faith, Shuvadri is happy to talk about her
 
 Shuvadri works on the campus grounds to erase graffiti, wearing a content smile on her face.
 
-![Shuvadri Glintmantle](3-Mechanics/CLI/books/strixhaven-a-curriculum-of-chaos/img/046-03-022-shuvadri.webp#center)
+![Shuvadri Glintmantle](/3-Mechanics/CLI/books/strixhaven-a-curriculum-of-chaos/img/046-03-022-shuvadri.webp#center)
 
 > [!note] 
 > 
@@ -756,7 +756,7 @@ Tilana's poised demeanor and steady gaze are remarkable. An excellent judge of c
 
 Surprising to some, Tilana has also joined the Intramural Silkball Club. During matches, she focuses on trying to understand and preempt the opposing sides' strategies. More than once she has suggested new plays mid-game that have caught the opposing team off guard. The faculty at Strixhaven are convinced that, if she wished, one day Tilana would make an excellent professor.
 
-![Tilana Kapule](3-Mechanics/CLI/books/strixhaven-a-curriculum-of-chaos/img/047-03-023-tilana.webp#center)
+![Tilana Kapule](/3-Mechanics/CLI/books/strixhaven-a-curriculum-of-chaos/img/047-03-023-tilana.webp#center)
 
 > [!note] 
 > 
@@ -776,7 +776,7 @@ Urzmaktok works for the Campus Magic Labs as a specimen preparer. This additiona
 
 Urzmaktok makes it clear he wants everyone to use his full first name. Should anyone use a nickname, he won't acknowledge the address.
 
-![Urzmaktok Grojsh](3-Mechanics/CLI/books/strixhaven-a-curriculum-of-chaos/img/048-03-024-urzmaktok.webp#center)
+![Urzmaktok Grojsh](/3-Mechanics/CLI/books/strixhaven-a-curriculum-of-chaos/img/048-03-024-urzmaktok.webp#center)
 
 > [!note] 
 > 
@@ -794,7 +794,7 @@ One of the most popular students on campus, Zanther is a member of the Mage Towe
 
 Zanther has also joined the Intramural Gymnastics Club. Here he completes at rhythmic gymnastics in both ribbon as well as hoop. To further test himself and impress the judges, Zanther conducts his routines to a vast array of different musical styles and arrangements. When traveling around campus between classes, he shouts random affirmations of school spirit to everyone at large. Despite his peppy nature, Zanther is genuinely encouraging and in no way acts superior. If anything, he seems somewhat oblivious to his own popularity at Strixhaven.
 
-![Zanther Bowen](3-Mechanics/CLI/books/strixhaven-a-curriculum-of-chaos/img/049-03-025-zanther.webp#center)
+![Zanther Bowen](/3-Mechanics/CLI/books/strixhaven-a-curriculum-of-chaos/img/049-03-025-zanther.webp#center)
 
 > [!note] 
 > 

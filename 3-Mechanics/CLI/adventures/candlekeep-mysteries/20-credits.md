@@ -38,8 +38,8 @@ aliases: ["Credits"]
 - **The map of Candlekeep was inspired by a map design by Marco Bernardini.**  
 - Special thanks to our hundreds of playtesters!  
 
-![](3-Mechanics/CLI/adventures/candlekeep-mysteries/img/credits.webp#center)
+![](/3-Mechanics/CLI/adventures/candlekeep-mysteries/img/credits.webp#center)
 
 > [!gallery]
-> ![On the Cover: Clint Cearle...](3-Mechanics/CLI/adventures/candlekeep-mysteries/img/credits2.webp#gallery "On the Cover: Clint Cearley gives us a glimpse of two adventurers trying to solve one of Candlekeep's great mysteries, unaware of the danger looming behind them.")
-> ![On the Alt-Cover: Simen Me...](3-Mechanics/CLI/adventures/candlekeep-mysteries/img/credits3.webp#gallery "On the Alt-Cover: Simen Meyer's cover incorporates the symbol of Candlekeep and various creatures into its design, creating what looks like a book one might find in the library's vaults.")
+> ![On the Cover: Clint Cearle...](/3-Mechanics/CLI/adventures/candlekeep-mysteries/img/credits2.webp#gallery "On the Cover: Clint Cearley gives us a glimpse of two adventurers trying to solve one of Candlekeep's great mysteries, unaware of the danger looming behind them.")
+> ![On the Alt-Cover: Simen Me...](/3-Mechanics/CLI/adventures/candlekeep-mysteries/img/credits3.webp#gallery "On the Alt-Cover: Simen Meyer's cover incorporates the symbol of Candlekeep and various creatures into its design, creating what looks like a book one might find in the library's vaults.")

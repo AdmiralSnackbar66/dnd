@@ -51,26 +51,26 @@ Lizardfolk dwell in wildernesses suffused with primal magic. While many lizardfo
 "traits":
 - "desc": "The lizardfolk casts one of the following spells, requiring no Material\
     \ components and using Wisdom as the spellcasting ability (spell save DC 12):\n\
-    \nAt will: [Elementalism](3-Mechanics/CLI/spells/elementalism-xphb.md)\n\n\
-    1/day each: [Meld into Stone](3-Mechanics/CLI/spells/meld-into-stone-xphb.md),\
-    \ [Speak with Plants](3-Mechanics/CLI/spells/speak-with-plants-xphb.md), [Spike\
-    \ Growth](3-Mechanics/CLI/spells/spike-growth-xphb.md)"
+    \nAt will: [Elementalism](/3-Mechanics/CLI/spells/elementalism-xphb.md)\n\n\
+    1/day each: [Meld into Stone](/3-Mechanics/CLI/spells/meld-into-stone-xphb.md),\
+    \ [Speak with Plants](/3-Mechanics/CLI/spells/speak-with-plants-xphb.md), [Spike\
+    \ Growth](/3-Mechanics/CLI/spells/spike-growth-xphb.md)"
   "name": "Spellcasting"
 "actions":
 - "desc": "The lizardfolk makes two Earth Burst attacks."
   "name": "Multiattack"
-- "desc": "Melee or Ranged Attack Roll: +4, reach 5 ft. or range 60 ft. Hit:\
-    \ 9 (2d6 + 2) Bludgeoning damage."
+- "desc": "Melee or Ranged Attack Roll: +4, reach 5 ft. or range 60 ft. Hit: 9\
+    \ (2d6 + 2) Bludgeoning damage."
   "name": "Earth Burst"
 - "desc": "Constitution Saving Throw: DC 12, each creature in a 20-foot-radius,\
-    \ 40-foot-high [Cylinder](3-Mechanics/CLI/rules/variant-rules/cylinder-area-of-effect-xphb.md)\
+    \ 40-foot-high [Cylinder](/3-Mechanics/CLI/variant-rules/cylinder-area-of-effect-xphb.md)\
     \ centered on a point the lizardfolk can see within 60 feet. Failure: 15 (6d4)\
-    \ Bludgeoning damage, and the target has the [Prone](3-Mechanics/CLI/rules/conditions.md#Prone)\
+    \ Bludgeoning damage, and the target has the [Prone](/3-Mechanics/CLI/conditions.md#Prone)\
     \ condition. Success: Half damage only."
   "name": "Hail of Stone (Recharge 5-6)"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/elemental/token/lizardfolk-geomancer-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/elemental/token/lizardfolk-geomancer-xmm.webp"
 ```
 ^statblock
 

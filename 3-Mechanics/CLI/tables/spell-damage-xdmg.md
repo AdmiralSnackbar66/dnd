@@ -12,14 +12,14 @@ aliases: ["Spell Damage"]
 
 | Spell Level | One Target | Multiple Targets |
 |-------------|------------|------------------|
-| Cantrip | `1d10` | `1d6` |
-| 1 | `2d10` | `2d6` |
-| 2 | `3d10` | `3d6` |
-| 3 | `5d10` | `6d6` |
-| 4 | `6d10` | `7d6` |
-| 5 | `7d10` | `8d6` |
-| 6 | `10d10` | `11d6` |
-| 7 | `11d10` | `12d6` |
-| 8 | `12d10` | `13d6` |
-| 9 | `15d10` | `16d6` |
+| Cantrip | `dice:1d10\|noform\|noparens\|avg` (`1d10`) | `dice:1d6\|noform\|noparens\|avg` (`1d6`) |
+| 1 | `dice:2d10\|noform\|noparens\|avg` (`2d10`) | `dice:2d6\|noform\|noparens\|avg` (`2d6`) |
+| 2 | `dice:3d10\|noform\|noparens\|avg` (`3d10`) | `dice:3d6\|noform\|noparens\|avg` (`3d6`) |
+| 3 | `dice:5d10\|noform\|noparens\|avg` (`5d10`) | `dice:6d6\|noform\|noparens\|avg` (`6d6`) |
+| 4 | `dice:6d10\|noform\|noparens\|avg` (`6d10`) | `dice:7d6\|noform\|noparens\|avg` (`7d6`) |
+| 5 | `dice:7d10\|noform\|noparens\|avg` (`7d10`) | `dice:8d6\|noform\|noparens\|avg` (`8d6`) |
+| 6 | `dice:10d10\|noform\|noparens\|avg` (`10d10`) | `dice:11d6\|noform\|noparens\|avg` (`11d6`) |
+| 7 | `dice:11d10\|noform\|noparens\|avg` (`11d10`) | `dice:12d6\|noform\|noparens\|avg` (`12d6`) |
+| 8 | `dice:12d10\|noform\|noparens\|avg` (`12d10`) | `dice:13d6\|noform\|noparens\|avg` (`13d6`) |
+| 9 | `dice:15d10\|noform\|noparens\|avg` (`15d10`) | `dice:16d6\|noform\|noparens\|avg` (`16d6`) |
 ^spell-damage

@@ -36,4 +36,4 @@ aliases: ["Settlement Tables and Tracker; Tavern Names"]
 | 20 | The Witch and | Dragon |
 ^tavern-names
 
-*Roll a separate `d20` for each part of the tavern's name.
+*Roll a separate `dice:d20|noform|noparens|avg` (`d20`) for each part of the tavern's name.

@@ -14,7 +14,7 @@ You gain the following benefits.
 
 ## Shield Bash
 
-If you attack a creature within 5 feet of you as part of the [Attack](3-Mechanics/CLI/rules/actions.md#Attack) action and hit with a Melee weapon, you can immediately bash the target with your Shield if it's equipped, forcing the target to make a Strength saving throw (DC 8 plus your Strength modifier and Proficiency Bonus). On a failed save, you either push the target 5 feet from you or cause it to have the [Prone](3-Mechanics/CLI/rules/conditions.md#Prone) condition (your choice). You can use this benefit only once on each of your turns.
+If you attack a creature within 5 feet of you as part of the [Attack](/3-Mechanics/CLI/actions.md#Attack) action and hit with a Melee weapon, you can immediately bash the target with your Shield if it's equipped, forcing the target to make a Strength saving throw (DC 8 plus your Strength modifier and Proficiency Bonus). On a failed save, you either push the target 5 feet from you or cause it to have the [Prone](/3-Mechanics/CLI/conditions.md#Prone) condition (your choice). You can use this benefit only once on each of your turns.
 
 ## Interpose Shield
 

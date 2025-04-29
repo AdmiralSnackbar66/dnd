@@ -6,7 +6,7 @@ tags:
 aliases: ["School of Magic; Schools of Magic"]
 ---
 # School of Magic; Schools of Magic
-*Source: Player's Handbook (2024) p. 236* 
+*Source: Player's Handbook (2024) p. 236. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>* 
 
 **Schools of Magic**
 

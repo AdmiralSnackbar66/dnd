@@ -14,7 +14,7 @@ statblock: inline
 aliases: ["Skeleton"]
 ---
 # [Skeleton](3-Mechanics\CLI\bestiary\undead/skeleton-xmm.md)
-*Source: Monster Manual (2024) p. 282, Player's Handbook (2024) p. 356*  
+*Source: Monster Manual (2024) p. 282, Player's Handbook (2024) p. 356. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
 
 Skeletons are reanimated Humanoid bones bearing the equipment they had in life. They have rudimentary faculties and greater agility than zombies and similar shambling corpses. While they aren't capable of creating plans of their own, they avoid obvious barriers and self-destructive situations.
 
@@ -59,8 +59,8 @@ Skeletons rise at the summons of necromancers and foul spirits. Whether they're 
 "speed": "30 ft."
 "damage_vulnerabilities": "bludgeoning"
 "damage_immunities": "poison"
-"condition_immunities": "[exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
-  \ [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"condition_immunities": "[exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
+  \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
 "senses": "darkvision 60 ft., passive Perception 9"
 "languages": "understands Common plus one other language but can't speak"
 "cr": "1/4"
@@ -73,7 +73,7 @@ Skeletons rise at the summons of necromancers and foul spirits. Whether they're 
 "source":
 - "XMM"
 - "XPHB"
-"image": "3-Mechanics/CLI/bestiary/undead/token/skeleton-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/undead/token/skeleton-xmm.webp"
 ```
 ^statblock
 

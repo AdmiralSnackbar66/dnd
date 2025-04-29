@@ -22,12 +22,12 @@ While holding the wand, you can cast one of the spells (save DC 17) on the follo
 
 | Spell | Charge Cost |
 |-------|-------------|
-| [Hold Monster](3-Mechanics/CLI/spells/hold-monster-xphb.md) | 5 |
-| [Hold Person](3-Mechanics/CLI/spells/hold-person-xphb.md) | 2 |
+| [Hold Monster](/3-Mechanics/CLI/spells/hold-monster-xphb.md) | 5 |
+| [Hold Person](/3-Mechanics/CLI/spells/hold-person-xphb.md) | 2 |
 ^spell-charge-cost
 
 ## Regaining Charges
 
-The wand regains `1d6 + 1` expended charges daily at dawn. If you expend the wand's last charge, roll `d20`. On a 1, the wand crumbles into ashes and is destroyed.
+The wand regains `dice:1d6+1|noform|noparens|avg` (`1d6 + 1`) expended charges daily at dawn. If you expend the wand's last charge, roll `dice:1d20|noform|noparens|avg` (`d20`). On a 1, the wand crumbles into ashes and is destroyed.
 
-*Source: Dungeon Master's Guide (2024) p. 318*
+*Source: Dungeon Master's Guide (2024) p. 318. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*

@@ -32,22 +32,22 @@ aliases: ["Alter Self"]
 - **Components:** V, S
 - **Duration:** Concentration, up to 1 hour
 
-You alter your physical form. Choose one of the following options. Its effects last for the duration, during which you can take a [Magic](3-Mechanics/CLI/rules/actions.md#Magic) action to replace the option you chose with a different one.
+You alter your physical form. Choose one of the following options. Its effects last for the duration, during which you can take a [Magic](/3-Mechanics/CLI/actions.md#Magic) action to replace the option you chose with a different one.
 
 ## Aquatic Adaptation
 
-You sprout gills and grow webs between your fingers. You can breathe underwater and gain a [Swim Speed](3-Mechanics/CLI/rules/variant-rules/swim-speed-xphb.md) equal to your [Speed](3-Mechanics/CLI/rules/variant-rules/speed-xphb.md).
+You sprout gills and grow webs between your fingers. You can breathe underwater and gain a [Swim Speed](/3-Mechanics/CLI/variant-rules/swim-speed-xphb.md) equal to your [Speed](/3-Mechanics/CLI/variant-rules/speed-xphb.md).
 
 ## Change Appearance
 
-You alter your appearance. You decide what you look like, including your height, weight, facial features, sound of your voice, hair length, coloration, and other distinguishing characteristics. You can make yourself appear as a member of another species, though none of your statistics change. You can't appear as a creature of a different size, and your basic shape stays the same; if you're bipedal, you can't use this spell to become quadrupedal, for instance. For the duration, you can take a [Magic](3-Mechanics/CLI/rules/actions.md#Magic) action to change your appearance in this way again.
+You alter your appearance. You decide what you look like, including your height, weight, facial features, sound of your voice, hair length, coloration, and other distinguishing characteristics. You can make yourself appear as a member of another species, though none of your statistics change. You can't appear as a creature of a different size, and your basic shape stays the same; if you're bipedal, you can't use this spell to become quadrupedal, for instance. For the duration, you can take a [Magic](/3-Mechanics/CLI/actions.md#Magic) action to change your appearance in this way again.
 
 ## Natural Weapons
 
-You grow claws (Slashing), fangs (Piercing), horns (Piercing), or hooves (Bludgeoning). When you use your [Unarmed Strike](3-Mechanics/CLI/rules/variant-rules/unarmed-strike-xphb.md) to deal damage with that new growth, it deals `1d6` damage of the type in parentheses instead of dealing the normal damage for your [Unarmed Strike](3-Mechanics/CLI/rules/variant-rules/unarmed-strike-xphb.md), and you use your spellcasting ability modifier for the attack and damage rolls rather than using Strength.
+You grow claws (Slashing), fangs (Piercing), horns (Piercing), or hooves (Bludgeoning). When you use your [Unarmed Strike](/3-Mechanics/CLI/variant-rules/unarmed-strike-xphb.md) to deal damage with that new growth, it deals `dice:1d6|noform|noparens|avg` (`1d6`) damage of the type in parentheses instead of dealing the normal damage for your [Unarmed Strike](/3-Mechanics/CLI/variant-rules/unarmed-strike-xphb.md), and you use your spellcasting ability modifier for the attack and damage rolls rather than using Strength.
 
 ## Summary
 
-**Classes**: [Sorcerer](3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Rogue (Arcane Trickster)](3-Mechanics/CLI/lists/list-spells-classes-rogue-xphb-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Bard (College of Lore)](3-Mechanics/CLI/lists/list-spells-classes-bard-xphb-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Fighter (Eldritch Knight)](3-Mechanics/CLI/lists/list-spells-classes-fighter-xphb-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Bard](3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Sorcerer (Draconic Sorcery)](3-Mechanics/CLI/lists/list-spells-classes-sorcerer-xphb-draconic-sorcery-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Rogue (Arcane Trickster)](/3-Mechanics/CLI/lists/list-spells-classes-rogue-xphb-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer (Draconic Sorcery)](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer-xphb-draconic-sorcery-xphb.md "subclass=XPHB;class=XPHB"); [Fighter (Eldritch Knight)](/3-Mechanics/CLI/lists/list-spells-classes-fighter-xphb-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Bard (College of Lore)](/3-Mechanics/CLI/lists/list-spells-classes-bard-xphb-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 239. Available in the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 239. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*

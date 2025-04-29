@@ -6,7 +6,7 @@ tags:
 aliases: ["Travel Terrain"]
 ---
 # Travel Terrain
-*Source: Dungeon Master's Guide (2024) p. 39* 
+*Source: Dungeon Master's Guide (2024) p. 39. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>* 
 
 **Travel Terrain**
 

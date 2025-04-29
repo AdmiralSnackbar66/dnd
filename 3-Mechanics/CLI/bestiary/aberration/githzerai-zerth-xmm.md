@@ -84,30 +84,30 @@ Characters might be drawn into conflicts involving githzerai and githyanki in va
 "traits":
 - "desc": "The githzerai casts one of the following spells, requiring no spell components\
     \ and using Wisdom as the spellcasting ability (spell save DC 14):\n\nAt will:\
-    \ [Mage Hand](3-Mechanics/CLI/spells/mage-hand-xphb.md) (the hand is Invisible)\n\
-    \n1/day each: [Phantasmal Killer](3-Mechanics/CLI/spells/phantasmal-killer-xphb.md)\
-    \ (level 6 version), [Plane Shift](3-Mechanics/CLI/spells/plane-shift-xphb.md),\
-    \ [See Invisibility](3-Mechanics/CLI/spells/see-invisibility-xphb.md)"
+    \ [Mage Hand](/3-Mechanics/CLI/spells/mage-hand-xphb.md) (the hand is Invisible)\n\
+    \n1/day each: [Phantasmal Killer](/3-Mechanics/CLI/spells/phantasmal-killer-xphb.md)\
+    \ (level 6 version), [Plane Shift](/3-Mechanics/CLI/spells/plane-shift-xphb.md),\
+    \ [See Invisibility](/3-Mechanics/CLI/spells/see-invisibility-xphb.md)"
   "name": "Spellcasting"
-- "desc": "The githzerai casts [Jump](3-Mechanics/CLI/spells/jump-xphb.md), requiring\
+- "desc": "The githzerai casts [Jump](/3-Mechanics/CLI/spells/jump-xphb.md), requiring\
     \ no spell components and using the same spellcasting ability as Spellcasting.\n\
-    \n2/day: [Jump](3-Mechanics/CLI/spells/jump-xphb.md)"
+    \n2/day: [Jump](/3-Mechanics/CLI/spells/jump-xphb.md)"
   "name": "Psi-Powered Leap (2/Day)"
-- "desc": "The githzerai casts [Feather Fall](3-Mechanics/CLI/spells/feather-fall-xphb.md)\
-    \ or [Shield](3-Mechanics/CLI/spells/shield-xphb.md) in response to the spell's\
+- "desc": "The githzerai casts [Feather Fall](/3-Mechanics/CLI/spells/feather-fall-xphb.md)\
+    \ or [Shield](/3-Mechanics/CLI/spells/shield-xphb.md) in response to the spell's\
     \ trigger, requiring no spell components and using the same spellcasting ability\
-    \ as Spellcasting.\n\n2/day: [Feather Fall](3-Mechanics/CLI/spells/feather-fall-xphb.md),\
-    \ [Shield](3-Mechanics/CLI/spells/shield-xphb.md)"
+    \ as Spellcasting.\n\n2/day: [Feather Fall](/3-Mechanics/CLI/spells/feather-fall-xphb.md),\
+    \ [Shield](/3-Mechanics/CLI/spells/shield-xphb.md)"
   "name": "Psionic Defense (2/Day)"
 "actions":
 - "desc": "The githzerai makes two Psi Strike attacks."
   "name": "Multiattack"
-- "desc": "Melee Attack Roll: +7, reach 5 ft. Hit: 11 (2d6 + 4) Bludgeoning\
-    \ damage plus 13 (3d8) Psychic damage."
+- "desc": "Melee Attack Roll: +7, reach 5 ft. Hit: 11 (2d6 + 4) Bludgeoning damage\
+    \ plus 13 (3d8) Psychic damage."
   "name": "Psi Strike"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/aberration/token/githzerai-zerth-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/aberration/token/githzerai-zerth-xmm.webp"
 ```
 ^statblock
 

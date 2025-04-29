@@ -8,15 +8,15 @@ aliases: ["The Joy of Extradimensional Spaces"]
 # The Joy of Extradimensional Spaces
 *Source: Candlekeep Mysteries, p. 17* 
 
-![The Joy of Extradimensional Spaces](3-Mechanics/CLI/adventures/candlekeep-mysteries/img/009-02-001-book.webp#center)
+![The Joy of Extradimensional Spaces](/3-Mechanics/CLI/adventures/candlekeep-mysteries/img/009-02-001-book.webp#center)
 
 **An Adventure for 1st-level Characters**  
 **Edited by Hannah Rose**  
 **Written by Michael Polkinghorn**  
 
-*The Joy of Extradimensional Spaces* was donated to Candlekeep with the rest of the library of the mage Fistandia, following her untimely disappearance. In her will, Fistandia bequeathed her collection to Candlekeep in appreciation for the many years she spent in its hallowed halls. This book is a treatise on extradimensional spaces similar to those created by the [Mordenkainen's magnificent mansion](3-Mechanics/CLI/spells/mordenkainens-magnificent-mansion-xphb.md) spell. This information alone would make it worthy of note, but Fistandia's additions in the margins are even more interesting. In arcane shorthand, she details how she created a permanent [Mordenkainen's magnificent mansion](3-Mechanics/CLI/spells/mordenkainens-magnificent-mansion-xphb.md) spell and records the command word to open the mansion's doorway.
+*The Joy of Extradimensional Spaces* was donated to Candlekeep with the rest of the library of the mage Fistandia, following her untimely disappearance. In her will, Fistandia bequeathed her collection to Candlekeep in appreciation for the many years she spent in its hallowed halls. This book is a treatise on extradimensional spaces similar to those created by the [Mordenkainen's magnificent mansion](/3-Mechanics/CLI/spells/mordenkainens-magnificent-mansion-xphb.md) spell. This information alone would make it worthy of note, but Fistandia's additions in the margins are even more interesting. In arcane shorthand, she details how she created a permanent [Mordenkainen's magnificent mansion](/3-Mechanics/CLI/spells/mordenkainens-magnificent-mansion-xphb.md) spell and records the command word to open the mansion's doorway.
 
-Many researchers perused this book over the years it spent in Candlekeep, but knowledge of the command word was useless without the location of the gateway to the mansion—until a chance discovery by the sage Matreous, an expert in the application and removal of curses. Upon arriving at Candlekeep to further his expertise, Matreous cast [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md), as was his habit. The spell revealed a gateway in the very study room he had been assigned!
+Many researchers perused this book over the years it spent in Candlekeep, but knowledge of the command word was useless without the location of the gateway to the mansion—until a chance discovery by the sage Matreous, an expert in the application and removal of curses. Upon arriving at Candlekeep to further his expertise, Matreous cast [detect magic](/3-Mechanics/CLI/spells/detect-magic-xphb.md), as was his habit. The spell revealed a gateway in the very study room he had been assigned!
 
 Forgetting about his earlier purpose, Matreous asked for any knowledge of who might have created such a gateway. Research by the Avowed revealed that Fistandia requested this room each time she visited the keep. They also turned up mysterious reports that she rarely left the room for weeks at a time. Rumors said that she was not even seen to eat or sleep during her visits. She would, however, go missing for hours at a time. Matreous concluded that she must have gone through the gateway during those absences. By searching through the books Fistandia donated to the library, he found the command word to open the portal and stepped inside.
 
@@ -33,11 +33,11 @@ Tied to *The Joy of Extradimensional Spaces* are two mysteries. The first is the
 
 ### Book Description
 
-*The Joy of Extradimensional Spaces* is a heavy tome. Its thick covers are made of ornately tooled leather decorated with gold filigree. Of particular interest is the illustration on the cover: the bust of an imposing spellcaster. A character who succeeds on a DC 12 Intelligence ([Arcana](3-Mechanics/CLI/rules/skills.md#Arcana) or [History](3-Mechanics/CLI/rules/skills.md#History)) check recognizes the legendary mage Mordenkainen.
+*The Joy of Extradimensional Spaces* is a heavy tome. Its thick covers are made of ornately tooled leather decorated with gold filigree. Of particular interest is the illustration on the cover: the bust of an imposing spellcaster. A character who succeeds on a DC 12 Intelligence ([Arcana](/3-Mechanics/CLI/skills.md#Arcana) or [History](/3-Mechanics/CLI/skills.md#History)) check recognizes the legendary mage Mordenkainen.
 
 ## Opening the Portal
 
-When the characters are shown into the private study room assigned to Matreous, they find it unoccupied. Only the sage's personal effects and a handful of books remain. *The Joy of Extradimensional Spaces* is open to the pages with Fistandia's handwritten notes. A character who succeeds on a DC 13 Intelligence ([Arcana](3-Mechanics/CLI/rules/skills.md#Arcana)) check is able to decipher the shorthand and find the command word, "scepter," that opens the doorway. Otherwise, the Avowed are happy to help examine Fistandia's notes.
+When the characters are shown into the private study room assigned to Matreous, they find it unoccupied. Only the sage's personal effects and a handful of books remain. *The Joy of Extradimensional Spaces* is open to the pages with Fistandia's handwritten notes. A character who succeeds on a DC 13 Intelligence ([Arcana](/3-Mechanics/CLI/skills.md#Arcana)) check is able to decipher the shorthand and find the command word, "scepter," that opens the doorway. Otherwise, the Avowed are happy to help examine Fistandia's notes.
 
 Once the command word is spoken, shimmering, translucent doors appear in the middle of the room. The doors begin to slowly fade, and it's apparent that they'll disappear entirely in a matter of minutes.
 
@@ -45,9 +45,9 @@ When the characters enter the portal, they appear in area M1.
 
 ## Fistandia's Mansion
 
-Fistandia's mansion was created using a [Mordenkainen's magnificent mansion](3-Mechanics/CLI/spells/mordenkainens-magnificent-mansion-xphb.md) spell and made permanent by Fistandia's own enchantments. It's luxurious, but not ostentatious. The structure is open, airy, and constructed of stone blocks. The floors are hardwood, and the bedroom, study, trophy room, and dining room have carpets that cover most of the floor space in those rooms. The mansion has brass or bronze fixtures and doors of ironbound oak. The furniture is all of deep brown wood, and most of the rooms are illuminated by oil lamps.
+Fistandia's mansion was created using a [Mordenkainen's magnificent mansion](/3-Mechanics/CLI/spells/mordenkainens-magnificent-mansion-xphb.md) spell and made permanent by Fistandia's own enchantments. It's luxurious, but not ostentatious. The structure is open, airy, and constructed of stone blocks. The floors are hardwood, and the bedroom, study, trophy room, and dining room have carpets that cover most of the floor space in those rooms. The mansion has brass or bronze fixtures and doors of ironbound oak. The furniture is all of deep brown wood, and most of the rooms are illuminated by oil lamps.
 
-Outside, a swirling indigo miasma hovers 20 feet from the building on all sides. A creature that enters the miasma feels increasingly uneasy during the first minute of exposure. If it remains in the miasma, it gains 1 level of [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion) for every minute it spends there.
+Outside, a swirling indigo miasma hovers 20 feet from the building on all sides. A creature that enters the miasma feels increasingly uneasy during the first minute of exposure. If it remains in the miasma, it gains 1 level of [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion) for every minute it spends there.
 
 ### Puzzle Books
 
@@ -55,7 +55,7 @@ Opening the portal from inside the mansion requires another command word, which 
 
 > [!note] Imp Figurine
 > 
-> The imp figurine in Matreous's possession (see area M1) appears to be a very detailed carving of an imp made from onyx. It's not a statue, however, but a real [imp](3-Mechanics/CLI/bestiary/fiend/imp-xmm.md) that Fistandia summoned and transformed into a statuette. Removing the figurine from the mansion breaks the enchantment and releases the imp.
+> The imp figurine in Matreous's possession (see area M1) appears to be a very detailed carving of an imp made from onyx. It's not a statue, however, but a real [imp](/3-Mechanics/CLI/bestiary/fiend/imp-xmm.md) that Fistandia summoned and transformed into a statuette. Removing the figurine from the mansion breaks the enchantment and releases the imp.
 ^imp-figurine
 
 ### Encounter Locations
@@ -65,8 +65,8 @@ Fistandia's mansion is eerily quiet. Rooms with windows to the outside are lit b
 The following locations are keyed to the map of Fistandia's mansion.
 
 > [!gallery]
-> ![Map 2.1: Fistandia's Mansion](3-Mechanics/CLI/adventures/candlekeep-mysteries/img/010-map-2-01-fistandias-mansion.webp#gallery)
-> ![Player Version](3-Mechanics/CLI/adventures/candlekeep-mysteries/img/011-map-2-01-fistandias-mansion-player.webp#gallery)
+> ![Map 2.1: Fistandia's Mansion](/3-Mechanics/CLI/adventures/candlekeep-mysteries/img/010-map-2-01-fistandias-mansion.webp#gallery)
+> ![Player Version](/3-Mechanics/CLI/adventures/candlekeep-mysteries/img/011-map-2-01-fistandias-mansion-player.webp#gallery)
 
 ### Middle Level (M1-M9)
 
@@ -79,7 +79,7 @@ The characters emerge from the portal in the grand foyer of the mansion. On this
 > The ceiling arches to fifteen feet overhead, and long hallways stretch out on either side of the foyer. Standing in the middle of this area is a middle-aged man wearing gray robes.
 ^047
 
-Matreous, a neutral human [sage](3-Mechanics/CLI/bestiary/humanoid/sage-cm.md) (see the stat block), is startled when the characters appear. After his initial surprise, he introduces himself to the characters and expresses his delight that they have opened the portal to the mansion. He has been trying different command words for the last half hour to get the portal to reopen.
+Matreous, a neutral human [sage](/3-Mechanics/CLI/bestiary/humanoid/sage-cm.md) (see the stat block), is startled when the characters appear. After his initial surprise, he introduces himself to the characters and expresses his delight that they have opened the portal to the mansion. He has been trying different command words for the last half hour to get the portal to reopen.
 
 Matreous takes on a thoughtful expression and pauses for an instant, tapping his chin in thought. The mansion must be a treasure trove of information, and there's no telling what wonders it holds! As an example, he shows the characters an intricately carved figurine of an imp that he has found and is taking back to Candlekeep for study.
 
@@ -106,7 +106,7 @@ The shelves contain books on Fistandia's favorite subjects: arcana, natural scie
 
 ##### Book Attack
 
-One of the heaps of books is a [swarm of animated books](3-Mechanics/CLI/bestiary/construct/swarm-of-animated-books-cm.md). As the characters move through the room, the swarm knocks one of the 10-foot-wide freestanding sections of bookshelf over onto the characters. Any creatures in the affected area must succeed on a DC 15 Dexterity saving throw or be knocked [prone](3-Mechanics/CLI/rules/conditions.md#Prone) and [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained) by the fallen shelf. A [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained) creature can use an action to make a DC 13 Strength ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)) check. On a success, it frees itself. [Restrained](3-Mechanics/CLI/rules/conditions.md#Restrained) creatures are also freed if the shelf is lifted with a successful DC 15 Strength ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)) check.
+One of the heaps of books is a [swarm of animated books](/3-Mechanics/CLI/bestiary/construct/swarm-of-animated-books-cm.md). As the characters move through the room, the swarm knocks one of the 10-foot-wide freestanding sections of bookshelf over onto the characters. Any creatures in the affected area must succeed on a DC 15 Dexterity saving throw or be knocked [prone](/3-Mechanics/CLI/conditions.md#Prone) and [restrained](/3-Mechanics/CLI/conditions.md#Restrained) by the fallen shelf. A [restrained](/3-Mechanics/CLI/conditions.md#Restrained) creature can use an action to make a DC 13 Strength ([Athletics](/3-Mechanics/CLI/skills.md#Athletics)) check. On a success, it frees itself. [Restrained](/3-Mechanics/CLI/conditions.md#Restrained) creatures are also freed if the shelf is lifted with a successful DC 15 Strength ([Athletics](/3-Mechanics/CLI/skills.md#Athletics)) check.
 
 ##### Treasure
 
@@ -114,9 +114,9 @@ Sitting on the reading desk is a jeweled letter opener worth 20 gp.
 
 ##### Puzzle Book
 
-The puzzle book with the letter R on its spine is on one of the shelves. Any character who has a passive Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) score of 12 or higher notices the book. A thorough search of the shelf also yields the book.
+The puzzle book with the letter R on its spine is on one of the shelves. Any character who has a passive Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) score of 12 or higher notices the book. A thorough search of the shelf also yields the book.
 
-![Swarm of Animated Books](3-Mechanics/CLI/adventures/candlekeep-mysteries/img/012-637514193195635246.webp#center)
+![Swarm of Animated Books](/3-Mechanics/CLI/adventures/candlekeep-mysteries/img/012-637514193195635246.webp#center)
 
 #### M4. Exercise Room
 
@@ -125,9 +125,9 @@ The puzzle book with the letter R on its spine is on one of the shelves. Any cha
 > This room contains a battered wooden mannequin and a weapon rack holding staffs and daggers, all lit by indigo-tinted light streaming through a window. The floor is stained and scorched. At the far end of the room, a broom hovers in the air, sweeping the floor by itself!
 ^050
 
-This room was where Fistandia practiced her martial and magical skills (at the expense of the fine floors). The mannequin has numerous cuts and chips. The weapons in the rack are mundane but finely made. There are four [daggers](3-Mechanics/CLI/items/dagger-xphb.md), four [quarterstaffs](3-Mechanics/CLI/items/quarterstaff-xphb.md), and twenty [darts](3-Mechanics/CLI/items/dart-xphb.md) in a bandolier hanging from one of the pegs. One wall holds diagrams of attack and parry positions for wielders of staffs and daggers.
+This room was where Fistandia practiced her martial and magical skills (at the expense of the fine floors). The mannequin has numerous cuts and chips. The weapons in the rack are mundane but finely made. There are four [daggers](/3-Mechanics/CLI/items/dagger-xphb.md), four [quarterstaffs](/3-Mechanics/CLI/items/quarterstaff-xphb.md), and twenty [darts](/3-Mechanics/CLI/items/dart-xphb.md) in a bandolier hanging from one of the pegs. One wall holds diagrams of attack and parry positions for wielders of staffs and daggers.
 
-The broom is an [animated broom](3-Mechanics/CLI/bestiary/construct/animated-broom-xmm.md). If left alone, it goes about its duties cleaning the floors and ignores the characters. If a creature attempts to grab it or menace it in any way, it attacks.
+The broom is an [animated broom](/3-Mechanics/CLI/bestiary/construct/animated-broom-xmm.md). If left alone, it goes about its duties cleaning the floors and ignores the characters. If a creature attempts to grab it or menace it in any way, it attacks.
 
 #### M5. Study
 
@@ -138,7 +138,7 @@ The door to this room is left ajar so the cats can come and go as they please.
 > The entire far wall of this room is a floor-to-ceiling bookshelf. Even more books are resting on several large scarlet armchairs and small wooden tables, and there are several paintings on the walls. A fluffy black cat is curled up on one of the chairs.
 ^052
 
-If the characters enter the room, the [cat](3-Mechanics/CLI/bestiary/beast/cat-xmm.md) sits up, meows plaintively, and approaches. If they feed it or pet it and make a successful DC 10 Wisdom ([Animal Handling](3-Mechanics/CLI/rules/skills.md#Animal%20Handling)) check, it follows them until they leave the study or venture up the stairs, at which time it heads to the kitchen (area M6). If the characters don't pay attention to it, the cat waits for a short time, but then loses interest and leaves for the kitchen.
+If the characters enter the room, the [cat](/3-Mechanics/CLI/bestiary/beast/cat-xmm.md) sits up, meows plaintively, and approaches. If they feed it or pet it and make a successful DC 10 Wisdom ([Animal Handling](/3-Mechanics/CLI/skills.md#Animal%20Handling)) check, it follows them until they leave the study or venture up the stairs, at which time it heads to the kitchen (area M6). If the characters don't pay attention to it, the cat waits for a short time, but then loses interest and leaves for the kitchen.
 
 If the characters spend 30 minutes investigating the books in this room, they discover the following facts:
 
@@ -153,7 +153,7 @@ There are three paintings hanging on the walls: a landscape scene with a large g
 
 ##### Secret Door
 
-There is a secret door behind the left bookcase on the far wall. When the bottom leftmost book in the bookcase is pulled, the bookcase slides forward to reveal the passage behind it. A character who succeeds on a DC 10 Intelligence ([Investigation](3-Mechanics/CLI/rules/skills.md#Investigation)) check discovers the proper book.
+There is a secret door behind the left bookcase on the far wall. When the bottom leftmost book in the bookcase is pulled, the bookcase slides forward to reveal the passage behind it. A character who succeeds on a DC 10 Intelligence ([Investigation](/3-Mechanics/CLI/skills.md#Investigation)) check discovers the proper book.
 
 ##### Puzzle Book
 
@@ -168,7 +168,7 @@ The door to this room is left slightly open so the cats can enter and exit.
 > The aromas of cooking permeate this kitchen. A large iron stove takes up one wall, and the rest of the room is filled with large tables and racks lined with hanging pots, pans, and cooking utensils. Everything is sparkling clean.
 ^057
 
-The kitchen is run by two [homunculi](3-Mechanics/CLI/bestiary/construct/homunculus-xmm.md) named Cumin and Coriander. Most homunculi can't speak, but these ones have the ability to speak Common. When the characters enter the room, the homunculi greet the new arrivals in squeaky voices:
+The kitchen is run by two [homunculi](/3-Mechanics/CLI/bestiary/construct/homunculus-xmm.md) named Cumin and Coriander. Most homunculi can't speak, but these ones have the ability to speak Common. When the characters enter the room, the homunculi greet the new arrivals in squeaky voices:
 
 > [!readaloud] 
 > 
@@ -189,7 +189,7 @@ The duties of the homunculi are confined mostly to the kitchen and the adjoining
 
 ##### Cats
 
-In one corner of the kitchen, several small ceramic bowls painted with stylized cats are filled with water and kitchen scraps. Any cats the characters have encountered in the mansion are found again here, along with an additional [cat](3-Mechanics/CLI/bestiary/beast/cat-xmm.md) the characters haven't yet seen. The cats are eating from the food bowls and occasionally batting at one another to get the choicer morsels.
+In one corner of the kitchen, several small ceramic bowls painted with stylized cats are filled with water and kitchen scraps. Any cats the characters have encountered in the mansion are found again here, along with an additional [cat](/3-Mechanics/CLI/bestiary/beast/cat-xmm.md) the characters haven't yet seen. The cats are eating from the food bowls and occasionally batting at one another to get the choicer morsels.
 
 #### M7. Pantry
 
@@ -197,7 +197,7 @@ The shelves in this pantry are stocked with sacks of flour, vegetables, preserve
 
 > [!note] Fistandia's and Freyot's Homunculi
 > 
-> A character who succeeds on a DC 15 Intelligence ([Arcana](3-Mechanics/CLI/rules/skills.md#Arcana)) check knows two vital facts about the homunculi in area M6. The first is that a master can have only one homunculus at a time. The second is that a homunculus dies when its master dies. This fact suggests that Fistandia and Freyot are still alive. Characters might encounter one or both mages in a future adventure.
+> A character who succeeds on a DC 15 Intelligence ([Arcana](/3-Mechanics/CLI/skills.md#Arcana)) check knows two vital facts about the homunculi in area M6. The first is that a master can have only one homunculus at a time. The second is that a homunculus dies when its master dies. This fact suggests that Fistandia and Freyot are still alive. Characters might encounter one or both mages in a future adventure.
 ^fistandias-and-freyots-homunculi
 
 #### M8. Dining Room
@@ -211,7 +211,7 @@ In addition to the furnishings described above, this room is adorned with unrema
 
 ##### Mimic Chair
 
-The reason for the odd number of chairs is that the [chair](3-Mechanics/CLI/bestiary/monstrosity/mimic-chair-cm.md) closest to the door to area M6 is a [mimic](3-Mechanics/CLI/bestiary/monstrosity/mimic-xmm.md) that escaped from area M19. It moved the real chair to the corner and took its place, hoping to capture any creature entering from the kitchen. It has been able to ambush only the occasional cat or faerie dragon, so it's in a weakened state and has the following changes to its stat block:
+The reason for the odd number of chairs is that the [chair](/3-Mechanics/CLI/bestiary/monstrosity/mimic-chair-cm.md) closest to the door to area M6 is a [mimic](/3-Mechanics/CLI/bestiary/monstrosity/mimic-xmm.md) that escaped from area M19. It moved the real chair to the corner and took its place, hoping to capture any creature entering from the kitchen. It has been able to ambush only the occasional cat or faerie dragon, so it's in a weakened state and has the following changes to its stat block:
 
 - It has 30 hit points.  
 - The DC to escape its grapple is 10.  
@@ -229,11 +229,11 @@ The door leading from area M1 is partially open.
 > This end of the building is an arboretum with open, arched walls. Flowering shrubs and small trees grow between paved paths that meet in a semicircular patio. There's no sun, but two glowing globes hang above the plants, bathing them in light. There are colorful blossoms everywhere, filling the air with their perfume.
 ^061
 
-Two [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible) [orange faerie dragons](3-Mechanics/CLI/bestiary/dragon/faerie-dragon-youth-xmm.md) are perched in the trees. They are mischievous creatures, always looking for fun, but the homunculi and the cats provide little entertainment, so they hope to keep the characters in the arboretum for as long as possible so they can play with them. Giggling incessantly, they fly toward the characters, use their Euphoria Breath, and flit out of danger, still [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible). If they are attacked, they [disengage](3-Mechanics/CLI/rules/actions.md#Disengage) and retreat to a safe place, becoming [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible) again if their concentration is broken.
+Two [invisible](/3-Mechanics/CLI/conditions.md#Invisible) [orange faerie dragons](/3-Mechanics/CLI/bestiary/dragon/faerie-dragon-youth-xmm.md) are perched in the trees. They are mischievous creatures, always looking for fun, but the homunculi and the cats provide little entertainment, so they hope to keep the characters in the arboretum for as long as possible so they can play with them. Giggling incessantly, they fly toward the characters, use their Euphoria Breath, and flit out of danger, still [invisible](/3-Mechanics/CLI/conditions.md#Invisible). If they are attacked, they [disengage](/3-Mechanics/CLI/actions.md#Disengage) and retreat to a safe place, becoming [invisible](/3-Mechanics/CLI/conditions.md#Invisible) again if their concentration is broken.
 
 ##### Treasure
 
-The two glowing orbs are [driftglobes](3-Mechanics/CLI/items/driftglobe-xdmg.md). Cumin and Coriander from area M6 periodically activate the globes to provide light for the plants.
+The two glowing orbs are [driftglobes](/3-Mechanics/CLI/items/driftglobe-xdmg.md). Cumin and Coriander from area M6 periodically activate the globes to provide light for the plants.
 
 ### Upper Level (M10-M16)
 
@@ -241,7 +241,7 @@ The two glowing orbs are [driftglobes](3-Mechanics/CLI/items/driftglobe-xdmg.md)
 
 The landing at the top of the stairs is occupied by a suit of armor holding a longsword, point down. It sits upon a wooden stand in front of a large window. The armor is clearly decorative, though the helmet and the sword are genuine items of good quality.
 
-Above the armor is a trapdoor that opens upward into an attic that runs the length of the building. The attic is stuffy, dimly lit, and covered in a fine layer of dust. A character who has a passive Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) score of 13 or higher notices light coming through the floorboards above area M13. The floorboards can be broken through with a successful DC 15 Strength ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)) check to allow access to the room below.
+Above the armor is a trapdoor that opens upward into an attic that runs the length of the building. The attic is stuffy, dimly lit, and covered in a fine layer of dust. A character who has a passive Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) score of 13 or higher notices light coming through the floorboards above area M13. The floorboards can be broken through with a successful DC 15 Strength ([Athletics](/3-Mechanics/CLI/skills.md#Athletics)) check to allow access to the room below.
 
 #### M11. Laboratory
 
@@ -284,19 +284,19 @@ To reach this room, the characters must solve the telescope puzzle in area M12 o
 > This room is bare except for a bookshelf covered in chains against one wall, a plain wooden bench, and a reading desk built into the shelves. A book with the bust of a mage on its cover sits on the desk.
 ^06d
 
-The three shelves are filled with books bound in iron covers, which are attached to chains that secure them to the shelves—a chained library. The reading desk is used to support the chained books while they are being read. This chained library has been enchanted to be jealously possessive of its contents. It attacks any creature that comes within its reach (use the accompanying [animated chained library](3-Mechanics/CLI/bestiary/construct/animated-chained-library-cm.md) stat block).
+The three shelves are filled with books bound in iron covers, which are attached to chains that secure them to the shelves—a chained library. The reading desk is used to support the chained books while they are being read. This chained library has been enchanted to be jealously possessive of its contents. It attacks any creature that comes within its reach (use the accompanying [animated chained library](/3-Mechanics/CLI/bestiary/construct/animated-chained-library-cm.md) stat block).
 
 Fistandia's most treasured knowledge is kept here. There are rare tomes on the sciences, arcana, and alchemy, as well as books about planar lore and the summoning of fantastic creatures. All the books are firmly affixed to the shelves by enchanted chains and can't be freed without being destroyed.
 
 ##### Treasure
 
-If the characters defeat the animated chained library, one of its books breaks free with a length of chain still attached and functions as a [+1 flail](3-Mechanics/CLI/items/1-weapon-xdmg.md). The book is entitled Martial Attack Techniques.
+If the characters defeat the animated chained library, one of its books breaks free with a length of chain still attached and functions as a [+1 flail](/3-Mechanics/CLI/items/1-weapon-xdmg.md). The book is entitled Martial Attack Techniques.
 
 ##### Puzzle Book
 
 The book on the reading desk is the puzzle book with the letter L on its spine.
 
-![The Chained Library](3-Mechanics/CLI/adventures/candlekeep-mysteries/img/013-02-002-the-chained-library.webp#center)
+![The Chained Library](/3-Mechanics/CLI/adventures/candlekeep-mysteries/img/013-02-002-the-chained-library.webp#center)
 
 #### M14. Trophy Room
 
@@ -305,7 +305,7 @@ The book on the reading desk is the puzzle book with the letter L on its spine.
 > Each corner of this pleasant parlor has a scarlet armchair and a reading table piled high with books. A cheery fire burns in the fireplace. A pair of swords sits in a rack above the fireplace, and the heads of various animals are mounted on the walls.
 ^071
 
-The books are all poetry or heroic fiction meant for entertainment. The trophy heads—a stag, a wolf, a peryton, a hell hound, and a black dragon wyrmling—are purely decorative. The fire is an illusion that looks pleasant but provides no heat. The swords above the mantel are two [flying swords](3-Mechanics/CLI/bestiary/construct/animated-flying-sword-xmm.md) that attack if anything in the room is touched.
+The books are all poetry or heroic fiction meant for entertainment. The trophy heads—a stag, a wolf, a peryton, a hell hound, and a black dragon wyrmling—are purely decorative. The fire is an illusion that looks pleasant but provides no heat. The swords above the mantel are two [flying swords](/3-Mechanics/CLI/bestiary/construct/animated-flying-sword-xmm.md) that attack if anything in the room is touched.
 
 ##### Puzzle Book
 
@@ -320,7 +320,7 @@ The door to this room is left ajar, as is the one at the end of the hall to area
 > This is an open and airy bedroom. A canopied bed with rich scarlet curtains occupies one corner. A jug and a washbasin stand on top of a chest of drawers, and a fluffy black cat is napping on a scarlet easy chair. One wall is covered with a large painting of a gold dragon perched heroically on a mountaintop.
 ^074
 
-When the characters enter the room, the [cat](3-Mechanics/CLI/bestiary/beast/cat-xmm.md) jumps down from the chair and stretches. It then follows the characters around the room, mewing at them. If they feed it or pet it and make a successful DC 10 Wisdom ([Animal Handling](3-Mechanics/CLI/rules/skills.md#Animal%20Handling)) check, it follows them until combat or some other frightening occurrence scares it off. If the characters don't interact with it, the cat gives up and leaves for the kitchen.
+When the characters enter the room, the [cat](/3-Mechanics/CLI/bestiary/beast/cat-xmm.md) jumps down from the chair and stretches. It then follows the characters around the room, mewing at them. If they feed it or pet it and make a successful DC 10 Wisdom ([Animal Handling](/3-Mechanics/CLI/skills.md#Animal%20Handling)) check, it follows them until combat or some other frightening occurrence scares it off. If the characters don't interact with it, the cat gives up and leaves for the kitchen.
 
 The top drawers of the dresser contain elegant, well-made robes. The lower drawers hold more utilitarian tunics and dresses.
 
@@ -348,11 +348,11 @@ The oppressive miasma seems to press in even closer above the mansion here than 
 
 The books here cover chemical science and alchemy. A character who examines the charts and formulas and makes a successful DC 13 Intelligence check determines that the main goal of the research here was to transmute various materials into gold. Judging by the numerous scorch marks and acid burns on the furniture, the laboratory was the scene of several spectacular failures.
 
-Four clay figures rest on a table in the middle of the room. They range from a rudimentary, barely humanoid shape to a small, winged body so lifelike that it almost appears to be a real creature that is merely asleep. A character who makes a successful DC 13 Intelligence ([Arcana](3-Mechanics/CLI/rules/skills.md#Arcana)) check can tell that these are figures used for creating homunculi.
+Four clay figures rest on a table in the middle of the room. They range from a rudimentary, barely humanoid shape to a small, winged body so lifelike that it almost appears to be a real creature that is merely asleep. A character who makes a successful DC 13 Intelligence ([Arcana](/3-Mechanics/CLI/skills.md#Arcana)) check can tell that these are figures used for creating homunculi.
 
 ##### Treasure
 
-Several of the reagents here are quite valuable. By searching the room, the characters can gather 50 gp of alchemical materials. In addition, two of the vials contain [potions of healing](3-Mechanics/CLI/items/potion-of-healing-xdmg.md).
+Several of the reagents here are quite valuable. By searching the room, the characters can gather 50 gp of alchemical materials. In addition, two of the vials contain [potions of healing](/3-Mechanics/CLI/items/potion-of-healing-xdmg.md).
 
 ##### Puzzle Book
 
@@ -365,7 +365,7 @@ The puzzle book with the letter B on its spine is propped up against a large bea
 > This dark, stone-walled room contains only a few objects. A five-foot-diameter circle of intricate runes covers the floor. There's an empty wooden bookstand opposite the door and bronze braziers at the other three cardinal points of the circle. Whatever material they contained has long ago burned to cinders, but the room still smells of charcoal and sulfur. Sitting next to the bookstand is a warty toad.
 ^07e
 
-This is the room where Fistandia summoned the imp that would become the figurine found by Matreous. The current resident of the room is a [quasit](3-Mechanics/CLI/bestiary/fiend/quasit-xmm.md) in toad form. It waits for a creature to approach and then attacks.
+This is the room where Fistandia summoned the imp that would become the figurine found by Matreous. The current resident of the room is a [quasit](/3-Mechanics/CLI/bestiary/fiend/quasit-xmm.md) in toad form. It waits for a creature to approach and then attacks.
 
 #### M19. Preserved Menagerie
 
@@ -374,11 +374,11 @@ This is the room where Fistandia summoned the imp that would become the figurine
 > Smells of alcohol and brine permeate this room. Glass vessels large and small stand in rows on the floor and tables, ranging from one foot to six feet tall. Inside each vessel is the body of a creature floating in clear liquid. One four-foot-tall container is missing its lid and has no occupant.
 ^080
 
-Fistandia considered herself to be a knowledgeable natural philosopher, and she collected many rare specimens to study. She kept examples of common and natural creatures in area M11, and rare or aberrant creatures in this room. The collection includes a cockatrice, a flumph, a giant fire beetle, a small grell, a myconid sprout, a pseudodragon, four severed hands in the same jar, and a [slaad tadpole](3-Mechanics/CLI/bestiary/aberration/slaad-tadpole-xmm.md) that's still alive and attacks if its jar is opened.
+Fistandia considered herself to be a knowledgeable natural philosopher, and she collected many rare specimens to study. She kept examples of common and natural creatures in area M11, and rare or aberrant creatures in this room. The collection includes a cockatrice, a flumph, a giant fire beetle, a small grell, a myconid sprout, a pseudodragon, four severed hands in the same jar, and a [slaad tadpole](/3-Mechanics/CLI/bestiary/aberration/slaad-tadpole-xmm.md) that's still alive and attacks if its jar is opened.
 
 The empty container once held the mimic found in area M8. Gravely injured when it was captured, it feigned death until it could recover and escape into the upper levels of the mansion.
 
-The four severed hands have absorbed enough magical energy to become [crawling claws](3-Mechanics/CLI/bestiary/undead/crawling-claw-xmm.md). They push the lid off their jar and attack when any creature comes within 5 feet of them.
+The four severed hands have absorbed enough magical energy to become [crawling claws](/3-Mechanics/CLI/bestiary/undead/crawling-claw-xmm.md). They push the lid off their jar and attack when any creature comes within 5 feet of them.
 
 ### Assembling the Books
 
@@ -388,7 +388,7 @@ Once the characters have recovered all (or most of) the lettered books, they sho
 
 ## Conclusion
 
-When the characters return to the study room in Candlekeep, they find Matreous's body sprawled on the floor and the imp figurine missing. When the imp was taken from the mansion in its figurine form, the enchantment binding it ended, allowing it to sting and kill Matreous. The [imp](3-Mechanics/CLI/bestiary/fiend/imp-xmm.md) is now [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible) and hiding in a corner of Matreous's study. It attacks the first creature that exits the mansion. If the characters defeat the imp, it disappears in a cloud of black smoke.
+When the characters return to the study room in Candlekeep, they find Matreous's body sprawled on the floor and the imp figurine missing. When the imp was taken from the mansion in its figurine form, the enchantment binding it ended, allowing it to sting and kill Matreous. The [imp](/3-Mechanics/CLI/bestiary/fiend/imp-xmm.md) is now [invisible](/3-Mechanics/CLI/conditions.md#Invisible) and hiding in a corner of Matreous's study. It attacks the first creature that exits the mansion. If the characters defeat the imp, it disappears in a cloud of black smoke.
 
 Any treasure, books, specimens, or weapons the characters acquired while in the mansion remain in their possession. Anything else taken from the mansion evaporates into smoke as they pass through the doorway.
 

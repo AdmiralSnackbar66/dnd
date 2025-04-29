@@ -42,8 +42,8 @@ aliases: ["Credits"]
         - **Senior Marketing Communications Manager.** Greg Tito    
         - **Community Manager.** Brandy Camel    
 
-![](3-Mechanics/CLI/adventures/strixhaven-campus-kerfuffle/img/credits.webp#center)
+![](/3-Mechanics/CLI/adventures/strixhaven-campus-kerfuffle/img/credits.webp#center)
 
 > [!gallery]
-> ![On the Cover: Three Strixh...](3-Mechanics/CLI/adventures/strixhaven-campus-kerfuffle/img/credits2.webp#gallery "On the Cover: Three Strixhaven students find distractions from their studies in Magali Villeneuve's cover illustration. On the back, a harried Biblioplex assistant tries to tidy the mess.")
-> ![On the Alt-Cover: Hydro74 ...](3-Mechanics/CLI/adventures/strixhaven-campus-kerfuffle/img/credits3.webp#gallery "On the Alt-Cover: Hydro74 shows off the Strixhaven star, a symbol of unity and magical fellowship. The sigils of each of Strixhaven's five colleges adorn the back cover.")
+> ![On the Cover: Three Strixh...](/3-Mechanics/CLI/adventures/strixhaven-campus-kerfuffle/img/credits2.webp#gallery "On the Cover: Three Strixhaven students find distractions from their studies in Magali Villeneuve's cover illustration. On the back, a harried Biblioplex assistant tries to tidy the mess.")
+> ![On the Alt-Cover: Hydro74 ...](/3-Mechanics/CLI/adventures/strixhaven-campus-kerfuffle/img/credits3.webp#gallery "On the Alt-Cover: Hydro74 shows off the Strixhaven star, a symbol of unity and magical fellowship. The sigils of each of Strixhaven's five colleges adorn the back cover.")

@@ -48,15 +48,14 @@ Also called "land sharks," bulettes are single-minded predators that burrow unde
 "languages": ""
 "cr": "2"
 "actions":
-- "desc": "Melee Attack Roll: +5, reach 5 ft. Hit: 14 (2d10 + 3) Piercing\
-    \ damage."
+- "desc": "Melee Attack Roll: +5, reach 5 ft. Hit: 14 (2d10 + 3) Piercing damage."
   "name": "Bite"
 "bonus_actions":
 - "desc": "The bulette jumps up to 30 feet by spending 10 feet of movement."
   "name": "Leap"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/monstrosity/token/bulette-pup-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/bulette-pup-xmm.webp"
 ```
 ^statblock
 

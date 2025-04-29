@@ -11,7 +11,7 @@ statblock: inline
 aliases: ["Ancient Copper Dragon"]
 ---
 # [Ancient Copper Dragon](3-Mechanics\CLI\bestiary\dragon/ancient-copper-dragon-xmm.md)
-*Source: Monster Manual (2024) p. 80*  
+*Source: Monster Manual (2024) p. 80. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
 
 Ancient copper dragons use warmth and reliability to effect change over time. They open their cozy lairs to their friends as havens of learning and laughter for the young and those in need. These dragons watch for and oppose future threats while fostering sanctuaries of simple goodness.
 
@@ -61,46 +61,46 @@ Copper dragons typically inhabit multichamber caves and renovated ruins.
 "traits":
 - "desc": "The dragon casts one of the following spells, requiring no Material components\
     \ and using Charisma as the spellcasting ability (spell save DC 21):\n\nAt will:\
-    \ [Detect Magic](3-Mechanics/CLI/spells/detect-magic-xphb.md), [Mind Spike](3-Mechanics/CLI/spells/mind-spike-xphb.md)\
-    \ (level 5 version), [Minor Illusion](3-Mechanics/CLI/spells/minor-illusion-xphb.md),\
-    \ [Shapechange](3-Mechanics/CLI/spells/shapechange-xphb.md) (Beast or Humanoid\
-    \ form only, no [Temporary Hit Points](3-Mechanics/CLI/rules/variant-rules/temporary-hit-points-xphb.md)\
-    \ gained from the spell, and no Concentration or [Temporary Hit Points](3-Mechanics/CLI/rules/variant-rules/temporary-hit-points-xphb.md)\
-    \ required to maintain the spell)\n\n1/day each: [Greater Restoration](3-Mechanics/CLI/spells/greater-restoration-xphb.md),\
-    \ [Major Image](3-Mechanics/CLI/spells/major-image-xphb.md), [Project Image](3-Mechanics/CLI/spells/project-image-xphb.md)"
+    \ [Detect Magic](/3-Mechanics/CLI/spells/detect-magic-xphb.md), [Mind Spike](/3-Mechanics/CLI/spells/mind-spike-xphb.md)\
+    \ (level 5 version), [Minor Illusion](/3-Mechanics/CLI/spells/minor-illusion-xphb.md),\
+    \ [Shapechange](/3-Mechanics/CLI/spells/shapechange-xphb.md) (Beast or Humanoid\
+    \ form only, no [Temporary Hit Points](/3-Mechanics/CLI/variant-rules/temporary-hit-points-xphb.md)\
+    \ gained from the spell, and no Concentration or [Temporary Hit Points](/3-Mechanics/CLI/variant-rules/temporary-hit-points-xphb.md)\
+    \ required to maintain the spell)\n\n1/day each: [Greater Restoration](/3-Mechanics/CLI/spells/greater-restoration-xphb.md),\
+    \ [Major Image](/3-Mechanics/CLI/spells/major-image-xphb.md), [Project Image](/3-Mechanics/CLI/spells/project-image-xphb.md)"
   "name": "Spellcasting"
 - "desc": "If the dragon fails a saving throw, it can choose to succeed instead."
   "name": "Legendary Resistance (4/Day, or 5/Day in Lair)"
 "actions":
 - "desc": "The dragon makes three Rend attacks. It can replace one attack with a use\
-    \ of (A) Slowing Breath or (B) Spellcasting to cast [Mind Spike](3-Mechanics/CLI/spells/mind-spike-xphb.md)\
+    \ of (A) Slowing Breath or (B) Spellcasting to cast [Mind Spike](/3-Mechanics/CLI/spells/mind-spike-xphb.md)\
     \ (level 5 version)."
   "name": "Multiattack"
-- "desc": "Melee Attack Roll: +15, reach 15 ft. Hit: 19 (2d10 + 8) Slashing\
-    \ damage plus 9 (2d8) Acid damage."
+- "desc": "Melee Attack Roll: +15, reach 15 ft. Hit: 19 (2d10 + 8) Slashing damage\
+    \ plus 9 (2d8) Acid damage."
   "name": "Rend"
 - "desc": "Dexterity Saving Throw: DC 22, each creature in an 90-foot-long, 10-foot-wide\
-    \ [Line](3-Mechanics/CLI/rules/variant-rules/line-area-of-effect-xphb.md). Failure:\
+    \ [Line](/3-Mechanics/CLI/variant-rules/line-area-of-effect-xphb.md). Failure:\
     \ 63 (14d8) Acid damage. Success: Half damage."
   "name": "Acid Breath (Recharge 5-6)"
-- "desc": "Constitution Saving Throw: DC 22, each creature in a 90-foot [Cone](3-Mechanics/CLI/rules/variant-rules/cone-area-of-effect-xphb.md).\
-    \ Failure: The target can't take Reactions; its [Speed](3-Mechanics/CLI/rules/variant-rules/speed-xphb.md)\
-    \ is halved; and it can take either an action or a [Bonus Action](3-Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md)\
+- "desc": "Constitution Saving Throw: DC 22, each creature in a 90-foot [Cone](/3-Mechanics/CLI/variant-rules/cone-area-of-effect-xphb.md).\
+    \ Failure: The target can't take Reactions; its [Speed](/3-Mechanics/CLI/variant-rules/speed-xphb.md)\
+    \ is halved; and it can take either an action or a [Bonus Action](/3-Mechanics/CLI/variant-rules/bonus-action-xphb.md)\
     \ on its turn, not both. This effect lasts until the end of its next turn."
   "name": "Slowing Breath"
 "legendary_actions":
 - "desc": "Charisma Saving Throw: DC 21, one creature the dragon can see within\
     \ 120 feet. Failure: 31 (9d6) Psychic damage. Until the end of its next turn,\
-    \ the target rolls 1d8 whenever it makes an ability check or attack roll and\
-    \ subtracts the number rolled from the [D20 Test](3-Mechanics/CLI/rules/variant-rules/d20-test-xphb.md).\
+    \ the target rolls 1d8 whenever it makes an ability check or attack roll and subtracts\
+    \ the number rolled from the [D20 Test](/3-Mechanics/CLI/variant-rules/d20-test-xphb.md).\
     \ Failure or Success: The dragon can't take this action again until the start\
     \ of its next turn."
   "name": "Giggling Magic"
-- "desc": "The dragon uses Spellcasting to cast [Mind Spike](3-Mechanics/CLI/spells/mind-spike-xphb.md)\
+- "desc": "The dragon uses Spellcasting to cast [Mind Spike](/3-Mechanics/CLI/spells/mind-spike-xphb.md)\
     \ (level 5 version). The dragon can't take this action again until the start of\
     \ its next turn."
   "name": "Mind Jolt"
-- "desc": "The dragon moves up to half its [Speed](3-Mechanics/CLI/rules/variant-rules/speed-xphb.md),\
+- "desc": "The dragon moves up to half its [Speed](/3-Mechanics/CLI/variant-rules/speed-xphb.md),\
     \ and it makes one Rend attack."
   "name": "Pounce"
 "regional_effects":
@@ -110,15 +110,15 @@ Copper dragons typically inhabit multichamber caves and renovated ruins.
 - "desc": "- Chatty Critters. Tiny Beasts magically gain the ability to speak\
     \ and understand Draconic while within 6 miles of the lair.  \n- Giggle Fits.\
     \ Whenever a creature other than the dragon and its allies is within 1 mile of\
-    \ the lair and rolls a 1 on a [D20 Test](3-Mechanics/CLI/rules/variant-rules/d20-test-xphb.md),\
-    \ it must succeed on a DC 15 Wisdom saving throw or have the [Incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated)\
+    \ the lair and rolls a 1 on a [D20 Test](/3-Mechanics/CLI/variant-rules/d20-test-xphb.md),\
+    \ it must succeed on a DC 15 Wisdom saving throw or have the [Incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated)\
     \ condition until the end of its next turn, as it is wracked with laughter.  "
   "name": ""
 - "desc": "If the dragon dies or moves its lair elsewhere, these effects end immediately."
   "name": ""
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/dragon/token/ancient-copper-dragon-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/dragon/token/ancient-copper-dragon-xmm.webp"
 ```
 ^statblock
 

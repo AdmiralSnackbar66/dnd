@@ -65,16 +65,15 @@ Once infamous for their magical aptitude, fomorians are giants afflicted with a 
 - "desc": "The fomorian makes two Stone Club attacks. It can replace one attack with\
     \ a use of Warping Hex if available."
   "name": "Multiattack"
-- "desc": "Melee Attack Roll: +9, reach 15 ft. Hit: 24 (4d8 + 6) Bludgeoning\
-    \ damage."
+- "desc": "Melee Attack Roll: +9, reach 15 ft. Hit: 24 (4d8 + 6) Bludgeoning damage."
   "name": "Stone Club"
 - "desc": "Wisdom Saving Throw: DC 16, one creature the fomorian can see within\
-    \ 120 feet. Failure: 21 (6d6) Psychic damage, and the target gains 1 [Exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion)\
+    \ 120 feet. Failure: 21 (6d6) Psychic damage, and the target gains 1 [Exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion)\
     \ level. Success: Half damage only."
   "name": "Warping Hex (Recharge 4-6)"
 "source":
 - "XMM"
-"image": "3-Mechanics/CLI/bestiary/giant/token/fomorian-xmm.webp"
+"image": "/3-Mechanics/CLI/bestiary/giant/token/fomorian-xmm.webp"
 ```
 ^statblock
 

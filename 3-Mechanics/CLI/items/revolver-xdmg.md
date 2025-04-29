@@ -16,7 +16,7 @@ aliases:
 
 - **Damage**: 2d8 piercing
 - **Range**: 40/120
-- **Properties**: [Ammunition](3-Mechanics/CLI/rules/item-properties.md#Ammunition), [Reload](3-Mechanics/CLI/rules/item-properties.md#Reload)
+- **Properties**: [Ammunition](/3-Mechanics/CLI/item-properties.md#Ammunition), [Reload](/3-Mechanics/CLI/item-properties.md#Reload)
 - **Weight**: 3.0 lbs.
 
 *Source: Dungeon Master's Guide (2024) p. 73*

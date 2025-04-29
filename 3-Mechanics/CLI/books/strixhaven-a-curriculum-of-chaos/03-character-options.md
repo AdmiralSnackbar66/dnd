@@ -22,11 +22,11 @@ The campus of Strixhaven draws a student body from across the world—or many wo
 
 ""Magic Items"" collects magic items that Strixhaven students might acquire on their adventures.
 
-![A group of Strixhaven stud...](3-Mechanics/CLI/books/strixhaven-a-curriculum-of-chaos/img/021-02-001-chapter-splash.webp#center "A group of Strixhaven students—each from a different college—descend into the depths below an ancient ruin")
+![A group of Strixhaven stud...](/3-Mechanics/CLI/books/strixhaven-a-curriculum-of-chaos/img/021-02-001-chapter-splash.webp#center "A group of Strixhaven students—each from a different college—descend into the depths below an ancient ruin")
 
 ## Race Option
 
-The [owlin](3-Mechanics/CLI/races/owlin-scc.md) is a race option for player characters in Strixhaven and other D&D settings.
+The [owlin](/3-Mechanics/CLI/races/owlin-scc.md) is a race option for player characters in Strixhaven and other D&D settings.
 
 ## Choosing a College
 
@@ -55,19 +55,19 @@ If you do choose one of these backgrounds, you can assume that your life to this
 
 ### Backgrounds
 
-- [Lorehold Student](3-Mechanics/CLI/backgrounds/lorehold-student-scc.md)  
-- [Prismari Student](3-Mechanics/CLI/backgrounds/prismari-student-scc.md)  
-- [Quandrix Student](3-Mechanics/CLI/backgrounds/quandrix-student-scc.md)  
-- [Silverquill Student](3-Mechanics/CLI/backgrounds/silverquill-student-scc.md)  
-- [Witherbloom Student](3-Mechanics/CLI/backgrounds/witherbloom-student-scc.md)  
+- [Lorehold Student](/3-Mechanics/CLI/backgrounds/lorehold-student-scc.md)  
+- [Prismari Student](/3-Mechanics/CLI/backgrounds/prismari-student-scc.md)  
+- [Quandrix Student](/3-Mechanics/CLI/backgrounds/quandrix-student-scc.md)  
+- [Silverquill Student](/3-Mechanics/CLI/backgrounds/silverquill-student-scc.md)  
+- [Witherbloom Student](/3-Mechanics/CLI/backgrounds/witherbloom-student-scc.md)  
 
 ### Trinkets
 
-- [Lorehold Trinket](3-Mechanics/CLI/items/lorehold-trinket-scc.md)  
-- [Prismari Trinket](3-Mechanics/CLI/items/prismari-trinket-scc.md)  
-- [Quandrix Trinket](3-Mechanics/CLI/items/quandrix-trinket-scc.md)  
-- [Silverquill Trinket](3-Mechanics/CLI/items/silverquill-trinket-scc.md)  
-- [Witherbloom Trinket](3-Mechanics/CLI/items/witherbloom-trinket-scc.md)  
+- [Lorehold Trinket](/3-Mechanics/CLI/items/lorehold-trinket-scc.md)  
+- [Prismari Trinket](/3-Mechanics/CLI/items/prismari-trinket-scc.md)  
+- [Quandrix Trinket](/3-Mechanics/CLI/items/quandrix-trinket-scc.md)  
+- [Silverquill Trinket](/3-Mechanics/CLI/items/silverquill-trinket-scc.md)  
+- [Witherbloom Trinket](/3-Mechanics/CLI/items/witherbloom-trinket-scc.md)  
 
 ## Feats
 
@@ -77,17 +77,17 @@ This section introduces feats that give your character benefits associated with 
 
 These feats are presented in alphabetical order.
 
-- [Strixhaven Initiate](3-Mechanics/CLI/feats/strixhaven-initiate-scc.md)  
-- [Strixhaven Mascot](3-Mechanics/CLI/feats/strixhaven-mascot-scc.md)  
+- [Strixhaven Initiate](/3-Mechanics/CLI/feats/strixhaven-initiate-scc.md)  
+- [Strixhaven Mascot](/3-Mechanics/CLI/feats/strixhaven-mascot-scc.md)  
 
 ## Spells
 
 Created at Strixhaven, the spells presented in this section are available to the backgrounds offered in this chapter. The spells also appear on the class spell lists indicated in the Spells table below.
 
-![Spells](3-Mechanics/CLI/tables/spells-scc.md)
+![Spells](/3-Mechanics/CLI/tables/spells-scc.md)
 
 ## Magic Items
 
 This section presents some magic items that are created at Strixhaven. These items, along with a few from the "Dungeon Master's Guide" (*DMG*), can be purchased on campus using the prices in the Magic Items for Sale table.
 
-![Magic Items for Sale](3-Mechanics/CLI/tables/magic-items-for-sale-scc.md)
+![Magic Items for Sale](/3-Mechanics/CLI/tables/magic-items-for-sale-scc.md)
