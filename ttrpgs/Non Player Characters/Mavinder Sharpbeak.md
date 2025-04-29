@@ -17,7 +17,7 @@ Mavinder Sharpbeak
 
 > [!infobox]
 > # `=this.file.name`
-> ![[MavindaSharpbeak.WEBP|cover hsmall]]
+> ![[MavindaSharpbeak.WEBP|map]]
 > [[MavindaSharpbeak.WEBP|Show To Players]]
 > ###### Basic Information
 > Type |  Stat |

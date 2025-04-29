@@ -1,14 +1,17 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+  - json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/scc
-- ttrpg-cli/monster/cr/9
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/humanoid/bullywug
-- ttrpg-cli/monster/type/humanoid/warlock
+  - ttrpg-cli/compendium/src/5e/scc
+  - ttrpg-cli/monster/cr/9
+  - ttrpg-cli/monster/size/medium
+  - ttrpg-cli/monster/type/humanoid/bullywug
+  - ttrpg-cli/monster/type/humanoid/warlock
 statblock: inline
-aliases: ["Murgaxor"]
+aliases:
+  - Murgaxor
+NoteIcon: npc
 ---
 # [Murgaxor](3-Mechanics\CLI\bestiary\npc/murgaxor-scc.md)
 *Source: Strixhaven: A Curriculum of Chaos p. 180*  
@@ -19,7 +22,7 @@ After giving the characters their quest, Professor Lang hands them a file with i
 - A mean-spirited, egotistical spellcaster, Murgaxor was censured repeatedly for disregarding safety protocols, hexing and cursing peers, and using harmful magic while on campus.  
 - University officials believe Murgaxor began his illicit experiments with life-draining magic shortly after he enrolled as a student.  
 - In his third year, Murgaxor was expelled for using life-draining magic when it resulted in another student's death. Murgaxor fled before he could be handed over to authorities.  
-- For a few years after his expulsion, Murgaxor was reportedly sighted around the outskirts of campus, specifically in Sedgemoor and the Detention Bog. Authorities believed something about those locations enhanced his magic, but he was never caught. Sightings soon stopped, and no further evidence of Murgaxor's presence was found. Offcials assumed he was dead and struck Murgaxor from Strixhaven's records, as they considered him a blot on the university's reputation.  
+- For a few years after his expulsion, Murgaxor was reportedly sighted around the outskirts of campus, specifically in Sedgemoor and the Detention Bog. Authorities believed something about those locations enhanced his magic, but he was never caught. Sightings soon stopped, and no further evidence of Murgaxor's presence was found. Officials assumed he was dead and struck Murgaxor from Strixhaven's records, as they considered him a blot on the university's reputation.  
 
 ```statblock
 "name": "Murgaxor (SCC)"

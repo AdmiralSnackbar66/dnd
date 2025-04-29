@@ -4,21 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "ea787fff464db0f8",
+        "id": "2d33cbc37dfc12e4",
         "type": "tabs",
         "children": [
           {
-            "id": "d20e51a161d5e978",
+            "id": "1414a9749bbf311a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "ttrpgs/ttrpgs.md",
-                "mode": "preview",
-                "source": false
+                "file": "ttrpgs/Campaigns/Strixhaven/Untitled Kanban.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": []
+                }
               },
-              "icon": "lucide-file",
-              "title": "ttrpgs"
+              "icon": "lucide-trello",
+              "title": "Untitled Kanban"
             }
           }
         ]
@@ -113,7 +115,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "ttrpgs/ttrpgs.md",
+            "file": "ttrpgs/Campaigns/Strixhaven/Untitled Kanban.md",
             "collapseAll": true,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -124,6 +126,16 @@
           },
           "icon": "links-coming-in",
           "title": "Backlinks"
+        }
+      },
+      {
+        "id": "f055062d53bf0a8c",
+        "type": "leaf",
+        "state": {
+          "type": "MAIN_VIEW",
+          "state": {},
+          "icon": "srt-ribbon",
+          "title": "Solo RPG Toolkit"
         }
       }
     ],
@@ -154,54 +166,54 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "d20e51a161d5e978",
+  "active": "1414a9749bbf311a",
   "lastOpenFiles": [
-    "ttrpgs/Campaigns/Strixhaven/Sessions/001_20250511.md",
-    "ttrpgs/Campaigns/Strixhaven/Sessions/Scripts/3. Register for Classes.md",
-    "ttrpgs/Campaigns/Strixhaven/Sessions/Scripts/4. Job Fair & Extra Curricular activities.md",
     "ttrpgs/Campaigns/Strixhaven/Strixhaven.md",
-    "3-Mechanics/CLI/books/strixhaven-a-curriculum-of-chaos/09-friends-and-foes.md",
-    "3-Mechanics/CLI/bestiary/monstrosity/stirge-xmm.md",
-    "3-Mechanics/CLI/adventures/strixhaven-campus-kerfuffle/1-campus-kerfuffle.md",
-    "3-Mechanics/CLI/books/strixhaven-a-curriculum-of-chaos/Untitled.md",
-    "3-Mechanics/CLI/books/strixhaven-a-curriculum-of-chaos/10-campus-map.md",
-    "3-Mechanics/CLI/books/taldorei-campaign-setting-reborn/06-chapter-5-game-masters-toolkit.md",
-    "3-Mechanics/CLI/books/taldorei-campaign-setting-reborn/02-chapter-1-welcome-to-taldorei.md",
-    "3-Mechanics/CLI/books/taldorei-campaign-setting-reborn/01-taldorei-campaign-setting-reborn.md",
-    "3-Mechanics/CLI/books/strixhaven-a-curriculum-of-chaos/04-school-is-in-session.md",
-    "3-Mechanics/CLI/tables/student-npc-stat-blocks-scc.md",
-    "3-Mechanics/CLI/books/strixhaven-a-curriculum-of-chaos/03-character-options.md",
-    "3-Mechanics/CLI/books/strixhaven-a-curriculum-of-chaos/02-life-at-strixhaven.md",
-    "3-Mechanics/CLI/books/strixhaven-a-curriculum-of-chaos/01-welcome-to-strixhaven.md",
-    "3-Mechanics/CLI/bestiary/npc/velomachus-lorehold-scc.md",
-    "3-Mechanics/CLI/books/strixhaven-a-curriculum-of-chaos/05-campus-kerfuffle.md",
-    "3-Mechanics/CLI/books/strixhaven-a-curriculum-of-chaos/06-hunt-for-mage-tower.md",
-    "3-Mechanics/CLI/bestiary/bestiary.md",
-    "ttrpgs/Campaigns/Strixhaven/Sessions/Scripts/5. That Trunk Has Teeth!.md",
-    "ttrpgs/Campaigns/Strixhaven/Sessions/Scripts/6. Frogs The Word.md",
+    "ttrpgs/Campaigns/Strixhaven/Untitled Kanban.md",
+    "ttrpgs/Non Player Characters/Mavinder Sharpbeak.md",
     "ttrpgs/Campaigns/Strixhaven/Additional Rules/Extracurriculars and Jobs.md",
     "ttrpgs/Campaigns/Strixhaven/Locations/Firejolt Café.md",
-    "ttrpgs/Campaigns/Strixhaven/Additional Rules/Courses.md",
-    "z_Assets/EllinaTanglewood.webp",
-    "z_Assets/MavindaSharpbeak.WEBP",
-    "z_Assets/Borun Erutan.pdf",
-    "z_Assets/Zolon Orielson.pdf",
-    "z_Assets/Dalaila.pdf",
-    "z_Assets/Roleck Nevari.pdf",
-    "z_Assets/Elvis Parsley.pdf",
-    "ttrpgs/PlayerCharacters/Elvis Parsley.pdf",
-    "z_Assets/Untitled.canvas",
-    "z_Assets/character-sheet 1.pdf",
-    "all-index.json",
-    "3-Mechanics/CLI/races/img/owlin.webp",
-    "3-Mechanics/CLI/races/img/gem-dragonborn.webp",
-    "3-Mechanics/CLI/items/img/agony.webp",
-    "3-Mechanics/CLI/items/img/honorslaststand.webp",
-    "3-Mechanics/CLI/items/img/daggerofdenial.webp",
-    "3-Mechanics/CLI/items/img/graztchar.webp",
-    "3-Mechanics/CLI/items/img/deathwalkersward.webp",
-    "3-Mechanics/CLI/items/img/plateofthedawnmartyr.webp",
-    "3-Mechanics/CLI/books/taldorei-campaign-setting-reborn/img",
-    "3-Mechanics/CLI/books/taldorei-campaign-setting-reborn"
+    "ttrpgs/Campaigns/Strixhaven/Locations/The Biblioplex.md",
+    "ttrpgs/Campaigns/Strixhaven/Sessions/Scripts/6. Frogs The Word.md",
+    "ttrpgs/Campaigns/Strixhaven/Sessions/Scripts/5. That Trunk Has Teeth!.md",
+    "ttrpgs/Campaigns/Strixhaven/Sessions/Scripts/4. Job Fair & Extra Curricular activities.md",
+    "ttrpgs/Campaigns/Strixhaven/Sessions/001_20250429.md",
+    "ttrpgs/Campaigns/Strixhaven/Sessions/001_20250511.md",
+    "ttrpgs/ttrpgs.md",
+    "3-Mechanics/CLI/bestiary/npc/murgaxor-scc.md",
+    "3-Mechanics/CLI/bestiary/legendary-group/murgaxor-scc.md",
+    "ttrpgs/Non Player Characters/Murgaxor Grenshel.md",
+    "3-Mechanics/CLI/adventures/strixhaven-hunt-for-mage-tower/1-hunt-for-mage-tower.md",
+    "3-Mechanics/CLI/books/strixhaven-a-curriculum-of-chaos/06-hunt-for-mage-tower.md",
+    "3-Mechanics/CLI/classes/barbarian-xphb-path-of-the-zealot-xphb.md",
+    "3-Mechanics/CLI/books/xanathars-guide-to-everything/2-character-options.md",
+    "3-Mechanics/CLI/books/xanathars-guide-to-everything/1-introduction.md",
+    "3-Mechanics/CLI/bestiary/bestiary.md",
+    "3-Mechanics/CLI/diseases.md",
+    "3-Mechanics/CLI/items/drow-2-weapon.md",
+    "3-Mechanics/CLI/items/drow-1-armor.md",
+    "3-Mechanics/CLI/items/adamantine-ammunition-xge.md",
+    "3-Mechanics/CLI/items/drow-3-weapon.md",
+    "3-Mechanics/CLI/items/img/unbreakable-arrow.webp",
+    "3-Mechanics/CLI/spells/img/danse-macabre.webp",
+    "3-Mechanics/CLI/spells/img/shadow-blade.webp",
+    "3-Mechanics/CLI/spells/img/control-flames.webp",
+    "3-Mechanics/CLI/spells/img/infernal-calling.webp",
+    "3-Mechanics/CLI/spells/img/whirlwind.webp",
+    "3-Mechanics/CLI/spells/img/storm-sphere.webp",
+    "3-Mechanics/CLI/spells/img/mighty-fortress.webp",
+    "3-Mechanics/CLI/spells/img/erupting-earth.webp",
+    "3-Mechanics/CLI/spells/img/tiny-servant.webp",
+    "3-Mechanics/CLI/books/xanathars-guide-to-everything/img",
+    "3-Mechanics/CLI/books/xanathars-guide-to-everything",
+    "3-Mechanics/CLI/adventures/strixhaven-the-magisters-masquerade/img",
+    "3-Mechanics/CLI/adventures/strixhaven-the-magisters-masquerade",
+    "3-Mechanics/CLI/adventures/strixhaven-a-reckoning-in-ruins/img",
+    "3-Mechanics/CLI/adventures/strixhaven-a-reckoning-in-ruins",
+    "3-Mechanics/CLI/adventures/strixhaven-hunt-for-mage-tower/img",
+    "3-Mechanics/CLI/adventures/strixhaven-hunt-for-mage-tower",
+    "3-Mechanics/CLI/variant-rules/img",
+    "3-Mechanics/CLI/variant-rules",
+    "z_Assets/Untitled.canvas"
   ]
 }
