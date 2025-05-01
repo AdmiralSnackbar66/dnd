@@ -1,11 +1,16 @@
 ---
-alias: <% tp.file.title %>
-tags: Entity/Player-Character, Multiverse/D&D
-cssclass: hcl, table, t-c, readable
-
+aliases:
+  - <% tp.file.title %>
+tags:
+  - Multiverse/D&D
+cssclasses:
+  - hcl
+  - table
+  - t-c
+  - readable
 hp: 
 ac: 
-modifier: 
+modifier:
 ---
 %%
 Creator:: 

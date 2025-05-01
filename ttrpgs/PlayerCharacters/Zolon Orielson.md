@@ -2,6 +2,7 @@
 NoteIcon: player
 tags:
   - player
+  - Entity/Player-Character
 Player: Robbie
 Role: Player
 Class:

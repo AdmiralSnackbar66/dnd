@@ -2,6 +2,7 @@
 NoteIcon: player
 tags:
   - player
+  - Entity/Player-Character
 Player: Matthew
 Role: Player
 Class:
@@ -22,6 +23,7 @@ PlayerKnownLanguages:
 campaign: Strixhaven
 aliases:
   - Borun
+date: 2025-05-01
 ---
 ## DnD Beyond
 ```custom-frames

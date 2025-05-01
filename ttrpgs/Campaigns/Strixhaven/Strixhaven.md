@@ -6,7 +6,7 @@ role: GM
 system: 5e
 type: world
 banner: "![[Strixhaven.png]]"
-banner_y: 0.16
+banner_y: 0
 ---
 # The World of [[Strixhaven]]
 

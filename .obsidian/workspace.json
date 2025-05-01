@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "a4f01e171f57f3d2",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "b6671476289c6a09",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ttrpgs/Campaigns/Strixhaven/Sessions/Scripts/Register for Classes.md",
-                "mode": "source",
+                "file": "ttrpgs/ttrpgs.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Register for Classes"
+              "title": "ttrpgs"
+            }
+          },
+          {
+            "id": "fc276e5f0e2fef78",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 3.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 3"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -46,61 +61,6 @@
               "icon": "lucide-folder-closed",
               "title": "Files"
             }
-          },
-          {
-            "id": "6da38734e1b60552",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
-            }
-          },
-          {
-            "id": "2e6355ae312b2c82",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-DM Toolkit/DnD5e-SideScreen-2014.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "DnD5e-SideScreen-2014"
-            }
-          },
-          {
-            "id": "f6ef017cc52d2e49",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-DM Toolkit/DM Board.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "DM Board"
-            }
-          },
-          {
-            "id": "37f2fa0c3329198b",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-search",
-              "title": "Search"
-            }
           }
         ]
       }
@@ -111,132 +71,7 @@
   "right": {
     "id": "4376769ea3073bd6",
     "type": "split",
-    "children": [
-      {
-        "id": "a8bf1496067ea875",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "56f23b48ce3cf190",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
-            }
-          },
-          {
-            "id": "119d8bfbf27db587",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "All properties"
-            }
-          },
-          {
-            "id": "bb5dcbb20a9a19e3",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "z_templates/TemplateNPC_Wizard.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of TemplateNPC_Wizard"
-            }
-          },
-          {
-            "id": "8ffe34bd87d7bf1a",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "cc68b9a27ffbd8dc",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-view",
-              "state": {},
-              "icon": "initiative-tracker",
-              "title": "Initiative Tracker"
-            }
-          },
-          {
-            "id": "884e0c789e8392f6",
-            "type": "leaf",
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {},
-              "icon": "dices",
-              "title": "Dice Tray"
-            }
-          },
-          {
-            "id": "0e28a10b5ce11ffd",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "1-DM Toolkit/DnD5e-DM Screen-2014.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for DnD5e-DM Screen-2014"
-            }
-          },
-          {
-            "id": "b7784debe6146597",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "1-DM Toolkit/DnD5e-DM Screen-2014.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from DnD5e-DM Screen-2014"
-            }
-          },
-          {
-            "id": "35c25dc94c9be1f1",
-            "type": "leaf",
-            "state": {
-              "type": "rpg-manager-options",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          }
-        ],
-        "currentTab": 2
-      }
-    ],
+    "children": [],
     "direction": "horizontal",
     "width": 435.5,
     "collapsed": true
@@ -265,15 +100,25 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "fc276e5f0e2fef78",
   "lastOpenFiles": [
+    "Untitled 3.md",
+    "ttrpgs/ttrpgs.md",
+    "ttrpgs/Campaigns/Strixhaven/Sessions/001_20250511.md",
+    "ttrpgs/Campaigns/Strixhaven/Strixhaven.md",
+    "ttrpgs/PlayerCharacters/Untitled Kanban.md",
+    "ttrpgs/PlayerCharacters/Borun Erutan.md",
+    "ttrpgs/PlayerCharacters/Zolon Orielson.md",
+    "ttrpgs/PlayerCharacters/Roleck Nevari.md",
+    "ttrpgs/PlayerCharacters/Elvis Parsley.md",
+    "ttrpgs/PlayerCharacters/Dalaila.md",
+    "1-DM Toolkit/DnD5e-SideScreen-2014.md",
+    "z_templates/PlayerCharacter.md",
     "3-Mechanics/CLI/adventures/strixhaven-campus-kerfuffle/1-campus-kerfuffle.md",
     "ttrpgs/Campaigns/Strixhaven/Sessions/Scripts/Register for Classes.md",
     "ttrpgs/Campaigns/Strixhaven/Additional Rules/Courses.md",
     "3-Mechanics/CLI/books/strixhaven-a-curriculum-of-chaos/05-campus-kerfuffle.md",
     "ttrpgs/Campaigns/Strixhaven/Sessions/001_20250404.md",
-    "ttrpgs/Campaigns/Strixhaven/Strixhaven.md",
-    "ttrpgs/ttrpgs.md",
     "3-Mechanics/CLI/bestiary/fiend/jackalwere-xmm.md",
     "3-Mechanics/CLI/adventures/candlekeep-mysteries/04-mazfroths-mighty-digressions.md",
     "3-Mechanics/CLI/adventures/candlekeep-mysteries/02-candlekeep.md",
@@ -284,15 +129,6 @@
     "3-Mechanics/CLI/items/watchful-helm-cm.md",
     "3-Mechanics/CLI/items/stonkys-ring-cm.md",
     "3-Mechanics/CLI/items/staff-of-fate-cm.md",
-    "3-Mechanics/CLI/items/serpents-fang-cm.md",
-    "3-Mechanics/CLI/items/serpent-scale-armor-cm.md",
-    "3-Mechanics/CLI/items/radiance-cm.md",
-    "3-Mechanics/CLI/items/orcus-figurine-cm.md",
-    "3-Mechanics/CLI/items/nether-scroll-of-azumar-cm.md",
-    "3-Mechanics/CLI/items/gloves-of-soul-catching-cm.md",
-    "3-Mechanics/CLI/items/cracked-driftglobe-cm.md",
-    "3-Mechanics/CLI/items/alchemy-jug-orange-cm.md",
-    "3-Mechanics/CLI/items/alchemy-jug-blue-cm.md",
     "3-Mechanics/CLI/bestiary/undead/token/storm-giant-skeleton-cm.webp",
     "3-Mechanics/CLI/bestiary/undead/token/parasite-infested-behir-cm.webp",
     "3-Mechanics/CLI/bestiary/undead/token/lichen-lich-cm.webp",
@@ -300,7 +136,6 @@
     "3-Mechanics/CLI/bestiary/undead/token/cloud-giant-ghost-cm.webp",
     "3-Mechanics/CLI/bestiary/undead/img/lichen-lich.webp",
     "3-Mechanics/CLI/bestiary/undead/img/cloud-giant-ghost.webp",
-    "3-Mechanics/CLI/bestiary/undead/storm-giant-skeleton-cm.md",
     "3-Mechanics/CLI/bestiary/npc/token/zikzokrishka-cm.webp",
     "3-Mechanics/CLI/bestiary/npc/token/zikran-cm.webp",
     "3-Mechanics/CLI/adventures/candlekeep-mysteries/img",

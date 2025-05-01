@@ -2,7 +2,7 @@
 NoteIcon: player
 tags:
   - player
-  - session_1
+  - Entity/Player-Character
 Player: Abigail
 Role: Player
 Class:
