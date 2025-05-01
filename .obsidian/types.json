@@ -31,6 +31,7 @@
     "excalidraw-open-md": "checkbox",
     "excalidraw-export-embed-scene": "checkbox",
     "excalidraw-embeddable-theme": "text",
-    "Government": "checkbox"
+    "Government": "checkbox",
+    "Session_Attend": "number"
   }
 }

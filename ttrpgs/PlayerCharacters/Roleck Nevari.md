@@ -2,6 +2,7 @@
 NoteIcon: player
 tags:
   - player
+  - session_1
 Player: Deakin
 Role: Player
 Class:

@@ -168,14 +168,14 @@ The café always serves coffee and tea, which costs 1 cp per cup. The sandwich o
 
 `dice: [](1-campus-kerfuffle.md#^cafe-sandwich-of-the-day)`
 
-| dice: d6 | Sandwich |
-|----------|----------|
-| 1 | Grilled halloumi with morels on wheat |
-| 2 | Toasted cockatrice gizzards on rye |
-| 3 | Open-faced radish chips, deep-fried with dijon |
-| 4 | Crunchy frog legs on toast |
-| 5 | Rainbow carrots and watercress chestnuts on white |
-| 6 | Dragonbreath peppers and salami on a bagel |
+| dice: d6 | Sandwich                                          |
+| -------- | ------------------------------------------------- |
+| 1        | Grilled halloumi with morels on wheat             |
+| 2        | Toasted cockatrice gizzards on rye                |
+| 3        | Open-faced radish chips, deep-fried with dijon    |
+| 4        | Crunchy frog legs on toast                        |
+| 5        | Rainbow carrots and watercress chestnuts on white |
+| 6        | Dragonbreath peppers and salami on a bagel        |
 ^cafe-sandwich-of-the-day
 
 #### B7. Lecture Hall
@@ -212,7 +212,7 @@ The "Orientation Challenge" event later in this chapter starts here.
 
 This crisp-looking room features white walls and columns that stretch from floor to ceiling. Displayed on or within these are art pieces representative of various media. Students from Prismari College typically tend this space, and three [Prismari pledgemages](/3-Mechanics/CLI/bestiary/humanoid/prismari-pledgemage-scc.md) (see "chapter 7") can be found here most days, either cleaning the gallery or studying the techniques used in the displayed pieces. A storage area at the back holds supplies and artwork waiting to go on display.
 
-The Distinguished Society of Fine Artists often meets and holds discussions here. If the characters explore this area before or after orientation, Cadoras Damellawar (chaotic good elf [first-year student](/3-Mechanics/CLI/bestiary/humanoid/first-year-student-scc.md); see the "Fellow Students" section) is here recruiting first-year students to the society.
+The Distinguished Society of Fine Artists often meets and holds discussions here. If the characters explore this area before or after orientation, [[04-school-is-in-session#Cadoras Damellawar|Cadoras Damellawar]] (chaotic good elf [first-year student](/3-Mechanics/CLI/bestiary/humanoid/first-year-student-scc.md); see the "Fellow Students" section) is here recruiting first-year students to the society.
 
 #### B13. Amphitheater
 
@@ -473,7 +473,7 @@ Once the frogs are no longer threats, a successful DC 12 Wisdom ([Perception](/3
 
 ## Magical Physiologies Exam: Slaadi
 
-The characters are enrolled together in the course Magical Physiologies, which is held in a lecture hall in the Biblioplex (one of the areas marked B7 on map 3.1). The course covers the anatomy, abilities, and dispositions of monsters commonly encountered while adventuring. Students read popular accounts related to Aberrations, Monstrosities, and Oozes, as well as studying how best to either avoid a fight with such creatures or battle them and emerge triumphant. The class's professor is Verelda Lang (chaotic neutral [dryad](/3-Mechanics/CLI/bestiary/fey/dryad-xmm.md) professor from Witherbloom College), a respected arcano-biologist who teaches Quandrix College courses in addition to her Witherbloom College and general education offerings.
+The characters are enrolled together in the course Magical Physiologies, which is held in a lecture hall in the Biblioplex (one of the areas marked B7 on map 3.1). The course covers the anatomy, abilities, and dispositions of monsters commonly encountered while adventuring. Students read popular accounts related to Aberrations, Monstrosities, and Oozes, as well as studying how best to either avoid a fight with such creatures or battle them and emerge triumphant. The class's professor is [[02-life-at-strixhaven#Verelda Lang, Arcano-Biologist|Veralda Lang]] (chaotic neutral [dryad](/3-Mechanics/CLI/bestiary/fey/dryad-xmm.md) professor from Witherbloom College), a respected arcano-biologist who teaches Quandrix College courses in addition to her Witherbloom College and general education offerings.
 
 This course's first Exam takes place a short while after the events of the "A Great Frog Race" section and sees students tested on their knowledge of the creatures known as slaadi. The rules for "Exams" can be found earlier in this chapter.
 

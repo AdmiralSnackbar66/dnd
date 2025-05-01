@@ -2,6 +2,7 @@
 NoteIcon: player
 tags:
   - player
+  - session_1
 Player: Abigail
 Role: Player
 Class:

@@ -2,6 +2,7 @@
 NoteIcon: player
 tags:
   - player
+  - session_1
 Player: Eddie
 Role: Player
 Class:
@@ -9,8 +10,8 @@ Class:
 Race:
   - Elf
 level: 1
-hp: 9
-ac: 14
+hp: "9"
+ac: "14"
 modifier: 2
 pasperc: 13
 Status: Active
