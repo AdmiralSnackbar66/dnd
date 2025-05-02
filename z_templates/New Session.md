@@ -1,12 +1,13 @@
 ---
 sessionstatus:
   - planned
-sessiondate: 01/01/2025 
-campaign: 
+sessiondate: <% await tp.system.prompt ("Date") %>
+campaign: <% await tp.system.prompt ("Campaign") %>
 noteicon: journal
 tags:
   - session
 sessionNum: <%tp.user.getThisGameNum%>
+type: session
 ---
 # <%tp.file.title%>
 
@@ -25,13 +26,21 @@ sessionNum: <%tp.user.getThisGameNum%>
 >
 >You might not even write anything down during this step, but reviewing the characters helps wire them into your mind - and ensures that the rest of your preparation fits around them.
 %%
+
+### Player Characters
  ```dataview
 TABLE WITHOUT ID link(file.name) AS "Character Name", Player, Race, Class, ac, pasperc As "Pass Perc (WIS)"
 from "ttrpgs"
 where contains(Role, "Player") 
-where contains(campaign, "<%tp.file.folder(false)%>")
+where contains(campaign, <%tp.frontmatter.campaign%>)
 ```
 
+### Attendance
+```attendance
+date: <%tp.frontmatter.date%>
+title: <%tp.file.title%>
+query: "ttrpgs/PlayerCharacters"
+```
 ## Strong Start
 
 

@@ -24,7 +24,7 @@ campaign: Strixhaven
 aliases:
   - Borun
 date: 2025-05-01
-attendance:
+Session1_Attendance:
 ---
 ## DnD Beyond
 ```custom-frames

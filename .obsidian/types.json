@@ -33,6 +33,7 @@
     "excalidraw-embeddable-theme": "text",
     "Government": "checkbox",
     "Session_Attend": "number",
-    "attendance": "multitext"
+    "attendance": "checkbox",
+    "Session1_Attendance": "checkbox"
   }
 }
