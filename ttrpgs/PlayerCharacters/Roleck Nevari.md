@@ -22,6 +22,7 @@ PlayerKnownLanguages:
 campaign: Strixhaven
 aliases:
   - Roleck
+role_internal:
 ---
 ## DnD Beyond
 ```custom-frames
