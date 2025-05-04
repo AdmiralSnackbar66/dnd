@@ -1,10 +1,12 @@
 ---
+<%* const session_date = await tp.system.prompt ("Session Date (YYYYMMDD):"); 
+const gameNum = tp.user.getThisGameNum(tp); -%>
 type: session
-campaign: <% await tp.system.prompt ("Campaign") %>
+campaign: <% tp.file.folder(false) %>
 world: <% tp.user.getThisWorld(tp) %>
-sessionNum: <% tp.user.getThisGameNum(tp) %>
-location: 
-date: <% await tp.system.prompt ("Date") %>
+sessionNum: <% gameNum %>
+location: <%tp.user.getThisWorld(tp)%>
+date:  <% session_date %>
 fc-category:
   - Sessions
 long_rest: false
@@ -13,12 +15,21 @@ summary: ""
 tags:
   - prep
 art: ""
+NoteIcon: Journal
+status: Planned
 ---
-# [[<% tp.file.title %>]]
+<%* 
+// Generate filename
+const filename = gameNum + '_' + session_date;
+await tp.file.rename(filename);
+%>
+
+# [[<% filename %>]]
+
 
 ## Session Summary
 
-> [!tldr] [[<% tp.file.title %>]]
+> [!tldr] [[<% filename %>]]
 >  ^summary
 
 ---
@@ -46,8 +57,8 @@ where contains(campaign, "<%tp.file.folder(false)%>")
 ```
 ### Attendance
 ```attendance
-date: <% tp.frontmatter.date %>
-title: Session - <%tp.file.title%>
+date: <% session_date %>
+title: Session - <% filename %>
 query: "ttrpgs/PlayerCharacters"
 ```
 ## Strong start
