@@ -1,1 +1,6 @@
+---
+Title: Elvis Parsley
+draft:
+---
+
 ![[Pasted image 20250511205236.webp|229x311]]
