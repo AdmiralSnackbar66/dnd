@@ -45,16 +45,15 @@ Use the First-Year Encounters table for random encounters on campus during this 
 
 **First-Year Encounters**
 
-`dice: [](1-campus-kerfuffle.md#^first-year-encounters)`
+`dice: [[1-campus-kerfuffle^first-year-encounters]]`
 
-| dice: d10 | Encounter |
-|-----------|-----------|
-| 1–4 | 2 [stirges](/3-Mechanics/CLI/bestiary/monstrosity/stirge-xmm.md) and 1 [giant rat](/3-Mechanics/CLI/bestiary/beast/giant-rat-xmm.md), both of which were attracted to a nearby sickly scent and are hostile |
-| 5–6 | 2 suits of [animated armor](/3-Mechanics/CLI/bestiary/construct/animated-armor-xmm.md) that look like dusty, armored wizard robes |
-| 7–8 | 1 [ochre jelly](/3-Mechanics/CLI/bestiary/ooze/ochre-jelly-xmm.md) that has bits of chewed scrolls and shards of potion bottles in its oozy mass |
-| 9–10 | 1 [basilisk](/3-Mechanics/CLI/bestiary/monstrosity/basilisk-xmm.md) wearing a monocle and top hat that has escaped and is aggressive, although a student tried to keep it as a pet |
-^first-year-encounters
-
+| dice: d10              | Encounters                                                                                                                                   |
+| ---------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1-4                    | `encounter: 2:Stirge` and `encounter: 1:Giant Rat`, both of which were attracted to a nearby sickly scent and are hostile                    |
+| 5-6                    | `encounter: 2:Animated Armor` that look like dusty, wizard robes                                                                             |
+| 7-8                    | `encounter: 1: Ochre Jelly` that has bits of chewed scrolls and shards of potion bottles in its oozy mass                                    |
+| 9-10                   | `encounter: 1:Basilisk` wearing a monocle and a top hat that has escaped and is aggressive, although a student has tried to keep it as a per |
+| ^first-year-encounters |                                                                                                                                              |
 ### Student Schedules
 
 Before starting this adventure, have the players choose at least three courses their characters are taking this year, either by coming up with the courses themselves or by rolling on the First-Year Courses table. Inform them that the characters are also enrolled in a required course, Magical Physiologies.

@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4da624a5308bd9d4",
+        "id": "ad15eb57702955e1",
         "type": "tabs",
         "children": [
           {
-            "id": "bbd5cdca29e0ae33",
+            "id": "8d8759937b7cb506",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ttrpgs/Campaigns/Strixhaven/001_20250511.md",
+                "file": "content/dnd/001_20250511_log.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "001_20250511"
+              "title": "001_20250511_log"
             }
           }
         ]
@@ -49,8 +49,8 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "test-no",
-            "matchingCase": false,
+            "query": "potion of healing",
+            "matchingCase": true,
             "explainSearch": false,
             "collapseAll": false,
             "extraContext": false,
@@ -100,8 +100,7 @@
         }
       }
     ],
-    "currentTab": 0,
-    "pinned": true
+    "currentTab": 0
   },
   "right": {
     "id": "b52e9479f5f1490a",
@@ -146,7 +145,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "ttrpgs/Campaigns/Strixhaven/001_20250511.md",
+            "file": "ttrpgs/Campaigns/Strixhaven/Sessions/Scripts/5. That Trunk Has Teeth!.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -184,9 +183,249 @@
           "icon": "life-buoy",
           "title": "HelpMate"
         }
+      },
+      {
+        "id": "736a8354218f6dd6",
+        "type": "leaf",
+        "state": {
+          "type": "initiative-tracker-creature-view",
+          "state": {},
+          "icon": "initiative-tracker-creature-view",
+          "title": "Combatant"
+        }
+      },
+      {
+        "id": "7a12c0601032c821",
+        "type": "leaf",
+        "state": {
+          "type": "initiative-tracker-creature-view",
+          "state": {},
+          "icon": "initiative-tracker-creature-view",
+          "title": "Combatant"
+        }
+      },
+      {
+        "id": "771d4e0e97c3ee15",
+        "type": "leaf",
+        "state": {
+          "type": "initiative-tracker-creature-view",
+          "state": {},
+          "icon": "initiative-tracker-creature-view",
+          "title": "Combatant"
+        }
+      },
+      {
+        "id": "c6015bfc4971ddd9",
+        "type": "leaf",
+        "state": {
+          "type": "initiative-tracker-creature-view",
+          "state": {},
+          "icon": "initiative-tracker-creature-view",
+          "title": "Combatant"
+        }
+      },
+      {
+        "id": "77d18f11e8418ce9",
+        "type": "leaf",
+        "state": {
+          "type": "initiative-tracker-creature-view",
+          "state": {},
+          "icon": "initiative-tracker-creature-view",
+          "title": "Combatant"
+        }
+      },
+      {
+        "id": "73458aa2dbee40af",
+        "type": "leaf",
+        "state": {
+          "type": "initiative-tracker-creature-view",
+          "state": {},
+          "icon": "initiative-tracker-creature-view",
+          "title": "Combatant"
+        }
+      },
+      {
+        "id": "da0fc5416097aeaf",
+        "type": "leaf",
+        "state": {
+          "type": "initiative-tracker-creature-view",
+          "state": {},
+          "icon": "initiative-tracker-creature-view",
+          "title": "Combatant"
+        }
+      },
+      {
+        "id": "b585f1356c977c29",
+        "type": "leaf",
+        "state": {
+          "type": "initiative-tracker-creature-view",
+          "state": {},
+          "icon": "initiative-tracker-creature-view",
+          "title": "Combatant"
+        }
+      },
+      {
+        "id": "427755bdb758e690",
+        "type": "leaf",
+        "state": {
+          "type": "initiative-tracker-creature-view",
+          "state": {},
+          "icon": "initiative-tracker-creature-view",
+          "title": "Combatant"
+        }
+      },
+      {
+        "id": "08368998f577642d",
+        "type": "leaf",
+        "state": {
+          "type": "initiative-tracker-creature-view",
+          "state": {},
+          "icon": "initiative-tracker-creature-view",
+          "title": "Combatant"
+        }
+      },
+      {
+        "id": "e84d95c06d1c199a",
+        "type": "leaf",
+        "state": {
+          "type": "initiative-tracker-creature-view",
+          "state": {},
+          "icon": "initiative-tracker-creature-view",
+          "title": "Combatant"
+        }
+      },
+      {
+        "id": "baf27c700538dc6e",
+        "type": "leaf",
+        "state": {
+          "type": "initiative-tracker-creature-view",
+          "state": {},
+          "icon": "initiative-tracker-creature-view",
+          "title": "Combatant"
+        }
+      },
+      {
+        "id": "ca11d52b1db2d6b5",
+        "type": "leaf",
+        "state": {
+          "type": "initiative-tracker-creature-view",
+          "state": {},
+          "icon": "initiative-tracker-creature-view",
+          "title": "Combatant"
+        }
+      },
+      {
+        "id": "07bd961da26cb2e4",
+        "type": "leaf",
+        "state": {
+          "type": "initiative-tracker-creature-view",
+          "state": {},
+          "icon": "initiative-tracker-creature-view",
+          "title": "Combatant"
+        }
+      },
+      {
+        "id": "5f0ad69f8bfcec43",
+        "type": "leaf",
+        "state": {
+          "type": "initiative-tracker-creature-view",
+          "state": {},
+          "icon": "initiative-tracker-creature-view",
+          "title": "Combatant"
+        }
+      },
+      {
+        "id": "85988c491de08c3e",
+        "type": "leaf",
+        "state": {
+          "type": "initiative-tracker-creature-view",
+          "state": {},
+          "icon": "initiative-tracker-creature-view",
+          "title": "Combatant"
+        }
+      },
+      {
+        "id": "b9e1df4244a78649",
+        "type": "leaf",
+        "state": {
+          "type": "initiative-tracker-creature-view",
+          "state": {},
+          "icon": "initiative-tracker-creature-view",
+          "title": "Combatant"
+        }
+      },
+      {
+        "id": "5f4007262bbfe542",
+        "type": "leaf",
+        "state": {
+          "type": "initiative-tracker-creature-view",
+          "state": {},
+          "icon": "initiative-tracker-creature-view",
+          "title": "Combatant"
+        }
+      },
+      {
+        "id": "24bc3bf256ab750b",
+        "type": "leaf",
+        "state": {
+          "type": "initiative-tracker-creature-view",
+          "state": {},
+          "icon": "initiative-tracker-creature-view",
+          "title": "Combatant"
+        }
+      },
+      {
+        "id": "d0e3e608ad0d6f15",
+        "type": "leaf",
+        "state": {
+          "type": "initiative-tracker-creature-view",
+          "state": {},
+          "icon": "initiative-tracker-creature-view",
+          "title": "Combatant"
+        }
+      },
+      {
+        "id": "778a8f85eaba342c",
+        "type": "leaf",
+        "state": {
+          "type": "initiative-tracker-creature-view",
+          "state": {},
+          "icon": "initiative-tracker-creature-view",
+          "title": "Combatant"
+        }
+      },
+      {
+        "id": "b44a87edf0e4d077",
+        "type": "leaf",
+        "state": {
+          "type": "initiative-tracker-creature-view",
+          "state": {},
+          "icon": "initiative-tracker-creature-view",
+          "title": "Combatant"
+        }
+      },
+      {
+        "id": "9542bb68535f27f6",
+        "type": "leaf",
+        "state": {
+          "type": "initiative-tracker-creature-view",
+          "state": {},
+          "icon": "initiative-tracker-creature-view",
+          "title": "Combatant"
+        }
+      },
+      {
+        "id": "89ba190d8207b3fb",
+        "type": "leaf",
+        "state": {
+          "type": "initiative-tracker-creature-view",
+          "state": {},
+          "icon": "initiative-tracker-creature-view",
+          "title": "Combatant"
+        }
       }
     ],
-    "currentTab": 2
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -213,54 +452,53 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "bbd5cdca29e0ae33",
+  "active": "8d8759937b7cb506",
   "lastOpenFiles": [
-    "3-Mechanics/CLI/bestiary/ooze/ochre-jelly-xmm.md",
-    "ttrpgs/Campaigns/Strixhaven/001_20250511.md",
-    "ttrpgs/Campaigns/Strixhaven/Strixhaven.md",
-    "ttrpgs/Campaigns/Strixhaven/002_20250525.md",
     "ttrpgs/ttrpgs.md",
-    "z_templates/session-gm.md",
-    "z_templates/<% updatedTitle %>.md",
-    "z_templates/<% tp.file.title %>.md",
-    "<% tp.file.path.split(\"/\").pop().replace(\".md\", \"\") %>.md",
+    "content/dnd/001_20250511_log.md",
+    "ttrpgs/Campaigns/Strixhaven/001_20250511.md",
+    "ttrpgs/PlayerCharacters/Dalaila Eversnow.md",
+    "z_Assets/Dalaila.pdf",
+    "ttrpgs/PlayerCharacters/Dalaila.md",
+    "ttrpgs/PlayerCharacters/Omari.md",
+    "ttrpgs/Campaigns/Strixhaven/Strixhaven.md",
+    "ttrpgs/Campaigns/Strixhaven/Sessions/Scripts/5. That Trunk Has Teeth!.md",
+    "ttrpgs/PlayerCharacters/Zolon Orielson.md",
+    "ttrpgs/Campaigns/Strixhaven/Sessions/Scripts/2. Scavenger Hunt.md",
+    "3-Mechanics/CLI/items/potion-of-healing-xdmg.md",
+    "3-Mechanics/CLI/books/strixhaven-a-curriculum-of-chaos/04-school-is-in-session.md",
+    "ttrpgs/Campaigns/Strixhaven/Sessions/Scripts/4. Job Fair & Extra Curricular activities.md",
+    "ttrpgs/PlayerCharacters/Roleck Nevari.md",
+    "ttrpgs/Campaigns/Strixhaven/Additional Rules/Untitled.md",
+    "ttrpgs/PlayerCharacters/Omari Elderon.md",
+    "ttrpgs/PlayerCharacters/Elvis Parsley.md",
+    "ttrpgs/Campaigns/Strixhaven/Sessions/Scripts/3. Register for Classes.md",
+    "ttrpgs/Campaigns/Strixhaven/Additional Rules/Extracurriculars and Jobs.md",
+    "ttrpgs/Campaigns/Strixhaven/Additional Rules/Urzmaktok Grojsh.md",
+    "3-Mechanics/CLI/items/cuddly-strixhaven-mascot-scc.md",
+    "ttrpgs/Items/Strixhaven Pennant.md",
+    "ttrpgs/Campaigns/Strixhaven/Sessions/Scripts/1. Tour of the Biblioplex.md",
+    "ttrpgs/Handouts/Itinerary.md",
+    "ttrpgs/Non Player Characters/Rook.md",
+    "z_Assets/CogworkArchivist.png",
+    "3-Mechanics/CLI/bestiary/construct/token/cogwork-archivist-scc.webp",
+    "z_Assets/MavindaSharpbeak.WEBP",
+    "3-Mechanics/CLI/bestiary/ooze/token/dragonblood-ooze-ftd.webp",
+    "3-Mechanics/CLI/bestiary/ooze/token/black-pudding-xmm.webp",
+    "3-Mechanics/CLI/bestiary/ooze/token/ochre-jelly-xmm.webp",
+    "3-Mechanics/CLI/bestiary/token/empyrean-xmm.webp",
+    "z_Assets/Strixhaven Acceptance Packet.pdf",
+    "z_Assets/SHARED - Strixhaven Acceptance Packet.pdf",
+    "z_Assets/Omar.pdf.pdf",
+    "Tutorials",
     "<% tp.file.path.split(\"",
-    "ttrpgs/Campaigns/Strixhaven/002_20250506.md",
-    "ttrpgs/Campaigns/Strixhaven/002_20250505.md",
-    "ttrpgs/Campaigns/Strixhaven/003_20250504.md",
-    "ttrpgs/Campaigns/Strixhaven/004_20250504.md",
-    "ttrpgs/Campaigns/Strixhaven/005_2025-06-29.md",
-    "ttrpgs/Campaigns/Strixhaven/006_25-06-2025.md",
-    "ttrpgs/Campaigns/Strixhaven/006_20250505.md",
-    "ttrpgs/Campaigns/Strixhaven/007_20250625.md",
-    "ttrpgs/Campaigns/Strixhaven/008_20250504.md",
-    "ttrpgs/Campaigns/Strixhaven/006_20250504.md",
-    "ttrpgs/Campaigns/Strixhaven/005_20250504.md",
-    "ttrpgs/Campaigns/Strixhaven/004_20250505.md",
-    "ttrpgs/Campaigns/Strixhaven/004_20250506.md",
-    "ttrpgs/Campaigns/Strixhaven/004_20250507.md",
-    "ttrpgs/Campaigns/Strixhaven/001_20250504.md",
-    "ttrpgs/Campaigns/Strixhaven/Sessions/001_20250504.md",
     "scripts/getThisGameFilename.js",
     "scripts/getThisGameFilename.js.old",
-    "ttrpgs/Campaigns/Strixhaven/Sessions/Scripts/Scripts.md",
     "scripts/getThisGameFilename.js.orig",
     "scripts/getThisGameFilename.js.txt",
-    "3-Mechanics/CLI/bestiary/construct/token/cogwork-archivist-scc.webp",
     "3-Mechanics/CLI/items/img/unbreakable-arrow.webp",
     "3-Mechanics/CLI/spells/img/danse-macabre.webp",
     "3-Mechanics/CLI/spells/img/shadow-blade.webp",
-    "3-Mechanics/CLI/spells/img/control-flames.webp",
-    "3-Mechanics/CLI/spells/img/infernal-calling.webp",
-    "3-Mechanics/CLI/spells/img/whirlwind.webp",
-    "3-Mechanics/CLI/spells/img/storm-sphere.webp",
-    "3-Mechanics/CLI/spells/img/mighty-fortress.webp",
-    "3-Mechanics/CLI/spells/img/erupting-earth.webp",
-    "3-Mechanics/CLI/books/xanathars-guide-to-everything/img",
-    "3-Mechanics/CLI/books/xanathars-guide-to-everything",
-    "3-Mechanics/CLI/adventures/strixhaven-the-magisters-masquerade/img",
-    "3-Mechanics/CLI/adventures/strixhaven-the-magisters-masquerade",
-    "3-Mechanics/CLI/adventures/strixhaven-a-reckoning-in-ruins/img",
     "z_Assets/Untitled.canvas"
   ]
 }

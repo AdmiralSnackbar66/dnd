@@ -2,30 +2,28 @@
 NoteIcon: player
 tags:
   - player
-  - Entity/Player-Character
-Player: Robbie
+Player: Nathan
 Role: Player
 Class:
-  - Paladin
+  - Wizard
 Race:
-  - Dragonborn
+  - Human
 level: 1
-hp: 7
-ac: "18"
+hp: 9
+ac: 11
 modifier: 2
-pasperc: 12
+pasperc: 13
 Status: Active
 PlayerKnownLanguages:
   - Common
   - Draconic
+  - Elvish
 campaign: Strixhaven
-aliases:
-  - Zolon
 ---
+
 ## DnD Beyond
 ```custom-frames
-frame: Zolon Orielson - DND Beyond
 ```
 
 ## Character Sheet
-![[Zolon Orielson.pdf]]
+![[Omar.pdf.pdf]]
