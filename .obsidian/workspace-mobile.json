@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/dnd/Curriculum of Chaos/Player Characters/Elvis Parsley.md",
+                "file": "content/blog/blog.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Elvis Parsley"
+              "title": "blog"
             }
           }
         ]
@@ -453,15 +453,18 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "ffa37d844ef217a8",
+  "active": "44ffd25d5f269fae",
   "lastOpenFiles": [
+    "content/dnd/Curriculum of Chaos/NPC's",
+    "Untitled",
+    "content/blog/Formatting blogs ....md",
+    "content/blog/blog.md",
+    "content/dnd/Curriculum of Chaos/Player Characters/Elvis Parsley.md",
     "content/dnd/Curriculum of Chaos/Sessions/001_20250511_log.md",
     "content/dnd/Curriculum of Chaos/Sessions/Sessions.md",
     "content/dnd/dnd.md",
     "content/blog/A Disney kind of day.... .md",
-    "content/blog/blog.md",
     "ttrpgs/ttrpgs.md",
-    "content/dnd/Curriculum of Chaos/Player Characters/Elvis Parsley.md",
     "z_Assets/Pasted image 20250511205236.webp",
     "content/dnd/Curriculum of Chaos/Player Characters",
     "ttrpgs/Campaigns/Strixhaven/001_20250511.md",
@@ -482,8 +485,6 @@
     "ttrpgs/PlayerCharacters/Elvis Parsley.md",
     "ttrpgs/Campaigns/Strixhaven/Sessions/Scripts/3. Register for Classes.md",
     "ttrpgs/Campaigns/Strixhaven/Additional Rules/Extracurriculars and Jobs.md",
-    "ttrpgs/Campaigns/Strixhaven/Additional Rules/Urzmaktok Grojsh.md",
-    "3-Mechanics/CLI/items/cuddly-strixhaven-mascot-scc.md",
     "z_Assets/CogworkArchivist.png",
     "3-Mechanics/CLI/bestiary/construct/token/cogwork-archivist-scc.webp",
     "z_Assets/MavindaSharpbeak.WEBP",
@@ -498,7 +499,6 @@
     "<% tp.file.path.split(\"",
     "scripts/getThisGameFilename.js",
     "scripts/getThisGameFilename.js.old",
-    "scripts/getThisGameFilename.js.orig",
     "3-Mechanics/CLI/items/img/unbreakable-arrow.webp",
     "3-Mechanics/CLI/spells/img/danse-macabre.webp",
     "z_Assets/Untitled.canvas"
