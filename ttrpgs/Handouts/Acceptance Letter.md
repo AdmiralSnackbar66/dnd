@@ -1,1 +1,0 @@
-![[Strixhaven Acceptance Packet.pdf]]
