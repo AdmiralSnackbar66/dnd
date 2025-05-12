@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/blog/blog.md",
+                "file": "vault/ttrpgs/ttrpgs.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "blog"
+              "title": "ttrpgs"
             }
           }
         ]
@@ -455,17 +455,24 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "content/blog/A Disney kind of day.... .md",
+    "vault/ttrpgs/PlayerCharacters/Elvis Parsley.md",
     "vault/ttrpgs/ttrpgs.md",
-    "ttrpgs/PlayerCharacters/Elvis Parsley.md",
     "content/dnd/Curriculum of Chaos/Player Characters/Elvis Parsley.md",
-    "content/blog/blog.md",
-    "content/dnd/Curriculum of Chaos/NPC's",
-    "Untitled",
-    "content/blog/Formatting blogs ....md",
-    "content/dnd/Curriculum of Chaos/Sessions/001_20250511_log.md",
+    "z_Assets/Pasted image 20250512201948.jpg",
+    "z_Assets",
     "content/dnd/Curriculum of Chaos/Sessions/Sessions.md",
     "content/dnd/dnd.md",
+    "vault/ttrpgs/Campaigns/Strixhaven/Sessions/001_20250511_log.md",
+    "vault/ttrpgs/Campaigns/Strixhaven/001_20250511.md",
+    "Untitled",
+    "vault/ttrpgs/Campaigns/Strixhaven/Strixhaven.md",
+    "content/index.md",
+    "content/blog/blog.md",
+    "content/blog/A Disney kind of day.... .md",
+    "ttrpgs/PlayerCharacters/Elvis Parsley.md",
+    "content/dnd/Curriculum of Chaos/NPC's",
+    "content/blog/Formatting blogs ....md",
+    "content/dnd/Curriculum of Chaos/Sessions/001_20250511_log.md",
     "ttrpgs/ttrpgs.md",
     "z_Assets/Pasted image 20250511205236.webp",
     "content/dnd/Curriculum of Chaos/Player Characters",
@@ -481,11 +488,6 @@
     "3-Mechanics/CLI/items/potion-of-healing-xdmg.md",
     "3-Mechanics/CLI/books/strixhaven-a-curriculum-of-chaos/04-school-is-in-session.md",
     "ttrpgs/Campaigns/Strixhaven/Sessions/Scripts/4. Job Fair & Extra Curricular activities.md",
-    "ttrpgs/PlayerCharacters/Roleck Nevari.md",
-    "ttrpgs/Campaigns/Strixhaven/Additional Rules/Untitled.md",
-    "ttrpgs/PlayerCharacters/Omari Elderon.md",
-    "ttrpgs/Campaigns/Strixhaven/Sessions/Scripts/3. Register for Classes.md",
-    "ttrpgs/Campaigns/Strixhaven/Additional Rules/Extracurriculars and Jobs.md",
     "z_Assets/CogworkArchivist.png",
     "3-Mechanics/CLI/bestiary/construct/token/cogwork-archivist-scc.webp",
     "z_Assets/MavindaSharpbeak.WEBP",
@@ -498,9 +500,7 @@
     "z_Assets/Omar.pdf.pdf",
     "Tutorials",
     "<% tp.file.path.split(\"",
-    "scripts/getThisGameFilename.js",
     "3-Mechanics/CLI/items/img/unbreakable-arrow.webp",
-    "3-Mechanics/CLI/spells/img/danse-macabre.webp",
     "z_Assets/Untitled.canvas"
   ]
 }

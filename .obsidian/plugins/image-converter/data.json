@@ -13,7 +13,7 @@
       "name": "Same folder as current note"
     }
   ],
-  "selectedFolderPreset": "Default (Obsidian setting)",
+  "selectedFolderPreset": "Same folder as current note",
   "filenamePresets": [
     {
       "name": "Keep original name",
@@ -206,7 +206,7 @@
         "resizeUnits": "pixels"
       }
     ],
-    "selectedResizePreset": "Default (No Resize)"
+    "selectedResizePreset": "Width 500px"
   },
   "resizeCursorLocation": "none",
   "dropPasteCursorLocation": "back",
@@ -229,7 +229,7 @@
     "ffmpegCrf": 23,
     "ffmpegPreset": "medium"
   },
-  "ProcessCurrentNoteconvertTo": "webp",
+  "ProcessCurrentNoteconvertTo": "jpg",
   "ProcessCurrentNotequality": 0.75,
   "ProcessCurrentNoteResizeModalresizeMode": "None",
   "ProcessCurrentNoteresizeModaldesiredWidth": 600,
