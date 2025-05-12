@@ -11,10 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "content/blog/blog.md",
+                "mode": "preview",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "blog"
             }
           }
         ]
@@ -451,6 +455,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "content/blog/A Disney kind of day.... .md",
+    "vault/ttrpgs/ttrpgs.md",
     "ttrpgs/PlayerCharacters/Elvis Parsley.md",
     "content/dnd/Curriculum of Chaos/Player Characters/Elvis Parsley.md",
     "content/blog/blog.md",
@@ -460,7 +466,6 @@
     "content/dnd/Curriculum of Chaos/Sessions/001_20250511_log.md",
     "content/dnd/Curriculum of Chaos/Sessions/Sessions.md",
     "content/dnd/dnd.md",
-    "content/blog/A Disney kind of day.... .md",
     "ttrpgs/ttrpgs.md",
     "z_Assets/Pasted image 20250511205236.webp",
     "content/dnd/Curriculum of Chaos/Player Characters",
